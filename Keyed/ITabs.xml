@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <!-- EN: Bills -->
+  <TabBills>Bills</TabBills>
+  <!-- EN: Growing -->
+  <TabGrowing>Growing</TabGrowing>
+  <!-- EN: Bio -->
+  <TabCharacter>Bio</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>Training</TabTraining>
+  <!-- EN: Prisoner -->
+  <TabPrisoner>Prisoner</TabPrisoner>
+  <!-- EN: Guest -->
+  <TabGuest>Guest</TabGuest>
+  <!-- EN: Gear -->
+  <TabGear>Gear</TabGear>
+  <!-- EN: Needs -->
+  <TabNeeds>Needs</TabNeeds>
+  <!-- EN: Storage -->
+  <TabStorage>Storage</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>Shells</TabShells>
+  <!-- EN: Health -->
+  <TabHealth>Health</TabHealth>
+  <!-- EN: Race -->
+  <TabRace>Race</TabRace>
+  <!-- EN: Basics -->
+  <TabBasics>Basics</TabBasics>
+  <!-- EN: Stats -->
+  <TabStats>Stats</TabStats>
+  <!-- EN: Records -->
+  <TabRecords>Records</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>Art</TabArt>
+  <!-- EN: Social -->
+  <TabSocial>Social</TabSocial>
+  <!-- EN: Log -->
+  <TabLog>Log</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>Caravan</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>Contents</TabTransporterContents>
+
+  <!-- Bills tab  -->
+  <!-- EN: Add bill -->
+  <AddBill>Add bill</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+  <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
+  <MinimumSkill>Min skill</MinimumSkill>
+  <!-- EN: SUSPENDED -->
+  <SuspendedCaps>SUSPENDED</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Worker: {1_labelShort}</BoundWorkerIs>
+  <!-- EN: Plant -->
+  <PlantVerb>Plant</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>Copied bill cannot be pasted here.</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>Move up</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>Move down</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>Delete</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>Copy to the clipboard</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>Suspend</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>Paste</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>can't add more</PasteBillTip_LimitReached>
+
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>Resistance remaining</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
+  <RecruitmentDifficulty>Recruitment difficulty</RecruitmentDifficulty>
+  <!-- EN: Gets food -->
+  <GetsFood>Gets food</GetsFood>
+  <!-- EN: Doctors care -->
+  <DoctorsCare>Doctors care</DoctorsCare>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>Gets medicine</GetsMedicine>
+  <!-- EN: Try to recruit -->
+  <ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>Considered guilty (expires in {0})</ConsideredGuilty>
+
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
+  <MoveSpeed>Move speed</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>Efficiency</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>Part efficiency</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Body part efficiency</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Gone</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Shattered</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Removed</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>Healthy</Healthy>
+  <!-- EN: In pain -->
+  <InPain>In pain</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Pain</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>Injured</Injured>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>no health conditions</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Whole body</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Data processing</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>Communication</Communication>
+  <!-- EN: Affects -->
+  <Affects>Affects</Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>Bleeding</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>death in {0}</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>no immediate danger</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Overview</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Medical operations</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>amputate</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>harvest</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>remove</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>memory</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>Hunger rate</HungerRate>
+  <!-- EN: Tiredness -->
+  <Tiredness>Tiredness</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>Pain</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>Prevents infection</PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>Self-tend</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>{0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency.</SelfTendTip>
+  
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
+  <None>None</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Very poor</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>Poor</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>Weakened</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>OK</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>Enhanced</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Seriously impaired</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>Impaired</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Slightly impaired</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>None</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>Little</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>Medium</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>Severe</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>Extreme</ExtremePain>
+
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>Trainability</Trainability>
+  <!-- EN: Requires trainability {0}. -->
+  <CannotTrainNotSmartEnough>Requires trainability {0}.</CannotTrainNotSmartEnough>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort} is too small to train this.</CannotTrainTooSmall>
+
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>(no relationships)</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>Kidnapped</Kidnapped>
+  <!-- EN: Missing -->
+  <Missing>Missing</Missing>
+  <!-- EN: Slave -->
+  <Slave>Slave</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>Faction leader</FactionLeader>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Opinion of {1_labelShort}</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>{1_labelShort}'s opinion of me</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>I'm dead</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>Overall armor</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>Mass carried: {0} / {1} kg</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>Blunt</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>Sharp</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>Heat</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>Show all</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>Show combat</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>Show social</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>no recent entries</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>Copy log to the clipboard.</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>Gathering animals</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>Gathering animals (waiting)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>Gathering items</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>Gathering items (waiting)</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>Gathering slaves</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>Gathering slaves (waiting)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Gathering downed people</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Gathering downed people (waiting)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>Leaving</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>Leaving (waiting)</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>Waiting</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>Members</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>Animals</CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>Items to load</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>Loaded items</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>pack animals</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>mentally broken</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>Remove {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>Do you really want to remove {0}?</ConfirmRemoveItemDialog>
+
+</LanguageData>
