@@ -7,7 +7,7 @@
   <!-- EN: Allow -->
   <CommandAllow>הרשה</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
-  <CommandForbiddenDesc>Forbidden: התושבים שלך לא מורשים להתעסק עם זה. לחץ כדי לאשר.</CommandForbiddenDesc>
+  <CommandForbiddenDesc>.אסור: התושבים שלך לא מורשים להתעסק עם זה. לחץ כדי לאשרֳ</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
   <CommandNotForbiddenDesc>מורשה: לתושבים שלך מותר להתעסק עם זה. לחץ כדי לאסור</CommandNotForbiddenDesc>
 
