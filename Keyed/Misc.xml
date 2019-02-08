@@ -2,22 +2,22 @@
 <LanguageData>
 
   <!-- EN: Autosaving -->
-  <Autosaving>Autosaving</Autosaving>
+  <Autosaving>שמירה אוטומטית</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
   <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
   <!-- EN: Colony -->
-  <Colony>Colony</Colony>
+  <Colony>יישוב</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>אתה חייב לשנות שפה מהתפריט הראשי</ChangeLanguageFromMainMenu>
   <!-- EN: and -->
-  <AndLower>and</AndLower>
+  <AndLower>ו</AndLower>
   <!-- EN: disabled -->
   <DisabledLower>disabled</DisabledLower>
 
   <!-- EN: Version {0} -->
   <VersionIndicator>Version {0}</VersionIndicator>
   <!-- EN: development build -->
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <DevelopmentBuildLower>גרסת פיתול</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Compiled {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
@@ -25,50 +25,50 @@
 
   <!-- General-use words -->
   <!-- EN: Yes -->
-  <Yes>Yes</Yes>
+  <Yes>כן</Yes>
   <!-- EN: No -->
-  <No>No</No>
+  <No>לא</No>
   <!-- EN: min -->
-  <min>min</min>
+  <min>מינ</min>
   <!-- EN: max -->
-  <max>max</max>
+  <max>מקס</max>
   <!-- EN: chance -->
-  <chance>chance</chance>
+  <chance>סיכוי</chance>
   <!-- EN: context -->
-  <context>context</context>
+  <context>הקשר</context>
   <!-- EN: multiplier -->
-  <multiplier>multiplier</multiplier>
+  <multiplier>מולטיפלייר</multiplier>
   <!-- EN: damage -->
-  <damage>damage</damage>
+  <damage>נזק</damage>
   <!-- EN: radius -->
-  <radius>radius</radius>
+  <radius>רדיוס</radius>
   <!-- EN: duration (days) -->
-  <durationDays>duration (days)</durationDays>
+  <durationDays>משך (ימים)</durationDays>
   <!-- EN: interval (days) -->
   <intervalDays>interval (days)</intervalDays>
   <!-- EN: repeat -->
-  <repeat>repeat</repeat>
+  <repeat>חזור</repeat>
   <!-- EN: default -->
   <default>default</default>
   <!-- EN: distance -->
-  <distance>distance</distance>
+  <distance>מרחק</distance>
   <!-- EN: YES -->
-  <YesUppercase>YES</YesUppercase>
+  <YesUppercase>כן</YesUppercase>
   <!-- EN: NO -->
-  <NoUppercase>NO</NoUppercase>
+  <NoUppercase>לא</NoUppercase>
   <!-- EN: kg -->
-  <kg>kg</kg>
+  <kg>קג</kg>
   <!-- EN: Day -->
-  <Day>Day</Day>
+  <Day>יום</Day>
   <!-- EN: day -->
-  <day>day</day>
+  <day>יום</day>
   <!-- EN: Default -->
   <Default>Default</Default>
   <!-- EN: Average -->
-  <Average>Average</Average>
+  <Average>ממוצע</Average>
 
   <!-- Content generation-->
-  
+
   <!-- EN: {0} meat -->
   <MeatLabel>{0} meat</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
@@ -115,14 +115,14 @@
   <SomeonesRoom>{PAWN_labelShort}'s {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>{PAWN1_labelShort} and {PAWN2_labelShort}'s {2}</CouplesRoom>
-  
+
   <!-- EN: (various) -->
   <VariousLabel>(various)</VariousLabel>
 
   <!-- History events -->
   <!-- EN: Colonist died -->
   <ColonistDied>Colonist died</ColonistDied>
-  
+
   <!-- Rotation -->
   <!-- EN: North -->
   <North>North</North>
@@ -132,5 +132,5 @@
   <West>West</West>
   <!-- EN: East -->
   <East>East</East>
-  
+
 </LanguageData>

@@ -3,59 +3,59 @@
 
   <!-- WITab titles -->
   <!-- EN: Terrain -->
-  <TabTerrain>Terrain</TabTerrain>
+  <TabTerrain>שטח</TabTerrain>
   <!-- EN: Planet -->
-  <TabPlanet>Planet</TabPlanet>
+  <TabPlanet>כוכב</TabPlanet>
   <!-- EN: Social -->
-  <TabCaravanSocial>Social</TabCaravanSocial>
+  <TabCaravanSocial>חברתי</TabCaravanSocial>
   <!-- EN: Health -->
-  <TabCaravanHealth>Health</TabCaravanHealth>
+  <TabCaravanHealth>בריאות</TabCaravanHealth>
   <!-- EN: Needs -->
-  <TabCaravanNeeds>Needs</TabCaravanNeeds>
+  <TabCaravanNeeds>צרכים</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>Gear</TabCaravanGear>
+  <TabCaravanGear>ציודr</TabCaravanGear>
   <!-- EN: Items -->
-  <TabCaravanItems>Items</TabCaravanItems>
-  
+  <TabCaravanItems>אביזרים</TabCaravanItems>
+
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {1_labelShort} -->
   <AbandonSliderText>Abandon {{0}}x {1_labelShort}</AbandonSliderText>
   <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
-  <AbandonTip>Abandon</AbandonTip>
+  <AbandonTip>לנטוש</AbandonTip>
   <!-- EN: Banish -->
-  <BanishTip>Banish</BanishTip>
+  <BanishTip>לגרש</BanishTip>
   <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>Abandon (all)</AbandonAllTip>
+  <AbandonAllTip>גרש (כולם)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>Abandoned items vanish and can never be recovered.</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>אביזרים מגורשים נעלמים ולא יכולים להוחזר</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>{1_labelShort} will most likely die.</BanishTipWillDie>
-  
+
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
-  <CaravanColonists>Colonists</CaravanColonists>
+  <CaravanColonists>מתיישבים</CaravanColonists>
   <!-- EN: Prisoners and animals -->
-  <CaravanPrisonersAndAnimals>Prisoners and animals</CaravanPrisonersAndAnimals>
+  <CaravanPrisonersAndAnimals>אסירים וחיות</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
   <CaravanItems>Inventory</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>Click to open a tab with more details.</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>תלחץ בכדי לפתוח חלון עם עוד מידע</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
-  <CaravanPrisoners>Prisoners</CaravanPrisoners>
+  <CaravanPrisoners>אסירים</CaravanPrisoners>
   <!-- EN: Inventory -->
   <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>None capable</NoneCapable>
+  <NoneCapable>אף אחד אני יכול</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>Caravan not moving</GainingJoyBecauseCaravanNotMoving>
-  
+  <GainingJoyBecauseCaravanNotMoving>קראוון לא נע</GainingJoyBecauseCaravanNotMoving>
+
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>Drag to rearrange.</DragToRearrange>
+  <DragToRearrange>גרור בכדי לסדר מחדש</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
@@ -64,11 +64,11 @@
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
   <BeCarriedIfSickTip>Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down.</BeCarriedIfSickTip>
-  
+
   <!-- Planet -->
   <!-- EN: Seed -->
-  <PlanetSeed>Seed</PlanetSeed>
+  <PlanetSeed>זרע</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>Coverage</PlanetCoverageShort>
+  <PlanetCoverageShort>שטח חיסוי</PlanetCoverageShort>
 
 </LanguageData>

@@ -3,33 +3,33 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>hit points</HitPointsBasic>
+  <HitPointsBasic>נקודות פגיעה</HitPointsBasic>
   <!-- EN: Work left -->
-  <WorkLeft>Work left</WorkLeft>
+  <WorkLeft>עבודה נשארה</WorkLeft>
   <!-- EN: Contents -->
   <Contents>Contents</Contents>
   <!-- EN: Contained resources -->
-  <ContainedResources>Contained resources</ContainedResources>
+  <ContainedResources>משאבים מאוחסנים</ContainedResources>
   <!-- EN: For prisoner use -->
-  <ForPrisonerUse>For prisoner use</ForPrisonerUse>
+  <ForPrisonerUse>לשימוש אסירים</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>In prison cell: For prisoner use</InPrisonCell>
+  <InPrisonCell>בתא כלא: לשימוש אסירים</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>For colonist use</ForColonistUse>
+  <ForColonistUse>לשימוש מתיישבים</ForColonistUse>
   <!-- EN: Medical -->
-  <MedicalBed>Medical</MedicalBed>
+  <MedicalBed>רפואי</MedicalBed>
   <!-- EN: Owner -->
-  <Owner>Owner</Owner>
+  <Owner>בעל</Owner>
   <!-- EN: Owners -->
-  <Owners>Owners</Owners>
+  <Owners>בעלים</Owners>
   <!-- EN: Assigned colonist -->
-  <AssignedColonist>Assigned colonist</AssignedColonist>
+  <AssignedColonist>מתיישבים שעובדים על זה</AssignedColonist>
   <!-- EN: Died on the {0} -->
   <DiedOn>Died on the {0}</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>Nobody</Nobody>
+  <Nobody>אף אחד</Nobody>
   <!-- EN: Unowned -->
-  <Unowned>Unowned</Unowned>
+  <Unowned>חסר בעל</Unowned>
   <!-- EN: Dead for {0} -->
   <DeadTime>Dead for {0}</DeadTime>
   <!-- EN: walk speed {0} -->
@@ -37,61 +37,61 @@
   <!-- EN: fert. -->
   <FertShort>fert.</FertShort>
   <!-- EN: dying -->
-  <DyingLower>dying</DyingLower>
+  <DyingLower>גוסס</DyingLower>
   <!-- EN: Filth on feet: -->
-  <FilthOnFeet>Filth on feet:</FilthOnFeet>
+  <FilthOnFeet>לכלוך על הרגליים:</FilthOnFeet>
   <!-- EN: not enough stored -->
-  <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
+  <NotEnoughStoredLower>לא מספיק מאוכסן</NotEnoughStoredLower>
   <!-- EN: nothing -->
-  <NothingLower>nothing</NothingLower>
+  <NothingLower>כלום</NothingLower>
   <!-- EN: Adapted -->
-  <Adapted>Adapted</Adapted>
+  <Adapted>התרעל</Adapted>
   <!-- EN: fresh -->
   <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
-  <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
+  <DevelopedImmunityLower>פיתח חסינות</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>Needs tending now</NeedsTendingNow>
+  <NeedsTendingNow>דורש טיפול מיידי</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>Can tend now</CanTendNow>
+  <CanTendNow>יכול לטפל עכשיו</CanTendNow>
   <!-- EN: Tending expires in {0} -->
   <TreatmentExpiresIn>Tending expires in {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
   <NextTendIn>Can be tended in {0}</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>Tend quality</TendQuality>
+  <TendQuality>איכות טיפול:</TendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
-  <Immunity>Immunity</Immunity>
+  <Immunity>חסינות</Immunity>
   <!-- EN: Race -->
-  <Race>Race</Race>
+  <Race>גזע</Race>
   <!-- EN: Description -->
-  <Description>Description</Description>
+  <Description>תיאור</Description>
   <!-- EN: Equipment -->
-  <Equipment>Equipment</Equipment>
+  <Equipment>ציוד</Equipment>
   <!-- EN: Apparel -->
-  <Apparel>Apparel</Apparel>
+  <Apparel>מראה</Apparel>
   <!-- EN: Inventory -->
   <Inventory>Inventory</Inventory>
   <!-- EN: Information -->
-  <ThingInfo>Information</ThingInfo>
+  <ThingInfo>מידע</ThingInfo>
   <!-- EN: Drop -->
-  <DropThing>Drop</DropThing>
+  <DropThing>עזוב</DropThing>
   <!-- EN: Rename -->
-  <Rename>Rename</Rename>
+  <Rename>שנה שם</Rename>
   <!-- EN: Rename animal -->
-  <RenameAnimal>Rename animal</RenameAnimal>
+  <RenameAnimal>שנה את שמה של החיה</RenameAnimal>
   <!-- EN: Rename colonist -->
-  <RenameColonist>Rename colonist</RenameColonist>
+  <RenameColonist>שנה את שמו של המתיישב</RenameColonist>
   <!-- EN: unknown -->
-  <UnknownLower>unknown</UnknownLower>
+  <UnknownLower>לא ידוע</UnknownLower>
   <!-- EN: On -->
-  <On>On</On>
+  <On>מודלק</On>
   <!-- EN: Off -->
-  <Off>Off</Off>
+  <Off>כבוי</Off>
   <!-- EN: Power -->
-  <PowerSwitch_Power>Power</PowerSwitch_Power>
+  <PowerSwitch_Power>כוח</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
   <JoyTolerances>Recreation type tolerances</JoyTolerances>
   <!-- EN: Milk fullness -->

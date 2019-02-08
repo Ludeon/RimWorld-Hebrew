@@ -2,15 +2,15 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>none</WorkTagNone>
+  <WorkTagNone>כלום</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>intellectual</WorkTagIntellectual>
+  <WorkTagIntellectual>אינטיליגנטי</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>dumb labor</WorkTagManualDumb>
+  <WorkTagManualDumb>עבודה טיפשית</WorkTagManualDumb>
   <!-- EN: skilled labor -->
   <WorkTagManualSkilled>skilled labor</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>violent</WorkTagViolent>
+  <WorkTagViolent>אלימה</WorkTagViolent>
   <!-- EN: caring -->
   <WorkTagCaring>caring</WorkTagCaring>
   <!-- EN: social -->
