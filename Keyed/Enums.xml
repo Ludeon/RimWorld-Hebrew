@@ -3,288 +3,288 @@
 
   <!-- Glow -->
   <!-- EN: Dark -->
-  <Dark>Dark</Dark>
+  <Dark>חשוך</Dark>
   <!-- EN: Lit -->
-  <Lit>Lit</Lit>
+  <Lit>מואר</Lit>
   <!-- EN: Brightly lit -->
-  <LitBrightly>Brightly lit</LitBrightly>
+  <LitBrightly>מואר היטב</LitBrightly>
 
   <!-- Price types -->
   <!-- EN: very cheap -->
-  <PriceTypeVeryCheap>very cheap</PriceTypeVeryCheap>
+  <PriceTypeVeryCheap>מאוד זול</PriceTypeVeryCheap>
   <!-- EN: cheap -->
-  <PriceTypeCheap>cheap</PriceTypeCheap>
+  <PriceTypeCheap>זול</PriceTypeCheap>
   <!-- EN: normal -->
-  <PriceTypeNormal>normal</PriceTypeNormal>
+  <PriceTypeNormal>נורמלי</PriceTypeNormal>
   <!-- EN: expensive -->
-  <PriceTypeExpensive>expensive</PriceTypeExpensive>
+  <PriceTypeExpensive>יקר</PriceTypeExpensive>
   <!-- EN: exorbitant -->
-  <PriceTypeExorbitant>exorbitant</PriceTypeExorbitant>
+  <PriceTypeExorbitant>מחיר מופקע</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
   <!-- EN: unstored -->
-  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
+  <StoragePriorityUnstored>לא מאוחסן</StoragePriorityUnstored>
   <!-- EN: low -->
-  <StoragePriorityLow>low</StoragePriorityLow>
+  <StoragePriorityLow>נמוך</StoragePriorityLow>
   <!-- EN: normal -->
-  <StoragePriorityNormal>normal</StoragePriorityNormal>
+  <StoragePriorityNormal>נורמלי</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>preferred</StoragePriorityPreferred>
+  <StoragePriorityPreferred>מועדף</StoragePriorityPreferred>
   <!-- EN: important -->
-  <StoragePriorityImportant>important</StoragePriorityImportant>
+  <StoragePriorityImportant>חשוב</StoragePriorityImportant>
   <!-- EN: critical -->
-  <StoragePriorityCritical>critical</StoragePriorityCritical>
+  <StoragePriorityCritical>קריטי</StoragePriorityCritical>
 
   <!-- Food type flags -->
   <!-- EN: vegetables -->
-  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_VegetableOrFruit>ירקות</FoodTypeFlags_VegetableOrFruit>
   <!-- EN: raw meat -->
-  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Meat>בשר נא</FoodTypeFlags_Meat>
   <!-- EN: corpses -->
-  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Corpse>גופות</FoodTypeFlags_Corpse>
   <!-- EN: seeds -->
-  <FoodTypeFlags_Seed>seeds</FoodTypeFlags_Seed>
+  <FoodTypeFlags_Seed>זרעים</FoodTypeFlags_Seed>
   <!-- EN: animal products -->
-  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_AnimalProduct>מוצרי חיות</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
-  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Plant>צמחים חיים</FoodTypeFlags_Plant>
   <!-- EN: live trees -->
-  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Tree>עצים חיים</FoodTypeFlags_Tree>
   <!-- EN: meals -->
-  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Meal>ארוחות</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
-  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Processed>ארוחות מעובדות</FoodTypeFlags_Processed>
   <!-- EN: liquor -->
-  <FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Liquor>ליקר</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
-  <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>אוכל טחון</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <!-- EN: awful -->
-  <QualityCategory_Awful>awful</QualityCategory_Awful>
+  <QualityCategory_Awful>נוראי</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>poor</QualityCategory_Poor>
+  <QualityCategory_Poor>רע</QualityCategory_Poor>
   <!-- EN: normal -->
-  <QualityCategory_Normal>normal</QualityCategory_Normal>
+  <QualityCategory_Normal>נורמלי</QualityCategory_Normal>
   <!-- EN: good -->
-  <QualityCategory_Good>good</QualityCategory_Good>
+  <QualityCategory_Good>טוב</QualityCategory_Good>
   <!-- EN: excellent -->
-  <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
+  <QualityCategory_Excellent>מצויין</QualityCategory_Excellent>
   <!-- EN: masterwork -->
-  <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
+  <QualityCategory_Masterwork>יצירת מופת</QualityCategory_Masterwork>
   <!-- EN: legendary -->
-  <QualityCategory_Legendary>legendary</QualityCategory_Legendary>
+  <QualityCategory_Legendary>אגדי</QualityCategory_Legendary>
   <!-- EN: awfl -->
-  <QualityCategoryShort_Awful>awfl</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>נוראי</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>poor</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>רע</QualityCategoryShort_Poor>
   <!-- EN: norm -->
-  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Normal>נורמלי</QualityCategoryShort_Normal>
   <!-- EN: good -->
-  <QualityCategoryShort_Good>good</QualityCategoryShort_Good>
+  <QualityCategoryShort_Good>טוב</QualityCategoryShort_Good>
   <!-- EN: exc -->
-  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Excellent>מצויין</QualityCategoryShort_Excellent>
   <!-- EN: mast -->
-  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Masterwork>יצירת מופת</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
-  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Legendary>אגדי</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
   <!-- EN: Starving -->
-  <HungerLevel_Starving>Starving</HungerLevel_Starving>
+  <HungerLevel_Starving>רעב</HungerLevel_Starving>
   <!-- EN: Urgently hungry -->
-  <HungerLevel_UrgentlyHungry>Urgently hungry</HungerLevel_UrgentlyHungry>
+  <HungerLevel_UrgentlyHungry>גווע מרעב</HungerLevel_UrgentlyHungry>
   <!-- EN: Hungry -->
-  <HungerLevel_Hungry>Hungry</HungerLevel_Hungry>
+  <HungerLevel_Hungry>רעב</HungerLevel_Hungry>
   <!-- EN: Fed -->
-  <HungerLevel_Fed>Fed</HungerLevel_Fed>
+  <HungerLevel_Fed>הואכל</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <!-- EN: Exhausted -->
-  <HungerLevel_Exhausted>Exhausted</HungerLevel_Exhausted>
+  <HungerLevel_Exhausted>מותש</HungerLevel_Exhausted>
   <!-- EN: Very tired -->
-  <HungerLevel_VeryTired>Very tired</HungerLevel_VeryTired>
+  <HungerLevel_VeryTired>מאוד עייף</HungerLevel_VeryTired>
   <!-- EN: Tired -->
-  <HungerLevel_Tired>Tired</HungerLevel_Tired>
+  <HungerLevel_Tired>עייף</HungerLevel_Tired>
   <!-- EN: Rested -->
-  <HungerLevel_Rested>Rested</HungerLevel_Rested>
+  <HungerLevel_Rested>נח</HungerLevel_Rested>
 
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>flat</Hilliness_Flat>
+  <Hilliness_Flat>שטוח</Hilliness_Flat>
   <!-- EN: small hills -->
-  <Hilliness_SmallHills>small hills</Hilliness_SmallHills>
+  <Hilliness_SmallHills>גבעות קטנות</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>large hills</Hilliness_LargeHills>
+  <Hilliness_LargeHills>גבעות גדולות</Hilliness_LargeHills>
   <!-- EN: mountainous -->
-  <Hilliness_Mountainous>mountainous</Hilliness_Mountainous>
+  <Hilliness_Mountainous>הררי</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>impassable</Hilliness_Impassable>
+  <Hilliness_Impassable>בלתי עביר</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
-  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_CreatingItem>יוצר</WorkshopInteractStage_CreatingItem>
   <!-- EN: Submitting -->
-  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
+  <WorkshopInteractStage_SubmittingItem>שולח</WorkshopInteractStage_SubmittingItem>
   <!-- EN: Invalid -->
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>לא חוקי</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <!-- EN: Preparing config data -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>מארגן מידע של ההגדרות</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <!-- EN: Preparing content files -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>מארגן קבצי תוכן</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <!-- EN: Uploading content -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>מעלה תוכן</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <!-- EN: Uploading preview file -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>העלה קובץ תצוגה מקדימה</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>מבצע  שינוים</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <!-- EN: local folder -->
-  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
+  <ContentSource_LocalFolder>תיקייה מקומית</ContentSource_LocalFolder>
   <!-- EN: Steam Workshop -->
-  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  <ContentSource_SteamWorkshop>סטים וורקשופ</ContentSource_SteamWorkshop>
   
   <!-- Medical care category -->
   <!-- EN: No medical care -->
-  <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>ללא טיפול רפואי</MedicalCareCategory_NoCare>
   <!-- EN: Doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>טיפול רופא אך ללא תרופות</MedicalCareCategory_NoMeds>
   <!-- EN: Herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>תרופה צמחית או יותר נורא</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: Industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>Industrial-tech medicine or worse</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>תרופה תעשייתית או יותר נורא</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
-  <MedicalCareCategory_Best>Best quality medicine</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>התרופה הכי איכותית</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
-  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Ignore>התעלם</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
-  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Attack>תקוף</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
-  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Flee>ברח</HostilityResponseMode_Flee>
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
-  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Growing>גודל</HediffGrowthMode_Growing>
   <!-- EN: stable -->
-  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Stable>יציב</HediffGrowthMode_Stable>
   <!-- EN: remission -->
-  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Remission>הפוגה</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
   <!-- EN: animal -->
-  <TechLevel_Animal>animal</TechLevel_Animal>
+  <TechLevel_Animal>חיה</TechLevel_Animal>
   <!-- EN: neolithic -->
-  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
+  <TechLevel_Neolithic>ניאוליתי</TechLevel_Neolithic>
   <!-- EN: medieval -->
-  <TechLevel_Medieval>medieval</TechLevel_Medieval>
+  <TechLevel_Medieval>ימי ביניים</TechLevel_Medieval>
   <!-- EN: industrial -->
-  <TechLevel_Industrial>industrial</TechLevel_Industrial>
+  <TechLevel_Industrial>תעשייתית</TechLevel_Industrial>
   <!-- EN: spacer -->
-  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Spacer>חוצני</TechLevel_Spacer>
   <!-- EN: ultra -->
-  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <TechLevel_Ultra>אולטרה</TechLevel_Ultra>
   <!-- EN: archotech -->
-  <TechLevel_Archotech>archotech</TechLevel_Archotech>
+  <TechLevel_Archotech>ארקיטקי</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
-  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_Standing>עומד</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
-  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>תרמילי נחיתה</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
-  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
+  <PawnGenerationContext_All>כל הדמויות</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
-  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_PlayerStarter>דמויות התחלתיות של השחקן</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>דמויות לא של השחקן</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
-  <ShowAnimalNames>Show animal names</ShowAnimalNames>
+  <ShowAnimalNames>הראה שמות חיות</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>(רק עם שם)אלף </AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>(הכל)אלף </AnimalNameDisplayMode_TameAll>
   
   <!-- Temperature -->
   <!-- EN: Celsius -->
-  <Celsius>Celsius</Celsius>
+  <Celsius>צלזיוס</Celsius>
   <!-- EN: Fahrenheit -->
-  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <Fahrenheit>פרנהייט</Fahrenheit>
   <!-- EN: Kelvin -->
-  <Kelvin>Kelvin</Kelvin>
+  <Kelvin>קלווין</Kelvin>
   
   <!-- Direction8Way -->
   <!-- EN: N -->
-  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <Direction8Way_North_Short>צפון</Direction8Way_North_Short>
   <!-- EN: NE -->
-  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
+  <Direction8Way_NorthEast_Short>צפון מזרח</Direction8Way_NorthEast_Short>
   <!-- EN: E -->
-  <Direction8Way_East_Short>E</Direction8Way_East_Short>
+  <Direction8Way_East_Short>מזרח</Direction8Way_East_Short>
   <!-- EN: SE -->
-  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
+  <Direction8Way_SouthEast_Short>דרום מזרחי</Direction8Way_SouthEast_Short>
   <!-- EN: S -->
-  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <Direction8Way_South_Short>דרום</Direction8Way_South_Short>
   <!-- EN: SW -->
-  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+  <Direction8Way_SouthWest_Short>דרום מערבי</Direction8Way_SouthWest_Short>
   <!-- EN: W -->
-  <Direction8Way_West_Short>W</Direction8Way_West_Short>
+  <Direction8Way_West_Short>מערב</Direction8Way_West_Short>
   <!-- EN: NW -->
-  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+  <Direction8Way_NorthWest_Short>מערב צפוני</Direction8Way_NorthWest_Short>
   
   <!-- Diet category -->
   <!-- EN: Never eats -->
-  <DietCategory_NeverEats>Never eats</DietCategory_NeverEats>
+  <DietCategory_NeverEats>לעולם לא אוכל</DietCategory_NeverEats>
   <!-- EN: Herbivorous -->
-  <DietCategory_Herbivorous>Herbivorous</DietCategory_Herbivorous>
+  <DietCategory_Herbivorous>הרביבור</DietCategory_Herbivorous>
   <!-- EN: Dendrovorous -->
-  <DietCategory_Dendrovorous>Dendrovorous</DietCategory_Dendrovorous>
+  <DietCategory_Dendrovorous>דנדרובור</DietCategory_Dendrovorous>
   <!-- EN: Ovivorous -->
-  <DietCategory_Ovivorous>Ovivorous</DietCategory_Ovivorous>
+  <DietCategory_Ovivorous>אוביבור</DietCategory_Ovivorous>
   <!-- EN: Omnivorous -->
-  <DietCategory_Omnivorous>Omnivorous</DietCategory_Omnivorous>
+  <DietCategory_Omnivorous>אומניבור</DietCategory_Omnivorous>
   <!-- EN: Carnivorous -->
-  <DietCategory_Carnivorous>Carnivorous</DietCategory_Carnivorous>
+  <DietCategory_Carnivorous>קרניבור</DietCategory_Carnivorous>
   <!-- EN: - -->
   <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
   <!-- EN: H -->
-  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
+  <DietCategory_Herbivorous_Short>הרבי</DietCategory_Herbivorous_Short>
   <!-- EN: D -->
-  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
+  <DietCategory_Dendrovorous_Short>דנדרו</DietCategory_Dendrovorous_Short>
   <!-- EN: Ov -->
-  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
+  <DietCategory_Ovivorous_Short>אובי</DietCategory_Ovivorous_Short>
   <!-- EN: O -->
-  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
+  <DietCategory_Omnivorous_Short>אומני</DietCategory_Omnivorous_Short>
   <!-- EN: C -->
-  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
+  <DietCategory_Carnivorous_Short>קרני</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
-  <FoodPoisonCause_IncompetentCook>incompetent cook</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>שף חסר כשרון</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
-  <FoodPoisonCause_FilthyKitchen>dirty cooking area</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_FilthyKitchen>אזור בישול מלוכלך</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
-  <FoodPoisonCause_Rotten>rotten food</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>אוכל מקולקל</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
-  <FoodPoisonCause_DangerousFoodType>dangerous food type</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>סוג אוכל מקולקל</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
   <!-- EN: none -->
-  <PsychicDroneLevel_None>none</PsychicDroneLevel_None>
+  <PsychicDroneLevel_None>ללא</PsychicDroneLevel_None>
   <!-- EN: medium -->
-  <PsychicDroneLevel_GoodMedium>medium</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_GoodMedium>בינוני</PsychicDroneLevel_GoodMedium>
   <!-- EN: low -->
-  <PsychicDroneLevel_BadLow>low</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadLow>נמוך</PsychicDroneLevel_BadLow>
   <!-- EN: medium -->
-  <PsychicDroneLevel_BadMedium>medium</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadMedium>בינוני</PsychicDroneLevel_BadMedium>
   <!-- EN: high -->
-  <PsychicDroneLevel_BadHigh>high</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadHigh>גבוה</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
-  <PsychicDroneLevel_BadExtreme>extreme</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_BadExtreme>קיצוני</PsychicDroneLevel_BadExtreme>
 
 </LanguageData>
