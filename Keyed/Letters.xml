@@ -11,45 +11,45 @@
 <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>קיץ החל! אך החורף מתקרב. n\n\צמחי המזון שלך לא יגדלו בקור של החורף. תוודא לשמור מספיק אוכל כדי לשרוד. אתה יכול לבנות מקרר כדי למנוע ממזון להתקלקל.n\n\קנה, גנוב, או הכן מעילי פרווה, או שתקפא ברגע שתצא לבחוץ.</FirstSummerWarning>
 <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-<LetterRelationsChange_Hostile>Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again.</LetterRelationsChange_Hostile>
+<LetterRelationsChange_Hostile>יחסים עם {0} נשברו לחלוטין. הם עכשיו אגרסיבים אליך. == הם יבצעו תקיפות כל זמן מה על המושבה והקרוואנים שלך, וידחו הצעות לסחר איתך, אם אתה רוצה לשפר את היחסים, אתה יכול להציע להם מתנות בעזרת קרוואנים או תרמילי תחבורה.== זה קרה בגלל שהמוניטין ({1}) נפל מתחת ל{2}. בכדי להחזיר יחס ניטרלי, מוניטין חייב להגיע ל{3} שוב</LetterRelationsChange_Hostile>
 <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-<LetterRelationsChange_NeutralFromHostile>Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you.</LetterRelationsChange_NeutralFromHostile>
+<LetterRelationsChange_NeutralFromHostile>יחסים עם {0} התחממו. הם עכשיו מחשיבים אותך כניטרלי ולא יתקפו אותך יותר.== זה קרה כי המוניטין ({1}) השתפר בעבר {2}. אם מוניטין יפול שוב מתחת ל{3}. {0} יהפכו לאגרסיבים שוב. אם המוניטין יעלה מעבר ל{4}, הם יהפכו לבני ברית שלך וילחמו עבורך</LetterRelationsChange_NeutralFromHostile>
 <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-<LetterRelationsChange_NeutralFromAlly>Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again.</LetterRelationsChange_NeutralFromAlly>
+<LetterRelationsChange_NeutralFromAlly>יחסים הם {0} התקררו. הם עכשיו מחשיבים אותך כניטרלי מאשר בן ברית.== הם עוד ידברו איתך בשלווה, אבל הם לא ישלחו לוחמים לעזור לך בשעת צרה.== זה קרה מכיוון שמוניטין ({1}) ירד מתחת ל{2}. אם המוניטין יפול מתחת ל{3}, {0} יהפכו לאגרסיבים. אם המוניטין יעלה מעל {4}, הם יהפכו לבני ברית שוב.</LetterRelationsChange_NeutralFromAlly>
 <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
-<LetterRelationsChange_Ally>Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral.</LetterRelationsChange_Ally>
+<LetterRelationsChange_Ally>יחסים עם {0} נעשו ממש טובים. הם עכשיו מגדירים אותך כבן ברית.== בני ברית לפעמים יבואו לעזור להלחם באויבים שלך כשאתה מותקף, אתה גם יכול להתקשר אליהם בכל רגע עבור עזרה, במחיר של מוניטין.== הפכתם לבני ברית בגלל שהמוניטין שלך ({1}) עלה מעבר ל{2}. אם מוניטין יפול מתחת ל{3}, היחסים יחזרו לניטרלים.</LetterRelationsChange_Ally>
 <!-- EN: goodwill -->
-<goodwill>goodwill</goodwill>
+<goodwill>מוניטין</goodwill>
 <!-- EN: Neutral -->
-<Neutral>Neutral</Neutral>
+<Neutral>ניטרלי</Neutral>
 <!-- EN: Death -->
-<Death>Death</Death>
+<Death>מוות</Death>
 <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
-<ShortCircuitRain>A {0} has short-circuited in the rain and started a fire.</ShortCircuitRain>
+<ShortCircuitRain>{0} קיצר בגשם והתחיל שריפה</ShortCircuitRain>
 <!-- EN: Area revealed -->
-<LetterLabelAreaRevealed>Area revealed</LetterLabelAreaRevealed>
+<LetterLabelAreaRevealed>אזור נחשף</LetterLabelAreaRevealed>
 <!-- EN: A new area has been revealed. -->
-<AreaRevealed>A new area has been revealed.</AreaRevealed>
+<AreaRevealed>אזור חדש נחשף.</AreaRevealed>
 <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
-<AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
+<AreaRevealedWithMechanoids>אזור חדש נחשף. הוא מכיל אנדרואידים עתיקים ואגרסיבים</AreaRevealedWithMechanoids>
 <!-- EN: A roof has collapsed because it was too far from any support. -->
-<RoofCollapsed>A roof has collapsed because it was too far from any support.</RoofCollapsed>
+<RoofCollapsed>גג התמוטט בגלל שלא היה קורות תמיכה קרובות אליו</RoofCollapsed>
 <!-- EN: These things were crushed: -->
-<TheseThingsCrushed>These things were crushed:</TheseThingsCrushed>
+<TheseThingsCrushed>הדברים הללו נמחצו :</TheseThingsCrushed>
 <!-- EN: Nothing was crushed. -->
-<NothingCrushed>Nothing was crushed.</NothingCrushed>
+<NothingCrushed>שום דבר לא נמחץ.</NothingCrushed>
 <!-- EN: Roof collapse -->
-<LetterLabelRoofCollapsed>Roof collapse</LetterLabelRoofCollapsed>
+<LetterLabelRoofCollapsed>גג התמוטט</LetterLabelRoofCollapsed>
 <!-- EN: {0} successfully recruited {1} ({2} chance). -->
-<RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
+<RecruitSuccess>{0} גייס בהצלחה את {1} ({2} אחוזים)</RecruitSuccess>
 <!-- EN: {0} failed to recruit {1} ({2} chance). -->
-<RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
+<RecruitFail>{0} נכשל לגייס את {1} ({2} אחוזים).</RecruitFail>
 <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-<RelatedPawnInvolvedInQuest>[PAWN_nameDef] is {0}'s {1}. If [PAWN_nameDef] dies, {0} will suffer from long-lasting grief. However, if you manage to rescue [PAWN_nameDef], {0} will be very happy for a long time.</RelatedPawnInvolvedInQuest>
+<RelatedPawnInvolvedInQuest>יהיה שמח מאוד לזמן ארוך {0},[PAWN_nameDef] מת, {0} יסבול מטווח ארוך של עצבות. אבל, אם תצליח להציל את [PAWN_nameDef] הוא {1} של {0}. אם [PAWN_nameDef]</RelatedPawnInvolvedInQuest>
 <!-- EN: Birthday -->
-<LetterLabelBirthday>Birthday</LetterLabelBirthday>
+<LetterLabelBirthday>יום הולדת</LetterLabelBirthday>
 <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-<BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
+<BirthdayChronological>זה היום הולדת הכרונולוגית של {0} היום! ביולוגית, {1} בן {3} שנים.== כרונולוגית, {1} היום {2}. קחו בחשבון שמכיוון שאנשים לא מזדקנים במהלך קריפטושינה, יום הולדת כרונולוגית שונה מיום הולדת ביולוגית.</BirthdayChronological>
 <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
 <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
 <!-- EN: Disease -->
