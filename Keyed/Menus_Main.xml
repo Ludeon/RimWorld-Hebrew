@@ -1,374 +1,394 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!-- Main menu -->
-<!-- EN: Tutorial -->
-  <Tutorial>מצב הדרכה</Tutorial>
-<!-- EN: New colony -->
-  <NewColony>התיישבות חדשה</NewColony>
-<!-- EN: Back to game -->
-  <BackToGame>בחזרה למשחק</BackToGame>
-<!-- EN: Review scenario -->
-  <ReviewScenario>הצג מקרה</ReviewScenario>
-<!-- EN: Save -->
-  <Save>שמור</Save>
-<!-- EN: Load game -->
-  <LoadGame>טען משחק משמירה</LoadGame>
-<!-- EN: Options -->
-  <Options>הגדרות</Options>
-<!-- EN: Mods -->
-  <Mods>מודים</Mods>
-<!-- EN: Save translation report -->
-  <SaveTranslationReport>שמור את דוח התרגום</SaveTranslationReport>
-<!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>יוצר דוח תרגום</GeneratingTranslationReport>
-<!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>נקה קבצי תרגום</CleanupTranslationFiles>
-<!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>מנקה קבצי תרגום</CleaningTranslationFiles>
-<!-- EN: Credits -->
-  <Credits>תודות</Credits>
-<!-- EN: Quit to main menu -->
-  <QuitToMainMenu>צא לתפריט הראשי</QuitToMainMenu>
-<!-- EN: Save and quit to menu -->
-  <SaveAndQuitToMainMenu>שמור וצא לתפריט הראשי</SaveAndQuitToMainMenu>
-<!-- EN: Quit to OS -->
-  <QuitToOS>צא למערכת הפעלה</QuitToOS>
-<!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>שמור וצא למערכת הפעלה</SaveAndQuitToOS>
-<!-- EN: Fiction primer -->
-<FictionPrimer>Fiction primer</FictionPrimer>
-<!-- EN: Ludeon blog -->
-  <LudeonBlog>הבלוג של לודיאון</LudeonBlog>
-<!-- EN: Forums -->
-  <Forums>פורומים</Forums>
-<!-- EN: Official wiki -->
-  <OfficialWiki>ויקפדיית המשחק</OfficialWiki>
-<!-- EN: Tynan's twitter -->
-  <TynansTwitter>הטוויטר של טינןr</TynansTwitter>
-<!-- EN: Tynan's design book -->
-  <TynansDesignBook>ספר העיצוב של טינן</TynansDesignBook>
-<!-- EN: Help translate RimWorld -->
-  <HelpTranslate>עזור לתרגם את רימוורלד</HelpTranslate>
-<!-- EN: Buy soundtrack -->
-  <BuySoundtrack>קנה את המוזיקה</BuySoundtrack>
-<!-- EN: Create world -->
-  <CreateWorld>צור עולם</CreateWorld>
-<!-- Main menu translations info window -->
-<!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-<TranslationThanks>All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0}</TranslationThanks>
-<!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>גם אתה יכול לתרום! (פותח את הדפדפן)</TranslationHowToContribute>
-<!-- EN: Learn more -->
-  <LearnMore>למד עוד</LearnMore>
-<!-- Main menu dev build -->
-<!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-<DevBuildWarning>Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version.</DevBuildWarning>
-<!-- Create/review world -->
-<!-- EN: Review world -->
-  <ReviewWorld>ראה עולם</ReviewWorld>
-<!-- EN: Generate -->
-  <WorldGenerate>יצר</WorldGenerate>
-<!-- EN: Save and finish -->
-  <WorldSaveAndFinish>שמור וסיים</WorldSaveAndFinish>
-<!-- EN: Reset -->
-  <Reset>אפס</Reset>
-<!-- EN: Globe coverage -->
-  <PlanetCoverage>כיסוי עולמי</PlanetCoverage>
-<!-- EN: Overall rainfall -->
-  <PlanetRainfall>נפילת גשם כללית</PlanetRainfall>
-<!-- EN: Overall temperature -->
-  <PlanetTemperature>טמפרטורה כללית</PlanetTemperature>
-<!-- EN: Low -->
-  <PlanetRainfall_Low>מעט</PlanetRainfall_Low>
-<!-- EN: Normal -->
-  <PlanetRainfall_Normal>רגיל</PlanetRainfall_Normal>
-<!-- EN: High -->
-  <PlanetRainfall_High>הרבה</PlanetRainfall_High>
-<!-- EN: Low -->
-  <PlanetTemperature_Low>נמוכה</PlanetTemperature_Low>
-<!-- EN: Normal -->
-  <PlanetTemperature_Normal>רגילה</PlanetTemperature_Normal>
-<!-- EN: High -->
-  <PlanetTemperature_High>גבוהה</PlanetTemperature_High>
-<!-- EN: Seed -->
-  <WorldSeed>זרע</WorldSeed>
-<!-- EN: Randomize seed -->
-  <RandomizeSeed>צור עולם אקראי חדש</RandomizeSeed>
-<!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>הכוכב תמיד באותו גודל אך מכיוון שרובו לא נחוץ בכדי לשחק אנו לא טוענים את כולו מכיוון שזה יכול לקחת זמן רב. זהו האחוז שאנו נטען</PlanetCoverageTip>
-<!-- EN: Factions -->
-  <WorldFactionsTab>פלגים</WorldFactionsTab>
-<!-- Select world -->
-<!-- EN: Select world -->
-  <SelectWorld>בחר עולם</SelectWorld>
-<!-- EN: Select -->
-  <WorldChooseButton>בחר</WorldChooseButton>
-<!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>לא נמצאו קבצי עולם. צור עולם חדש קודם</NoWorldsFilesFound>
-<!-- Version info -->
-<!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-<BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-<!-- EN: This is the latest version. -->
-  <BuildUpToDate>זוהי הגירסה העדכנית ביותר</BuildUpToDate>
-<!-- EN: Error getting version info: {0} -->
-<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-<!-- EN: Loading version info... -->
-  <LoadingVersionInfo>טוען את המידע על הגירסה...</LoadingVersionInfo>
-<!-- World generator -->
-<!-- EN: Generate world -->
-  <GenerateWorld>צור עולם</GenerateWorld>
-<!-- Mods config -->
-<!-- EN: Open Steam Workshop -->
-<OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-<!-- EN: Get mods from forum -->
-  <GetModsFromForum>קבל מודים מהפורום</GetModsFromForum>
-<!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>פתח את תיקיית הקבצים של המודים</OpenModsDataFolder>
-<!-- EN: Show mods data location -->
-  <ShowModsDataLocation>הראה את מיקום הקבצים של המודים</ShowModsDataLocation>
-<!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-<ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-<!-- EN: Are you sure you want to delete all the content for {0}? -->
-<ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-<!-- EN: Unsubscribe -->
-<Unsubscribe>Unsubscribe</Unsubscribe>
-<!-- EN: Are you sure you want to unsubscribe from {0}? -->
-<ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
-<!-- EN: Author -->
-  <Author>יוצר</Author>
-<!-- EN: Workshop page -->
-<WorkshopPage>Workshop page</WorkshopPage>
-<!-- EN: Upload to Steam Workshop -->
-<UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-<!-- EN: Update on Steam Workshop -->
-<UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-<!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>העלאה כבר מתקיימת</UploadAlreadyInProgress>
-<!-- EN: Workshop submission failed.\n\nReason: {0} -->
-<WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-<!-- EN: Successfully uploaded {0}. -->
-<WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-<!-- EN: Downloading -->
-  <Downloading>מוריד</Downloading>
-<!-- EN: Source -->
-<Source>Source</Source>
-<!-- EN: For version: {0} -->
-<ModTargetVersion>For version: {0}</ModTargetVersion>
-<!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-<ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-<!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-<ModNotMadeForThisVersion_Newer>This mod was made for a newer version of RimWorld than this, and will probably not work correctly.</ModNotMadeForThisVersion_Newer>
-<!-- EN: Mod needs a well-formatted target version in About.xml. Like this: <targetVersion>{0}</targetVersion>. -->
-<MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
-<!-- EN: Drag to reorder -->
-<DragToReorder>Drag to reorder</DragToReorder>
-<!-- Select scenario -->
-<!-- EN: Choose scenario -->
-<ChooseScenario>Choose scenario</ChooseScenario>
-<!-- EN: Custom -->
-<ScenariosCustom>Custom</ScenariosCustom>
-<!-- EN: Steam Workshop -->
-<ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-<!-- EN: Scenario editor -->
-<ScenarioEditor>Scenario editor</ScenarioEditor>
-<!-- EN: Delete -->
-<Delete>Delete</Delete>
-<!-- Scenario editor -->
-<!-- EN: seed -->
-<Seed>seed</Seed>
-<!-- EN: Load -->
-<Load>Load</Load>
-<!-- EN: edit mode -->
-<EditMode>edit mode</EditMode>
-<!-- EN: Summary -->
-<Summary>Summary</Summary>
-<!-- EN: Add part -->
-<AddPart>Add part</AddPart>
-<!-- EN: All text fields must be filled. -->
-<TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-<!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-<ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-<!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-<ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-<!-- EN: Incompatible -->
-<Incompatible>Incompatible</Incompatible>
-<!-- EN: Too many (max {0}):  -->
-<TooMany>Too many (max {0}): </TooMany>
-<!-- EN: Can be updated on Workshop, since you are the author. -->
-<CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
-<!-- Select storyteller -->
-<!-- EN: Choose AI Storyteller -->
-<ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-<!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-<HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
-<!-- EN: Please choose a difficulty setting. -->
-<MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-<!-- EN: Difficulty -->
-<Difficulty>Difficulty</Difficulty>
-<!-- EN: Commitment mode -->
-<CommitmentMode>Commitment mode</CommitmentMode>
-<!-- EN: Reload anytime mode -->
-<ReloadAnytimeMode>Reload anytime mode</ReloadAnytimeMode>
-<!-- EN: Please choose commitment mode or reload anytime mode. -->
-<MustChoosePermadeath>Please choose commitment mode or reload anytime mode.</MustChoosePermadeath>
-<!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-<ReloadAnytimeModeInfo>You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode.</ReloadAnytimeModeInfo>
-<!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-<PermadeathModeInfo>You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic.</PermadeathModeInfo>
-<!-- EN: Storyteller and difficulty can be changed any time. -->
-<CanChangeStorytellerSettingsDuringPlay>Storyteller and difficulty can be changed any time.</CanChangeStorytellerSettingsDuringPlay>
-<!-- EN: Merciless mode -->
-<UnlockExtremeDifficulty>Merciless mode</UnlockExtremeDifficulty>
-<!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-<ConfirmUnlockExtremeDifficulty>Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts.</ConfirmUnlockExtremeDifficulty>
-<!-- Site select -->
-<!-- EN: Select starting site -->
-<SelectStartingSite>Select starting site</SelectStartingSite>
-<!-- EN: Select random site -->
-<SelectRandomSite>Select random site</SelectRandomSite>
-<!-- EN: Select site -->
-<SelectSite>Select site</SelectSite>
-<!-- EN: Please select a site. -->
-<MustSelectStartingSite>Please select a site.</MustSelectStartingSite>
-<!-- EN: You cannot land on this biome: {0} -->
-<CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-<!-- EN: Biome not implemented -->
-<BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-<!-- EN: You cannot land on impassable mountains. -->
-<CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
-<!-- EN: {0} already have a base there. -->
-<BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-<!-- EN: You already have a base there. -->
-<YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
-<!-- EN: This tile is occupied. -->
-<TileOccupied>This tile is occupied.</TileOccupied>
-<!-- EN: Settlements cannot be directly adjacent to each other. -->
-<FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
-<!-- EN: Biome -->
-<Biome>Biome</Biome>
-<!-- EN: Terrain -->
-<Terrain>Terrain</Terrain>
-<!-- EN: Road -->
-<Road>Road</Road>
-<!-- EN: River -->
-<River>River</River>
-<!-- EN: Elevation -->
-<Elevation>Elevation</Elevation>
-<!-- EN: Fertility -->
-<Fertility>Fertility</Fertility>
-<!-- EN: Average temperature -->
-<AvgTemp>Average temperature</AvgTemp>
-<!-- EN: Rainfall -->
-<Rainfall>Rainfall</Rainfall>
-<!-- EN: Special features -->
-<SpecialFeatures>Special features</SpecialFeatures>
-<!-- EN: northern coast -->
-<HasCoast0>northern coast</HasCoast0>
-<!-- EN: eastern coast -->
-<HasCoast1>eastern coast</HasCoast1>
-<!-- EN: southern coast -->
-<HasCoast2>southern coast</HasCoast2>
-<!-- EN: western coast -->
-<HasCoast3>western coast</HasCoast3>
-<!-- EN: caves -->
-<HasCaves>caves</HasCaves>
-<!-- EN: Faction base -->
-<FactionBase>Faction base</FactionBase>
-<!-- EN: Stone types -->
-<StoneTypesHere>Stone types</StoneTypesHere>
-<!-- EN: Time zone -->
-<TimeZone>Time zone</TimeZone>
-<!-- EN: Movement difficulty -->
-<MovementDifficulty>Movement difficulty</MovementDifficulty>
-<!-- EN: Animals can graze now -->
-<AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
-<!-- EN: Average disease frequency -->
-<AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
-<!-- EN: per year -->
-<PerYear>per year</PerYear>
-<!-- EN: Forageability -->
-<Forageability>Forageability</Forageability>
-<!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-<ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
-<!-- Character chooser -->
-<!-- EN: Create characters -->
-<CreateCharacters>Create characters</CreateCharacters>
-<!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-<FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-<!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-<ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-<!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-<LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-<!-- EN: Randomize -->
-<Randomize>Randomize</Randomize>
-<!-- EN: age {0} -->
-<AgeIndicator>age {0}</AgeIndicator>
-<!-- EN: Backstory -->
-<Backstory>Backstory</Backstory>
-<!-- EN: Incapable of -->
-<IncapableOf>Incapable of</IncapableOf>
-<!-- EN: Traits -->
-<Traits>Traits</Traits>
-<!-- EN: Permanent mood effect -->
-<PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
-<!-- EN: Skills -->
-<Skills>Skills</Skills>
-<!-- EN: none -->
-<NoneLower>none</NoneLower>
-<!-- EN: Adulthood -->
-<Adulthood>Adulthood</Adulthood>
-<!-- EN: Childhood -->
-<Childhood>Childhood</Childhood>
-<!-- EN: Current -->
-<Current>Current</Current>
-<!-- EN: male -->
-<Male>male</Male>
-<!-- EN: female -->
-<Female>female</Female>
-<!-- EN: male -->
-<MaleAnimal>male</MaleAnimal>
-<!-- EN: female -->
-<FemaleAnimal>female</FemaleAnimal>
-<!-- EN: Pain -->
-<Pain>Pain</Pain>
-<!-- EN: Health -->
-<Health>Health</Health>
-<!-- EN: Relations -->
-<Relations>Relations</Relations>
-<!-- EN: Team skills -->
-<TeamSkills>Team skills</TeamSkills>
-<!-- EN: Selected -->
-<StartingPawnsSelected>Selected</StartingPawnsSelected>
-<!-- EN: Left behind -->
-<StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
-<!-- Misc -->
-<!-- EN: Start -->
-<Start>Start</Start>
-<!-- EN: Advanced -->
-<Advanced>Advanced</Advanced>
-<!-- EN: Next -->
-<Next>Next</Next>
-<!-- EN: Back -->
-<Back>Back</Back>
-<!-- EN: Gameplay -->
-<Gameplay>Gameplay</Gameplay>
-<!-- EN: Really quit? You'll lose unsaved progress. -->
-<ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
-<!-- EN: Each person needs a valid name. -->
-<EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
-<!-- EN: None of the selected people can do the following jobs -->
-<RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
-<!-- EN: Quit -->
-<Quit>Quit</Quit>
-<!-- EN: Ignore -->
-<Ignore>Ignore</Ignore>
-<!-- Progress bar -->
-<!-- EN: Generating world -->
-<GeneratingWorld>Generating world</GeneratingWorld>
-<!-- EN: Generating planet -->
-<GeneratingPlanet>Generating planet</GeneratingPlanet>
-<!-- EN: Generating map -->
-<GeneratingMap>Generating map</GeneratingMap>
-<!-- EN: Generating map for new encounter -->
-<GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>הכרדה</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>השדח הבשומ</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>קחשמל הרזחב</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>תירקת קודב</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>תורימש</Save>
+  <!-- EN: Load game -->
+  <LoadGame>קחשמ תניעט</LoadGame>
+  <!-- EN: Options -->
+  <Options>תורדגה</Options>
+  <!-- EN: Mods -->
+  <Mods>םידומ</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>םוגרת חוד רומש</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>םוגרת חוד רצי</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <!-- EN: Credits -->
+  <Credits>םיטידרק</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>ישארה טירפתל אצ</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>ישארה טירפתל אצו רומש</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>הלעפהה תכרעמל אצ</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>הלעפהה תכרעמל אצו רומש</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>גולב Ludeon </LudeonBlog>
+  <!-- EN: Forums -->
+  <Forums>םורופ</Forums>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>תימשרה הידפיקיוה</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
+  <TynansTwitter>ןניט לש רטיווטה</TynansTwitter>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>ןניט לש בוציעה רפס</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>דלרוומיר תא םגרתל רוזע</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>לוקספה תא הנק</BuySoundtrack>
+  <!-- EN: Create world -->
+  <CreateWorld>םלוע רוצ</CreateWorld>
+
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>.םיאבה םיבדנתמה ידי לע רצונ הזה םוגרתה .םינקחשה ידי לע ורצונ דלרוומיר לש םימוגרתה לכ</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>ןפדפדה תא חתופ) דוע דומלל ליבשב הטמל ץחלת .םג רוזעל לוכי התא)</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>דוע דמל</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>TODO</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>םלוע ןחב</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>רוצ</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>םייסו רומש</WorldSaveAndFinish>
+  <!-- EN: Reset -->
+  <Reset>סופיא</Reset>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>םלוע יוסיכ</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>יללכ רטמ</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>תיללכ הרוטרפמט</PlanetTemperature>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>ךומנ</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>ילמרונ</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>הובג</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>ךומנ</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>ילמרונ</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>הובג</PlanetTemperature_High>
+  <!-- EN: Seed -->
+  <WorldSeed>ערז</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>ילמודנר ערז</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>רצייל הצור התאש חטשה לש זוחאה הז .ןמז אלמ תחקל לוכי הז יכ חטשה לכ תא םירצימ אל ונחנא  ,קחשל ךירצש הממ לודג רתוי הברה אוהש ןוויכמ ךא רטוק ותואב היהי דימת םלועה.</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>םיגלפ</WorldFactionsTab>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>םלוע רחב</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>רחב</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>םדוק םלוע רצי .םלוע יצבק ואצמנ אל.</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>This is the latest version.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>Generate world</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>Get mods from forum</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>Show mods data location</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
+  <Author>Author</Author>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>Workshop page</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>Downloading</Downloading>
+  <!-- EN: Source -->
+  <Source>Source</Source>
+  <!-- EN: For version(s): {0} -->
+  <ModTargetVersion>For version: {0}</ModTargetVersion>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion>{0}&lt;/targetVersion>.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>Drag to reorder</DragToReorder>
+  
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>Choose scenario</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>Custom</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>Scenario editor</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>Delete</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>seed</Seed>
+  <!-- EN: Load -->
+  <Load>Load</Load>
+  <!-- EN: edit mode -->
+  <EditMode>edit mode</EditMode>
+  <!-- EN: Summary -->
+  <Summary>Summary</Summary>
+  <!-- EN: Add part -->
+  <AddPart>Add part</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>Incompatible</Incompatible>
+  <!-- EN: Too many (max {0}):  -->
+  <TooMany>Too many (max {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>Difficulty</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>TODO</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>TODO</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>TODO</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
+  <!-- EN: Storyteller and difficulty can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>TODO</CanChangeStorytellerSettingsDuringPlay>
+  <!-- EN: Merciless mode -->
+  <UnlockExtremeDifficulty>TODO</UnlockExtremeDifficulty>
+  <!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
+  <ConfirmUnlockExtremeDifficulty>TODO</ConfirmUnlockExtremeDifficulty>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>TODO</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>Select random site</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>Select site</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>TODO</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>This tile is occupied.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>Biome</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>Terrain</Terrain>
+  <!-- EN: Road -->
+  <Road>Road</Road>
+  <!-- EN: River -->
+  <River>River</River>
+  <!-- EN: Elevation -->
+  <Elevation>Elevation</Elevation>
+  <!-- EN: Fertility -->
+  <Fertility>Fertility</Fertility>
+  <!-- EN: Average temperature -->
+  <AvgTemp>Average temperature</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>Rainfall</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>Special features</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>northern coast</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>eastern coast</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>southern coast</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>western coast</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>caves</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>Faction base</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>Stone types</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>Time zone</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>Movement difficulty</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>per year</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>Forageability</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue?</ConfirmRequiredWorkTypeDisabledForEveryone>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>Create characters</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>Randomize</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>age {0}</AgeIndicator>
+  <!-- EN: Backstory -->
+  <Backstory>Backstory</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>Incapable of</IncapableOf>
+  <!-- EN: Traits -->
+  <Traits>Traits</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>Skills</Skills>
+  <!-- EN: none -->
+  <NoneLower>none</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>Adulthood</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>Childhood</Childhood>
+  <!-- EN: Current -->
+  <Current>Current</Current>
+  <!-- EN: male -->
+  <Male>male</Male>
+  <!-- EN: female -->
+  <Female>female</Female>
+  <!-- EN: male -->
+  <MaleAnimal>TODO</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>TODO</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>Pain</Pain>
+  <!-- EN: Health -->
+  <Health>Health</Health>
+  <!-- EN: Relations -->
+  <Relations>Relations</Relations>
+  <!-- EN: Team skills -->
+  <TeamSkills>Team skills</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>Selected</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>Start</Start>
+  <!-- EN: Advanced -->
+  <Advanced>Advanced</Advanced>
+  <!-- EN: Next -->
+  <Next>Next</Next>
+  <!-- EN: Back -->
+  <Back>Back</Back>
+  <!-- EN: Gameplay -->
+  <Gameplay>Gameplay</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>None of the selected people can do the following jobs</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>Quit</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>Ignore</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>Generating world</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>Generating planet</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>Generating map</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+
+  <!-- UNUSED -->
+  <SelectLandingSite>Select landing site</SelectLandingSite>
+  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
+
 </LanguageData>

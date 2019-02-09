@@ -2,36 +2,36 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>כלום</WorkTagNone>
+  <WorkTagNone>םלוכ</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>אינטיליגנטי</WorkTagIntellectual>
+  <WorkTagIntellectual>ילאוטקלטניא</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>עבודה טיפשית</WorkTagManualDumb>
+  <WorkTagManualDumb>הלק הדובע</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>skilled labor</WorkTagManualSkilled>
+  <WorkTagManualSkilled>תינורשכ הדובע</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>אלימה</WorkTagViolent>
+  <WorkTagViolent>םליא</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>caring</WorkTagCaring>
+  <WorkTagCaring>תויתפכא</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>social</WorkTagSocial>
+  <WorkTagSocial>יאליצוס</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>animals</WorkTagAnimals>
+  <WorkTagAnimals>תויח</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>artistic</WorkTagArtistic>
+  <WorkTagArtistic>יטסיטרא</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>crafting</WorkTagCrafting>
+  <WorkTagCrafting>הריצי</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>cooking</WorkTagCooking>
+  <WorkTagCooking>לושיב</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>firefighting</WorkTagFirefighting>
+  <WorkTagFirefighting>שאב המיחל</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>cleaning</WorkTagCleaning>
+  <WorkTagCleaning>ןויקינ</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>hauling</WorkTagHauling>
+  <WorkTagHauling>הביחס</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>plant work</WorkTagPlantWork>
+  <WorkTagPlantWork>םיחמצב הדובע</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>mining</WorkTagMining>
+  <WorkTagMining>הריפח</WorkTagMining>
 
 </LanguageData>

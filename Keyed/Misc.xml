@@ -2,109 +2,111 @@
 <LanguageData>
 
   <!-- EN: Autosaving -->
-  <Autosaving>שמירה אוטומטית</Autosaving>
+  <Autosaving>תיטמוטוא רמוש</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
+  <GameStartDialog>.דורשל ךיאל עגונב תוינכ;ות תושעל םיליחתמ םתא םכביבסמ תולפונ תיללח לש תוכיתחש ןמזב ,הזה רכומ אלה םלועה לע םיתחונ םתא ןכמ רחאל המ ןמז .םירזגל תערקנ תיללחהש ינפל החירבה ידופל עיגהל םיחילצמ ישוקב םתא תשלתנ תכתמו תונריס לש תולוקל הנישוטפירק ןוראב םיררועתמ םכתשולש</GameStartDialog>
   <!-- EN: Colony -->
-  <Colony>יישוב</Colony>
+  <Colony>הבשות</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
-  <ChangeLanguageFromMainMenu>אתה חייב לשנות שפה מהתפריט הראשי</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>.ישארה טירפתה לש תורדגהה ךסממ קר הפש תונשל לוכי התא</ChangeLanguageFromMainMenu>
   <!-- EN: and -->
   <AndLower>ו</AndLower>
   <!-- EN: disabled -->
-  <DisabledLower>disabled</DisabledLower>
+  <DisabledLower>לטובמ</DisabledLower>
 
   <!-- EN: Version {0} -->
-  <VersionIndicator>Version {0}</VersionIndicator>
+  <VersionIndicator>{0} הסרג</VersionIndicator>
   <!-- EN: development build -->
-  <DevelopmentBuildLower>גרסת פיתול</DevelopmentBuildLower>
+  <DevelopmentBuildLower>חותיפ תסרג</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Compiled {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
-  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  <LoggedIntoSteamAs>{0} כ םיטסל רבוחמ</LoggedIntoSteamAs>
 
   <!-- General-use words -->
   <!-- EN: Yes -->
-  <Yes>כן</Yes>
+  <Yes>ןכ</Yes>
   <!-- EN: No -->
-  <No>לא</No>
+  <No>אל</No>
   <!-- EN: min -->
-  <min>מינ</min>
+  <min>םומינימ</min>
   <!-- EN: max -->
-  <max>מקס</max>
+  <max>םומיסקמ</max>
   <!-- EN: chance -->
-  <chance>סיכוי</chance>
+  <chance>יוכיס</chance>
   <!-- EN: context -->
-  <context>הקשר</context>
+  <context>רשקה</context>
   <!-- EN: multiplier -->
-  <multiplier>מולטיפלייר</multiplier>
+  <multiplier>ליפכמ</multiplier>
   <!-- EN: damage -->
-  <damage>נזק</damage>
+  <damage>קזנ</damage>
   <!-- EN: radius -->
-  <radius>רדיוס</radius>
+  <radius>סוידר</radius>
   <!-- EN: duration (days) -->
-  <durationDays>משך (ימים)</durationDays>
+  <durationDays>(םימי) ןמז ךשמ</durationDays>
   <!-- EN: interval (days) -->
-  <intervalDays>interval (days)</intervalDays>
+  <intervalDays>(םימי) ןמז קרפ</intervalDays>
   <!-- EN: repeat -->
-  <repeat>חזור</repeat>
+  <repeat>תינש רוזח</repeat>
   <!-- EN: default -->
-  <default>default</default>
+  <default>לדחמ תרירב</default>
   <!-- EN: distance -->
-  <distance>מרחק</distance>
+  <distance>קחרמ</distance>
   <!-- EN: YES -->
-  <YesUppercase>כן</YesUppercase>
+  <YesUppercase>ןכ</YesUppercase>
   <!-- EN: NO -->
-  <NoUppercase>לא</NoUppercase>
+  <NoUppercase>אל</NoUppercase>
   <!-- EN: kg -->
-  <kg>קג</kg>
+  <kg>םרגוליק</kg>
   <!-- EN: Day -->
-  <Day>יום</Day>
+  <Day>םוי</Day>
   <!-- EN: day -->
-  <day>יום</day>
+  <day>םוי</day>
   <!-- EN: Default -->
-  <Default>Default</Default>
+  <Default>לדחמ תרירב</Default>
   <!-- EN: Average -->
-  <Average>ממוצע</Average>
+  <Average>עצוממ</Average>
+  <!-- EN: ${0} -->
+  <MoneyFormat>TODO</MoneyFormat>
 
   <!-- Content generation-->
 
   <!-- EN: {0} meat -->
-  <MeatLabel>{0} meat</MeatLabel>
+  <MeatLabel>{0} רשב</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
+  <MeatDesc>אנ לכאהל וא תונמל לשבתהל לוכי .רתובמ אנ רשב.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing.</MeatInsectDesc>
+  <MeatInsectDesc>ןובאית הרגמ אל שממ .אנ לכאהל וליפא וא תונמל לשבתהל לוכי ,ךירצ םא .רתובמ אנ רשב.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea.</MeatHumanDesc>
+  <MeatHumanDesc>הזה ןויערה תא םיבהוא אל. םישנאה בורש תורמל .אנ לכאהל וא תונמל לשבתהל לוכי ,ךירצ םא .רתובמ אנ רשב.</MeatHumanDesc>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} corpse</CorpseLabel>
+  <CorpseLabel>{0} לש ותפוג</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>Dead body of a {0}.</CorpseDesc>
+  <CorpseDesc>{0} לש התמה ותפוג.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>{1_label} (dead)</DeadLabel>
+  <DeadLabel>(תמ) {0}</DeadLabel>
 
   <!-- EN: rough {0} -->
-  <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainLabel>{0} חושק</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
-  <RoughStoneTerrainDesc>Rough, natural {0} ground.</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>.תיעבט {0} תפצר ,חושק</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>rough-hewn {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>חושק ץצק {0}</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
-  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>{0} לש תיעבט הכותח הפצר.</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
-  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainLabel>קלח {0}</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
-  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>יעבט ןפואב הקלח {0} תפצר.</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
+  <BlueprintLabelExtra>(טוטרש)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <FrameLabelExtra>(הנבמ)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
-  <FactionUnaffiliated>Unaffiliated</FactionUnaffiliated>
+  <FactionUnaffiliated>רשוקמ אל</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
@@ -112,25 +114,25 @@
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>{PAWN_labelShort}'s {1}</SomeonesRoom>
+  <SomeonesRoom>{1} לש {0}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>{PAWN1_labelShort} and {PAWN2_labelShort}'s {2}</CouplesRoom>
+  <CouplesRoom>{1}ו {0} לש {2}ה</CouplesRoom>
 
   <!-- EN: (various) -->
-  <VariousLabel>(various)</VariousLabel>
+  <VariousLabel>(רחבמ)</VariousLabel>
 
   <!-- History events -->
   <!-- EN: Colonist died -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>תמ בשות</ColonistDied>
 
   <!-- Rotation -->
   <!-- EN: North -->
-  <North>North</North>
+  <North>ןופצ</North>
   <!-- EN: South -->
-  <South>South</South>
+  <South>םורד</South>
   <!-- EN: West -->
-  <West>West</West>
+  <West>חרזמ</West>
   <!-- EN: East -->
-  <East>East</East>
+  <East>ברעמ</East>
 
 </LanguageData>

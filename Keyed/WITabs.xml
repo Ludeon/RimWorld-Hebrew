@@ -3,72 +3,72 @@
 
   <!-- WITab titles -->
   <!-- EN: Terrain -->
-  <TabTerrain>שטח</TabTerrain>
+  <TabTerrain>חטש</TabTerrain>
   <!-- EN: Planet -->
-  <TabPlanet>כוכב</TabPlanet>
+  <TabPlanet>ץראה רודכ</TabPlanet>
   <!-- EN: Social -->
-  <TabCaravanSocial>חברתי</TabCaravanSocial>
+  <TabCaravanSocial>ילאיצוס</TabCaravanSocial>
   <!-- EN: Health -->
-  <TabCaravanHealth>בריאות</TabCaravanHealth>
+  <TabCaravanHealth>תואירב</TabCaravanHealth>
   <!-- EN: Needs -->
-  <TabCaravanNeeds>צרכים</TabCaravanNeeds>
+  <TabCaravanNeeds>םיכרצ</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>ציודr</TabCaravanGear>
+  <TabCaravanGear>דויצ</TabCaravanGear>
   <!-- EN: Items -->
-  <TabCaravanItems>אביזרים</TabCaravanItems>
+  <TabCaravanItems>םיטירפ</TabCaravanItems>
 
   <!-- Misc -->
-  <!-- EN: Abandon {{0}}x {1_labelShort} -->
-  <AbandonSliderText>Abandon {{0}}x {1_labelShort}</AbandonSliderText>
-  <!-- EN: Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Do you really want to abandon {1_label}?\n\nAbandoned items vanish and can never be recovered.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>שוטנל {{0}}x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>רוזחל םילוכי אלו םימלענ םישוטנ םיטירפ  ? n\n\{0} תא שוטנל הצור תמאב התא םאה.</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
-  <AbandonTip>לנטוש</AbandonTip>
+  <AbandonTip>שוטנל</AbandonTip>
   <!-- EN: Banish -->
-  <BanishTip>לגרש</BanishTip>
+  <BanishTip>שרג</BanishTip>
   <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>Abandon specific count</AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>יפיצפס רפסמ שוטנ</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>גרש (כולם)</AbandonAllTip>
+  <AbandonAllTip>שוטנל (לכה)</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>אביזרים מגורשים נעלמים ולא יכולים להוחזר</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>ורזחי אל םייחבו ומלעי םישוטנ םיצפח.</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>{1_labelShort} will most likely die.</BanishTipWillDie>
+  <BanishTipWillDie>תומי {0} ש םייוכיסה בור.</BanishTipWillDie>
 
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
-  <CaravanColonists>מתיישבים</CaravanColonists>
+  <CaravanColonists>םיבשות</CaravanColonists>
   <!-- EN: Prisoners and animals -->
-  <CaravanPrisonersAndAnimals>אסירים וחיות</CaravanPrisonersAndAnimals>
+  <CaravanPrisonersAndAnimals>תויחו םיריסא</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>Inventory</CaravanItems>
+  <CaravanItems>יאלמ תמישר</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>תלחץ בכדי לפתוח חלון עם עוד מידע</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>םיטרפ רתוי םע היסיטרכ חותפל ידכ ץחל.</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
-  <CaravanPrisoners>אסירים</CaravanPrisoners>
+  <CaravanPrisoners>םיריסא</CaravanPrisoners>
   <!-- EN: Inventory -->
-  <CaravanWeaponsAndApparel>Inventory</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>יאלמ תמישר</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>אף אחד אני יכול</NoneCapable>
+  <NoneCapable>לוכי אל דחא ףא</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>קראוון לא נע</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>זז אל ןורק</GainingJoyBecauseCaravanNotMoving>
 
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>גרור בכדי לסדר מחדש</DragToRearrange>
+  <DragToRearrange>שדחמ רדסל ידכ רורג.</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
-  <AssignDrugPolicies>Assign drug policies</AssignDrugPolicies>
+  <AssignDrugPolicies>םימס תוינידמ ןגרא</AssignDrugPolicies>
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down.</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>ותוא םיטאמ םה לבא זז ןורקה םא םג חונל םילוכי ןורקב םישנא n\n\ הלוח אוה רשאכ ןורקב םישנאה ןידי לע בחסהל םילוכי היחה וא םדא ןבה םא.</BeCarriedIfSickTip>
 
   <!-- Planet -->
   <!-- EN: Seed -->
-  <PlanetSeed>זרע</PlanetSeed>
+  <PlanetSeed>ערז</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>שטח חיסוי</PlanetCoverageShort>
+  <PlanetCoverageShort>יוסיכ</PlanetCoverageShort>
 
 </LanguageData>

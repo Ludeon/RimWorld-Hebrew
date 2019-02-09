@@ -2,354 +2,354 @@
 <LanguageData>
 
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
-  <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>.רוצמ {0} {1}מ וישכע ףקות תא הבשותה</MessageSiegersAssaulting>
 
   <!-- EN: {0} from {1} are beginning their assault. -->
-  <MessageRaidersBeginningAssault>{0} from {1} are beginning their assault.</MessageRaidersBeginningAssault>
+  <MessageRaidersBeginningAssault>.{0} מ {1} םיליחתמ תא הפיקתה םהלש</MessageRaidersBeginningAssault>
   <!-- EN: {0} from {1} have detected you and begun their assault early. -->
-  <MessageRaidersDetectedEarlyAssault>{0} from {1} have detected you and begun their assault early.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersDetectedEarlyAssault>.{0} {1}מ וליג ךתוא וליחתהו תא הפיקתה םהלש םדקומ</MessageRaidersDetectedEarlyAssault>
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
-  <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+  <MessageRaidersKidnapping>.{0} {1}מ וטילחה ףוטחל תא ימ םהש םילוכי בוזעלו</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
-  <MessageRaidersStealing>{0} from {1} have decided to steal what they can and leave.</MessageRaidersStealing>
+  <MessageRaidersStealing>.{0} {1}מ וטילחה בונגל תא המ םהש םילוכי בוזעלו</MessageRaidersStealing>
 
   <!-- EN: {0} from {1} are leaving. -->
-  <MessageRaidersLeaving>{0} from {1} are leaving.</MessageRaidersLeaving>
+  <MessageRaidersLeaving>{0} {1}מ. םיבזוע</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
-  <MessageRaidersGivenUpLeaving>{0} from {1} have given up and are leaving.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>{0} מ {1} ורתיו וישכעו םיבזוע</MessageRaidersGivenUpLeaving>
   <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
-  <MessageRaidersSatisfiedLeaving>{0} from {1} are satisfied with the damage done and are leaving.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersSatisfiedLeaving>.{0} {1}מ םיצורמ קזנהמ השענש וישכעו םה .םיבזוע</MessageRaidersSatisfiedLeaving>
 
   <!-- EN: {0} from {1} are fleeing. -->
-  <MessageFightersFleeing>{0} from {1} are fleeing.</MessageFightersFleeing>
+  <MessageFightersFleeing>.}0{ }1{מ םיחרוב</MessageFightersFleei0}ng>
   <!-- EN: Friendly {0} from {1} are leaving. -->
-  <MessageFriendlyFightersLeaving>Friendly {0} from {1} are leaving.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>.{0} םייתורבחה {1}מ םיבזוע</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
-  <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>.עוצפ חרוא םיחקול {1}מ {0}</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
-  <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTrappedLeaving>.{0} {1}מ םידוכל וישכעו םירפוח הצוחה ליבשב טלמהל</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
-  <MessageVisitorsDangerousTemperature>{0} from {1} are leaving the map because of dangerous temperature.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>.{0} {1}מ וישכע םיבזוע תא הפמה ללגב הרוטרפמט תנכוסמ</MessageVisitorsDangerousTemperature>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>{0} worn by {1_nameFull} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>.{0} שבלנש לע ידי {1} הלקתה םולכל</MessageWornApparelDeterioratedAway>
 
   <!-- EN: {0} has begun. -->
-  <MessageSeasonBegun>{0} has begun.</MessageSeasonBegun>
+  <MessageSeasonBegun>.{0}ה ליחתה</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
-  <MessageShipHasLeftCommsRange>{0} has left comms range.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>.{0} בזע תא חווט ירישכמ רשקה</MessageShipHasLeftCommsRange>
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
-  <MessageNeedBeaconToTradeWithShip>You need a powered orbital trade beacon to trade with a ship.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>.התא ךירצ רולדגמ רחס קולד ליבשב רוחסל םע תיללח</MessageNeedBeaconToTradeWithShip>
 
   <!-- EN: Bill complete: {0}. -->
-  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
+  <MessageBillComplete>.הדובעה תקקוחמה :המלשוה {0}</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>{1_label} is fully healed.</MessageFullyHealed>
+  <MessageFullyHealed>{0} אפורמ ירמגל.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>Prisoner {1_labelShort} is escaping.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>.{0} ריסאה חרוב</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
-  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} found no nearby unreserved shells for {GUN_label}.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>.{0} אל אצמ םיעילק אל םירומש רובע {1}</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth. -->
-  <MessageAnimalsGoPsychoHunted>Warning: {ANIMAL_kindBasePlural} have a {1} chance to attack when harmed from rifle range. Chance is higher if closer, less with good hunter stealth.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>:תוריהז {0} בורל ףקות רשאכ אוה עגפנ {1}) זוחא קחרמב ,הבור רתוי התאש {0}(בורק אל אצמ םיעילק אל םירומש רובע {1}.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance).</MessageAnimalManhuntsOnTameFailed>
-  
+  <MessageAnimalManhuntsOnTameFailed>:תוריהז {0} בורל ףקות לע תונויסינ ףוליא םילשוכ {1}) (םיזוחא</MessageAnimalManhuntsOnTameFailed>
+
   <!-- EN: New recruit -->
-  <LetterLabelMessageRecruitSuccess>New recruit</LetterLabelMessageRecruitSuccess>
+  <LetterLabelMessageRecruitSuccess>סיוגמ שדח</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>{RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance).</MessageRecruitSuccess>
+  <MessageRecruitSuccess>.{0} סייג החלצהב תא {1} {2}) (םיזוחא</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>{RECRUITER_labelShort} successfully tamed {1} ({2} chance).</MessageTameSuccess>
+  <MessageTameSuccess>.{0} ףליא החלצהב תא {1} {2}) (םיזוחא</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{RECRUITER_labelShort} successfully tamed {1} ({2} chance) and named {RECRUITEE_objective} {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>.{0} ףליא החלצהב תא {1} {2}) (םיזוחא ארקו ול [PAWN_objective] {3}</MessageTameAndNameSuccess>
 
   <!-- EN: The colony cannot afford this deal. -->
-  <MessageColonyCannotAfford>The colony cannot afford this deal.</MessageColonyCannotAfford>
+  <MessageColonyCannotAfford>.הבשותל ןיא קיפסמ ףסכ רובע הקסע תאז</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
-  <MessageColonyNotEnoughSilver>You do not have enough silver ready to trade.</MessageColonyNotEnoughSilver>
+  <MessageColonyNotEnoughSilver>.ןיא ךל קיפסמ ףסכ ליבשב רחסה</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
-  <MessageCriticalAlert>Critical alert: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>הרהזא :תיטירק {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestable>Must designate harvestable sufficiently-grown plants.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestable>.ןתינ ןמסל הריצקל קר םיחמצ ולדגש קיפסמ</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestableWood>Must designate wood-yielding, sufficiently-grown plants.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestableWood>.ןתינ ןמסל הריצקל קר םיחמצ םינתונש םיצע  ולדגשו קיפסמ</MessageMustDesignateHarvestableWood>
   <!-- EN: Must designate plants. -->
-  <MessageMustDesignatePlants>Must designate plants.</MessageMustDesignatePlants>
+  <MessageMustDesignatePlants>.בייח ןמסל םיחמצ</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>Must designate haulable items. Some items are always haulable and can't be designated.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>.בייח ןמסל םירבד ןתינש ,בוחסל שי םירבד דימתש ןתינ םבוחסל יאו רשפא םנמסל</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
-  <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>.בייח ןמסל םינבא םינתינ הריפחל יאש רשפא רובעל םכרד</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
-  <MessageMustDesignateHuntable>Must designate huntable animals.</MessageMustDesignateHuntable>
+  <MessageMustDesignateHuntable>.בייח ןמסל תויח רשפאש דוצל</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
-  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>.בייח ןמסל תויח תונתינ ףוליאל</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned artificial structures. -->
-  <MessageMustDesignateClaimable>Must designate abandoned artificial structures.</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>.בייח ןמסל םינבמ םייתוכאלמ םישוטנ</MessageMustDesignateClaimable>
   <!-- EN: Must designate rough stone surfaces. -->
-  <MessageMustDesignateSmoothableSurface>Must designate rough stone surfaces.</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableSurface>.בייח ןמסל יחטש ןבא םיחישק</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
-  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
+  <MessageNothingCanRemoveThickRoofs>.םוש רבד אל לוכי דירוהל תוגג םיבע</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
-  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
+  <MessageAlreadyInStorage>.הז רבכ אצמנ ןוסחאב רבעויו ןוסחאל לש תופידע ההובג םא שרדנ</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
-  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
+  <MessageMustDesignateStrippable>.בייח ןמסל הפוג וא תומד הלופנ םע םידגב ןתינש טישפהל</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>.בייח ןמסל היח תפלואמ תכיישש הבשותל</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
-  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
+  <MessageMustDesignateOpenable>.בייח ןמסל םירבק םיאלמ וא תולוכמ</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
-  <MessageMustDesignateForbiddable>Must designate unforbidden items.</MessageMustDesignateForbiddable>
+  <MessageMustDesignateForbiddable>.בייח ןמסל םיצפח אלש ורסאנ</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
-  <MessageMustDesignateUnforbiddable>Must designate forbidden items.</MessageMustDesignateUnforbiddable>
+  <MessageMustDesignateUnforbiddable>.בייח ןמסל םיצפח ורסאנש</MessageMustDesignateUnforbiddable>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
-  <MessageRefusedArrest>{1_labelShort} has refused to be arrested!</MessageRefusedArrest>
-  
+  <MessageRefusedArrest>!{0} דגנתה רצעמל</MessageRefusedArrest>
+
   <!-- EN: There are no medical beds available. -->
-  <MessageNoMedicalBeds>There are no medical beds available.</MessageNoMedicalBeds>
+  <MessageNoMedicalBeds>.ןיא תוטימ תויאופר תונימז</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
-  <MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
+  <MessageNoAnimalBeds>.ןיא תוטימ תויח תונימז</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}".</MessageTooLowMedCare>
-  
+  <MessageTooLowMedCare>.ךילהתה שרוד {0} וא רתוי ,בוט ךא בצמ לופיטה יאופרה לש {1} אוה "{2}"</MessageTooLowMedCare>
+
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{PAWN_labelShort} has died. Cause: {1}.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>.{0} .תמ :הביס {1}</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>{1_labelShort} has died.</PawnDied>
+  <PawnDied>.תמ {0}</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{1_label} is no longer incapable of walking.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>.{0}ל הרזח תלוכיה תכלל</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{1_labelShort} has collapsed due to extreme exhaustion.</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>.{0} טטומתה ללגב תושישת תינוציק</MessageInvoluntarySleep>
 
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort}.</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureMinor>.{0} לשכנ ןפואב ןיטק ךלהמב לופיטה ולש לע {1}</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureCatastrophic>.{0} לשכנ ןפואב יפורטסטק ךלהמב לופיטה ולש לע {1}</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}. -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort}.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureRidiculous>.{0} לשכנ ןפואב ךחוגמ ךלהמב לופיטה ולש לע {1}</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}</MessageMedicalOperationFailureFatal>
+  <MessageMedicalOperationFailureFatal>{0} עציב תועט תינלטק ךלהמב לופיטה ולש לע {1} ללגב םירגתאה םידחוימה ולש {.{2}לש</MessageMedicalOperationFailureFatal>
 
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>.ךילהתה הזה ןבצעי תא {0}</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>.{0} הליפה ללגב העיווג בערמ</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>.{0} הליפה ללגב בצמ יתואירב עורג</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
-  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+  <MessageGaveBirth>.{0} הטילמה</MessageGaveBirth>
 
   <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+  <MessageNuzzledPawnGaveNameTo>.{0} הרק {1}ל {2} ירחא םהש וקבחתה</MessageNuzzledPawnGaveNameTo>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}).</MessageNoHandlerSkilledEnough>
-  
+  <MessageNoHandlerSkilledEnough> .ףא ףלאמ אל לוכי ףלאל תא {0} שרוד( בלש {1} ,{2}ב ןמאמל יכה בוט {3} שי ({4}</MessageNoHandlerSkilledEnough>
+
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>{EATEN_labelShort} has been eaten by {PREDATOR}.</MessageEatenByPredator>
+  <MessageEatenByPredator>.{0} לכאנ לע ידי {1}</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{PREY_labelShort} is being attacked by {PREDATOR}!</MessageAttackedByPredator>
-  
+  <MessageAttackedByPredator>!{0} ףקתנ לע ידי {1}</MessageAttackedByPredator>
+
   <!-- EN: A bug hive has reproduced itself. -->
-  <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
-  
+  <MessageHiveReproduced>.תרווכ םיקרח ליפכה תא ומצע</MessageHiveReproduced>
+
   <!-- EN: The trade caravan from {0} is leaving. -->
-  <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
-  
+  <MessageTraderCaravanLeaving>.ןורק רחסה {0}מ בזוע</MessageTraderCaravanLeaving>
+
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>{1_labelShort} is dead.</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>.{0} תמ</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>{1_labelShort} is off the map.</MessageCantSelectOffMapPawn>
-  
+  <MessageCantSelectOffMapPawn>.{0} בזוע תא הפמה</MessageCantSelectOffMapPawn>
+
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>{PAWN1_labelShort} started a social fight with {PAWN2_labelShort}.</MessageSocialFight>
-  
+  <MessageSocialFight>.{0} ליחתה ברק ילאיצוס םע {1}</MessageSocialFight>
+
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
-  <MessageNewMarriageCeremony>Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage.</MessageNewMarriageCeremony>
+  <MessageNewMarriageCeremony>לש הנותחה תא גוגחל םיפסאתמ םיבשותה {0} ו {1}</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
-  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyStarts>םהלש הנותחה סקט תא םיליחתמ {1} ו {0}</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off.</MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>.לטבתה {1}ו {0} לש הנותחה סקט</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
-  <MessageNewlyMarried>{PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
+  <MessageNewlyMarried>.עוריאה תא םיגגוח וישכע םיבשותה .ונתחתה {1}ו {0}</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished.</MessageMarriageCeremonyAfterPartyFinished>
-  
+  <MessageMarriageCeremonyAfterPartyFinished>..םייתסה {1}ו {0} לש הנותחה סקט</MessageMarriageCeremonyAfterPartyFinished>
+
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>{HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond.</MessageNewBondRelation>
+  <MessageNewBondRelation>רצונ רוביח ןיב {0} .{1}ו</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>{HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
-  
+  <MessageNewBondRelationNewName>רצונ רשק ןיב {0} .{1}ו {0} ארק ל[PAWN_objective] {2}.</MessageNewBondRelationNewName>
+
   <!-- EN: {ANIMAL} has a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalMentalBreak>{ANIMAL} has a mental break because of {HUMAN_labelShort}'s death.</MessageBondedAnimalMentalBreak>
+  <MessageBondedAnimalMentalBreak>{0}ל שי תוטטומתה םיבצע ללגב תוומה לש .{1}</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} named {ANIMAL_label} has a mental break because of {HUMAN_labelShort}'s death.</MessageNamedBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0}ל היורקש {1} שי תוטטומתה םיבצע ללגב ותומ לש {2}</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {HUMAN_labelShort}'s death.</MessageBondedAnimalsMentalBreak>
-  
+  <MessageBondedAnimalsMentalBreak>{0}ל תויח שי תוטטומתה םיבצע ללגב תוומה לש ,{1}</MessageBondedAnimalsMentalBreak>
+
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}.</MessageSuccessfullyRemovedHediff>
-  
+  <MessageSuccessfullyRemovedHediff>{0} ריסה החלצהב תא {1}ה לש {2}</MessageSuccessfullyRemovedHediff>
+
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources.</MessageShipChunkDrop>
-  
+  <MessageShipChunkDrop>םיקלח לש תיללח וקסרתה דיל. התא לוכי קרפל םתוא ליבשב םיבאשמ.</MessageShipChunkDrop>
+
   <!-- EN: The party has been called off. -->
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
+  <MessagePartyCalledOff>הביסמה הלטבתה.</MessagePartyCalledOff>
   <!-- EN: The party has finished. -->
-  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
+  <MessagePartyFinished>הביסמה המייתסה.</MessagePartyFinished>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>:המכ םירבד אל םילוכי רכמהל ללגב</MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing {0}. Some resources have been wasted. -->
-  <MessageConstructionFailed>{WORKER_labelShort} failed while constructing {0}. Some resources have been wasted.</MessageConstructionFailed>
+  <MessageConstructionFailed>{1} לשיפ ןמזב הנבש תא .{0} קלח םיבאשמהמ וזבזוב.</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
-  <MessageScreenshotSavedAs>Screenshot saved as: {0}</MessageScreenshotSavedAs>
-  
+  <MessageScreenshotSavedAs>םוליצ ךסמ רמשנ :כ {0}</MessageScreenshotSavedAs>
+
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>{PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting.</MessageNoLongerSocialFighting>
-  
+  <MessageNoLongerSocialFighting>.{0} {1}ו רבכ אל םיבר תילאיצוס</MessageNoLongerSocialFighting>
+
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>{2_labelShort} is no longer binging on {1}.</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>.{0} רבכ אל ךרוצ תיתייפכ {1}</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>.{0} רבכ אל קרוז תובלעה ןוויכל {1}</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>{1_label} has rotted away in storage.</MessageRottedAwayInStorage>
-  
+  <MessageRottedAwayInStorage>.{0} בקרתה ןוסחאב</MessageRottedAwayInStorage>
+
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>{PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}.</MessageFoodPoisoning>
-  
+  <MessageFoodPoisoning>.{0} לביק תלערה ןוזמ :מ .{1} :הביס {2}.</MessageFoodPoisoning>
+
   <!-- EN: {0} has been removed from the caravan. -->
-  <MessagePawnLostWhileFormingCaravan>{0} has been removed from the caravan.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan>.{0} רסוה ןורקהמ</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
-  <MessagePawnLostWhileFormingCaravan_AllLost>The caravan formation process has been terminated.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessagePawnLostWhileFormingCaravan_AllLost>.ךילהת שוביג ןורקה לטבתה</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>The caravan formation process will continue when everyone recovers from their mental break.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>.ךילהת שוביג ןורקה ךישמי עגרב םלוכש וששואתי תוטטומתהמ םיבצעה םהלש</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>Your colonists will now continue forming a caravan.</MessageCaravanFormationUnpaused>
-  
+  <MessageCaravanFormationUnpaused>.םיטסינולוקה וישכע וכישמי תא שוביג ןורקה</MessageCaravanFormationUnpaused>
+}0{ מת בגלל רעל
   <!-- EN: One of the caravan members has a mental break. -->
-  <MessageCaravanMemberHasExtremeMentalBreak>One of the caravan members has a mental break.</MessageCaravanMemberHasExtremeMentalBreak>
-  
+  <MessageCaravanMemberHasExtremeMentalBreak>.דחאל ירבחמ ןורקה שי תוטטומתה םיבצע</MessageCaravanMemberHasExtremeMentalBreak>
+
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
-  <MessageMaxPlanetCoveragePerformanceWarning>Warning: It can take a very long time to generate an entire planet.</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>:הרהזא לוכי תחקל ןמז ךורא דואמ רצייל רודכ ץרא םלש</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>{0} has died because of cold.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>.{0} תמ ללגב רוקה</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>{0} has died from rotting due to being left unharvested.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>.{0} תמ ןובקירמ ללגב אלש רצקנ</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>{0} has died due to being exposed to light.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>.{0} תמ ללגב ףשחנש רואל</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>{0} has died from rotting.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>.{0} תמ ןובקירמ</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0} has died because of poison.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>.{0} תמ ללגב לער</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{1_label} has died because of blight.</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>.{0} תמ ללגב שבוע</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
-  <MessagePawnBeingBurned>{1_labelShort} is being burned by superheated air!</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>!{0} הווכנ תעכ ריוואמ חתור</MessagePawnBeingBurned>
 
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-  <MessageAccidentalOverdose>{INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}!</MessageAccidentalOverdose>
-  
+  <MessageAccidentalOverdose>{0} has accidentally overdosed while consuming {1}!</MessageAccidentalOverdose>
+
   <!-- EN: {0} has arrived at its destination. -->
   <MessageCaravanArrivedAtDestination>{0} has arrived at its destination.</MessageCaravanArrivedAtDestination>
-  
+
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} has left the area and formed a caravan.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{0} has left the area and formed a caravan.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
   <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Your animals are moving to join it.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
-  
+
   <!-- EN: You have successfully settled in a new area. -->
   <MessageSettledInExistingMap>You have successfully settled in a new area.</MessageSettledInExistingMap>
-  
+
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
-  <MessagePermanentWoundHealed>{PAWN_labelShort}'s {2} has healed. Cause: {0}</MessagePermanentWoundHealed>
+  <MessagePermanentWoundHealed>{1}'s {2} has healed. Cause: {0}</MessagePermanentWoundHealed>
 
   <!-- EN: {1_labelShort} has joined your group after being rescued! -->
-  <MessageRescueeJoined>{1_labelShort} has joined your group after being rescued!</MessageRescueeJoined>
-  
+  <MessageRescueeJoined>Since you rescued [PAWN_objective], {0} has joined your group!</MessageRescueeJoined>
+
   <!-- EN: Some transport pods are unreachable. -->
   <MessageTransporterUnreachable>Some transport pods are unreachable.</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
   <MessageTransportersNotAdjacent>All pod launchers connected to the selected transport pods must be adjacent.</MessageTransportersNotAdjacent>
-  
+
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
   <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
   <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>The loading process has been canceled because one of the pod launchers has been destroyed.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
-  
+
   <!-- EN: Your colonists will now load the assigned items into the transport pods. -->
   <MessageTransportersLoadingProcessStarted>Your colonists will now load the assigned items into the transport pods.</MessageTransportersLoadingProcessStarted>
-  
+
   <!-- EN: Your transport pods have arrived. -->
   <MessageTransportPodsArrived>Your transport pods have arrived.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
   <MessageTransportPodsArrivedAndLost>Your transport pods have arrived, but since there were no colonists inside, the contents are lost.</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
   <MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
-  
+
   <!-- EN: Your colonists have finished loading the transport pods. -->
   <MessageFinishedLoadingTransporters>Your colonists have finished loading the transport pods.</MessageFinishedLoadingTransporters>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoTransporters>Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
-  
+  <MessageCantLoadMoreIntoTransporters>TODO</MessageCantLoadMoreIntoTransporters>
+
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>Selected destination is invalid.</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
   <MessageTransportPodsDestinationIsTooFar>Each pod launcher would need at least {0}x chemfuel to send transport pods that far.</MessageTransportPodsDestinationIsTooFar>
-  
+
   <!-- EN: The caravan has been reformed. -->
   <MessageReformedCaravan>The caravan has been reformed.</MessageReformedCaravan>
-  
+
   <!-- EN: You can't banish the last colonist. -->
   <MessageCantBanishLastColonist>You can't banish the last colonist.</MessageCantBanishLastColonist>
-  
+
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>Cannot equip: {1_labelShort} is incapable of violence.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>Cannot equip: {0} is incapable of violence.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: incapable. -->
   <MessageCantEquipIncapableOfManipulation>Cannot equip: incapable.</MessageCantEquipIncapableOfManipulation>
-  
+
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy.</MessageSlaughteringBondedAnimal>
-  
+  <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {0} will make {1} unhappy.</MessageSlaughteringBondedAnimal>
+
   <!-- EN: {0} has run out of food ({PAWN_label}). -->
-  <MessageCaravanRanOutOfFood>{0} has run out of food ({PAWN_label}).</MessageCaravanRanOutOfFood>
+  <MessageCaravanRanOutOfFood>{0} has run out of food ({1}).</MessageCaravanRanOutOfFood>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
   <MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony or a site where you have people.</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
   <MessageScreenResTooSmallForUIScale>At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution.</MessageScreenResTooSmallForUIScale>
-  
+
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
   <MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
-  
+
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>To self-tend, {1_labelShort} must also be assigned to Doctor work.</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>To self-tend, {0} must also be assigned to Doctor work.</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>{1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
-  
+  <MessageCannotSelfTendEver>{0} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
+
   <!-- EN: This tile is impassable. -->
   <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
@@ -358,17 +358,17 @@
   <MessageCantAddWaypointBecauseLimit>You can't add more than {0} waypoints.</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
   <MessageCantRemoveWaypointBecauseFirst>You can't remove this waypoint.</MessageCantRemoveWaypointBecauseFirst>
-  
+
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
   <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>None of your wardens is capable of violence. The execution won't be performed.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
-  
+
   <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
   <MessageSiteCountdownBecauseNoMoreEnemies>You have defeated all enemies. In {0}, the caravan will automatically be reformed.</MessageSiteCountdownBecauseNoMoreEnemies>
   <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
   <MessageSiteCountdownBecauseNoEnemiesInitially>In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageSiteCountdownBecauseNoEnemiesInitially>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>Cannot banish {1_labelShort} since {1_pronoun} cannot walk.</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>Cannot banish {0} since [PAWN_pronoun] cannot walk.</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
   <MessageSleepingPawnsWokenUp>{0} have woken up.</MessageSleepingPawnsWokenUp>
@@ -387,9 +387,9 @@
   <MessagePawnResurrected>{0} has been brought back to life!</MessagePawnResurrected>
 
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
-  <MessageFailedToRescueRelative>You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad.</MessageFailedToRescueRelative>
+  <MessageFailedToRescueRelative>You have failed to rescue {0}. This will make {1} sad.</MessageFailedToRescueRelative>
   <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
-  <MessageRescuedRelative>You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy.</MessageRescuedRelative>
+  <MessageRescuedRelative>You have rescued {0}. This will make {1} happy.</MessageRescuedRelative>
 
   <!-- EN: The tornado has left the map. -->
   <MessageTornadoLeftMap>The tornado has left the map.</MessageTornadoLeftMap>
@@ -403,13 +403,13 @@
   <MessageWarningCavePlantsExposedToLight>Warning: {0} cannot live when exposed to light.</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}.</MessageTargetedTantrumChangedTarget>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}.</MessageTargetedInsultingSpreeChangedTarget>
 
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageMurderousRageChangedTarget>{PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}.</MessageMurderousRageChangedTarget>
+  <MessageMurderousRageChangedTarget>{0} has decided to redirect [PAWN_possessive] anger at {1}.</MessageMurderousRageChangedTarget>
 
   <!-- EN: {0} cannot grow underneath a roof. -->
   <MessagePlantIncompatibleWithRoof>{0} cannot grow underneath a roof.</MessagePlantIncompatibleWithRoof>
@@ -420,31 +420,31 @@
   <MessageChoseRoute>Caravan will automatically travel to the first waypoint.</MessageChoseRoute>
 
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
-  <MessageCraftedMasterwork>{WORKER_labelShort} has created a {CRAFTED_labelShort}.</MessageCraftedMasterwork>
+  <MessageCraftedMasterwork>{0} has created a {1}.</MessageCraftedMasterwork>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>To leave the area, use the 'reform caravan' button in the world view.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>TODO</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>You can't leave the map now.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>TODO</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
   <MessageGoodwillChanged>Relations with {0} have changed from {1} to {2}.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
   <MessageGoodwillChangedWithReason>Relations with {0} have changed from {1} to {2} ({3}).</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
-  <GoodwillChangedReason_AttackedPawn>attacked {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_AttackedPawn>attacked {0}</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
-  <GoodwillChangedReason_UsedItem>used {ITEM_labelShort} on {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_UsedItem>used {0} on {1}</GoodwillChangedReason_UsedItem>
   <!-- EN: harvested {0} -->
   <GoodwillChangedReason_RemovedBodyPart>harvested {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: needlessly installed {0} -->
-  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>needlessly installed {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>TODO</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
   <!-- EN: captured {1_labelShort} -->
-  <GoodwillChangedReason_CapturedPawn>captured {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_CapturedPawn>captured {0}</GoodwillChangedReason_CapturedPawn>
   <!-- EN: {1_labelShort} crushed -->
-  <GoodwillChangedReason_PawnCrushed>{1_labelShort} crushed</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnCrushed>{0} crushed</GoodwillChangedReason_PawnCrushed>
   <!-- EN: {1_labelShort} died -->
-  <GoodwillChangedReason_PawnDied>{1_labelShort} died</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_PawnDied>{0} died</GoodwillChangedReason_PawnDied>
   <!-- EN: traded -->
   <GoodwillChangedReason_Traded>traded</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
@@ -452,9 +452,9 @@
   <!-- EN: natural tendency to reach {0} over time -->
   <GoodwillChangedReason_NaturallyOverTime>natural tendency to reach {0} over time</GoodwillChangedReason_NaturallyOverTime>
   <!-- EN: {1_labelShort} exited the map healthy -->
-  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} exited the map healthy</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_ExitedMapHealthy>{0} exited the map healthy</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
-  <GoodwillChangedReason_Tended>tended to {1_labelShort}</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_Tended>tended to {0}</GoodwillChangedReason_Tended>
   <!-- EN: received a gift -->
   <GoodwillChangedReason_ReceivedGift>received a gift</GoodwillChangedReason_ReceivedGift>
   <!-- EN: fulfilled a trade offer -->
@@ -487,9 +487,9 @@
   <MessageBillValidationStoreZoneInsufficient>{1}'s "{0}" can no longer deliver all products to stockpile {2}.</MessageBillValidationStoreZoneInsufficient>
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
-  <MessageAnimalReturnedWild>Because of a lack of taming maintenance, {1_labelShort} has returned to the wild.</MessageAnimalReturnedWild>
+  <MessageAnimalReturnedWild>Because of a lack of taming maintenance, {0} has returned to the wild.</MessageAnimalReturnedWild>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
-  <MessageAnimalLostSkill>Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1}</MessageAnimalLostSkill>
+  <MessageAnimalLostSkill>Due to a lack of maintenance training, {0} has lost a skill: {1}</MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
   <MessageTranslationReportSaved>Translation report written to {0}</MessageTranslationReportSaved>
@@ -501,25 +501,32 @@
   <MessageEnterCooldownBlocksEntering>You can't re-enter for another {0} days.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} is hunting {PREY_definite} for food!</MessagePredatorHuntingPlayerAnimal>
+  <MessagePredatorHuntingPlayerAnimal>{0} is hunting {1} for food!</MessagePredatorHuntingPlayerAnimal>
 
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
-  <MessagePrisonerResistanceBroken>Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}.</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken>TODO</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Recruitment attempts will begin.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>TODO</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <!-- EN: Disable all mods before using this tool. -->
-  <MessageDisableModsBeforeCleaningTranslationFiles>Disable all mods before using this tool.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageDisableModsBeforeCleaningTranslationFiles>TODO</MessageDisableModsBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folder: {0} -->
-  <MessageTranslationFilesCleanupDone>Done. Affected folder: {0}</MessageTranslationFilesCleanupDone>
+  <MessageTranslationFilesCleanupDone>TODO</MessageTranslationFilesCleanupDone>
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>TODO</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}.</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>TODO</MessageCapturingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>Cannot shoot in melee.</MessageCantShootInMelee>
+  <MessageCantShootInMelee>TODO</MessageCantShootInMelee>
+
+  <!-- UNUSED -->
+  <MessageCaravanIsVisitingSettlement>{0} has arrived in {1}.</MessageCaravanIsVisitingSettlement>
+  <MessageCaravanEnteredWorldObject>{0} has arrived in {1}.</MessageCaravanEnteredWorldObject>
+  <MessageFailedToLoadTransportersBecauseColonistLost>The loading process has been canceled because one of the colonists has been lost.</MessageFailedToLoadTransportersBecauseColonistLost>
+  <MessageBlockedHediff>{0} blocked {1} on: {2}.</MessageBlockedHediff>
+  <MessagePlayerTriedToLeaveMapViaExitGrid>To leave the area, use the 'reform caravan' button in the world view.</MessagePlayerTriedToLeaveMapViaExitGrid>
 
 </LanguageData>
