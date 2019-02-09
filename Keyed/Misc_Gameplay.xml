@@ -222,7 +222,7 @@
 <!-- EN: {0} until leaving -->
   <ForceExitAndRemoveMapCountdown>}0{ עד שיוצא</ForceExitAndRemoveMapCountdown>
 <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>התושבים שלך יחזרו לקרון באופן אוטומטי ויעזבו את האזור בעוד }0{.</ForceExitAndRemoveMapCountdownTip>
+  <ForceExitAndRemoveMapCountdownTip>התושבים שלך יחזרו לקרוואן באופן אוטומטי ויעזבו את האזור בעוד }0{.</ForceExitAndRemoveMapCountdownTip>
 <!-- EN: Room -->
   <Room>חדר</Room>
 <!-- EN: Beauty here -->
@@ -296,7 +296,7 @@
 <!-- EN: Impassable -->
   <Impassable>בלתי חדיר</Impassable>
 <!-- EN: Caravan movement speed -->
-  <CaravanMovementSpeedFull>מהירות תזוזה של קרון</CaravanMovementSpeedFull>
+  <CaravanMovementSpeedFull>מהירות תזוזה של קרוואן</CaravanMovementSpeedFull>
 <!-- EN: downed -->
   <DownedLower>נפול</DownedLower>
 <!-- EN: carried -->
@@ -306,7 +306,7 @@
 <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>מכפיל עבור משקל שנסחב: }0{</MultiplierForCarriedMass>
 <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>מהירות תזוזה של חברי הקרון</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>מהירות תזוזה של חברי הקרוואן</FinalCaravanPawnsMovementSpeed>
 <!-- EN: Final speed -->
   <FinalCaravanMovementSpeed>מהירות סופית</FinalCaravanMovementSpeed>
 <!-- EN: Winter -->
@@ -320,7 +320,7 @@
 <!-- EN: Expires in -->
   <ExpiresIn>פג תוקף בעוד</ExpiresIn>
 <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>הקרון של }0{</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>הקרוואן של }0{</CaravanLeaderCaravanName>
 <!-- EN: Reason -->
   <Reason>סיבה</Reason>
 <!-- EN: Relations with {0} -->
@@ -328,7 +328,7 @@
 <!-- EN: captured by {0} -->
   <capturedBy>נלכד על ידי }0{</capturedBy>
 <!-- EN: your caravan -->
-  <yourCaravan>הקרון שלך</yourCaravan>
+  <yourCaravan>הקרוואן שלך</yourCaravan>
 <!-- EN: {0} wildness -->
   <CreatureWildness>}0{ פראיות</CreatureWildness>
 <!-- EN: {0} trainability -->
@@ -338,7 +338,7 @@
 <!-- EN: You can't re-enter for another {0} days. -->
   <EnterCooldown>אתה לא יכול להכנס לפחות עוד }0{ ימים.</EnterCooldown>
 <!-- EN: Caravan -->
-  <Caravan>קרון</Caravan>
+  <Caravan>קרוואן</Caravan>
 <!-- EN: there may be danger there -->
   <HiddenOrNoSitePartDescription>יכול להיות סכנה שם</HiddenOrNoSitePartDescription>
 <!-- EN: lump of {0} -->
@@ -498,7 +498,7 @@
 <!-- EN: Attending party -->
   <LordReportAttendingParty>משתתף במסיבה</LordReportAttendingParty>
 <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>יוצר קרון</LordReportFormingCaravan>
+  <LordReportFormingCaravan>יוצר קרוואן</LordReportFormingCaravan>
 <!-- Shooting report -->
 <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>רדיוס ההחטאה של הנשק</WeaponMissRadius>
@@ -916,7 +916,7 @@
 <!-- EN: Burning -->
   <ActivityIconBurning>בוער</ActivityIconBurning>
 <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>יוצר קרון</ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>יוצר קרוואן</ActivityIconFormingCaravan>
 <!-- Maintainable -->
 <!-- EN: Due for maintenance. -->
   <DueForMaintenance>.בגלל תחזוקה</DueForMaintenance>
@@ -957,7 +957,7 @@
 <!-- EN: Total route time: {0} -->
   <RoutePlannerEstTimeToFinalDest>זמן מסע מוערך: }0{</RoutePlannerEstTimeToFinalDest>
 <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>מצב תכנון משתמש במהירות ברירת מחדל של הקרון. המהירות שלך עלולה להיות שונה.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>מצב תכנון משתמש במהירות ברירת מחדל של הקרוואן. המהירות שלך עלולה להיות שונה.</RoutePlannerUsingAverageTicksPerMoveWarning>
 <!-- EN: Calculating for: {0} -->
   <RoutePlannerUsingTicksPerMoveOfCaravan>מחשב עבור: }0{</RoutePlannerUsingTicksPerMoveOfCaravan>
 <!-- EN: Right mouse button: Add/remove waypoints. -->
@@ -965,7 +965,7 @@
 <!-- EN: ESC: Exit planning mode. -->
   <RoutePlannerPressEscapeToExit>ESC: יציאה ממצב התכנון.</RoutePlannerPressEscapeToExit>
 <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: חזור לדיאלוג תכנון הקרון.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: חזור לדיאלוג תכנון הקרוואן.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
 <!-- EN: Est. travel time: {0} -->
   <EstimatedTimeToWaypoint>זמן מסע מוערך: }0{</EstimatedTimeToWaypoint>
 <!-- EN: Est. travel time (from previous waypoint): {0} -->
