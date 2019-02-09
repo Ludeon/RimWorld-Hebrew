@@ -1,37 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: none -->
-  <WorkTagNone>םלוכ</WorkTagNone>
-  <!-- EN: intellectual -->
-  <WorkTagIntellectual>ילאוטקלטניא</WorkTagIntellectual>
-  <!-- EN: dumb labor -->
-  <WorkTagManualDumb>הלק הדובע</WorkTagManualDumb>
-  <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>תינורשכ הדובע</WorkTagManualSkilled>
-  <!-- EN: violent -->
-  <WorkTagViolent>םליא</WorkTagViolent>
-  <!-- EN: caring -->
-  <WorkTagCaring>תויתפכא</WorkTagCaring>
-  <!-- EN: social -->
-  <WorkTagSocial>יאליצוס</WorkTagSocial>
-  <!-- EN: animals -->
-  <WorkTagAnimals>תויח</WorkTagAnimals>
-  <!-- EN: artistic -->
-  <WorkTagArtistic>יטסיטרא</WorkTagArtistic>
-  <!-- EN: crafting -->
-  <WorkTagCrafting>הריצי</WorkTagCrafting>
-  <!-- EN: cooking -->
-  <WorkTagCooking>לושיב</WorkTagCooking>
-  <!-- EN: firefighting -->
-  <WorkTagFirefighting>שאב המיחל</WorkTagFirefighting>
-  <!-- EN: cleaning -->
-  <WorkTagCleaning>ןויקינ</WorkTagCleaning>
-  <!-- EN: hauling -->
-  <WorkTagHauling>הביחס</WorkTagHauling>
-  <!-- EN: plant work -->
-  <WorkTagPlantWork>םיחמצב הדובע</WorkTagPlantWork>
-  <!-- EN: mining -->
-  <WorkTagMining>הריפח</WorkTagMining>
-
+<!-- EN: none -->
+  <WorkTagNone>ללא</WorkTagNone>
+<!-- EN: intellectual -->
+  <WorkTagIntellectual>אינטלקטואלי</WorkTagIntellectual>
+<!-- EN: dumb labor -->
+  <WorkTagManualDumb>עבודה קלה</WorkTagManualDumb>
+<!-- EN: skilled labor -->
+  <WorkTagManualSkilled>עבודה כשרונית</WorkTagManualSkilled>
+<!-- EN: violent -->
+  <WorkTagViolent>אלים</WorkTagViolent>
+<!-- EN: caring -->
+  <WorkTagCaring>אכפתיות</WorkTagCaring>
+<!-- EN: social -->
+  <WorkTagSocial>סוציאלי</WorkTagSocial>
+<!-- EN: animals -->
+  <WorkTagAnimals>חיות</WorkTagAnimals>
+<!-- EN: artistic -->
+  <WorkTagArtistic>ארטיסטי</WorkTagArtistic>
+<!-- EN: crafting -->
+  <WorkTagCrafting>יצירה</WorkTagCrafting>
+<!-- EN: cooking -->
+  <WorkTagCooking>בישול</WorkTagCooking>
+<!-- EN: firefighting -->
+  <WorkTagFirefighting>לחימה באש</WorkTagFirefighting>
+<!-- EN: cleaning -->
+  <WorkTagCleaning>ניקיון</WorkTagCleaning>
+<!-- EN: hauling -->
+  <WorkTagHauling>סחיבה</WorkTagHauling>
+<!-- EN: plant work -->
+  <WorkTagPlantWork>עבודה בצמחים</WorkTagPlantWork>
+<!-- EN: mining -->
+  <WorkTagMining>חפירה</WorkTagMining>
 </LanguageData>

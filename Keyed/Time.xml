@@ -1,77 +1,69 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: d -->
+<!-- EN: d -->
   <LetterDay>י</LetterDay>
-  <!-- EN: h -->
+<!-- EN: h -->
   <LetterHour>ה</LetterHour>
-  <!-- EN: m -->
+<!-- EN: m -->
   <LetterMinute>ד</LetterMinute>
-  <!-- EN: s -->
-  <LetterSecond>נש</LetterSecond>
-
-  <!-- EN: days -->
-  <DaysLower>םימי</DaysLower>
-  <!-- EN: seconds -->
-  <SecondsLower>תוינש</SecondsLower>
-
-  <!-- EN: spring -->
-  <SeasonSpring>ביבא</SeasonSpring>
-  <!-- EN: summer -->
-  <SeasonSummer>ץיק</SeasonSummer>
-  <!-- EN: fall -->
-  <SeasonFall>ויתס</SeasonFall>
-  <!-- EN: winter -->
-  <SeasonWinter>ףרוח</SeasonWinter>
-  <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>ידימת ץיק</SeasonPermanentSummer>
-  <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>ידימת ףרוח</SeasonPermanentWinter>
-
-  <!-- EN: Aprimay -->
-  <QuadrumAprimay>יאמירפא</QuadrumAprimay>
-  <!-- EN: Jugust -->
-  <QuadrumJugust>טסוגוי</QuadrumJugust>
-  <!-- EN: Septober -->
-  <QuadrumSeptober>רבוטפס</QuadrumSeptober>
-  <!-- EN: Decembary -->
-  <QuadrumDecembary>ראובמסד</QuadrumDecembary>
-
-  <!-- EN: Born: {0} -->
-  <Born>{0} דלונ:</Born>
-  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>םימי {2} םיעבר {1} םינש {0} יגולונורכ ליג</AgeChronological>
-  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>םימי {2} םיעבר {1} םינש {0} יגולויב ליג</AgeBiological>
-
-  <!-- Date periods -->
-  <!-- EN: 1 year -->
-  <Period1Year>הנש</Period1Year>
-  <!-- EN: {0} years -->
-  <PeriodYears>{0} םינש</PeriodYears>
-  <!-- EN: 1 quadrum -->
-  <Period1Quadrum>עבר</Period1Quadrum>
-  <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>{0} םיעבר</PeriodQuadrums>
-  <!-- EN: 1 day -->
-  <Period1Day>םוי</Period1Day>
-  <!-- EN: {0} days -->
-  <PeriodDays>{0} םימי</PeriodDays>
-  <!-- EN: 1 hour -->
-  <Period1Hour>העש</Period1Hour>
-  <!-- EN: {0} hours -->
-  <PeriodHours>{0} תועש</PeriodHours>
-  <!-- EN: 1 second -->
-  <Period1Second>הינש</Period1Second>
-  <!-- EN: {0} seconds -->
-  <PeriodSeconds>{0} תוינש</PeriodSeconds>
-
-  <!-- Misc -->
-  <!-- EN: Started -->
-  <Started>ליחתה</Started>
-  <!-- EN: Lasted -->
-  <Lasted>קיזחה</Lasted>
-  <!-- EN: occurred {0} ago -->
-  <OccurredTimeAgo>{0} ינפל הרק </OccurredTimeAgo>
-
+<!-- EN: s -->
+  <LetterSecond>שנ</LetterSecond>
+<!-- EN: days -->
+  <DaysLower>ימים</DaysLower>
+<!-- EN: seconds -->
+  <SecondsLower>שניות</SecondsLower>
+<!-- EN: spring -->
+  <SeasonSpring>אביב</SeasonSpring>
+<!-- EN: summer -->
+  <SeasonSummer>קיץ</SeasonSummer>
+<!-- EN: fall -->
+  <SeasonFall>סתיו</SeasonFall>
+<!-- EN: winter -->
+  <SeasonWinter>חורף</SeasonWinter>
+<!-- EN: permanent summer -->
+  <SeasonPermanentSummer>קיץ תמידי</SeasonPermanentSummer>
+<!-- EN: permanent winter -->
+  <SeasonPermanentWinter>חורף תמידי</SeasonPermanentWinter>
+<!-- EN: Aprimay -->
+  <QuadrumAprimay>אפרימאי</QuadrumAprimay>
+<!-- EN: Jugust -->
+  <QuadrumJugust>יוגוסט</QuadrumJugust>
+<!-- EN: Septober -->
+  <QuadrumSeptober>ספטובר</QuadrumSeptober>
+<!-- EN: Decembary -->
+  <QuadrumDecembary>דסמבואר</QuadrumDecembary>
+<!-- EN: Born: {0} -->
+  <Born>:נולד }0{</Born>
+<!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>גיל כרונולוגי }0{ שנים }1{ רבעים }2{ ימים</AgeChronological>
+<!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>גיל ביולוגי }0{ שנים }1{ רבעים }2{ ימים</AgeBiological>
+<!-- Date periods -->
+<!-- EN: 1 year -->
+  <Period1Year>שנה</Period1Year>
+<!-- EN: {0} years -->
+  <PeriodYears>שנים }0{</PeriodYears>
+<!-- EN: 1 quadrum -->
+  <Period1Quadrum>רבע</Period1Quadrum>
+<!-- EN: {0} quadrums -->
+  <PeriodQuadrums>רבעים }0{</PeriodQuadrums>
+<!-- EN: 1 day -->
+  <Period1Day>יום</Period1Day>
+<!-- EN: {0} days -->
+  <PeriodDays>ימים }0{</PeriodDays>
+<!-- EN: 1 hour -->
+  <Period1Hour>שעה</Period1Hour>
+<!-- EN: {0} hours -->
+  <PeriodHours>שעות }0{</PeriodHours>
+<!-- EN: 1 second -->
+  <Period1Second>שניה</Period1Second>
+<!-- EN: {0} seconds -->
+  <PeriodSeconds>שניות }0{</PeriodSeconds>
+<!-- Misc -->
+<!-- EN: Started -->
+  <Started>התחיל</Started>
+<!-- EN: Lasted -->
+  <Lasted>החזיק</Lasted>
+<!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo> קרה לפני }0{</OccurredTimeAgo>
 </LanguageData>

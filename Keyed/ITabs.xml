@@ -1,293 +1,280 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- ITab titles -->
-  <!-- EN: Bills -->
+<!-- ITab titles -->
+<!-- EN: Bills -->
   <TabBills>חוקים</TabBills>
-  <!-- EN: Growing -->
+<!-- EN: Growing -->
   <TabGrowing>גידול</TabGrowing>
-  <!-- EN: Bio -->
+<!-- EN: Bio -->
   <TabCharacter>דמויות</TabCharacter>
-  <!-- EN: Training -->
+<!-- EN: Training -->
   <TabTraining>אילוף</TabTraining>
-  <!-- EN: Prisoner -->
+<!-- EN: Prisoner -->
   <TabPrisoner>אסיר</TabPrisoner>
-  <!-- EN: Guest -->
+<!-- EN: Guest -->
   <TabGuest>אורח</TabGuest>
-  <!-- EN: Gear -->
+<!-- EN: Gear -->
   <TabGear>ציוד</TabGear>
-  <!-- EN: Needs -->
+<!-- EN: Needs -->
   <TabNeeds>צרכים</TabNeeds>
-  <!-- EN: Storage -->
+<!-- EN: Storage -->
   <TabStorage>אחסון</TabStorage>
-  <!-- EN: Shells -->
+<!-- EN: Shells -->
   <TabShells>קליעים</TabShells>
-  <!-- EN: Health -->
+<!-- EN: Health -->
   <TabHealth>בריאות</TabHealth>
-  <!-- EN: Race -->
+<!-- EN: Race -->
   <TabRace>גזע</TabRace>
-  <!-- EN: Basics -->
+<!-- EN: Basics -->
   <TabBasics>בסיסי</TabBasics>
-  <!-- EN: Stats -->
+<!-- EN: Stats -->
   <TabStats>נתונים סטטיסטיים</TabStats>
-  <!-- EN: Records -->
+<!-- EN: Records -->
   <TabRecords>תיקים</TabRecords>
-  <!-- EN: Art -->
+<!-- EN: Art -->
   <TabArt>אומנות</TabArt>
-  <!-- EN: Social -->
+<!-- EN: Social -->
   <TabSocial>סוציאלי</TabSocial>
-  <!-- EN: Log -->
+<!-- EN: Log -->
   <TabLog>תיעוד</TabLog>
-  <!-- EN: Caravan -->
+<!-- EN: Caravan -->
   <TabFormingCaravan>קרוואן</TabFormingCaravan>
-  <!-- EN: Contents -->
+<!-- EN: Contents -->
   <TabTransporterContents>לעשות</TabTransporterContents>
-
-  <!-- Bills tab  -->
-  <!-- EN: Add bill -->
+<!-- Bills tab  -->
+<!-- EN: Add bill -->
   <AddBill>חוקק חוק</AddBill>
-  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+<!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>המתכון }0{ דורש את הכישרונות מתחת. לאף אחד מהקולוניסטים יש את הכשרונות האלו, אז אף אחד לא יבצע את החוק הזה.</RecipeRequiresSkills>
-  <!-- EN: Min skill -->
+<!-- EN: Min skill -->
   <MinimumSkill>כישרון מינימאלי</MinimumSkill>
-  <!-- EN: SUSPENDED -->
+<!-- EN: SUSPENDED -->
   <SuspendedCaps>מושהה</SuspendedCaps>
-  <!-- EN: Worker: {1_labelShort} -->
+<!-- EN: Worker: {1_labelShort} -->
   <BoundWorkerIs>עובד: }0{</BoundWorkerIs>
-  <!-- EN: Plant -->
+<!-- EN: Plant -->
   <PlantVerb>צמח</PlantVerb>
-  <!-- EN: Copied bill cannot be pasted here. -->
+<!-- EN: Copied bill cannot be pasted here. -->
   <ClipboardBillNotAvailableHere>החוק המועתק לא יכול להיות מודבק פה.</ClipboardBillNotAvailableHere>
-  <!-- EN: Move up -->
+<!-- EN: Move up -->
   <ReorderBillUpTip>העלה למעלה</ReorderBillUpTip>
-  <!-- EN: Move down -->
+<!-- EN: Move down -->
   <ReorderBillDownTip>הורד למטה</ReorderBillDownTip>
-  <!-- EN: Delete -->
+<!-- EN: Delete -->
   <DeleteBillTip>מחוק</DeleteBillTip>
-  <!-- EN: Copy to the clipboard -->
+<!-- EN: Copy to the clipboard -->
   <CopyBillTip>העתק לקליפבורד</CopyBillTip>
-  <!-- EN: Suspend -->
+<!-- EN: Suspend -->
   <SuspendBillTip>השהה</SuspendBillTip>
-  <!-- EN: Paste -->
+<!-- EN: Paste -->
   <PasteBillTip>הדבק</PasteBillTip>
-  <!-- EN: can't add more -->
+<!-- EN: can't add more -->
   <PasteBillTip_LimitReached>לא יכול להוסיף עוד</PasteBillTip_LimitReached>
-
-  <!-- Guest/prisoner tab -->
-  <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>TODO</RecruitmentResistance>
-  <!-- EN: Recruitment difficulty -->
+<!-- Guest/prisoner tab -->
+<!-- EN: Resistance remaining -->
+<RecruitmentResistance>TODO</RecruitmentResistance>
+<!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>קושי גיוס</RecruitmentDifficulty>
-  <!-- EN: Gets food -->
+<!-- EN: Gets food -->
   <GetsFood>משיג אוכל</GetsFood>
-  <!-- EN: Doctors care -->
+<!-- EN: Doctors care -->
   <DoctorsCare>טיפול הרופא</DoctorsCare>
-  <!-- EN: Gets medicine -->
+<!-- EN: Gets medicine -->
   <GetsMedicine>משיג תרופה</GetsMedicine>
-  <!-- EN: Try to recruit -->
+<!-- EN: Try to recruit -->
   <ShouldTryToRecruit>נסה לגייס</ShouldTryToRecruit>
-  <!-- EN: Considered guilty (expires in {0}) -->
+<!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>מוגדר כאשם )פג תוקף בעוד }0{(</ConsideredGuilty>
-
-  <!-- Medical - general -->
-  <!-- EN: Move speed -->
+<!-- Medical - general -->
+<!-- EN: Move speed -->
   <MoveSpeed>מהירות תזוזה</MoveSpeed>
-  <!-- EN: Efficiency -->
+<!-- EN: Efficiency -->
   <Efficiency>יעילות</Efficiency>
-  <!-- EN: Part efficiency -->
+<!-- EN: Part efficiency -->
   <PartEfficiency>יעילות החלק</PartEfficiency>
-  <!-- EN: Body part efficiency -->
+<!-- EN: Body part efficiency -->
   <BodyPartEfficiency>יעילות חלק הגוף</BodyPartEfficiency>
-  <!-- EN: Gone -->
+<!-- EN: Gone -->
   <MissingBodyPart>איננו</MissingBodyPart>
-  <!-- EN: Destroyed -->
+<!-- EN: Destroyed -->
   <DestroyedBodyPart>נהרס</DestroyedBodyPart>
-  <!-- EN: Shattered -->
+<!-- EN: Shattered -->
   <ShatteredBodyPart>מרוסק לרסיסים</ShatteredBodyPart>
-  <!-- EN: Removed -->
+<!-- EN: Removed -->
   <RemovedBodyPart>הוסר</RemovedBodyPart>
-  <!-- EN: Healthy -->
+<!-- EN: Healthy -->
   <Healthy>בריא</Healthy>
-  <!-- EN: In pain -->
+<!-- EN: In pain -->
   <InPain>חש כאב</InPain>
-  <!-- EN: Pain -->
+<!-- EN: Pain -->
   <PainLevel>כאב</PainLevel>
-  <!-- EN: Injured -->
+<!-- EN: Injured -->
   <Injured>פצוע</Injured>
-  <!-- EN: no health conditions -->
+<!-- EN: no health conditions -->
   <NoHealthConditions>אין מצבים בריאותיים</NoHealthConditions>
-  <!-- EN: Whole body -->
+<!-- EN: Whole body -->
   <WholeBody>כל הגוף</WholeBody>
-  <!-- EN: Data processing -->
+<!-- EN: Data processing -->
   <DataProcessing>עיבוד מידע</DataProcessing>
-  <!-- EN: Communication -->
+<!-- EN: Communication -->
   <Communication>יצור קשר</Communication>
-  <!-- EN: Affects -->
+<!-- EN: Affects -->
   <Affects>משפיע</Affects>
-  <!-- EN: Bleeding -->
+<!-- EN: Bleeding -->
   <BleedingRate>מדמם</BleedingRate>
-  <!-- EN: death in {0} -->
+<!-- EN: death in {0} -->
   <TimeToDeath>מוות בעוד }0{</TimeToDeath>
-  <!-- EN: no immediate danger -->
+<!-- EN: no immediate danger -->
   <WontBleedOutSoon>אין סכנה מיידית</WontBleedOutSoon>
-  <!-- EN: Overview -->
+<!-- EN: Overview -->
   <HealthOverview>תקציר</HealthOverview>
-  <!-- EN: Operations ({0}) -->
+<!-- EN: Operations ({0}) -->
   <MedicalOperationsShort>טיפולים )}0{(</MedicalOperationsShort>
-  <!-- EN: Modifications ({0}) -->
+<!-- EN: Modifications ({0}) -->
   <MedicalOperationsMechanoidsShort>תוספות )}0{(</MedicalOperationsMechanoidsShort>
-  <!-- EN: Medical operations -->
+<!-- EN: Medical operations -->
   <MedicalOperations>טיפולים רפואיים</MedicalOperations>
-  <!-- EN: amputate -->
+<!-- EN: amputate -->
   <Amputate>קטיעה</Amputate>
-  <!-- EN: harvest -->
+<!-- EN: harvest -->
   <HarvestOrgan>אסוף איבר גוף</HarvestOrgan>
-  <!-- EN: remove -->
+<!-- EN: remove -->
   <RemoveOrgan>הסר</RemoveOrgan>
-  <!-- EN: memory -->
+<!-- EN: memory -->
   <MemoryLower>זיכרון</MemoryLower>
-  <!-- EN: social interactions -->
+<!-- EN: social interactions -->
   <SocialInteractionsLower>מפגשים סוציאליים</SocialInteractionsLower>
-  <!-- EN: Hunger rate -->
+<!-- EN: Hunger rate -->
   <HungerRate>מהירות הרעב</HungerRate>
-  <!-- EN: Tiredness -->
+<!-- EN: Tiredness -->
   <Tiredness>עייפות</Tiredness>
-  <!-- EN: Pain -->
+<!-- EN: Pain -->
   <PainFactor>כאב</PainFactor>
-  <!-- EN: Prevents infection -->
+<!-- EN: Prevents infection -->
   <PreventsInfection>מונע מחלה</PreventsInfection>
-  <!-- EN: Self-tend -->
+<!-- EN: Self-tend -->
   <SelfTend>טיפול עצמי</SelfTend>
-  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+<!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
   <SelfTendTip>ש}0{ עם טיפול עצמי מופעל יטפל בעצמו על הנקודה ב}1{ מהיעילות הנורמלית</SelfTendTip>
-
-  <!-- Medical - Body and activities condition -->
-  <!-- EN: None -->
+<!-- Medical - Body and activities condition -->
+<!-- EN: None -->
   <None>ללא</None>
-  <!-- EN: Very poor -->
+<!-- EN: Very poor -->
   <VeryPoor>מאוד קשה</VeryPoor>
-  <!-- EN: Poor -->
+<!-- EN: Poor -->
   <Poor>קשה</Poor>
-  <!-- EN: Weakened -->
+<!-- EN: Weakened -->
   <Weakened>מוחלש</Weakened>
-  <!-- EN: OK -->
+<!-- EN: OK -->
   <GoodCondition>בסדר</GoodCondition>
-  <!-- EN: Enhanced -->
+<!-- EN: Enhanced -->
   <Enhanced>מוגבר</Enhanced>
-  <!-- EN: Seriously impaired -->
+<!-- EN: Seriously impaired -->
   <SeriouslyImpaired>פגום באופן רציני</SeriouslyImpaired>
-  <!-- EN: Impaired -->
+<!-- EN: Impaired -->
   <Impaired>פגום</Impaired>
-  <!-- EN: Slightly impaired -->
+<!-- EN: Slightly impaired -->
   <SlightlyImpaired>מעט פגום</SlightlyImpaired>
-  <!-- EN: None -->
+<!-- EN: None -->
   <NoPain>ללא</NoPain>
-  <!-- EN: Little -->
+<!-- EN: Little -->
   <LittlePain>מעט</LittlePain>
-  <!-- EN: Medium -->
+<!-- EN: Medium -->
   <MediumPain>בינוני</MediumPain>
-  <!-- EN: Severe -->
+<!-- EN: Severe -->
   <SeverePain>חמור</SeverePain>
-  <!-- EN: Extreme -->
+<!-- EN: Extreme -->
   <ExtremePain>חמור מאוד</ExtremePain>
-
-  <!-- Training tab -->
-  <!-- EN: Trainability -->
+<!-- Training tab -->
+<!-- EN: Trainability -->
   <Trainability>יכולת לאילוף</Trainability>
-  <!-- EN: Requires trainability {0}. -->
+<!-- EN: Requires trainability {0}. -->
   <CannotTrainNotSmartEnough>מדריש }0{ יכולת לאילוף.</CannotTrainNotSmartEnough>
-  <!-- EN: {1_labelShort} is too small to train this. -->
+<!-- EN: {1_labelShort} is too small to train this. -->
   <CannotTrainTooSmall>}0{ קטן מדי בשביל לאלף אותו בזה.</CannotTrainTooSmall>
-
-  <!-- EN: Prerequisite needed: {0} -->
+<!-- EN: Prerequisite needed: {0} -->
   <TrainingNeedsPrerequisite>דרישות קדם נדרשות }0{</TrainingNeedsPrerequisite>
-
-  <!-- Social tab -->
-  <!-- EN: (no relationships) -->
+<!-- Social tab -->
+<!-- EN: (no relationships) -->
   <NoRelationships>)אין מערכות יחסים(</NoRelationships>
-  <!-- EN: Kidnapped -->
+<!-- EN: Kidnapped -->
   <Kidnapped>נחטף</Kidnapped>
-  <!-- EN: Missing -->
+<!-- EN: Missing -->
   <Missing>חסר</Missing>
-  <!-- EN: Slave -->
+<!-- EN: Slave -->
   <Slave>עבד</Slave>
-  <!-- EN: Faction leader -->
+<!-- EN: Faction leader -->
   <FactionLeader>מנהיג הפלוגה</FactionLeader>
-  <!-- EN: Opinion of {1_labelShort} -->
+<!-- EN: Opinion of {1_labelShort} -->
   <OpinionOf>דעה של }0{</OpinionOf>
-  <!-- EN: {1_labelShort}'s opinion of me -->
+<!-- EN: {1_labelShort}'s opinion of me -->
   <SomeonesOpinionOfMe>הדעה של }0{ עלי</SomeonesOpinionOfMe>
-  <!-- EN: I'm dead -->
+<!-- EN: I'm dead -->
   <IAmDead>אני מת</IAmDead>
-  <!-- EN: I'm a psychopath -->
+<!-- EN: I'm a psychopath -->
   <IAmPsychopath>אני פסיכופת</IAmPsychopath>
-
-  <!-- Gear tab -->
-  <!-- EN: Overall armor -->
+<!-- Gear tab -->
+<!-- EN: Overall armor -->
   <OverallArmor>מיגון כללי</OverallArmor>
-  <!-- EN: Mass carried: {0} / {1} kg -->
+<!-- EN: Mass carried: {0} / {1} kg -->
   <MassCarried>מסה שנסחבת }0{ \ }1{ קילו</MassCarried>
-  <!-- EN: Comfortable temperature range -->
+<!-- EN: Comfortable temperature range -->
   <ComfyTemperatureRange>טווח טמפרטורה נוחה</ComfyTemperatureRange>
-  <!-- EN: Blunt -->
+<!-- EN: Blunt -->
   <ArmorBlunt>כהה</ArmorBlunt>
-  <!-- EN: Sharp -->
+<!-- EN: Sharp -->
   <ArmorSharp>חד</ArmorSharp>
-  <!-- EN: Heat -->
+<!-- EN: Heat -->
   <ArmorHeat>חום</ArmorHeat>
-
-  <!-- Log tab -->
-  <!-- EN: Show all -->
+<!-- Log tab -->
+<!-- EN: Show all -->
   <ShowAll>הראה הכל</ShowAll>
-  <!-- EN: Show combat -->
+<!-- EN: Show combat -->
   <ShowCombat>הראה קרבות</ShowCombat>
-  <!-- EN: Show social -->
+<!-- EN: Show social -->
   <ShowSocial>הראה סוציאלי</ShowSocial>
-  <!-- EN: no recent entries -->
+<!-- EN: no recent entries -->
   <NoRecentEntries>אין כניסות לאחרונה</NoRecentEntries>
-  <!-- EN: Copy log to the clipboard. -->
+<!-- EN: Copy log to the clipboard. -->
   <CopyLogTip>העתק דוח לקליפבורד</CopyLogTip>
-
-  <!-- Forming caravan tab -->
-  <!-- EN: Gathering animals -->
+<!-- Forming caravan tab -->
+<!-- EN: Gathering animals -->
   <FormingCaravanStatus_GatheringAnimals>אוסף חיות</FormingCaravanStatus_GatheringAnimals>
-  <!-- EN: Gathering animals (waiting) -->
+<!-- EN: Gathering animals (waiting) -->
   <FormingCaravanStatus_GatheringAnimals_Pause>אוסף חיות )מחכה(</FormingCaravanStatus_GatheringAnimals_Pause>
-  <!-- EN: Gathering items -->
+<!-- EN: Gathering items -->
   <FormingCaravanStatus_GatheringItems>אוסף פריטים</FormingCaravanStatus_GatheringItems>
-  <!-- EN: Gathering items (waiting) -->
+<!-- EN: Gathering items (waiting) -->
   <FormingCaravanStatus_GatheringItems_Pause>אוסף פריטים )מחכה(</FormingCaravanStatus_GatheringItems_Pause>
-  <!-- EN: Gathering slaves -->
+<!-- EN: Gathering slaves -->
   <FormingCaravanStatus_GatheringSlaves>אוסף עבדים</FormingCaravanStatus_GatheringSlaves>
-  <!-- EN: Gathering slaves (waiting) -->
+<!-- EN: Gathering slaves (waiting) -->
   <FormingCaravanStatus_GatheringSlaves_Pause>אוסף עבדים )מחכה(</FormingCaravanStatus_GatheringSlaves_Pause>
-  <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>TODO</FormingCaravanStatus_GatheringDownedPawns>
-  <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>TODO</FormingCaravanStatus_GatheringDownedPawns_Pause>
-  <!-- EN: Leaving -->
+<!-- EN: Gathering downed people -->
+<FormingCaravanStatus_GatheringDownedPawns>TODO</FormingCaravanStatus_GatheringDownedPawns>
+<!-- EN: Gathering downed people (waiting) -->
+<FormingCaravanStatus_GatheringDownedPawns_Pause>TODO</FormingCaravanStatus_GatheringDownedPawns_Pause>
+<!-- EN: Leaving -->
   <FormingCaravanStatus_Leaving>עוזב</FormingCaravanStatus_Leaving>
-  <!-- EN: Leaving (waiting) -->
+<!-- EN: Leaving (waiting) -->
   <FormingCaravanStatus_Leaving_Pause>עוזב )מחכה(</FormingCaravanStatus_Leaving_Pause>
-  <!-- EN: Waiting -->
+<!-- EN: Waiting -->
   <FormingCaravanStatus_Waiting>מחכה</FormingCaravanStatus_Waiting>
-  <!-- EN: Members -->
+<!-- EN: Members -->
   <CaravanMembers>חברים</CaravanMembers>
-  <!-- EN: Animals -->
+<!-- EN: Animals -->
   <CaravanAnimals>חיות</CaravanAnimals>
-  <!-- EN: Items to load -->
+<!-- EN: Items to load -->
   <ItemsToLoad>פריטים להעמיס</ItemsToLoad>
-  <!-- EN: Loaded items -->
+<!-- EN: Loaded items -->
   <LoadedItems>פריטים מועמסים</LoadedItems>
-  <!-- EN: pack animals -->
+<!-- EN: pack animals -->
   <PackAnimalsCountLower>חיות להקה</PackAnimalsCountLower>
-  <!-- EN: mentally broken -->
+<!-- EN: mentally broken -->
   <InMentalStateCountLower>שבור מנטלית</InMentalStateCountLower>
-
-  <!-- Transporter contents -->
-  <!-- EN: Remove {{0}}x {0} -->
-  <RemoveSliderText>TODO</RemoveSliderText>
-  <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
-
+<!-- Transporter contents -->
+<!-- EN: Remove {{0}}x {0} -->
+<RemoveSliderText>TODO</RemoveSliderText>
+<!-- EN: Do you really want to remove {0}? -->
+<ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
 </LanguageData>

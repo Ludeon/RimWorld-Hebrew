@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: Save -->
-  <SaveButton>רומש</SaveButton>
-  <!-- EN: Clear -->
-  <ClearBinding>הקנ</ClearBinding>
-  <!-- EN: Reset to default -->
-  <ResetBinding>לדחמ תרירבל ספא</ResetBinding>
-  <!-- EN: Left-click to bind this key or right-click for options -->
-  <BindingButtonToolTip>תורדגהל ינמי קילק וא הזה רותפכל הדוקפ םישהל ידכ ילאמש קילק</BindingButtonToolTip>
-  <!-- EN: Press any key or Esc to cancel... -->
-  <PressAnyKeyOrEsc>לוטיבל ESC וא שקמ לכ לע ץחל</PressAnyKeyOrEsc>
-  <!-- EN: Key binding overwritten: {0} -->
-  <KeyBindingOverwritten>{0} :השדח שקמ תדוקפ</KeyBindingOverwritten>
-
+<!-- EN: Save -->
+  <SaveButton>שמור</SaveButton>
+<!-- EN: Clear -->
+  <ClearBinding>נקה</ClearBinding>
+<!-- EN: Reset to default -->
+  <ResetBinding>אפס לברירת מחדל</ResetBinding>
+<!-- EN: Left-click to bind this key or right-click for options -->
+  <BindingButtonToolTip>קליק שמאלי כדי להשים פקודה לכפתור הזה או קליק ימני להגדרות</BindingButtonToolTip>
+<!-- EN: Press any key or Esc to cancel... -->
+  <PressAnyKeyOrEsc>לחץ על כל מקש או CSE לביטול</PressAnyKeyOrEsc>
+<!-- EN: Key binding overwritten: {0} -->
+  <KeyBindingOverwritten>פקודת מקש חדשה: }0{</KeyBindingOverwritten>
 </LanguageData>

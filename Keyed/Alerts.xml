@@ -2,199 +2,199 @@
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
-  <ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
+  <ClickToJumpToProblem>לחץ למעבר לבעיה</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
+  <BreakRiskMinor>סיכון שבירה מנטאלית קל</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>Major break risk</BreakRiskMajor>
+  <BreakRiskMajor>סיכון שבירה מנטאלית משמעותי</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskExtreme>סיכון שבירה מנטאלית קיצוני</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
-  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>התושבים הבאים לוקים במצב רוח ירוד ועלולים להישבר קלות בכל רגע:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
-  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>התושבים הבאים לוקים במצב רוח ירוד מאוד ועלולים להישבר משמעותית בכל רגע:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
-  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskExtremeDesc>התושבים הבאים מאוד לחוצים ועלולים להישבר נפשית (אולי באופן אלים) בכל רגע:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
-
+  <BreakRiskDescEnding>בדוק את לשונית הצרכים של התושבים הללו כדי לראות מה מפריע להם.\n\nכדי לגרום להם להרגיש טוב יותר, ביכולתך לגרום להם לבשל ארוחות מפוארות, להביא להם יותר שעות בילוי ולשפר את איכות עצמי הבילוי, לייפות את סביבתם, לגרום להם לשתות ולעשן, ועוד.</BreakRiskDescEnding>
+  
   <!-- EN: Colonist needs rescue -->
-  <ColonistNeedsRescue>Colonist needs rescue</ColonistNeedsRescue>
+  <ColonistNeedsRescue>מתישב דורש חילוץ</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
-  <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
+  <ColonistsNeedRescue>תושבים דורשים חילוץ</ColonistsNeedRescue>
   <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
-  <ColonistsNeedRescueDesc>These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>תושבים אלו חסרי יכולת תנועה:\n\n{0}\nשלח מתישב אחר לחלצם ושיביא אותם בחזרה למיטתם.\n\n(לחילוץ, בחר מתישב אחר, ואז לחץ עם הלחצן הימני על הקורבן ובחר באפשרות החילוץ.</ColonistsNeedRescueDesc>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>Need defenses</NeedDefenses>
+  <NeedDefenses>דרושות הגנות</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
+  <NeedDefensesDesc>שהיית כאן זמן מה וכנראה שראו אותך. פשיטות של שודדים יתחילו בקרוב\n\nעליך להכין הגנות, כגון שקי חול או מלכודות.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
-  <NeedDoctor>Need doctor</NeedDoctor>
+  <NeedDoctor>דרוש רופא</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
+  <NeedDoctorDesc>התושבים הללו צריכים עזרה רפואית, אך אין לך תושבים בריאים שהוקצו כרופאים.\n\n{0}\nהקצה מתישב בריא לעבודה בתור רופא. אם לא יטופלו, פציעות עלולות לא להחלים ואף להפוך לקבועות.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
-  <NeedMiner>Need miner</NeedMiner>
+  <NeedMiner>דורש כורה</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
+  <NeedMinerDesc>הקצאת אבנים לכריה, אבל אין מתישב עם סוג העבודה של כריאה.\n\nהקצה מתישב לסוג העבודה של כריאה.</NeedMinerDesc>
 
   <!-- EN: Need warden -->
-  <NeedWarden>Need warden</NeedWarden>
+  <NeedWarden>דרוש סוהר</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
-  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
+  <NeedWardenDesc>יש לך אסיר, אבל אין מתישב עם סוג העבודה של סוהר.\n\nהקצה מתישב לסוג העבודה של סוהר.</NeedWardenDesc>
 
   <!-- EN: Low food -->
-  <LowFood>Low food</LowFood>
+  <LowFood>האוכל אוזל</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
+  <LowFoodDesc>כמות האוכל שברשותך נמוכה עד כדי מסוכנת.\n\n    ברים מלאים של מזון באחסון: {0}\n    תושבים ואסירים שמקבלים מזון: {1}\n    כמות הימים שהמזון באחסון מספיק להן: {2}\n\nגדל, קנה, מצא, או הרוג מזון.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
-  <LowMedicine>Low medicine</LowMedicine>
+  <LowMedicine>התרופות אוזלות</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <LowMedicineDesc>יש לך רק {0} תרופות נותרות באחסון.\n\nקנה עוד תרופות מסוחרים.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
-
+  <NoMedicineDesc>לא נותרו תרופות באחסון.\n\nקנה עוד תרופות מסוחרים.</NoMedicineDesc>
+  
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
+  <NeedColonistBeds>דרושות מיטות לתושבים</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>יש לך יותר תושבים ממיטות. למישהו יחסר מקום לינה.\n\nצור עוד מיטות, או הפוך מיטת אסיר למיטת מתישב.\n\nאם אין לך משאבים, איזורי לינה הם חינמיים וניתנים להצבה מיידית.</NeedColonistBedsDesc>
 
   <!-- EN: Hunter lacks ranged weapon -->
-  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
+  <HunterLacksWeapon>לצייד חסר נשק ארוך טווח</HunterLacksWeapon>
   <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
-  <HunterLacksWeaponDesc>A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>מתישב מוקצה כצייד אבל אין לו נשק ארוך טווח.\n\nהם לא יצודו עד להשגת נשק ארוך טווח.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
-  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+  <AlertTatteredApparel>לבוש בלוי</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
+  <AlertTatteredApparelDesc>התושבים הבאים לובשים לבוש בלוי, שמעציב אותם:\n\n{0}\nהשג דברי לבוש שלא ניזוקים קשות.\n\nביכולתך לתפור לבוש על שולחן התפירה, או לקנותו מסוחרים.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+  <AlertUnhappyNudity>עירום לא משמח</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
-  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudityDesc>התושבים הבאים עירומים ולא שמחים לגבי זה:\n\n{0}\nהשג להם בגדים.\n\nביכולתך לתפור לבוש על שולחן התפירה, או לקנותו מסוחרים.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
-  <Starvation>Starvation</Starvation>
+  <Starvation>רעב</Starvation>
   <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
-  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+  <StarvationDesc>התושבים הבאים רעבים:\n\n{0}\nהשג להם אוכל.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
-  <StarvationAnimals>Animal starvation</StarvationAnimals>
+  <StarvationAnimals>חיות רעבות</StarvationAnimals>
   <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
-  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+  <StarvationAnimalsDesc>חיות המושבה הבאות רעבות:\n\n{0}\nהשג להן אוכל.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
-  <Exhaustion>Exhaustion</Exhaustion>
+  <Exhaustion>תשישות</Exhaustion>
   <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
-  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+  <ExhaustionDesc>התושבים הבאים תשושים וצריכים מנוחה:\n\n{0}\nתן להם מנוחה. הם יצטרכו מיטה מוקצת לשימוש תושבים. בנסף, וודא שהם לא מגוייסים.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
+  <NeedFoodHopper>דרוש קוטף מזון</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>ברשותך מנפיק תזונה ללא קוטף מזון לידו.\n\nכדי לעפול, מנפיק התזונה צריך למשוך מקוטף סמוך מלא במזון גולמי.\n\nבנה קוטף סמוך למנפיק.</NeedFoodHopperDesc>
 
   <!-- EN: Need meal source -->
-  <NeedMealSource>Need meal source</NeedMealSource>
+  <NeedMealSource>דרוש מקור ארוחות</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
-  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>אין לך דרך להכין ארוחות ראויות ממזון גולמי.\n\nבנה תנור, מדורה, או מנפיק תזונה.\n\n(לא בתא כלא, אחרת תושבים לא יוכלו להשתמש בהם.)</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>Need recreation variety</NeedJoySource>
+  <NeedJoySource>דרושים מגוון בילויים</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>יש רק {0} סוגי בילוי זמינים ב {1}, אבל עם רמת הציפיות הנוכחית ({2}), תושבים צריכים {3} סוגי בילוי שונים כדי להישאר מרוצים. ספק מגוון בילויים באמצעות סוג חדש, שונה של בילוי.\n\n{4}\n\n{5}\n\הערה: באפשרותך לבדוק מה הוא סוג הבילוי של כל חפץ על ידי עמוד הנתונים שלו, הנגיש באמצעות כפתור ה- 'i'.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
-  <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
+  <AvailableRecreationTypes>סוגי הבילוי הזמינים</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
-  <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
+  <MissingRecreationTypes>סוגי בילוי נעדרים</MissingRecreationTypes>
   <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
-  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
+  <CurrentExpectationsAndRecreation>עם רמת הציפיות הנוכחית ({0}), כל סבלנות נופלת ב- {1} לכל יום ער. מומלץ שיהיו {2} סוגי בילוי.</CurrentExpectationsAndRecreation>
   <!-- EN: bored -->
-  <bored>bored</bored>
+  <bored>משועמם</bored>
 
   <!-- EN: Boredom -->
-  <Boredom>Boredom</Boredom>
+  <Boredom>שיעמום</Boredom>
   <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
-  <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2}</BoredomDesc>
+  <BoredomDesc>האנשים הבאים צריכים לבלות או מוקצים לבילוי, אבל משועממים מכל סוג בילוי זמין:\n\n{0}\n\nהשג להם עוד סוגי בילויים.\n\nסוגי בילויים זמינים עבור {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries>Need batteries</NeedBatteries>
+  <NeedBatteries>דרושות סוללות</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
-  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>ברשותך גנרטור שמש או רוח, אבל אין לך סוללות. זה אומר שהחשמל יופסק בכל פעם שהשמש תשקע או שהרוח תירגע.\n\nבנה סוללה או שתיים כדי להבטיח אספקת חשמל ממושכת.</NeedBatteriesDesc>
 
   <!-- EN: Brawler has ranged weapon -->
-  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeapon>לברולר יש נשק ארוך טווח</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
-  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeaponDesc>לאחד מהתישבים שלך יש את טיפוס האישיות של ברולר, אבל ברשותו נשק ארוך טווח. זה יעציב אותו מאוד.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
-  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeapon>למשתמש במגן יש נשק ארוך טווח</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
-  <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeaponDesc>לאחד מהתמישבים שלך יש חגורת הגנה וגם נשק ארוך טווח. הם לא יוכלו להשתמש בנשקם דרך המגן (חוץ מעל מטרות שכבר נוגעות בהם).</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>Need research project</NeedResearchProject>
+  <NeedResearchProject>דרוש פרוייקט מחקר</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
-  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
-
+  <NeedResearchProjectDesc>ברשותך ציוד למחקר אבל לא בחרת בפרוייקט.\n\nפתח את תפריט המחקר ובחר פרוייקט.</NeedResearchProjectDesc>
+  
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
+  <ColonistsIdle>{0} תושבים מובטלים</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>התושבים הבאים משוטטים ללא מעש:\n\n{0}\nכדאי לך למצוא להם משהו יצרני לעשות.</ColonistsIdleDesc>
 
   <!-- EN: Colonist needs treatment -->
-  <ColonistNeedsTreatment>Colonist needs treatment</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>מתישב דורש טיפול</ColonistNeedsTreatment>
   <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>התושבים הבאים צריכים טיפול רפואי. בלעדיו הם עלולים למות מפציעותיהם, או שפציעותיהם יהפכו לקבועות.\n\n{0}\nטפל בהם על ידי שליחתם למיטה רפיאות.\n\n(קודם כל, הקצה מיטה על ידי בחירתה ומיתוגה למיטה רפואית. לאחר מכן, בחר את התושבים הפצועים ולחץ לחיצה ימנית על המיטה הרפואית להפיכתם למטופלים.)</ColonistNeedsTreatmentDesc>
 
   <!-- EN: Hypothermia -->
-  <AlertHypothermia>Hypothermia</AlertHypothermia>
+  <AlertHypothermia>היפותרמיה</AlertHypothermia>
   <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
-  <AlertHypothermiaDesc>These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
-
+  <AlertHypothermiaDesc>התושבים הבאים סובלים מהיפותרמיה.\n\n{0}\nוודא שלבושם מתאים לעונה ושהשטחים המקורים מחוממים היטב.</AlertHypothermiaDesc>
+  
   <!-- EN: {0} patients await medical operation -->
-  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperation>{0} מטופלים ממתינים לניתוח רפואי</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
-  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperationDesc>המטופלים הבעים ממתינים לניתוח רפואי:\n\n{0}\nוודא שברשותך על הכלים הרפואיים וגם רופא פנוי.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
-  <FireInHomeArea>Fire!</FireInHomeArea>
+  <FireInHomeArea>שריפה!</FireInHomeArea>
   <!-- EN: There is a fire in the home area. -->
-  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
+  <FireInHomeAreaDesc>קיימת שריפה באיזור הבית.</FireInHomeAreaDesc>
 
   <!-- EN: Medical emergency -->
-  <PawnsWithLifeThreateningDisease>Medical emergency</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDisease>חרום רפואי</PawnsWithLifeThreateningDisease>
   <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
-  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>אנשים בסכנת מוות עקב מחלה קשה:\n\n{0}\nוודא שהם מקבלים את הטיפול הרפואי הטוב ביותר.</PawnsWithLifeThreateningDiseaseDesc>
   <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>אנשים בסכנת מוות עקב מחלה קשה:\n\n{0}\nאם אפשר, שקול קטיעה או החלפה של איברים נגועים כדי לשמור את התושבים בחיים.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
-  <BilliardsNeedsSpace>Billiards needs space</BilliardsNeedsSpace>
+  <BilliardsNeedsSpace>ביליארד דורש מרווח</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
-  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>אחד משולחנות הביליארד שלך סמוך למכשול שימנה מתושבים להשתמש בו.\n\nשולחן ביליארד צריך מרווח פנוי מסביבו מכל הכיוונים כדי להיות שמיש.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
-  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeapon>לצייד יש מגן ונשק ארוך טווח</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>אחד מהציידים שלך משתמש בנשק ארוך טווח וגם חגורת הגנה שמונעת ירי ארוך טווח.\n\nהם לא יוכלו לצוד כל עוד המגן לא הוסר.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
-  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
+  <NeedWarmClothes>דרושים בגדים חמים</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1>ללפחות {0} מהתושבים שלך יהיו חסרים בגדים חמים כשהעונה הקרה תגיע.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
-  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc1All>לכל התושבים שלך יהיו חסרים בגדים חמים כשהעונה הקרה תגיע.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
-
+  <NeedWarmClothesDesc2>הטמפרטורה בחוץ תגיע ל {0}.\n\nביכולתך לתפור לבוש חם בעזרת שולחן התפירה, או לקנות אותם מסוחרים.</NeedWarmClothesDesc2>
+  
   <!-- EN: Immobile caravan -->
-  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+  <ImmobileCaravan>קרוואן ללא תנועה</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
-  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
-
+  <ImmobileCaravanDesc>אחת מהקרוואנים שלך לא מסוגל לנוע מכיוון שהוא נושא יותר מדי.\n\nביכולתך לאפשר תנועה לקרוואן על ידי הפקרת פריטים בלשונית הפריטים.</ImmobileCaravanDesc>
+  
 </LanguageData>

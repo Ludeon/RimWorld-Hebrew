@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: Wiki -->
+<!-- EN: Wiki -->
   <Wiki>הידפיקיו</Wiki>
-  <!-- EN: Opens Web browser to see the RimWorld wiki and get help playing. -->
+<!-- EN: Opens Web browser to see the RimWorld wiki and get help playing. -->
   <WikiTip>קחשמב הרזע לבקלו דלרוומיר לש ידפיקיוה תא תוארל ליבשב תשר ןפדפד חתופ.</WikiTip>
-  <!-- EN: Menu -->
+<!-- EN: Menu -->
   <Menu>טירפת</Menu>
-
 </LanguageData>

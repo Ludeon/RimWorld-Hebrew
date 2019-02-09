@@ -1,68 +1,65 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: Level -->
-  <Level>המר</Level>
-  <!-- EN: Progress to next level -->
-  <ProgressToNextLevel>האבה המרל תומדקתה</ProgressToNextLevel>
-  <!-- EN: Experience -->
-  <Experience>ןויסינ</Experience>
-  <!-- EN: Passion -->
-  <Passion>הקושת</Passion>
-  <!-- EN: None\n   -Learns {0} -->
-  <PassionNone>םולכ\n   -דמול {0}</PassionNone>
-  <!-- EN: Interested\n   -Learns {0} -->
-  <PassionMinor>ןיינועמ\n   -דמול {0}</PassionMinor>
-  <!-- EN: Burning\n   -Learns {0} -->
-  <PassionMajor>תחתור\n   -דמול {0}</PassionMajor>
-  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
-  <LearnedMaxToday>םויה םומיסקמ דמל ({0}/{1}, ידי לע תלפכומ תפסונ הדימל {2})</LearnedMaxToday>
-  <!-- EN: Effects at level {0} -->
-  <EffectsAtLevel>המרב םיטקפא {0}</EffectsAtLevel>
-  <!-- EN: MAX -->
-  <SkillMax>םומיסקמ</SkillMax>
-
-  <!-- EN: Barely heard of it -->
-  <Skill0>הז לע עמש ישוקב</Skill0>
-  <!-- EN: Utter beginner -->
-  <Skill1>שממ ליחתמ</Skill1>
-  <!-- EN: Beginner -->
-  <Skill2>ליחתמ</Skill2>
-  <!-- EN: Basic familiarity -->
-  <Skill3>תיסיסב תורכה</Skill3>
-  <!-- EN: Some familiarity -->
-  <Skill4>הבוט תורכה</Skill4>
-  <!-- EN: Significant familiarity -->
-  <Skill5>תיניצר תורכה</Skill5>
-  <!-- EN: Capable amateur -->
-  <Skill6>ןבבוח</Skill6>
-  <!-- EN: Weak professional -->
-  <Skill7>יסיסב ןעוצקמ</Skill7>
-  <!-- EN: Employable professional -->
-  <Skill8>ןעוצקמ</Skill8>
-  <!-- EN: Solid professional -->
-  <Skill9>בוט ןעוצקמ</Skill9>
-  <!-- EN: Skilled professional -->
-  <Skill10>הסונמ ןעוצקמ</Skill10>
-  <!-- EN: Very skilled professional -->
-  <Skill11>הסונמ שממ ןעוצקמ</Skill11>
-  <!-- EN: Expert -->
-  <Skill12>החמומ</Skill12>
-  <!-- EN: Strong expert -->
-  <Skill13>קזח החמומ</Skill13>
-  <!-- EN: Master -->
-  <Skill14>רטסאמ</Skill14>
-  <!-- EN: Strong master -->
-  <Skill15>קזח רטסאמ</Skill15>
-  <!-- EN: Region-known master -->
-  <Skill16>רוזאב עודי רטסאמ</Skill16>
-  <!-- EN: Region-leading master -->
-  <Skill17>םירוזא ךילומ רטסאמ</Skill17>
-  <!-- EN: Planet-known master -->
-  <Skill18>םלועב עודי רטסאמ</Skill18>
-  <!-- EN: Planet-leading master -->
-  <Skill19>םלוע ךילומ רטסאמ</Skill19>
-  <!-- EN: Legendary master -->
-  <Skill20>ידגא רטסאמ</Skill20>
-
+<!-- EN: Level -->
+  <Level>רמה</Level>
+<!-- EN: Progress to next level -->
+  <ProgressToNextLevel>התקדמות לרמה הבאה</ProgressToNextLevel>
+<!-- EN: Experience -->
+  <Experience>ניסיון</Experience>
+<!-- EN: Passion -->
+  <Passion>תשוקה</Passion>
+<!-- EN: None\n   -Learns {0} -->
+  <PassionNone>}0{ לומד-   n\כלום</PassionNone>
+<!-- EN: Interested\n   -Learns {0} -->
+  <PassionMinor>}0{ לומד-   n\מעוניין</PassionMinor>
+<!-- EN: Burning\n   -Learns {0} -->
+  <PassionMajor>}0{ לומד-   n\רותחת</PassionMajor>
+<!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
+  <LearnedMaxToday>)}2{ למידה נוספת מוכפלת על ידי ,}1{/}0{( למד מקסימום היום</LearnedMaxToday>
+<!-- EN: Effects at level {0} -->
+  <EffectsAtLevel>}0{ אפקטים ברמה</EffectsAtLevel>
+<!-- EN: MAX -->
+  <SkillMax>מקסימום</SkillMax>
+<!-- EN: Barely heard of it -->
+  <Skill0>בקושי שמע על זה</Skill0>
+<!-- EN: Utter beginner -->
+  <Skill1>מתחיל ממש</Skill1>
+<!-- EN: Beginner -->
+  <Skill2>מתחיל</Skill2>
+<!-- EN: Basic familiarity -->
+  <Skill3>הכרות בסיסית</Skill3>
+<!-- EN: Some familiarity -->
+  <Skill4>הכרות טובה</Skill4>
+<!-- EN: Significant familiarity -->
+  <Skill5>הכרות רצינית</Skill5>
+<!-- EN: Capable amateur -->
+  <Skill6>חובבן</Skill6>
+<!-- EN: Weak professional -->
+  <Skill7>מקצוען בסיסי</Skill7>
+<!-- EN: Employable professional -->
+  <Skill8>מקצוען</Skill8>
+<!-- EN: Solid professional -->
+  <Skill9>מקצוען טוב</Skill9>
+<!-- EN: Skilled professional -->
+  <Skill10>מקצוען מנוסה</Skill10>
+<!-- EN: Very skilled professional -->
+  <Skill11>מקצוען ממש מנוסה</Skill11>
+<!-- EN: Expert -->
+  <Skill12>מומחה</Skill12>
+<!-- EN: Strong expert -->
+  <Skill13>מומחה חזק</Skill13>
+<!-- EN: Master -->
+  <Skill14>מאסטר</Skill14>
+<!-- EN: Strong master -->
+  <Skill15>מאסטר חזק</Skill15>
+<!-- EN: Region-known master -->
+  <Skill16>מאסטר ידוע באזור</Skill16>
+<!-- EN: Region-leading master -->
+  <Skill17>מאסטר מוליך אזורים</Skill17>
+<!-- EN: Planet-known master -->
+  <Skill18>מאסטר ידוע בעולם</Skill18>
+<!-- EN: Planet-leading master -->
+  <Skill19>מאסטר מוליך עולם</Skill19>
+<!-- EN: Legendary master -->
+  <Skill20>מאסטר אגדי</Skill20>
 </LanguageData>
