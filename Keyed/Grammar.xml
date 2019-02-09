@@ -7,7 +7,7 @@
 <!-- EN: a {0} -->
 <IndefiniteForm>{0}</IndefiniteForm>
 <!-- EN: the {0} -->
-<DefiniteForm>{0}ה </DefiniteForm>
+<DefiniteForm>{0} ה</DefiniteForm>
 <!-- EN: its -->
 <Proits>שלו</Proits>
 <!-- EN: his -->
