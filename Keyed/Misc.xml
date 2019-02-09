@@ -3,7 +3,7 @@
 <!-- EN: Autosaving -->
   <Autosaving>שומר אוטומטית</Autosaving>
 <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>שלושתכם מתעוררים בארון קריפטושינה לקולות של סירנות ומתכת נתלשת אתם בקושי מצליחים להגיע לפודי הבריחה לפני שהחללית נקרעת לגזרים. זמן מה לאחר מכן אתם נוחתים על העולם הלא מוכר הזה, בזמן שחתיכות של חללית נופלות מסביבכם אתם מתחילים לעשות תו;כניות בנוגע לאיך לשרוד.</GameStartDialog>
+  <GameStartDialog>שלושתכם מתעוררים בארון קריפטושינה לקולות של סירנות ומתכת נתלשת אתם בקושי מצליחים להגיע לפודי הבריחה לפני שהחללית נקרעת לגזרים. זמן מה לאחר מכן אתם נוחתים על העולם הלא מוכר הזה, בזמן שחתיכות של חללית נופלות מסביבכם אתם מתחילים לעשות תוכניות בנוגע לאיך לשרוד.</GameStartDialog>
 <!-- EN: Colony -->
   <Colony>תושבה</Colony>
 <!-- EN: You can only change language from the options screen on the main menu. -->
