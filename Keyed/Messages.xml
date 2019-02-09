@@ -214,23 +214,23 @@
 <!-- EN: {1_labelShort} is being burned by superheated air! -->
   <MessagePawnBeingBurned>רותח מאוויר כעת נכווה }0{!</MessagePawnBeingBurned>
 <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-<MessageAccidentalOverdose>{0} has accidentally overdosed while consuming {1}!</MessageAccidentalOverdose>
+<MessageAccidentalOverdose>בטעות לקח מנת יתר בזמן שצרך {1}! {0}</MessageAccidentalOverdose>
 <!-- EN: {0} has arrived at its destination. -->
-<MessageCaravanArrivedAtDestination>{0} has arrived at its destination.</MessageCaravanArrivedAtDestination>
+<MessageCaravanArrivedAtDestination>הגיע ליעד שלו. {0}</MessageCaravanArrivedAtDestination>
 <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-<MessagePawnLeftMapAndCreatedCaravan>{0} has left the area and formed a caravan.</MessagePawnLeftMapAndCreatedCaravan>
+<MessagePawnLeftMapAndCreatedCaravan>עזב את האזור ויצר קרוואן {0}</MessagePawnLeftMapAndCreatedCaravan>
 <!-- EN: Your animals are moving to join it. -->
-<MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Your animals are moving to join it.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+<MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>החיות שלך עוזבות כדי להצטרף אליו.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
 <!-- EN: You have successfully settled in a new area. -->
-<MessageSettledInExistingMap>You have successfully settled in a new area.</MessageSettledInExistingMap>
+<MessageSettledInExistingMap>התיישבת בהצלחה באזור חדש.</MessageSettledInExistingMap>
 <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
-<MessagePermanentWoundHealed>{1}'s {2} has healed. Cause: {0}</MessagePermanentWoundHealed>
+<MessagePermanentWoundHealed>ה{2} של {1} התרפא. סיבה: {0}</MessagePermanentWoundHealed>
 <!-- EN: {1_labelShort} has joined your group after being rescued! -->
-<MessageRescueeJoined>Since you rescued [PAWN_objective], {0} has joined your group!</MessageRescueeJoined>
+<MessageRescueeJoined>הוא הצטרף לקבוצה שלך! [PAWN_objective] בגלל שחילצת את</MessageRescueeJoined>
 <!-- EN: Some transport pods are unreachable. -->
-<MessageTransporterUnreachable>Some transport pods are unreachable.</MessageTransporterUnreachable>
+<MessageTransporterUnreachable>אי אפשר לגשת לכמה מתרמילי התחבורה</MessageTransporterUnreachable>
 <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-<MessageTransportersNotAdjacent>All pod launchers connected to the selected transport pods must be adjacent.</MessageTransportersNotAdjacent>
+<MessageTransportersNotAdjacent>כל משגרי התרמילים שמחוברים לתרמילי התחבורה שנבחרו חייבים להיות אחד ליד השני</MessageTransportersNotAdjacent>
 <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
 <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
 <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
