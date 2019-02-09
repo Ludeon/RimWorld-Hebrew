@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 <!-- EN: a -->
-<IndefiniteArticle>a</IndefiniteArticle>
+<IndefiniteArticle></IndefiniteArticle>
 <!-- EN: the -->
-<DefiniteArticle>the</DefiniteArticle>
+<DefiniteArticle>ה</DefiniteArticle>
 <!-- EN: a {0} -->
-<IndefiniteForm>a {0}</IndefiniteForm>
+<IndefiniteForm>{0}</IndefiniteForm>
 <!-- EN: the {0} -->
-<DefiniteForm>the {0}</DefiniteForm>
+<DefiniteForm>{0}ה </DefiniteForm>
 <!-- EN: its -->
-<Proits>its</Proits>
+<Proits>שלו</Proits>
 <!-- EN: his -->
-<Prohis>his</Prohis>
+<Prohis>שלו</Prohis>
 <!-- EN: her -->
-<Proher>her</Proher>
+<Proher>שלה</Proher>
 <!-- EN: Its -->
-<ProitsCap>Its</ProitsCap>
+<ProitsCap>שלו</ProitsCap>
 <!-- EN: His -->
-<ProhisCap>His</ProhisCap>
+<ProhisCap>שלו</ProhisCap>
 <!-- EN: Her -->
-<ProherCap>Her</ProherCap>
+<ProherCap>שלה</ProherCap>
 <!-- EN: it -->
-<ProitObj>it</ProitObj>
+<ProitObj>של זה</ProitObj>
 <!-- EN: him -->
-<ProhimObj>him</ProhimObj>
+<ProhimObj>הוא</ProhimObj>
 <!-- EN: her -->
-<ProherObj>her</ProherObj>
+<ProherObj>היא</ProherObj>
 <!-- EN: It -->
-<ProitObjCap>It</ProitObjCap>
+<ProitObjCap>זה</ProitObjCap>
 <!-- EN: Him -->
-<ProhimObjCap>Him</ProhimObjCap>
+<ProhimObjCap>הוא</ProhimObjCap>
 <!-- EN: Her -->
-<ProherObjCap>Her</ProherObjCap>
+<ProherObjCap>היא</ProherObjCap>
 <!-- EN: he -->
-<Prohe>he</Prohe>
+<Prohe>הוא</Prohe>
 <!-- EN: she -->
-<Proshe>she</Proshe>
+<Proshe>היא</Proshe>
 <!-- EN: it -->
-<Proit>it</Proit>
+<Proit>זה</Proit>
 <!-- EN: He -->
-<ProheCap>He</ProheCap>
+<ProheCap>הוא</ProheCap>
 <!-- EN: She -->
-<ProsheCap>She</ProsheCap>
+<ProsheCap>היא</ProsheCap>
 <!-- EN: It -->
-<ProitCap>It</ProitCap>
+<ProitCap>זה</ProitCap>
 </LanguageData>
