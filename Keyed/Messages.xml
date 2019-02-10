@@ -232,31 +232,31 @@
 <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
 <MessageTransportersNotAdjacent>כל משגרי התרמילים שמחוברים לתרמילי התחבורה שנבחרו חייבים להיות אחד ליד השני</MessageTransportersNotAdjacent>
 <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
-<MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
+<MessageTransportersLoadCanceled_TransporterDestroyed>תהליך ההעמסה בוטל בגלל שאחד מתרמילי התחבורה נהרס.</MessageTransportersLoadCanceled_TransporterDestroyed>
 <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
-<MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>The loading process has been canceled because one of the pod launchers has been destroyed.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+<MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>>תהליך ההעמסה בוטל בגלל שאחד ממשגרי התרמילים נהרס.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
 <!-- EN: Your colonists will now load the assigned items into the transport pods. -->
-<MessageTransportersLoadingProcessStarted>Your colonists will now load the assigned items into the transport pods.</MessageTransportersLoadingProcessStarted>
+<MessageTransportersLoadingProcessStarted>התושבים שלך עכשיו יעמיסו את הדברים שביקשת לתוך תרמילי התחבורה.</MessageTransportersLoadingProcessStarted>
 <!-- EN: Your transport pods have arrived. -->
-<MessageTransportPodsArrived>Your transport pods have arrived.</MessageTransportPodsArrived>
+<MessageTransportPodsArrived>תרמילי התחבורה שלך הגיעו</MessageTransportPodsArrived>
 <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-<MessageTransportPodsArrivedAndLost>Your transport pods have arrived, but since there were no colonists inside, the contents are lost.</MessageTransportPodsArrivedAndLost>
+<MessageTransportPodsArrivedAndLost>תרמילי התחבורה שלך הגיעו, אך מכיוון שלא היה שום תושב בתוך, התוכן בתוך התרמיל אבד</MessageTransportPodsArrivedAndLost>
 <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-<MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+<MessageTransportPodsArrivedAndAddedToCaravan>תרמילי התחבורה שלך הגיעו. התוכן שלהם התווסף ל}0{.</MessageTransportPodsArrivedAndAddedToCaravan>
 <!-- EN: Your colonists have finished loading the transport pods. -->
-<MessageFinishedLoadingTransporters>Your colonists have finished loading the transport pods.</MessageFinishedLoadingTransporters>
+<MessageFinishedLoadingTransporters>התושבים שלך סיימו להעמיס את תרמילי התחבורה.</MessageFinishedLoadingTransporters>
 <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-<MessageCantLoadMoreIntoTransporters>TODO</MessageCantLoadMoreIntoTransporters>
+<MessageCantLoadMoreIntoTransporters>ה }1{ שלך לא יכול לסיים להעמיס את תרמילי התחבורה מכיוון שכמה מהדברים או האנשים נהיו לא זמינים</MessageCantLoadMoreIntoTransporters>
 <!-- EN: Selected destination is invalid. -->
-<MessageTransportPodsDestinationIsInvalid>Selected destination is invalid.</MessageTransportPodsDestinationIsInvalid>
+<MessageTransportPodsDestinationIsInvalid>יעד שנבחר לא תקין</MessageTransportPodsDestinationIsInvalid>
 <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-<MessageTransportPodsDestinationIsTooFar>Each pod launcher would need at least {0}x chemfuel to send transport pods that far.</MessageTransportPodsDestinationIsTooFar>
+<MessageTransportPodsDestinationIsTooFar>כל משגר תרמילים צריך לפחות }0{x דלק כדי לשלוח את תרמילי התחבורה כזה רחוקמשגר הפודים שלך צריך לפחות</MessageTransportPodsDestinationIsTooFar>
 <!-- EN: The caravan has been reformed. -->
-<MessageReformedCaravan>The caravan has been reformed.</MessageReformedCaravan>
+<MessageReformedCaravan>הקרוואן גובש מחדש.</MessageReformedCaravan>
 <!-- EN: You can't banish the last colonist. -->
-<MessageCantBanishLastColonist>You can't banish the last colonist.</MessageCantBanishLastColonist>
+<MessageCantBanishLastColonist>אתה לא יכול לגרש את התושב האחרון.</MessageCantBanishLastColonist>
 <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-<MessageCantEquipIncapableOfViolence>Cannot equip: {0} is incapable of violence.</MessageCantEquipIncapableOfViolence>
+<MessageCantEquipIncapableOfViolence>לא יכול להצטייד: }0{ נגד אלימות.</MessageCantEquipIncapableOfViolence>
 <!-- EN: Cannot equip: incapable. -->
 <MessageCantEquipIncapableOfManipulation>Cannot equip: incapable.</MessageCantEquipIncapableOfManipulation>
 <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
