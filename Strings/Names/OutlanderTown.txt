@@ -1,138 +1,139 @@
-﻿Rimville
-Rimtown
-Jamestown
-Salvation
-Sleepville
-Microton
-Hurra
-Ellis
-Planeton
-Rimton
-Ludeon
-Banthos
-Parthos
-Lutin
-Shemston
-Craterton
-Wesselton
-Stonkley
-Flint
-Planeton
-Landfall
-Congers
-Colome
-Sparks
-Bedias
-Rhine
-Hialeah
-Qulin
-Crosbyton
-Mayaguez
-Seagraves
-Whitaker
-Welsh
-Braselton
-Colwyn
-Sparta
-La Minita
-Lepanto
-Graton
-Progreso
-Antioch
-Nemacolin
-Dannebrog
-Palo Pinto
-Breinigsville
-Alturas
-Pottstown
-Caro
-Sparland
+רימוויל
+רימטאון
+ג'יימסטאון
+סאלביישן
+סליפוויל
+מיקרוטון
+הורא
+אליס
+פלנטון
+רימטון
+לודיאון
+בנת'וס
+פרט'וס
+לוטין
+שמסטון
+קרטרטון
+ווסלטון
+סטונקלאי
+פלינט
+פלנטון
+לנדפול
+קונגרס
+קולום
+ספארקס
+בדיאס
+ריין
+חייאלאה
+קולין
+קרוסבייטון
+מיהגואז
+סיגרייבס
+וויטייקר
+וולש
+ברסלטון
+קולווין
+ספרטה
+לה מיניטה
+לפאנטו
+גראטון
+פרוגרסו
+אנטיוכ
+נמהקולין
+דנהברוג
+פלו פינטו
+ברייניגסוויל
+אלטוראס
+פותסטאון
+קארו
+ספארלנד
 
-//Real Texas ghost towns
-Acala
-Adobes
-Angeles
-Arden
-Arno
-Badger
-Bakersfield
-Best
-Boquillas
-Boracho
-Culberson
-Buena Suerte
-Candelaria
-Casa Piedra
-Castolon
-Cedar Station
-Chispa
-Cheyenne
+//ערי רוחות אמיתיות
+אקלה
+אדובס
+אנג'לס
+ארדן
+ארנו
+בדג'ר
+בייקרספילד
+ביסט
+בוקווילה
+בוראשו
+קאלברסון
+בואנה סוארטו
+קאנדלריה
+קאסה פיאדרה
+קאסטולון
+צ'דר סטיישן
+צ'ישפה
+שיין
 Devil’s River
-Dixieland
-Dryden
-Terrell
-Duval
-Winkler
-Edruvera
-Crockett
-Etholen
-Hudspeth
-Eureka
-Finlay
-Holland
-Presidio
-Terrett
-Sutton
-Frankel City
-Andrew
-Frijole
-Girvin
-Grube
-Hembrie
-Hovey
-Judkins
-Juno
-Kent
-Konohassett
-Hovey
-LaTuna
-Lajitas
-Langtry
-Lees
-Lindsey City
-Lobo
-Longfellow
-Mariscal Mine
-Mentone
-Orla
-Owenville
-Pandale
-Penwell
-Plata
-Plateau
-Porterville
-Pumpville
-Pyote
-Quito
-Royalty
-Ruidosa
-Salt Flat
-Saragosa
-Shafter
-Sherwood
-Shumla
-Sprayberry
-Stiles
-Study Butte
-Terlingua
-Tesnus
-Texon
-Theodore
-Tinaja
-Toyah
-Tulsa
-Upland
-Verhalen
-Vinegarroon
-Wentworth
-White Spu
+דביל'ס ריבר
+דיקסילנד
+דריידן
+טרל
+דובל
+ווינקלר
+אדרוברה
+קרוקט
+את'ולן
+האדספט'
+אאוריקה
+פינלאי
+הולנד
+פרסידיו
+טרט
+סטון
+פראנקל סיטי
+אנדרו
+פרייול
+גירבין
+גרוב
+המבראי
+הובי
+ידקינס
+יונו
+קנט
+קונוהאסט
+חובי
+לטונה
+לג'יטאס
+לאנגטרי
+ליס
+לינדסי סיטי
+לובו
+לוגפלו
+מריסקל מיין
+מנטון
+אורלה
+אוונוויל
+פנדייל
+פנווך
+פלאטה
+פלאטו
+פורטרוויך
+פאמפוויך
+פיוט
+קיטו
+רויאלטי
+רואידוסה
+סאלט פלאט
+סרגוסא
+שאפטר
+שרווד
+שמולה
+ספרייברי
+סטילס
+סטאדי בוט
+טרלינגואה
+טנסוס
+טקסון
+ת'יאודור
+טינאג'אה
+תויה
+תולסא
+אפלנד
+ורהלם
+וינגרון
+וונטוורט'
+ווייט ספו
