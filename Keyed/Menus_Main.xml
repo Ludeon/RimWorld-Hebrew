@@ -296,7 +296,7 @@
 <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
 <FirstNameDesc>זה מוצג רק בתפריטים מסויימים\n\n.השם הפרטי של הדמות</FirstNameDesc>
 <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-<ShortIdentifierDesc>זה מוצג בכל הזמנים. זה גם יכול להיות שם ראשון או אחרון, או כינוי שונה לגמרי.\n\n.המזהה הקצר של הדמות/ShortIdentifierDesc>
+<ShortIdentifierDesc>זה מוצג בכל הזמנים. זה גם יכול להיות שם ראשון או אחרון, או כינוי שונה לגמרי.\n\n.המזהה הקצר של הדמות</ShortIdentifierDesc>
 <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
 <LastNameDesc>זה מוצג רק בתפריטים מסויימים\n\n.השם משפחה של הדמות</LastNameDesc>
 <!-- EN: Randomize -->

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ExtremelyLow.label>extremely low</ExtremelyLow.label>
-  <VeryLow.label>very low</VeryLow.label>
-  <Low.label>low</Low.label>
-  <Moderate.label>moderate</Moderate.label>
-  <High.label>high</High.label>
-  <SkyHigh.label>sky high</SkyHigh.label>
+  <ExtremelyLow.label>נמוכות במיוחד</ExtremelyLow.label>
+  <VeryLow.label>נמוכות מאוד</VeryLow.label>
+  <Low.label>נמוכות</Low.label>
+  <Moderate.label>בינוניות</Moderate.label>
+  <High.label>גבוהות</High.label>
+  <SkyHigh.label>בשמיים</SkyHigh.label>
 
 
 </LanguageData>
