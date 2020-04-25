@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <BorealForest.label>boreal forest</BorealForest.label>
-  <BorealForest.description>Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers.</BorealForest.description>
+  <BorealForest.label>יער צפוני</BorealForest.label>
+  <BorealForest.description>יערות של עצים מחטניים, למרות החורפים האכזריים, יערים צפוניים תומכים באכלוסיה מגוונת של חיות גדולות וקטנות, וחוות קיצים חמים.</BorealForest.description>
 
-  <Tundra.label>tundra</Tundra.label>
+  <Tundra.label>טונדרה</Tundra.label>
   <Tundra.description>These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators.</Tundra.description>
 
-  <ColdBog.label>cold bog</ColdBog.label>
-  <ColdBog.description>A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem.</ColdBog.description>
+  <ColdBog.label>ביצה קרה</ColdBog.label>
+  <ColdBog.description>תביצה מלאה בעצים וגפן, רוב האדמה הבוצית לא יכולה לתמוך במבנים כבדים, תנועה מוגבלת עקב צמחיה חונקת, מחלות הם מקומיות במערכת האקולוגית הצפופה והרטובה הזאת.</ColdBog.description>
+  
+  <IceSheet.label>כפת קרח</IceSheet.label>
+  <IceSheet.description>סדינים של קרח היכולים להיות קילומטרים בעובי, אין אדמה בשביל גידול צמחים. החיות שכאן נודדות למקום אחר, או אבודים קשות</IceSheet.description>
 
-  <IceSheet.label>ice sheet</IceSheet.label>
-  <IceSheet.description>Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost.</IceSheet.description>
-
-  <SeaIce.label>sea ice</SeaIce.label>
-  <SeaIce.description>Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life.</SeaIce.description>
-
+  <SeaIce.label>ים קרח</SeaIce.label>
+  <SeaIce.description>סדיני קרח תמידים, אין אדמה בשביל גידול צמחים, אין מינרלים לחציבה, וכמעט ללא בעלי חיים.</SeaIce.description>
+  
 
 </LanguageData>

@@ -5,11 +5,11 @@
   <ClickToJumpToProblem>לחץ למעבר לבעיה</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>סיכון שבירה מנטאלית קל</BreakRiskMinor>
+  <BreakRiskMinor>סיכון שבירה נפשית קלה</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>סיכון שבירה מנטאלית משמעותי</BreakRiskMajor>
+  <BreakRiskMajor>סיכון שבירה נפשית משמעותית</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>סיכון שבירה מנטאלית קיצוני</BreakRiskExtreme>
+  <BreakRiskExtreme>סיכון שבירה נפשית קיצונית</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
   <BreakRiskMinorDesc>התושבים הבאים לוקים במצב רוח ירוד ועלולים להישבר קלות בכל רגע:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
