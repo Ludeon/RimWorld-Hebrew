@@ -9,9 +9,13 @@
         <roleKey>Credit_Translator</roleKey>
         <creditee>איוון 'Climax708' רובינסון</creditee>
     </li>
-	<li Class="CreditRecord_Role">
+	  <li Class="CreditRecord_Role">
         <roleKey>Credit_Translator</roleKey>
         <creditee>Nimrod Rappaport</creditee>
+    </li>
+      <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Tzlil 'Terradice'</creditee>
     </li>
   </credits>
 </LanguageInfo>
