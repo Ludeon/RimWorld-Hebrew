@@ -1,106 +1,107 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  <!-- ניסיתי לתרגם לשמות פעולה כדי שהמגדר ישאר נטרלי-->
   <!-- EN: Confirm -->
-  <Confirm>Confirm</Confirm>
+  <Confirm>אישור</Confirm>
   <!-- EN: Go back -->
-  <GoBack>Go back</GoBack>
+  <GoBack>חזרה</GoBack>
   <!-- EN: OK -->
-  <OK>OK</OK>
+  <OK>אוקיי</OK>
   <!-- EN: Close -->
-  <Close>Close</Close>
+  <Close>סגירה</Close>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
-  <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionInitial>רימוורלד התעדכן מגירסה {0} לגירסה {1}</GameUpdatedToNewVersionInitial>
   <!-- EN: This may cause saved games and mods from the old version to stop working. -->
-  <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesIncompatible>זה עלול לגרום למשחקים שמורים ולמודים מהגירסה הקודמת להפסיק לתפקד.</GameUpdatedToNewVersionSavesIncompatible>
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
-  <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionSavesCompatible>משחקים שמורים מהגירסה הקודמת אמורים להתאים לגירסה הנוכחית אך מודים מסוגלים להפסיק לעבוד</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
-  <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionNonSteam>מאחר והעתק זה של המשחק הינו חופשי מדר"ם, אפשר להתקין את המחשק בשתי תיקיות שונות ואז לשחק בגירסה הישנה ובגירסה החדשה.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this. -->
-  <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>אם הינך רוצה להישאר לשחק בגירסה הקודמת, אםשר לעשות זאת בעזרת ה"בטא" של סטים.\n\n 1. בספרייה של סטים, ללחוץ על רימוורלד.\n 2. ללחוץ על תכונות.\n 3. ללחוץ על חלונית הבטא.\n 4.ללחוץ על גירסת המשחק המועדפת מהתפריט.\n\n גירסאות ישנות בשלב מסוים יוצאו מהרשימה, פשוט אין לנו רצון לקטוע משחק באמצע.\n\n מה שכן, אם מוד מתעדכן לגירסה החדשה אז יש מצב שאי אפשר יהיה לשחק איתו בגירסה הנוכחית לכן אנו ממליצים לכבות עידכונים אוטומטיים.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsDialogTitle>המשחק התאושש מאי-תאימות או השחתה של מודים</RecoveredFromErrorsDialogTitle>
   <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsText>נדמה שאחד או יותר מהמודים הפועלים גרם לבעיות.\n\n המודים לא התאימו אחד לשני, הותאמו לגירסה אחרת, או הושחתו.\n\n כל המודים בוטלו ויכולים להיות מופעלים שוב בחלונית של המודים.</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
   <!-- EN: Error while loading assets -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssetsTitle>שגיאה בזמן טעינה של נכסים.</ErrorWhileLoadingAssetsTitle>
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
-  <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets>שגיאה התרחשה בזמן טעינת נכסים. בדוק את תיעוד השגיאה לעוד נתונים.</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>המשחק כרגע פועל עם מודים לא רשמיים - הם עלולים לגרום לבעיות.</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMapTitle>שגיאה בזמן יצירת מפה./ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
-  <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
+  <ErrorWhileGeneratingMap>שגיאה התרחשה בזמן יצירת המפה. בדוק את תיעוד השגיאה לעוד נתונים.</ErrorWhileGeneratingMap>
   <!-- EN: Error while loading a map -->
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMapTitle>שגיאה בזמן טעינת מפה</ErrorWhileLoadingMapTitle>
   <!-- EN: An error occurred while loading a map. See error log for more information. -->
-  <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingMap>שגיאה התרחשה בזמן טעינת המפה. בדוק את תיעוד השגיאה לעוד נתונים.</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
+  <ModsChanged>רשימת המודים הפעילים השתנתה. המשחק עכשיו יתאתחל אוטומטית.</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
-  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
+  <FailedToRestart>התרחשה בעיה במהלך אתחול המשחק. המשחק לא יכול להסיר לגמרי את הקוד המיוחד מהמודים הלא פעילים, לכן קוד ממודים לא פעילים עדיין עשוי להיות פעיל.\n\n מומלץ שתצא מהמשחק ותיכנס אליו כדי שהוא יטען את כל המודים בצורה נקייה.</FailedToRestart>
   <!-- EN: Restarting -->
-  <Restarting>Restarting</Restarting>
+  <Restarting>מאתחל</Restarting>
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>לא יכל להתחבר לממשק של סטים.\n\n סיבות אפשריות:\n\n-סטים לא רץ.\n-המשחק הופעל מחוץ לסטים בלי steam.txt במקום.\n-המשחק רץ עם הרשאות שונות מסטים (לדוגמא, ""מנהל").\n\n ברוב המקרים, איתחול של המחשב יטפל בבעיה.\n\n אפשר לשחק במשחק בכל מקרה, אך הנתונים של סטים לא יוקלטו וכמה מתכונות המשחק לא יפעלו.</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
-  <InitializingInterface>Initializing interface</InitializingInterface>
+  <InitializingInterface>מאתחל את הממשק</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>מסיר נכסים לא משומשים</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
+  <LoadingAllActiveMods>טוען את כל המודים הפעילים</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
-  <LoadingDefs>Loading defs</LoadingDefs>
+  <LoadingDefs>טוען פונקציות</LoadingDefs>
+  <!-- Emmm not sure if "functions" applies-->
   <!-- EN: Loading assets -->
-  <LoadingAssets>Loading assets</LoadingAssets>
+  <LoadingAssets>טוען נכסים</LoadingAssets>
   <!-- EN: Initializing -->
-  <Initializing>Initializing</Initializing>
+  <Initializing>מאתל</Initializing>
   <!-- EN: Loading world -->
-  <LoadingWorld>Loading world</LoadingWorld>
+  <LoadingWorld>טוען את העולם</LoadingWorld>
   <!-- EN: Loading map -->
-  <LoadingMap>Loading map</LoadingMap>
+  <LoadingMap>טוען את המפה</LoadingMap>
   <!-- EN: Initializing game -->
-  <InitializingGame>Initializing game</InitializingGame>
+  <InitializingGame>מאתחל את המשחק</InitializingGame>
   <!-- EN: Spawning things -->
-  <SpawningAllThings>Spawning things</SpawningAllThings>
+  <SpawningAllThings>יוצר דברים</SpawningAllThings>
   <!-- EN: Spawning colonists -->
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <SpawningColonists>יוצר תושבים</SpawningColonists>
   
   <!-- Save/load -->
   <!-- EN: Save -->
-  <SaveGameButton>Save</SaveGameButton>
+  <SaveGameButton>שמירה</SaveGameButton>
   <!-- EN: Load -->
-  <LoadGameButton>Load</LoadGameButton>
+  <LoadGameButton>טעינה</LoadGameButton>
   <!-- EN: Overwrite -->
-  <OverwriteButton>Overwrite</OverwriteButton>
+  <OverwriteButton>החלף</OverwriteButton>
   <!-- EN: Really delete {0}? -->
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
+  <ConfirmDelete>מחק באמת את {0}?</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
+  <DeleteThisSavegame>מחק את המשחק השמור הזה</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
-  <SavedAs>Saved as {0}.</SavedAs>
+  <SavedAs>שמר את המשחק כ {0}</SavedAs>
   <!-- EN: Please enter a name. -->
-  <NeedAName>Please enter a name.</NeedAName>
+  <NeedAName>בבקשה רשום שם</NeedAName>
   <!-- EN: Loading -->
-  <LoadingLongEvent>Loading</LoadingLongEvent>
+  <LoadingLongEvent>טוען</LoadingLongEvent>
   <!-- EN: Saving -->
-  <SavingLongEvent>Saving</SavingLongEvent>
+  <SavingLongEvent>שומר</SavingLongEvent>
   <!-- EN: (Permadeath) -->
-  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <PermadeathModeSaveSuffix>()</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
   <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
