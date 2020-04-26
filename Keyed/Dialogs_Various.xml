@@ -101,25 +101,26 @@
   <!-- EN: Saving -->
   <SavingLongEvent>שומר</SavingLongEvent>
   <!-- EN: (Permadeath) -->
-  <PermadeathModeSaveSuffix>()</PermadeathModeSaveSuffix>
+  <PermadeathModeSaveSuffix>(מוות סופי)</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>המשחק רץ על גירסה {0} אבל הגירסה של המשחק השמור הנה {1}, שזוהי גירסה שונה לחלוטין.\n\n ניסיון לטעון את המשחק השמור הזה כנראה לא יעבוד.</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromDifferentGameBuild>המשחק רץ על גירסה {0} אבל הגירסה של המשחק השמור הנה {1}, שזוהי גירסה שונה.\n\n ניסיון לטעון את המשחק השמור הזה אמור לעבוד.</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
+  <SaveIsFromThisGameBuild>המשחק השמור נשמר עם הגירסה הנוכחית ואמור לתפקד ללא רבב.</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
+  <SaveIsUnknownFormat>המשחק נשמר בפורמט לא ידוע וכנראה שלא ייטען כראוי.</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
+  <ProblemSavingFile>הייתה בעייה בשמירת הקובץ {0}:\n\n{1}\n\nראה את תיעוד הבעיה לעוד מידע.</ProblemSavingFile>
   <!-- EN: Load anyway -->
-  <LoadAnyway>Load anyway</LoadAnyway>
+  <LoadAnyway>טען בכל מקרה</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
+  <ChangeLoadedMods>טען את רשימת המודים מהמשחק השמור</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
-  <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
+  <MissingMods>כמה מהמודים לא זמינים והמשחק יצטרך להוריד אותם</MissingMods>
   
   <!-- Player faction naming -->
+  <!-- TODO: Contains gendered text that i don't know how to transtlate correctly-->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
   <NamePlayerFactionMessage>Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
@@ -143,13 +144,14 @@
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
+  <NameIsInvalid>להכניס שם תקף בבקשה</NameIsInvalid>
   <!-- EN: Name is already in use. -->
-  <NameIsInUse>Name is already in use.</NameIsInUse>
+  <NameIsInUse>השם כבר בשימוש</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  <ZoneGainsName>השם של המרחב עכשיו הוא {0}</ZoneGainsName>
   
   <!-- Pawn naming -->
+  <!-- TODO: Contains gendered text that i don't know how to transtlate correctly-->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
@@ -157,238 +159,243 @@
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
-  <VersionMismatch>Version mismatch</VersionMismatch>
+  <VersionMismatch>אי התאמה בגירסאות</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>המשחק השמור הזה נשמר בגירסה {0}\n המשחק מריץ את הגירסה {1}\n\n טעינה של משחק זה עלולה לגרום לבאגים וקריסות.</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>העולם נוצר בגירסה {0}\nהמשחק רץ על גירסה {1}\n\n טעינה של העולם הזה עלולה לגרום לבאגים וקריסות. מומלץ ליצור עולם מחדש.</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
+  <FileIncompatibleWarning>הקובץ הזה נוצר בגירסה {0}\n\n המשחק רץ על גירסה {1}\n\n טעינה של קובץ זה עלולה לגרום לבאגים או קריסות.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
-  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
+  <ModsMismatchWarningTitle>אי התאמה במודים</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>הקובץ הזה נשמר עם מודים פעילים אחרים מאלה שפעילים עכשיו. דבר זה עלול לגרום לבעיות, תלוי על מה המודים משפיעים.\n\nהקובץ הזה נשמר עם (בסדר הזה):\n\n{0}\n\n המשחק כרגע מקיץ (בסדר הזה):\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>הגדרות המסך השתנו. ההגדרות החדשות עובדות טוב?\n\nמחזיר לקודמות בעוד {0}...</ConfirmResolutionChange>
   <!-- EN: Keep -->
-  <ResolutionKeep>Keep</ResolutionKeep>
+  <ResolutionKeep>שמור</ResolutionKeep>
   <!-- EN: Revert -->
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ResolutionRevert>החזר</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>לבטל לגמרי את מצב המפתח על המחשב הזה?\n\nאופציה זו היא לאנשים שרוצים משחק תהור בלי הפיתוי להשתמש בכלים של מצב הפיתוח כדי לקבל יתרון.\n\n אפשר לאפשר שוב את מצב הפיתוח אך דבר זה דורש לערוך ידנית קבצי תצורה. דבר זה דורש מדריך מהאינטרנט.</ConfirmPermanentlyDisableDevMode>
 
   <!-- Research -->
+  <!-- TODO: Not sure about some of those, might need to edit later-->
   <!-- EN: Research -->
-  <Research>Research</Research>
+  <Research>לחקור</Research>
   <!-- EN: Researched -->
-  <Researched>Researched</Researched>
+  <Researched>נחקר</Researched>
   <!-- EN: Unresearched -->
-  <Unresearched>Unresearched</Unresearched>
+  <Unresearched>לא נחקר</Unresearched>
   <!-- EN: Finished -->
-  <Finished>Finished</Finished>
+  <Finished>סיים</Finished>
   <!-- EN: In Progress -->
-  <InProgress>In Progress</InProgress>
+  <InProgress>בתהליך</InProgress>
   <!-- EN: Locked -->
-  <Locked>Locked</Locked>
+  <Locked>נעול</Locked>
   <!-- EN: Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now. -->
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
+  <ResearchMenuWithoutBench>עד שנבנה שולחן מחקר, התושבים לא באמת יוכלו לחקור.\n\n עדיין אפשרי להסתכל על פרוייקטי חקר עכשיו.</ResearchMenuWithoutBench>
   <!-- EN: Research prerequisites -->
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
+  <ResearchPrerequisites>תקדימים לחקירה</ResearchPrerequisites>
   <!-- EN: Required research bench -->
-  <RequiredResearchBench>Required research bench</RequiredResearchBench>
+  <RequiredResearchBench>דורש שולחן חקירה</RequiredResearchBench>
   <!-- EN: Required research bench facilities -->
-  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
+  <RequiredResearchBenchFacilities>נלווים לשולחן החקר שנדרשים</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>אזהרה: איזור זה קפוא. הישרדות באיזור זה היא קשה ועל גבול הבלתי אפשרית. אם אינך רוצה להתמודד עם משימות קיצוניות, מומלץ לבחור אתר או איזור אחר</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>המשחק תוכנן להריץ מפות בגודל בינוני. בגודל הזה יש הרבה מקום!\n\n מפות גדולות לא רק משפיעות על הביצועים - הן שוברות את המשחק. הבינה המלאכותית תעשה החלטות טיפשיות, והאיזון של המשחק יושפע לרעה מדרכים רבות.הגדלים האלה קיימים בשביל מסורת ובדיקות, בבקשה לא להשתמש בהן ללא סיבה.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
-  <MapSize>Map size</MapSize>
+  <MapSize>גודל מפה</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
-  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
+  <MapSizeDesc>{0}x{0} ({1} תאים)</MapSizeDesc>
   <!-- EN: Small -->
-  <MapSizeSmall>Small</MapSizeSmall>
+  <MapSizeSmall>קטן</MapSizeSmall>
   <!-- EN: Medium -->
-  <MapSizeMedium>Medium</MapSizeMedium>
+  <MapSizeMedium>בינוני</MapSizeMedium>
   <!-- EN: Large -->
-  <MapSizeLarge>Large</MapSizeLarge>
+  <MapSizeLarge>גדול</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
+  <MapSizeExtreme>קיצוני (בדיקה)</MapSizeExtreme>
   <!-- EN: Starting season -->
-  <MapStartSeason>Starting season</MapStartSeason>
+  <MapStartSeason>עונה בהתחלה: </MapStartSeason>
   <!-- EN: Auto -->
-  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <!-- TODO: Not sure for what, might need to be female-->
+  <MapStartSeasonDefault>אוטומטי</MapStartSeasonDefault>
   <!-- EN: Notice -->
-  <Notice>Notice</Notice>
+  <Notice>התראה</Notice>
 
   <!-- Bill config -->
+  <!-- TODO: Might need to change some forms depending on context-->
   <!-- EN: Suspended -->
-  <Suspended>Suspended</Suspended>
+  <Suspended>מושהה</Suspended>
   <!-- EN: Not suspended -->
-  <NotSuspended>Not suspended</NotSuspended>
+  <NotSuspended>לא מושהה</NotSuspended>
   <!-- EN: SUSPENDED -->
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
+  <SuspendedAllCaps>מושהה</SuspendedAllCaps>
   <!-- EN: Repeat: -->
-  <RepeatCount>Repeat:</RepeatCount>
+  <RepeatCount>עשה:</RepeatCount>
   <!-- EN: Forever -->
-  <Forever>Forever</Forever>
+  <Forever>לעד</Forever>
   <!-- EN: Details -->
-  <Details>Details</Details>
+  <Details>פירוט</Details>
   <!-- EN: Ingredient radius -->
-  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
+  <IngredientSearchRadius>טווח מרכיבים</IngredientSearchRadius>
   <!-- EN: Currently have -->
-  <CurrentlyHave>Currently have</CurrentlyHave>
+  <CurrentlyHave>כרגע יש</CurrentlyHave>
   <!-- EN: Counting -->
-  <CountingProducts>Counting</CountingProducts>
+  <CountingProducts>סופר</CountingProducts>
   <!-- EN: Infinite -->
-  <Infinite>Infinite</Infinite>
+  <Infinite>אינסופי</Infinite>
   <!-- EN: Allowed {0} skill: -->
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
+  <AllowedSkillRange>מורשה מרמה {0}:</AllowedSkillRange>
   <!-- EN: incompatible -->
-  <IncompatibleLower>incompatible</IncompatibleLower>
+  <IncompatibleLower>לא מתאים</IncompatibleLower>
   <!-- EN: Any worker -->
-  <AnyWorker>Any worker</AnyWorker>
+  <AnyWorker>כל עובד</AnyWorker>
   <!-- EN: Unlimited -->
-  <Unlimited>Unlimited</Unlimited>
+  <Unlimited>לא מוגבל</Unlimited>
   
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>(למתכון זה לא יכולה להיות כמות מוגדרת מאחר ויש לו כמה מרכיבים לא צפויים)</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
-  <WorkAmount>Work amount</WorkAmount>
+  <WorkAmount>כמות עבודה</WorkAmount>
   <!-- EN: Minimum skills: -->
-  <MinimumSkills>Minimum skills:</MinimumSkills>
+  <MinimumSkills>כישרונות מינימליים: </MinimumSkills>
   <!-- EN: Requires {0} {1} -->
-  <BillRequires>Requires {0} {1}</BillRequires>
+  <BillRequires>דורש {0} {1}</BillRequires>
   <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
+  <BillRequiresNutrition>דורש {0} תזונה</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
-  <BillRequiresMayVary>Note: Small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
+  <BillRequiresMayVary>הערה: כמה מרכיבים קטנים כגון זהב דורשים פי {0} יותר</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>זהו מרכיב קטן. זה אומר שכל "יחידה" היא רק 1/{0} מהגודל של יחידה רגילה. לכן, בשביל למלא את הכמות, צריך פי {0} מרכיבים מהרגיל</ThisIsSmallVolume>
   <!-- EN: ingredients -->
-  <UsableIngredients>ingredients</UsableIngredients>
+  <UsableIngredients>מרכיבים</UsableIngredients>
   <!-- EN: To {0} -->
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <BillRepeatTargetCountShort>עד {0}</BillRepeatTargetCountShort>
 
   <!-- EN: Pause when satisfied -->
-  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
+  <PauseWhenSatisfied>הפסק בסיפוק</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
-  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
+  <UnpauseWhenYouHave>המשך ב</UnpauseWhenYouHave>
   <!-- EN: Paused -->
-  <Paused>Paused</Paused>
+  <Paused>מושהה</Paused>
   <!-- EN: Unpause -->
-  <Unpause>Unpause</Unpause>
+  <Unpause>לא מושהה</Unpause>
 
   <!-- EN: Count equipped -->
-  <IncludeEquipped>Count equipped</IncludeEquipped>
+  <IncludeEquipped>מנה ציוד</IncludeEquipped>
   <!-- EN: Count tainted -->
-  <IncludeTainted>Count tainted</IncludeTainted>
+  <IncludeTainted>מנה מוכתמים</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
-  <LimitToAllowedStuff>Only allowed ingredients</LimitToAllowedStuff>
+  <LimitToAllowedStuff>שימוש רק במרכיבים מאושרים</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
-  <IncludeFromAll>Look everywhere</IncludeFromAll>
+  <IncludeFromAll>בדוק בכל מקום</IncludeFromAll>
   <!-- EN: Look in {0} -->
-  <IncludeSpecific>Look in {0}</IncludeSpecific>
+  <IncludeSpecific>הסתכל ב{0}</IncludeSpecific>
   
   <!-- Info card -->
   <!-- EN: Damage -->
-  <Damage>Damage</Damage>
+  <Damage>נזק</Damage>
   <!-- EN: Armor penetration -->
-  <ArmorPenetration>Armor penetration</ArmorPenetration>
+  <ArmorPenetration>חדירת שיריון</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>חדירת שיריון היא כמות השיריון שהנשק יתעלם ממנה בכל פעם שהוא פוגע במטרתו.\n\n אם חדירת השיריון גדולה יותר מהשיריון של המטרה השיריון של המטרה לא יחשב. אחרת, השיריון של המטרה הוא השיריון שלה פחות חדירת השיריון</ArmorPenetrationExplanation>
   <!-- EN: Accuracy -->
-  <Accuracy>Accuracy</Accuracy>
+  <Accuracy>דיוק</Accuracy>
   <!-- EN: Burst shot count -->
-  <BurstShotCount>Burst shot count</BurstShotCount>
+  <BurstShotCount>גודל של פרץ יריות</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>Warmup</WarmupTime>
+  <WarmupTime>חימום</WarmupTime>
   <!-- EN: Melee warmup -->
-  <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
+  <!-- TODO: shitty translation tbh-->
+  <MeleeWarmupTime>חימום לפנים מול פנים</MeleeWarmupTime>
   <!-- EN: Cooldown -->
-  <CooldownTime>Cooldown</CooldownTime>
+  <CooldownTime>רגיעה</CooldownTime>
   <!-- EN: Fire rate -->
-  <BurstShotFireRate>Fire rate</BurstShotFireRate>
+  <BurstShotFireRate>קצב ירי</BurstShotFireRate>
   <!-- EN: Range -->
-  <Range>Range</Range>
+  <Range>טווח</Range>
   <!-- EN: Stopping power -->
-  <StoppingPower>Stopping power</StoppingPower>
+  <StoppingPower>כוח עצירה</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>Hits from this weapon will stagger targets, slowing their movement for several seconds. Targets with a body size larger than the stopping power will be unaffected.</StoppingPowerExplanation>
+  <StoppingPowerExplanation>מכות מנשק זה יזעזעו אויבים, מה שיאט את תנועתם במשך כמה שניות. מטרות שגופן גדול מכוח העצירה של הנשק לא יושפעו.</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
-  <DirectHitChance>Direct hit chance</DirectHitChance>
+  <DirectHitChance>סיכוי לפגיעה ישירה</DirectHitChance>
   <!-- EN: Miss radius -->
-  <MissRadius>Miss radius</MissRadius>
+  <MissRadius>רדיוס של החטאה</MissRadius>
   <!-- EN: Grows wild -->
-  <GrowsWild>Grows wild</GrowsWild>
+  <GrowsWild>גדל בפרא</GrowsWild>
   <!-- EN: Harvestable -->
-  <Harvestable>Harvestable</Harvestable>
+  <Harvestable>ניתן לקצירה</Harvestable>
   <!-- EN: Limited lifespan -->
-  <LimitedLifespan>Limited lifespan</LimitedLifespan>
+  <LimitedLifespan>תוחלת חיים מוגבלת</LimitedLifespan>
   <!-- EN: Growing time -->
-  <GrowingTime>Growing time</GrowingTime>
+  <GrowingTime>זמן גדילה</GrowingTime>
   <!-- EN: Harvest yield -->
-  <HarvestYield>Harvest yield</HarvestYield>
+  <HarvestYield>כמות בקציר</HarvestYield>
   <!-- EN: Min growth temperature -->
-  <MinGrowthTemperature>Min growth temperature</MinGrowthTemperature>
+  <MinGrowthTemperature>טמפרטורה מינימלית לגדילה</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
-  <MaxGrowthTemperature>Max growth temperature</MaxGrowthTemperature>
+  <MaxGrowthTemperature>טמפרטורה מקסימלית לגדילה</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth. -->
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
+  <GrowingTimeDesc>צמחים יכולים לגדול רק בחלק מהיום, ורק שמואר. הנתון הזה מודד את הזמן שהצמחים צריכים אקטיבית לגדול בכדי להגיע לגודלם המלא. זמן הגדילה האמיתי לרוב יהיה פי 2 מזמן זה. טמפרטורות נמוכות גם מונעות גדילה</GrowingTimeDesc>
   <!-- EN: days -->
-  <Days>days</Days>
+  <Days>ימים</Days>
   <!-- EN: Minimum growing skill to sow -->
-  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>רמה מינימלית בשביל לשתול</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
-  <FertilityRequirement>Fertility requirement</FertilityRequirement>
+  <FertilityRequirement>פוריות נדרשת</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
-  <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
+  <FertilitySensitivity>רגישות לפוריות</FertilitySensitivity>
   <!-- EN: Light requirement -->
-  <LightRequirement>Light requirement</LightRequirement>
+  <LightRequirement>דרישת אור</LightRequirement>
   <!-- EN: Attributes -->
-  <Attributes>Attributes</Attributes>
+  <Attributes>תכונות</Attributes>
   <!-- EN: Lifespan -->
-  <LifeSpan>Lifespan</LifeSpan>
+  <LifeSpan>תוחלת חיים</LifeSpan>
   <!-- EN: Nutrition -->
-  <Nutrition>Nutrition</Nutrition>
+  <Nutrition>ערך תזונתי</Nutrition>
   <!-- EN: Recreation -->
-  <Joy>Recreation</Joy>
+  <Joy>ערך שעשוע</Joy>
   <!-- EN: Food quality -->
-  <FoodQuality>Food quality</FoodQuality>
+  <FoodQuality>איכות האוכל</FoodQuality>
   <!-- EN: Walk speed -->
-  <WalkSpeedProperty>Walk speed</WalkSpeedProperty>
+  <WalkSpeedProperty>מהירות אכילה</WalkSpeedProperty>
   <!-- EN: Min. food quality -->
-  <MinFoodQuality>Min. food quality</MinFoodQuality>
+  <MinFoodQuality>איכות מימלית של אוכל</MinFoodQuality>
   <!-- EN: Diet -->
-  <Diet>Diet</Diet>
+  <Diet>דיאטה</Diet>
   <!-- EN: Leather type -->
-  <LeatherType>Leather type</LeatherType>
+  <LeatherType>סוג עור</LeatherType>
   <!-- EN: Body size -->
-  <BodySize>Body size</BodySize>
+  <BodySize>גודל גוף</BodySize>
   <!-- EN: Recruit difficulty -->
-  <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
+  <RecruitDifficulty>קושי לגיוס</RecruitDifficulty>
   <!-- EN: Base price -->
-  <MarketValue>Base price</MarketValue>
+  <MarketValue>מחיר בסיסי</MarketValue>
   <!-- EN: Covers -->
-  <Covers>Covers</Covers>
+  <!-- TODO: not sure about context-->
+  <Covers>מכסה</Covers>
   <!-- EN: Layer -->
-  <Layer>Layer</Layer>
+  <Layer>שכבה</Layer>
   <!-- EN: Cover effectiveness -->
-  <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
+  <CoverEffectiveness>אפקטיביות של מחסה</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight. Higher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>כמה אפקטיבי מחסה זה כשמתמשים בו כמכסה בזמן קרב יריות. אחוזים גדולים יותר מראים חסימה של יותר יריות.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
-  <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
+  <MedicineXpGainFactor>קצב צבירת ניסיון</MedicineXpGainFactor>
   <!-- EN: Mood change -->
-  <MoodChange>Mood change</MoodChange>
+  <MoodChange>שינוי מצב רוח</MoodChange>
   <!-- EN: Wildness -->
-  <Wildness>Wildness</Wildness>
+  <Wildness>פראות</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
   <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
   <!-- EN: Training decay interval -->
