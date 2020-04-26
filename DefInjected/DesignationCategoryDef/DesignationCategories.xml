@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Orders.label>orders</Orders.label>
-  <Zone.label>zone/Area</Zone.label>
-  <Structure.label>structure</Structure.label>
-  <Production.label>production</Production.label>
-  <Furniture.label>furniture</Furniture.label>
-  <Power.label>power</Power.label>
-  <Security.label>security</Security.label>
-  <Misc.label>misc</Misc.label>
-  <Floors.label>floors</Floors.label>
-  <Joy.label>recreation</Joy.label>
-  <Ship.label>ship</Ship.label>
-  <Temperature.label>temperature</Temperature.label>
+  <!-- EN: orders -->
+  <Orders.label>פקודות</Orders.label>
+  <!-- EN: zone/Area -->
+  <Zone.label>איזור/מרחב</Zone.label>
+  <!-- EN: structure -->
+  <Structure.label>מבנה</Structure.label>
+  <!-- EN: production -->
+  <Production.label>תפוקה</Production.label>
+  <!-- EN: furniture -->
+  <Furniture.label>רהיטים</Furniture.label>
+  <!-- EN: power -->
+  <Power.label>חשמל</Power.label>
+  <!-- EN: security -->
+  <Security.label>אבטחה</Security.label>
+  <!-- EN: misc -->
+  <Misc.label>שונות</Misc.label>
+  <!-- EN: floors -->
+  <Floors.label>מרצפות</Floors.label>
+  <!-- EN: recreation -->
+  <Joy.label>שעשוע</Joy.label>
+  <!-- EN: ship -->
+  <Ship.label>ספינה</Ship.label>
+  <!-- EN: temperature -->
+  <Temperature.label>טמפרטורה</Temperature.label>
 
 
 </LanguageData>

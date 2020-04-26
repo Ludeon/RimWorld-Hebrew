@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <HugeRiver.label>huge river</HugeRiver.label>
-  <LargeRiver.label>large river</LargeRiver.label>
-  <River.label>river</River.label>
-  <Creek.label>creek</Creek.label>
+  <!-- EN: huge river -->
+  <HugeRiver.label>נהר ענק</HugeRiver.label>
+  <!-- EN: large river -->
+  <LargeRiver.label>נהר גדול</LargeRiver.label>
+  <!-- EN: river -->
+  <River.label>נהר</River.label>
+  <!-- EN: creek -->
+  <Creek.label>נחל</Creek.label>
 
 
 </LanguageData>

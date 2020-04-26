@@ -29,6 +29,7 @@ Urbworld -
 Medival - 
 לכתוב ימי הביניים על כל דבר מאוד ארוך. בנוסף, צורת פועל בעייתית, ימי ביניימי?
 Glitterworld - עולם מנצנץ?
+barracks - בסיס?
 chemfuel - 
 suggestions -
 not a clue on how to approach this, דלק כימי? דלכימי לא נשמע טוב
