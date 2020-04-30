@@ -1,61 +1,115 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <MechanicalCentipede.label>mechanical centipede</MechanicalCentipede.label>
-  <MechanicalCentipede.corePart.parts.0.parts.1.customLabel>left sight sensor</MechanicalCentipede.corePart.parts.0.parts.1.customLabel>
-  <MechanicalCentipede.corePart.parts.0.parts.2.customLabel>right sight sensor</MechanicalCentipede.corePart.parts.0.parts.2.customLabel>
-  <MechanicalCentipede.corePart.parts.0.parts.3.customLabel>left hearing sensor</MechanicalCentipede.corePart.parts.0.parts.3.customLabel>
-  <MechanicalCentipede.corePart.parts.0.parts.4.customLabel>right hearing sensor</MechanicalCentipede.corePart.parts.0.parts.4.customLabel>
+  <!-- EN: mechanical centipede -->
+  <MechanicalCentipede.label>נדל מכני</MechanicalCentipede.label>
+  <!-- EN: left sight sensor -->
+  <MechanicalCentipede.corePart.parts.0.parts.1.customLabel>חיישן הראייה השמאלי</MechanicalCentipede.corePart.parts.0.parts.1.customLabel>
+  <!-- EN: right sight sensor -->
+  <MechanicalCentipede.corePart.parts.0.parts.2.customLabel>חיישן הראייה הימני</MechanicalCentipede.corePart.parts.0.parts.2.customLabel>
+  <!-- EN: left hearing sensor -->
+  <MechanicalCentipede.corePart.parts.0.parts.3.customLabel>חיישן השמיעה השמאלי</MechanicalCentipede.corePart.parts.0.parts.3.customLabel>
+  <!-- EN: right hearing sensor -->
+  <MechanicalCentipede.corePart.parts.0.parts.4.customLabel>חיישן השמיעה הימני</MechanicalCentipede.corePart.parts.0.parts.4.customLabel>
 
-  <Lancer.label>lancer</Lancer.label>
-  <Lancer.corePart.parts.0.parts.0.parts.1.customLabel>left sight sensor</Lancer.corePart.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.2.customLabel>right sight sensor</Lancer.corePart.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.3.customLabel>left hearing sensor</Lancer.corePart.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.0.parts.0.parts.4.customLabel>right hearing sensor</Lancer.corePart.parts.0.parts.0.parts.4.customLabel>
-  <Lancer.corePart.parts.1.customLabel>left shoulder</Lancer.corePart.parts.1.customLabel>
-  <Lancer.corePart.parts.1.parts.0.customLabel>left arm</Lancer.corePart.parts.1.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.customLabel>left hand</Lancer.corePart.parts.1.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>left pinky</Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>left middle finger</Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>left index finger</Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>left thumb</Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.2.customLabel>right mechanical shoulder</Lancer.corePart.parts.2.customLabel>
-  <Lancer.corePart.parts.2.parts.0.customLabel>right arm</Lancer.corePart.parts.2.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.customLabel>right hand</Lancer.corePart.parts.2.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>right pinky</Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>right middle finger</Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>right index finger</Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
-  <Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>right thumb</Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
-  <Lancer.corePart.parts.3.customLabel>left leg</Lancer.corePart.parts.3.customLabel>
-  <Lancer.corePart.parts.3.parts.0.customLabel>left foot</Lancer.corePart.parts.3.parts.0.customLabel>
-  <Lancer.corePart.parts.4.customLabel>right leg</Lancer.corePart.parts.4.customLabel>
-  <Lancer.corePart.parts.4.parts.0.customLabel>right foot</Lancer.corePart.parts.4.parts.0.customLabel>
+  <!-- EN: lancer -->
+  <Lancer.label>רומֶח</Lancer.label>
+  <!-- משתמש ברומח, נושא רומח-->
+  <!-- EN: left sight sensor -->
+  <Lancer.corePart.parts.0.parts.0.parts.1.customLabel>חיישן הראייה השמאלי</Lancer.corePart.parts.0.parts.0.parts.1.customLabel>
+  <!-- EN: right sight sensor -->
+  <Lancer.corePart.parts.0.parts.0.parts.2.customLabel>חיישן הראייה הימני</Lancer.corePart.parts.0.parts.0.parts.2.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Lancer.corePart.parts.0.parts.0.parts.3.customLabel>חיישן השמיעה השמאלי</Lancer.corePart.parts.0.parts.0.parts.3.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Lancer.corePart.parts.0.parts.0.parts.4.customLabel>חיישן השמיעה הימני</Lancer.corePart.parts.0.parts.0.parts.4.customLabel>
+  <!-- EN: left shoulder -->
+  <Lancer.corePart.parts.1.customLabel>כתף שמאל</Lancer.corePart.parts.1.customLabel>
+  <!-- EN: left arm -->
+  <Lancer.corePart.parts.1.parts.0.customLabel>זרוע שמאל</Lancer.corePart.parts.1.parts.0.customLabel>
+  <!-- EN: left hand -->
+  <Lancer.corePart.parts.1.parts.0.parts.0.customLabel>כף יד שמאל</Lancer.corePart.parts.1.parts.0.parts.0.customLabel>
+  <!-- EN: left pinky -->
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>זרת שמאלית</Lancer.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+  <!-- EN: left middle finger -->
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>צרדה שמאלית</Lancer.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+  <!-- EN: left index finger -->
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>אצבע מורה שמאלית</Lancer.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+  <!-- EN: left thumb -->
+  <Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>אגודל שמאל</Lancer.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+  <!-- EN: right mechanical shoulder -->
+  <Lancer.corePart.parts.2.customLabel>כתף מכנית ימין</Lancer.corePart.parts.2.customLabel>
+  <!-- EN: right arm -->
+  <Lancer.corePart.parts.2.parts.0.customLabel>זרוע ימין</Lancer.corePart.parts.2.parts.0.customLabel>
+  <!-- EN: right hand -->
+  <Lancer.corePart.parts.2.parts.0.parts.0.customLabel>יד ימין</Lancer.corePart.parts.2.parts.0.parts.0.customLabel>
+  <!-- EN: right pinky -->
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>זרת ימנית</Lancer.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <!-- EN: right middle finger -->
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>צרדה ימנית</Lancer.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <!-- EN: right index finger -->
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>אצבע מורה ימנית</Lancer.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <!-- EN: right thumb -->
+  <Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>אגודך ימין</Lancer.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <!-- EN: left leg -->
+  <Lancer.corePart.parts.3.customLabel>רגל שמאל</Lancer.corePart.parts.3.customLabel>
+  <!-- EN: left foot -->
+  <Lancer.corePart.parts.3.parts.0.customLabel>כף רגל שמאל</Lancer.corePart.parts.3.parts.0.customLabel>
+  <!-- EN: right leg -->
+  <Lancer.corePart.parts.4.customLabel>רגל ימין</Lancer.corePart.parts.4.customLabel>
+  <!-- EN: right foot -->
+  <Lancer.corePart.parts.4.parts.0.customLabel>כף רגל ימין</Lancer.corePart.parts.4.parts.0.customLabel>
 
-  <Scyther.label>scyther</Scyther.label>
-  <Scyther.corePart.parts.0.parts.0.parts.1.customLabel>left sight sensor</Scyther.corePart.parts.0.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.2.customLabel>right sight sensor</Scyther.corePart.parts.0.parts.0.parts.2.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.3.customLabel>left hearing sensor</Scyther.corePart.parts.0.parts.0.parts.3.customLabel>
-  <Scyther.corePart.parts.0.parts.0.parts.4.customLabel>right hearing sensor</Scyther.corePart.parts.0.parts.0.parts.4.customLabel>
-  <Scyther.corePart.parts.1.customLabel>left shoulder</Scyther.corePart.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.customLabel>left arm</Scyther.corePart.parts.1.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.0.customLabel>left blade</Scyther.corePart.parts.1.parts.0.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.customLabel>left hand</Scyther.corePart.parts.1.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>left pinky</Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>left middle finger</Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>left index finger</Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
-  <Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>left thumb</Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
-  <Scyther.corePart.parts.2.customLabel>right shoulder</Scyther.corePart.parts.2.customLabel>
-  <Scyther.corePart.parts.2.parts.0.customLabel>right arm</Scyther.corePart.parts.2.parts.0.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.0.customLabel>right blade</Scyther.corePart.parts.2.parts.0.parts.0.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.customLabel>right hand</Scyther.corePart.parts.2.parts.0.parts.1.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>right pinky</Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>right middle finger</Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>right index finger</Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>
-  <Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>right thumb</Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>
-  <Scyther.corePart.parts.3.customLabel>left leg</Scyther.corePart.parts.3.customLabel>
-  <Scyther.corePart.parts.3.parts.0.customLabel>left foot</Scyther.corePart.parts.3.parts.0.customLabel>
-  <Scyther.corePart.parts.4.customLabel>right leg</Scyther.corePart.parts.4.customLabel>
-  <Scyther.corePart.parts.4.parts.0.customLabel>right foot</Scyther.corePart.parts.4.parts.0.customLabel>
+  <!-- EN: scyther -->
+  <Scyther.label>נושא חרמש</Scyther.label>
+  <!-- EN: left sight sensor -->
+  <Scyther.corePart.parts.0.parts.0.parts.1.customLabel>חיישן הראייה השמאלי</Scyther.corePart.parts.0.parts.0.parts.1.customLabel>
+  <!-- EN: right sight sensor -->
+  <Scyther.corePart.parts.0.parts.0.parts.2.customLabel>חיישן הראייה הימני</Scyther.corePart.parts.0.parts.0.parts.2.customLabel>
+  <!-- EN: left hearing sensor -->
+  <Scyther.corePart.parts.0.parts.0.parts.3.customLabel>חיישן השמיעה השמאלי</Scyther.corePart.parts.0.parts.0.parts.3.customLabel>
+  <!-- EN: right hearing sensor -->
+  <Scyther.corePart.parts.0.parts.0.parts.4.customLabel>חיישן השמיעה הימני</Scyther.corePart.parts.0.parts.0.parts.4.customLabel>
+  <!-- EN: left shoulder -->
+  <Scyther.corePart.parts.1.customLabel>כתף שמאל</Scyther.corePart.parts.1.customLabel>
+  <!-- EN: left arm -->
+  <Scyther.corePart.parts.1.parts.0.customLabel>זרוע שמאל</Scyther.corePart.parts.1.parts.0.customLabel>
+  <!-- EN: left blade -->
+  <Scyther.corePart.parts.1.parts.0.parts.0.customLabel>להב שמאלי</Scyther.corePart.parts.1.parts.0.parts.0.customLabel>
+  <!-- EN: left hand -->
+  <Scyther.corePart.parts.1.parts.0.parts.1.customLabel>יד שמאל</Scyther.corePart.parts.1.parts.0.parts.1.customLabel>
+  <!-- EN: left pinky -->
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>זרת שמאלית</Scyther.corePart.parts.1.parts.0.parts.1.parts.0.customLabel>
+  <!-- EN: left middle finger -->
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>צרדה שמאלית</Scyther.corePart.parts.1.parts.0.parts.1.parts.1.customLabel>
+  <!-- EN: left index finger -->
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>אצבע מורה שמאלית</Scyther.corePart.parts.1.parts.0.parts.1.parts.2.customLabel>
+  <!-- EN: left thumb -->
+  <Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>אגודל שמאל</Scyther.corePart.parts.1.parts.0.parts.1.parts.3.customLabel>
+  <!-- EN: right shoulder -->
+  <Scyther.corePart.parts.2.customLabel>כתף ימין</Scyther.corePart.parts.2.customLabel>
+  <!-- EN: right arm -->
+  <Scyther.corePart.parts.2.parts.0.customLabel>זרוע ימין</Scyther.corePart.parts.2.parts.0.customLabel>
+  <!-- EN: right blade -->
+  <Scyther.corePart.parts.2.parts.0.parts.0.customLabel>להב ימין</Scyther.corePart.parts.2.parts.0.parts.0.customLabel>
+  <!-- EN: right hand -->
+  <Scyther.corePart.parts.2.parts.0.parts.1.customLabel>יד ימין</Scyther.corePart.parts.2.parts.0.parts.1.customLabel>
+  <!-- EN: right pinky -->
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>זרת ימנית</Scyther.corePart.parts.2.parts.0.parts.1.parts.0.customLabel>
+  <!-- EN: right middle finger -->
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>צרדה ימנית</Scyther.corePart.parts.2.parts.0.parts.1.parts.1.customLabel>
+  <!-- EN: right index finger -->
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>אצבע מורה ימנית</Scyther.corePart.parts.2.parts.0.parts.1.parts.2.customLabel>
+  <!-- EN: right thumb -->
+  <Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>אגודל ימין</Scyther.corePart.parts.2.parts.0.parts.1.parts.3.customLabel>
+  <!-- EN: left leg -->
+  <Scyther.corePart.parts.3.customLabel>רגל שמאל</Scyther.corePart.parts.3.customLabel>
+  <!-- EN: left foot -->
+  <Scyther.corePart.parts.3.parts.0.customLabel>כף רגל שמאל</Scyther.corePart.parts.3.parts.0.customLabel>
+  <!-- EN: right leg -->
+  <Scyther.corePart.parts.4.customLabel>רגל ימין</Scyther.corePart.parts.4.customLabel>
+  <!-- EN: right foot -->
+  <Scyther.corePart.parts.4.parts.0.customLabel>כף רגל ימין</Scyther.corePart.parts.4.parts.0.customLabel>
 
 
 </LanguageData>

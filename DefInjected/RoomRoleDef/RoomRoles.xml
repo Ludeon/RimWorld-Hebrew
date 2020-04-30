@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <None.label>none</None.label>
-  <Room.label>room</Room.label>
-  <Bedroom.label>bedroom</Bedroom.label>
-  <PrisonCell.label>prison cell</PrisonCell.label>
-  <DiningRoom.label>dining room</DiningRoom.label>
-  <RecRoom.label>rec room</RecRoom.label>
-  <Hospital.label>hospital</Hospital.label>
-  <Laboratory.label>laboratory</Laboratory.label>
-  <Workshop.label>workshop</Workshop.label>
-  <Barracks.label>barracks</Barracks.label>
-  <PrisonBarracks.label>prison barracks</PrisonBarracks.label>
-  <Kitchen.label>kitchen</Kitchen.label>
-  <Tomb.label>tomb</Tomb.label>
-  <Barn.label>barn</Barn.label>
+  <!-- EN: none -->
+  <None.label>כלום</None.label>
+  <!-- EN: room -->
+  <Room.label>חדר</Room.label>
+  <!-- EN: bedroom -->
+  <Bedroom.label>חדר שינה</Bedroom.label>
+  <!-- EN: prison cell -->
+  <PrisonCell.label>תא כלא</PrisonCell.label>
+  <!-- EN: dining room -->
+  <DiningRoom.label>חדר אוכל</DiningRoom.label>
+  <!-- EN: rec room -->
+  <RecRoom.label>חדר שעשוע</RecRoom.label>
+  <!-- EN: hospital -->
+  <Hospital.label>בית חולים</Hospital.label>
+  <!-- EN: laboratory -->
+  <Laboratory.label>מעבדה</Laboratory.label>
+  <!-- EN: workshop -->
+  <Workshop.label>סדנה</Workshop.label>
+  <!-- EN: barracks -->
+  <Barracks.label>בסיס</Barracks.label>
+  <!-- EN: prison barracks -->
+  <PrisonBarracks.label>בסיס כלא</PrisonBarracks.label>
+  <!-- EN: kitchen -->
+  <Kitchen.label>מטבח</Kitchen.label>
+  <!-- EN: tomb -->
+  <Tomb.label>קבר</Tomb.label>
+  <!-- EN: barn -->
+  <Barn.label>אסם</Barn.label>
 
 
 </LanguageData>

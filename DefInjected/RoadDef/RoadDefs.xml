@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <DirtPath.label>dirt path</DirtPath.label>
-  <DirtRoad.label>dirt road</DirtRoad.label>
-  <StoneRoad.label>stone road</StoneRoad.label>
-  <AncientAsphaltRoad.label>ancient asphalt road</AncientAsphaltRoad.label>
-  <AncientAsphaltHighway.label>ancient asphalt highway</AncientAsphaltHighway.label>
+  <!-- EN: dirt path -->
+  <DirtPath.label>שביל אפר</DirtPath.label>
+  <!-- EN: dirt road -->
+  <DirtRoad.label>כביש אפר</DirtRoad.label>
+  <!-- EN: stone road -->
+  <StoneRoad.label>כביש אבן</StoneRoad.label>
+  <!-- EN: ancient asphalt road -->
+  <AncientAsphaltRoad.label>כביש אספלט עתיק</AncientAsphaltRoad.label>
+  <!-- EN: ancient asphalt highway -->
+  <AncientAsphaltHighway.label>דרך מהירה עתיקה מאספלט</AncientAsphaltHighway.label>
 
 
 </LanguageData>

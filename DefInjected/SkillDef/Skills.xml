@@ -1,41 +1,65 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Shooting.description>Ranged combat, with both high-tech and low-tech weapons.</Shooting.description>
-  <Shooting.skillLabel>shooting</Shooting.skillLabel>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>לוחמה מרחוק, עם נשקים מתקדמים ופרימיטיביים.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>ירייה</Shooting.skillLabel>
 
-  <Melee.description>Melee combat, both armed and unarmed.</Melee.description>
-  <Melee.skillLabel>melee</Melee.skillLabel>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>התקוטטות חמושה ולא חמושה.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>התקוטטות</Melee.skillLabel>
 
-  <Construction.description>Constructing and deconstructing structures and furniture.</Construction.description>
-  <Construction.skillLabel>construction</Construction.skillLabel>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>בנייה ופירוק, מבנים ורהיטים.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>בנייה</Construction.skillLabel>
 
-  <Mining.description>Digging tunnels and extracting buried resources.</Mining.description>
-  <Mining.skillLabel>mining</Mining.skillLabel>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>חציבת מערות וחילוץ משאבים קבורים</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>חציבה</Mining.skillLabel>
 
-  <Cooking.description>Creating meals from raw ingredients quickly and without accidental food poisoning.</Cooking.description>
-  <Cooking.skillLabel>cooking</Cooking.skillLabel>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>יצירת מנות ממשאבים גלמיים במהירות וללא הרעלת מזון.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>בישול</Cooking.skillLabel>
 
-  <Plants.description>Sowing, caring for and harvesting crops, and foraging for food while traveling.</Plants.description>
-  <Plants.skillLabel>plants</Plants.skillLabel>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>זריעה, דאגה, וקצירה של יבול. גישוש לאוכל בזמן נסיעה</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>צמחים</Plants.skillLabel>
 
-  <Animals.description>Taming, training, and controlling animals.</Animals.description>
-  <Animals.skillLabel>animals</Animals.skillLabel>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>אילוף, אימון, ושליטה בחיות.</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>חיות</Animals.skillLabel>
 
-  <Crafting.description>Crafting general items including weapons, components, and refined resources.</Crafting.description>
-  <Crafting.skillLabel>crafting</Crafting.skillLabel>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>יצירה של מוצרים כלליים, כולל נשקים, רכיבים אלקטרוניים, ומשאבים מזוקקים.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>מלאכה</Crafting.skillLabel>
 
-  <Artistic.description>Crafting art.</Artistic.description>
-  <Artistic.skillLabel>artistic</Artistic.skillLabel>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>יצירת אומנות.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>אומנות</Artistic.skillLabel>
 
-  <Medicine.description>Tending wounds and diseases and performing surgery.</Medicine.description>
-  <Medicine.skillLabel>medical</Medicine.skillLabel>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>ביצוע ניתוחים וטיפול במחלות ופצעים.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>רפואה</Medicine.skillLabel>
 
-  <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
-  <Social.skillLabel>social</Social.skillLabel>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>משא ומתן, שכנוע, תמרון, הנהגה ושימוח אחרים</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>חברתי</Social.skillLabel>
 
-  <Intellectual.description>Researching and drug synthesis.</Intellectual.description>
-  <Intellectual.skillLabel>intellectual</Intellectual.skillLabel>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>מחקר ויצירה של סמים.</Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>ידע</Intellectual.skillLabel>
 
 
 </LanguageData>

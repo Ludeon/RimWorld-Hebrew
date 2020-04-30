@@ -11,6 +11,7 @@ Here are current names that might need tweaking----------------
 orbital trade beacon - משואת סחר אורביטלית
 suggestions - 
 משואה doesn't sound like a good fit, i'd like people's opinion and suggestions
+אני דווקא חושב שזה מאוד מתאים אבל כן הורדתי את ההורביטלים כך שזה "משואת סחר" כי אורביטלי לא ממש נשמע טוב לפי דעתי - Nimi142
 
 Trade caravan = קרוואן סחר
 suggestions - 
@@ -29,6 +30,9 @@ Urbworld -
 Medival - 
 לכתוב ימי הביניים על כל דבר מאוד ארוך. בנוסף, צורת פועל בעייתית, ימי ביניימי?
 Glitterworld - עולם מנצנץ?
+intellectual - ידע?
+barracks - בסיס?
+scyther - נושא חרמש?
 chemfuel - 
 suggestions -
 not a clue on how to approach this, דלק כימי? דלכימי לא נשמע טוב
