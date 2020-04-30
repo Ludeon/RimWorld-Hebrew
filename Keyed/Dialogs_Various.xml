@@ -397,73 +397,73 @@
   <!-- EN: Wildness -->
   <Wildness>פראות</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
+  <WildnessExplanation>יותר קשה לאלף ולאמן חיות פראיות יותר.</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>Training decay interval</TrainingDecayInterval>
+  <TrainingDecayInterval>קצב נסיגה של אימונים</TrainingDecayInterval>
   <!-- EN: Tameness will never decay. -->
-  <TamenessWillNotDecay>Tameness will never decay.</TamenessWillNotDecay>
+  <TamenessWillNotDecay>אילוף לא נסוג אף פעם.</TamenessWillNotDecay>
   <!-- EN: Animal filth rate -->
-  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
+  <AnimalFilthRate>קצב לכלוך של החיה</AnimalFilthRate>
   <!-- EN: Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth. -->
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
+  <AnimalFilthRateExplanation>חיות מיצרות לכלוך כשהן זזות על ריצפות מלאכותיות. זוהי הכמות לכלוך הממוצעת של לכלוך שנוצרת כל {0} רצפות שהחיה הולכת עליהן.\n\n חיותר שפחות מתאימות לאילוף או חיות גדולות מיצרות יותר לכלוך.</AnimalFilthRateExplanation>
   <!-- EN: Time -->
-  <TimeRecordsCategory>Time</TimeRecordsCategory>
+  <TimeRecordsCategory>שונות</TimeRecordsCategory>
   <!-- EN: Misc -->
-  <MiscRecordsCategory>Misc</MiscRecordsCategory>
+  <MiscRecordsCategory>שונות</MiscRecordsCategory>
   <!-- EN: Addictiveness -->
-  <Addictiveness>Addictiveness</Addictiveness>
+  <Addictiveness>התמכרות</Addictiveness>
   <!-- EN: Pack animal -->
-  <PackAnimal>Pack animal</PackAnimal>
+  <PackAnimal>חית להקה</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
-  <PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
+  <PackAnimalExplanation>האם החיה הזו מותאמת לסחוב פריטים בקראוון לאורך מרחקים גדולים</PackAnimalExplanation>
   <!-- EN: Skill -->
-  <Skill>Skill</Skill>
+  <Skill>כישורים</Skill>
   <!-- EN: Success rate multiplier -->
-  <SurgerySuccessChanceFactor>Success rate multiplier</SurgerySuccessChanceFactor>
+  <SurgerySuccessChanceFactor>סיכוי הצלחה</SurgerySuccessChanceFactor>
   <!-- EN: Work speed governed by -->
-  <WorkSpeedStat>Work speed governed by</WorkSpeedStat>
+  <WorkSpeedStat>מהירות עבודה תלויה ב</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
-  <EfficiencyStat>Output quantity governed by</EfficiencyStat>
+  <EfficiencyStat>כמות של פלט תלויה ב</EfficiencyStat>
   <!-- EN: Construction skill required -->
-  <ConstructionSkillRequired>Construction skill required</ConstructionSkillRequired>
+  <ConstructionSkillRequired>דורש רמה כזו של בנייה</ConstructionSkillRequired>
   <!-- EN: Requires this level of Construction in order to build. -->
-  <ConstructionSkillRequiredExplanation>Requires this level of Construction in order to build.</ConstructionSkillRequiredExplanation>
+  <ConstructionSkillRequiredExplanation>דורש רמה כזו של בנייה כדי שיהיה אפשרי לבנות</ConstructionSkillRequiredExplanation>
   <!-- EN: Nuzzle interval -->
-  <NuzzleInterval>Nuzzle interval</NuzzleInterval>
+  <NuzzleInterval>קצב של חיכוך</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection. Most humans find this cute and it will leave them in a good mood for a period of time.</NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>ממוצע התכיפות של התחכות של חיות בתושבים חברותיים.\n\n התחכות זו התנהגות שחיות רבות חולקות, בהתחככות החיה לוחצת את אפה אל חבר כסימן של חיבה. רוב האנשים אוהבים את זה וזה ישפר להם את המצב רוח לזמן מסויים.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>Revenge chance on harm</HarmedRevengeChance>
+  <HarmedRevengeChance>סיכוי לנקמה בפגיעה</HarmedRevengeChance>
   <!-- EN: The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon. -->
-  <HarmedRevengeChanceExplanation>The chance this creature seeks revenge upon being harmed by an attacker at rifle range.\n\nThis chance increases if the attacker is closer. If attacked at very close range, the chance is three times greater.\n\nThis chance is applied each time damage is taken, so slower-firing, higher-damage weapons are less likely to trigger it.\n\nTo minimize the chance of a creature seeking revenge, attack it from rifle range with a slow-firing weapon.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>הסיכוי שהיצור הזה ינסה לנקום לאחר שמתקיף הכאיב לו במרחק של יאי.\n\n סיכוי זה מתגבר אם התוקף קרוב יותר. אם היצור מותק, מטווח קרוב אז הסיכוי גדול פי שלוש.\n\n גלגול זה מתרחש לאחר כל פגיעה לכן נשקים איטיים וחזקים יותר יותר בטוחים לשימוש במובן זה.\n\n בכדי להפחית את הסיכוי שיצור ינסה לנקום, מומלץ לירות מטווח של רובה עם נשק שיורה לאט.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>Revenge chance on tame fail</TameFailedRevengeChance>
+  <TameFailedRevengeChance>סיכוי לנקמה לאחר ניסיון כושל של אילוף</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
-  <TerrainRequirement>Terrain requirement</TerrainRequirement>
+  <TerrainRequirement>דרישת שטח</TerrainRequirement>
   <!-- EN: Supports -->
-  <Supports>Supports</Supports>
+  <Supports>מחזיק את</Supports>
   <!-- EN: Trap armor penetration -->
-  <TrapArmorPenetration>Trap armor penetration</TrapArmorPenetration>
+  <TrapArmorPenetration>חדירת השריון של המלכודת</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>Rearm cost</RearmCost>
+  <RearmCost>משאבים דרושים בשביל חימוש מחדש</RearmCost>
   <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>Resources needed to rearm this turret (affected by difficulty).</RearmCostExplanation>
+  <RearmCostExplanation>משאבים דרושים בשביל לחמש מחדש את תותח זה (מושפע על ידי רמת קושי)</RearmCostExplanation>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>Shots before rearm</ShotsBeforeRearm>
+  <ShotsBeforeRearm>יריות לפני שצריך לחמש מחדש</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>How many shots this turret can fire before it has to be rearmed.</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>כמה יריות יוכל לירות תותח זה לפני שיהיה צורך לחמש אותו מחדש</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>Power consumption</PowerConsumption>
+  <PowerConsumption>צריכת חשמל</PowerConsumption>
 
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
-  <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
+  <PositiveBuysNegativeSells>מספרים חיוביים מסמלים קנייה.\n שליליים מסמנים מכירה.</PositiveBuysNegativeSells>
   <!-- EN: Price you pay to buy this. -->
-  <BuyPriceDesc>Price you pay to buy this.</BuyPriceDesc>
+  <BuyPriceDesc>המחיר המשולם בשביל לקנות את זה.</BuyPriceDesc>
   <!-- EN: Price you receive for selling this. -->
-  <SellPriceDesc>Price you receive for selling this.</SellPriceDesc>
+  <SellPriceDesc>המחיר המתקבל בשביל למכור את זה.</SellPriceDesc>
   <!-- EN: For this item, this price is {0}. -->
-  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
+  <PriceTypeDesc>בשביל מוצר זה, המחיר הוא{0}</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
   <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon.</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
