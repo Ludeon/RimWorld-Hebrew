@@ -1,33 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Door.label>door</Door.label>
-  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
-
-  <Blueprint_Door.label>BlueprintLabelExtra</Blueprint_Door.label>
-  <Frame_Door.label>FrameLabelExtra</Frame_Door.label>
-
+  
+  <!-- EN: animal flap -->
+  <AnimalFlap.label>TODO</AnimalFlap.label>
+  <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <AnimalFlap.description>TODO</AnimalFlap.description>
+  
+  <!-- EN: autodoor -->
   <Autodoor.label>autodoor</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
   <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
-
-  <Blueprint_Autodoor.label>BlueprintLabelExtra</Blueprint_Autodoor.label>
-  <Frame_Autodoor.label>FrameLabelExtra</Frame_Autodoor.label>
-
-
-  <!--========================= Walls =============================-->
-
+  
+  <!-- EN: column -->
+  <Column.label>TODO</Column.label>
+  <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
+  <Column.description>TODO</Column.description>
+  
+  <!-- EN: door -->
+  <Door.label>door</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
+  
+  <!-- EN: fence -->
+  <Fence.label>TODO</Fence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <Fence.description>TODO</Fence.description>
+  
+  <!-- EN: fence gate -->
+  <FenceGate.label>TODO</FenceGate.label>
+  <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
+  <FenceGate.description>TODO</FenceGate.description>
+  
+  <!-- EN: ornate door -->
+  <OrnateDoor.label>TODO</OrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <OrnateDoor.description>TODO</OrnateDoor.description>
+  
+  <!-- EN: wall -->
   <Wall.label>wall</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
   <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
-
-
-  <!--========================= Walls =============================-->
-
-  <Blueprint_Wall.label>BlueprintLabelExtra</Blueprint_Wall.label>
-
-
-  <!--========================= Walls =============================-->
-
-  <Frame_Wall.label>FrameLabelExtra</Frame_Wall.label>
-
-
+  
 </LanguageData>

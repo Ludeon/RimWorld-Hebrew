@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- =============================== Threats =============================== -->
-
+  
+  <!-- EN: ambush -->
   <Ambush.label>ambush</Ambush.label>
+  <!-- EN: Caravan ambushed -->
   <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
+  <!-- EN: {0} has been ambushed by {1} from {2}! -->
   <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
-
-  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
-  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
-  <ManhunterAmbush.letterText>{0} has been ambushed by manhunting {1}!</ManhunterAmbush.letterText>
-
-
-  <!--================================ Good ================================-->
-
-  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
-
-
-  <!--==================================== Bad ==================================-->
-
+  
+  <!-- EN: payment demand -->
   <CaravanDemand.label>payment demand</CaravanDemand.label>
-
-
+  
+  <!-- EN: caravan meeting -->
+  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  
+  <!-- EN: manhunter ambush -->
+  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
+  <!-- EN: Caravan ambushed (manhunters) -->
+  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+  <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
+  <ManhunterAmbush.letterText>{0} has been ambushed by manhunting {1}!</ManhunterAmbush.letterText>
+  
 </LanguageData>

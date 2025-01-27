@@ -1,31 +1,55 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
-  <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
-  <AlcoholHigh.stages.0.label>warm</AlcoholHigh.stages.0.label>
-  <AlcoholHigh.stages.1.label>tipsy</AlcoholHigh.stages.1.label>
-  <AlcoholHigh.stages.2.label>drunk</AlcoholHigh.stages.2.label>
-  <AlcoholHigh.stages.3.label>hammered</AlcoholHigh.stages.3.label>
-  <AlcoholHigh.stages.4.label>blackout</AlcoholHigh.stages.4.label>
-
-  <Hangover.label>hangover</Hangover.label>
-  <Hangover.labelNoun>a hangover</Hangover.labelNoun>
-  <Hangover.stages.0.label>slight</Hangover.stages.0.label>
-  <Hangover.stages.1.label>strong</Hangover.stages.1.label>
-  <Hangover.stages.2.label>pounding</Hangover.stages.2.label>
-
-
-  <!-- Alcohol addiction -->
-
-  <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
-  <AlcoholTolerance.stages.0.label>small</AlcoholTolerance.stages.0.label>
-  <AlcoholTolerance.stages.1.label>small</AlcoholTolerance.stages.1.label>
-  <AlcoholTolerance.stages.2.label>large</AlcoholTolerance.stages.2.label>
-  <AlcoholTolerance.stages.3.label>massive</AlcoholTolerance.stages.3.label>
-
+  
+  <!-- EN: alcohol addiction -->
   <AlcoholAddiction.label>alcohol addiction</AlcoholAddiction.label>
-  <AlcoholAddiction.stages.1.label>withdrawal</AlcoholAddiction.stages.1.label>
-
-
+  <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <AlcoholAddiction.description>TODO</AlcoholAddiction.description>
+  <!-- EN: withdrawal -->
+  <AlcoholAddiction.stages.withdrawal.label>withdrawal</AlcoholAddiction.stages.withdrawal.label>
+  
+  <!-- EN: alcohol -->
+  <AlcoholHigh.label>alcohol</AlcoholHigh.label>
+  <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
+  <AlcoholHigh.description>TODO</AlcoholHigh.description>
+  <!-- EN: drunkenness -->
+  <AlcoholHigh.labelNoun>drunkenness</AlcoholHigh.labelNoun>
+  <!-- EN: warm -->
+  <AlcoholHigh.stages.warm.label>warm</AlcoholHigh.stages.warm.label>
+  <!-- EN: tipsy -->
+  <AlcoholHigh.stages.tipsy.label>tipsy</AlcoholHigh.stages.tipsy.label>
+  <!-- EN: drunk -->
+  <AlcoholHigh.stages.drunk.label>drunk</AlcoholHigh.stages.drunk.label>
+  <!-- EN: hammered -->
+  <AlcoholHigh.stages.hammered.label>hammered</AlcoholHigh.stages.hammered.label>
+  <!-- EN: blackout -->
+  <AlcoholHigh.stages.blackout.label>blackout</AlcoholHigh.stages.blackout.label>
+  
+  <!-- EN: alcohol tolerance -->
+  <AlcoholTolerance.label>alcohol tolerance</AlcoholTolerance.label>
+  <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
+  <AlcoholTolerance.description>TODO</AlcoholTolerance.description>
+  <!-- EN: small -->
+  <AlcoholTolerance.stages.small.label>small</AlcoholTolerance.stages.small.label>
+  <!-- EN: large -->
+  <AlcoholTolerance.stages.large.label>small</AlcoholTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AlcoholTolerance.stages.massive.label>large</AlcoholTolerance.stages.massive.label>
+  
+  <!-- UNUSED -->
+  <AlcoholTolerance.stages.3.label>massive</AlcoholTolerance.stages.3.label>
+  
+  <!-- EN: hangover -->
+  <Hangover.label>hangover</Hangover.label>
+  <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
+  <Hangover.description>TODO</Hangover.description>
+  <!-- EN: a hangover -->
+  <Hangover.labelNoun>a hangover</Hangover.labelNoun>
+  <!-- EN: slight -->
+  <Hangover.stages.slight.label>slight</Hangover.stages.slight.label>
+  <!-- EN: strong -->
+  <Hangover.stages.strong.label>strong</Hangover.stages.strong.label>
+  <!-- EN: pounding -->
+  <Hangover.stages.pounding.label>pounding</Hangover.stages.pounding.label>
+  
 </LanguageData>

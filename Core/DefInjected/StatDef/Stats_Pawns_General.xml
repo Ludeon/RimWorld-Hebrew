@@ -1,57 +1,149 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <MoveSpeed.label>move speed</MoveSpeed.label>
-  <MoveSpeed.description>Speed of movement in cells per second.</MoveSpeed.description>
-  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
-
-  <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
-  <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are.</MentalBreakThreshold.description>
-
-  <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
-  <PsychicSensitivity.description>Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones.</PsychicSensitivity.description>
-
-  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
-  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this creature.</ToxicSensitivity.description>
-
+  
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>TODO</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
+  
+  <!-- EN: bed hunger rate multiplier -->
+  <BedHungerRateFactor.label>TODO</BedHungerRateFactor.label>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>TODO</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>TODO</CaravanRidingSpeedFactor.description>
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips.</CarryingCapacity.description>
+  
+  <!-- EN: max comfortable temperature -->
+  <ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
+  
+  <!-- EN: min comfortable temperature -->
+  <ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
+  
+  <!-- EN: crawl speed -->
+  <CrawlSpeed.label>TODO</CrawlSpeed.label>
+  <!-- EN: Speed of crawling in cells per second. -->
+  <CrawlSpeed.description>TODO</CrawlSpeed.description>
+  <!-- EN: {0} c/s -->
+  <CrawlSpeed.formatString>TODO</CrawlSpeed.formatString>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>eating speed</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>A multiplier on eating speed.</EatingSpeed.description>
+  
+  <!-- EN: filth rate -->
+  <FilthRate.label>TODO</FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>TODO</FilthRate.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>foraged food amount</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>The amount of nutrition this person will automatically forage per day while traveling by caravan.</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
   <GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
   <GlobalLearningFactor.description>A multiplier on the learning rate for all skills.</GlobalLearningFactor.description>
-
+  
+  <!-- UNUSED -->
   <HungerRateMultiplier.label>hunger rate multiplier</HungerRateMultiplier.label>
   <HungerRateMultiplier.description>A multiplier on how quickly a creature becomes hungry.</HungerRateMultiplier.description>
-
-  <RestRateMultiplier.label>rest rate multiplier</RestRateMultiplier.label>
-  <RestRateMultiplier.description>A multiplier on how quickly a creature rests while sleeping.</RestRateMultiplier.description>
-
-  <EatingSpeed.label>eating speed</EatingSpeed.label>
-  <EatingSpeed.description>A multiplier on eating speed.</EatingSpeed.description>
-
-  <ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
-  <ComfyTemperatureMin.description>Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
-
-  <ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
-  <ComfyTemperatureMax.description>Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
-
+  
+  <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
   <ImmunityGainSpeed.description>The speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
-
-  <CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
-  <CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators. This is separate from the ability to carry cargo on long cross-world trips.</CarryingCapacity.description>
-
-  <MeatAmount.label>meat amount</MeatAmount.label>
-  <MeatAmount.description>The amount of meat yielded when butchering this creature.</MeatAmount.description>
-
+  
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>TODO</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>TODO</InjuryHealingFactor.description>
+  
+  <!-- EN: recreation fall rate -->
+  <JoyFallRateFactor.label>TODO</JoyFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's recreation need falls. -->
+  <JoyFallRateFactor.description>TODO</JoyFallRateFactor.description>
+  
+  <!-- EN: leather amount -->
   <LeatherAmount.label>leather amount</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
   <LeatherAmount.description>The amount of leather yielded when butchering this creature.</LeatherAmount.description>
-
+  
+  <!-- EN: lifespan factor -->
+  <LifespanFactor.label>TODO</LifespanFactor.label>
+  <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
+  <LifespanFactor.description>TODO</LifespanFactor.description>
+  
+  <!-- EN: max nutrition -->
+  <MaxNutrition.label>TODO</MaxNutrition.label>
+  <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
+  <MaxNutrition.description>TODO</MaxNutrition.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>meat amount</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <MeatAmount.description>The amount of meat yielded when butchering this creature.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break. The severity of the mental break will depend on how far below the threshold they are.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
   <MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
   <MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
-
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>move speed</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Speed of movement in cells per second.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
   <PainShockThreshold.label>pain shock threshold</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>The pain level at which this creature is downed from pain.</PainShockThreshold.description>
-
-  <ForagedNutritionPerDay.label>foraged food amount</ForagedNutritionPerDay.label>
-  <ForagedNutritionPerDay.description>The amount of nutrition this person will automatically forage per day while traveling by caravan.</ForagedNutritionPerDay.description>
-
-
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>Multiplier on the impact of psychic phenomena affecting this person. More sensitive people both suffer more from negative psychic effects, and benefit more from positive ones.</PsychicSensitivity.description>
+  
+  <!-- EN: sleep fall rate -->
+  <RestFallRateFactor.label>TODO</RestFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
+  <RestFallRateFactor.description>TODO</RestFallRateFactor.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>rest rate multiplier</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>A multiplier on how quickly a creature rests while sleeping.</RestRateMultiplier.description>
+  
+  <!-- EN: toxic environment resistance -->
+  <ToxicEnvironmentResistance.label>TODO</ToxicEnvironmentResistance.label>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
+  <ToxicEnvironmentResistance.description>TODO</ToxicEnvironmentResistance.description>
+  
+  <!-- EN: toxic resistance -->
+  <ToxicResistance.label>TODO</ToxicResistance.label>
+  <!-- EN: How well this creature resists toxic buildup. -->
+  <ToxicResistance.description>TODO</ToxicResistance.description>
+  
+  <!-- UNUSED -->
+  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this creature.</ToxicSensitivity.description>
+  
 </LanguageData>

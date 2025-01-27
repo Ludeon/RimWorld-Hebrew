@@ -1,32 +1,56 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Wealth_Total.label>wealth (total)</Wealth_Total.label>
-  <Wealth_Total.graphLabelY>Amount</Wealth_Total.graphLabelY>
-
-  <Wealth_Items.label>wealth (items)</Wealth_Items.label>
-  <Wealth_Items.graphLabelY>Amount</Wealth_Items.graphLabelY>
-
-  <Wealth_Buildings.label>wealth (buildings)</Wealth_Buildings.label>
-  <Wealth_Buildings.graphLabelY>Amount</Wealth_Buildings.graphLabelY>
-
-  <Wealth_TameAnimals.label>wealth (animals)</Wealth_TameAnimals.label>
-  <Wealth_TameAnimals.graphLabelY>Amount</Wealth_TameAnimals.graphLabelY>
-
-  <FreeColonists.label>free colonists</FreeColonists.label>
-  <FreeColonists.graphLabelY>Colonists</FreeColonists.graphLabelY>
-
-  <Prisoners.label>prisoners</Prisoners.label>
-  <Prisoners.graphLabelY>Prisoners</Prisoners.graphLabelY>
-
+  
+  <!-- EN: recovery -->
+  <Adaptation.label>TODO</Adaptation.label>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
+  
+  <!-- EN: mood -->
   <ColonistMood.label>mood</ColonistMood.label>
   <ColonistMood.graphLabelY>Percent</ColonistMood.graphLabelY>
-
-
-  <!-- Dev mode recorders -->
-
+  
+  <!-- EN: free colonists -->
+  <FreeColonists.label>free colonists</FreeColonists.label>
+  <FreeColonists.graphLabelY>Colonists</FreeColonists.graphLabelY>
+  
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>TODO</PopAdaptation.label>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>TODO</PopAdaptation.valueFormat>
+  
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>TODO</PopIntent.label>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
+  
+  <!-- EN: prisoners -->
+  <Prisoners.label>prisoners</Prisoners.label>
+  <Prisoners.graphLabelY>Prisoners</Prisoners.graphLabelY>
+  
+  <!-- UNUSED -->
   <RampUp.label>ramp-up</RampUp.label>
   <RampUp.graphLabelY>Days</RampUp.graphLabelY>
-
-
+  
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>TODO</ThreatPoints.label>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
+  
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>wealth (buildings)</Wealth_Buildings.label>
+  <Wealth_Buildings.graphLabelY>Amount</Wealth_Buildings.graphLabelY>
+  
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>wealth (items)</Wealth_Items.label>
+  <Wealth_Items.graphLabelY>Amount</Wealth_Items.graphLabelY>
+  
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>wealth (animals)</Wealth_Pawns.label>
+  <Wealth_Pawns.graphLabelY>Amount</Wealth_Pawns.graphLabelY>
+  
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>wealth (total)</Wealth_Total.label>
+  <Wealth_Total.graphLabelY>Amount</Wealth_Total.graphLabelY>
+  
 </LanguageData>

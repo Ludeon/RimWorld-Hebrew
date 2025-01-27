@@ -1,22 +1,27 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Centipede -->
-
-  <Mech_Centipede.label>centipede</Mech_Centipede.label>
-  <Mech_Centipede.labelPlural>centipede</Mech_Centipede.labelPlural>
-
-
-  <!-- Lancer - fast sniper -->
-
+  
+  <!-- EN: centipede blaster -->
+  <Mech_CentipedeBlaster.label>centipede</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.labelPlural>centipede</Mech_CentipedeBlaster.labelPlural>
+  
+  <!-- EN: centipede burner -->
+  <Mech_CentipedeBurner.label>TODO</Mech_CentipedeBurner.label>
+  
+  <!-- EN: centipede gunner -->
+  <Mech_CentipedeGunner.label>TODO</Mech_CentipedeGunner.label>
+  
+  <!-- EN: lancer -->
   <Mech_Lancer.label>lancer</Mech_Lancer.label>
   <Mech_Lancer.labelPlural>lancer</Mech_Lancer.labelPlural>
-
-
-  <!-- Scyther - fast melee -->
-
+  
+  <!-- EN: pikeman -->
+  <Mech_Pikeman.label>TODO</Mech_Pikeman.label>
+  <!-- EN: pikemen -->
+  <Mech_Pikeman.labelPlural>TODO</Mech_Pikeman.labelPlural>
+  
+  <!-- EN: scyther -->
   <Mech_Scyther.label>scyther</Mech_Scyther.label>
   <Mech_Scyther.labelPlural>scyther</Mech_Scyther.labelPlural>
-
-
+  
 </LanguageData>

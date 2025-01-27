@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <DropOnFloor.label>הפל על הרצפה</DropOnFloor.label>
+  
+  <!-- EN: take to best stockpile -->
   <BestStockpile.label>קח למקום מצבור הכי טוב</BestStockpile.label>
+  
+  <!-- EN: drop on floor -->
+  <DropOnFloor.label>הפל על הרצפה</DropOnFloor.label>
+  
+  <!-- EN: take to {0} -->
   <SpecificStockpile.label>קח ל{0}</SpecificStockpile.label>
-
-
+  
 </LanguageData>

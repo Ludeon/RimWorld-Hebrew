@@ -1,66 +1,76 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!-- WITab titles -->
-<!-- EN: Terrain -->
+
+  <!-- WITab titles -->
+  <!-- EN: Terrain -->
   <TabTerrain>שטח</TabTerrain>
-<!-- EN: Planet -->
+  <!-- EN: Planet -->
   <TabPlanet>כדור הארץ</TabPlanet>
-<!-- EN: Social -->
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>TODO</TabCaravanFeeding>
+  <!-- EN: Social -->
   <TabCaravanSocial>סוציאלי</TabCaravanSocial>
-<!-- EN: Health -->
+  <!-- EN: Health -->
   <TabCaravanHealth>בריאות</TabCaravanHealth>
-<!-- EN: Needs -->
+  <!-- EN: Needs -->
   <TabCaravanNeeds>צרכים</TabCaravanNeeds>
-<!-- EN: Gear -->
+  <!-- EN: Gear -->
   <TabCaravanGear>ציוד</TabCaravanGear>
-<!-- EN: Items -->
+  <!-- EN: Items -->
   <TabCaravanItems>פריטים</TabCaravanItems>
-<!-- Misc -->
-<!-- EN: Abandon {{0}}x {0} -->
+  
+  <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
   <AbandonSliderText>}0{ x}}0{{ לנטוש</AbandonSliderText>
-<!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
   <ConfirmAbandonItemDialog>.האם אתה באמת רוצה לנטוש את }0{\n\n ?  פריטים נטושים נעלמים ולא יכולים לחזור</ConfirmAbandonItemDialog>
-<!-- EN: Abandon -->
+  <!-- EN: Abandon -->
   <AbandonTip>לנטוש</AbandonTip>
-<!-- EN: Banish -->
+  <!-- EN: Banish -->
   <BanishTip>גרש</BanishTip>
-<!-- EN: Abandon specific count -->
+  <!-- EN: Abandon specific count -->
   <AbandonSpecificCountTip>נטוש מספר ספציפי</AbandonSpecificCountTip>
-<!-- EN: Abandon (all) -->
+  <!-- EN: Abandon (all) -->
   <AbandonAllTip>)הכל( לנטוש</AbandonAllTip>
-<!-- EN: Abandoned items vanish and can never be recovered. -->
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>.חפצים נטושים יעלמו ובחיים לא יחזרו</AbandonItemTipExtraText>
-<!-- EN: {1_labelShort} will most likely die. -->
+  <!-- EN: {1_labelShort} will most likely die. -->
   <BanishTipWillDie>.רוב הסיכויים ש }0{ ימות</BanishTipWillDie>
-<!-- Caravan inspect -->
-<!-- EN: Colonists -->
+  
+  <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
   <CaravanColonists>תושבים</CaravanColonists>
-<!-- EN: Prisoners and animals -->
+  <!-- EN: Prisoners and animals -->
   <CaravanPrisonersAndAnimals>אסירים וחיות</CaravanPrisonersAndAnimals>
-<!-- EN: Inventory -->
+  <!-- EN: Inventory -->
   <CaravanItems>רשימת מלאי</CaravanItems>
-<!-- EN: Click to open a tab with more details. -->
+  <!-- EN: Click to open a tab with more details. -->
   <OpenSpecificTabButtonTip>.לחץ כדי לפתוח כרטיסיה עם יותר פרטים</OpenSpecificTabButtonTip>
-<!-- EN: Prisoners -->
+  <!-- EN: Prisoners -->
   <CaravanPrisoners>אסירים</CaravanPrisoners>
-<!-- EN: Inventory -->
+  <!-- EN: Equippable items -->
   <CaravanWeaponsAndApparel>רשימת מלאי</CaravanWeaponsAndApparel>
-<!-- EN: None capable -->
+  <!-- EN: None capable -->
   <NoneCapable>אף אחד לא יכול</NoneCapable>
-<!-- EN: Caravan not moving -->
+  <!-- EN: Caravan not moving -->
   <GainingJoyBecauseCaravanNotMoving>קרון לא זז</GainingJoyBecauseCaravanNotMoving>
-<!-- Caravan gear -->
-<!-- EN: Drag to rearrange. -->
+  
+  <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
   <DragToRearrange>.גרור כדי לסדר מחדש</DragToRearrange>
-<!-- Caravan items -->
-<!-- EN: Assign drug policies -->
+
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
   <AssignDrugPolicies>ארגן מדיניות סמים</AssignDrugPolicies>
-<!-- Caravan health -->
-<!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
   <BeCarriedIfSickTip>.אם הבן אדם או החיה יכולים להסחב על ידין האנשים בקרון כאשר הוא חולה \n\n אנשים בקרון יכולים לנוח גם אם הקרון זז אבל הם מאטים אותו</BeCarriedIfSickTip>
-<!-- Planet -->
-<!-- EN: Seed -->
+  
+  <!-- Planet -->
+  <!-- EN: Seed -->
   <PlanetSeed>זרע</PlanetSeed>
-<!-- EN: Coverage -->
+  <!-- EN: Coverage -->
   <PlanetCoverageShort>כיסוי</PlanetCoverageShort>
+
 </LanguageData>

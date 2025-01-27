@@ -1,37 +1,45 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Standard soils -->
-
-  <Soil.label>soil</Soil.label>
-  <MossyTerrain.label>lichen-covered soil</MossyTerrain.label>
-  <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
-
-
-  <!-- Rich soils -->
-
-  <SoilRich.label>rich soil</SoilRich.label>
-
-
-  <!-- Poor soils -->
-
+  
+  <!-- EN: stony soil -->
   <Gravel.label>stony soil</Gravel.label>
-
-
-  <!-- Sand -->
-
-  <Sand.label>sand</Sand.label>
-  <SoftSand.label>soft sand</SoftSand.label>
-
-
-  <!-- Infertile ground -->
-
-  <Mud.label>mud</Mud.label>
-
-
-  <!-- Ice -->
-
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>TODO</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
   <Ice.label>Ice</Ice.label>
-
-
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>TODO</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>lichen-covered soil</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>mud</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>TODO</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>sand</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>TODO</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>soft sand</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>TODO</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>soil</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>TODO</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>rich soil</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>TODO</SoilRich.tools.dirt.label>
+  
 </LanguageData>

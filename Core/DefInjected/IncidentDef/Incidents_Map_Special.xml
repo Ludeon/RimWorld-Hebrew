@@ -1,31 +1,39 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--=============== ShipChunkDrop =============-->
-
-  <ShipChunkDrop.label>ship chunk drop</ShipChunkDrop.label>
-
-
-  <!--=============== OrbitalVisitor =============-->
-
+  
+  <!-- EN: wanderers join -->
+  <GameEndedWanderersJoin.label>TODO</GameEndedWanderersJoin.label>
+  <!-- EN: Wanderers join -->
+  <GameEndedWanderersJoin.letterLabel>TODO</GameEndedWanderersJoin.letterLabel>
+  <!-- EN: A few wanderers have stumbled across the remains of the colony and decided to stay.\n\nPerhaps they will be able to continue its story. -->
+  <GameEndedWanderersJoin.letterText>TODO</GameEndedWanderersJoin.letterText>
+  
+  <!-- EN: orbital trader arrival -->
   <OrbitalTraderArrival.label>orbital trader arrival</OrbitalTraderArrival.label>
-
-
-  <!--================= FactionArrival ================-->
-
-  <TraderCaravanArrival.label>trader caravan arrival</TraderCaravanArrival.label>
-  <VisitorGroup.label>visitor group</VisitorGroup.label>
-  <TravelerGroup.label>traveler group</TravelerGroup.label>
-
-
-  <!--================= AllyAssistance ================-->
-
-  <RaidFriendly.label>friendly raid</RaidFriendly.label>
-
-
-  <!--================= Raid-beacon-attracted events ================-->
-
+  
+  <!-- UNUSED -->
   <RaidEnemyBeacon.label>enemy raid (special locations)</RaidEnemyBeacon.label>
-
-
+  
+  <!-- EN: friendly raid -->
+  <RaidFriendly.label>friendly raid</RaidFriendly.label>
+  
+  <!-- EN: ship chunk drop -->
+  <ShipChunkDrop.label>ship chunk drop</ShipChunkDrop.label>
+  
+  <!-- EN: man in black -->
+  <StrangerInBlackJoin.label>TODO</StrangerInBlackJoin.label>
+  <!-- EN: Man in black -->
+  <StrangerInBlackJoin.letterLabel>TODO</StrangerInBlackJoin.letterLabel>
+  <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
+  <StrangerInBlackJoin.letterText>TODO</StrangerInBlackJoin.letterText>
+  
+  <!-- EN: trader caravan arrival -->
+  <TraderCaravanArrival.label>trader caravan arrival</TraderCaravanArrival.label>
+  
+  <!-- EN: traveler group -->
+  <TravelerGroup.label>traveler group</TravelerGroup.label>
+  
+  <!-- EN: visitor group -->
+  <VisitorGroup.label>visitor group</VisitorGroup.label>
+  
 </LanguageData>

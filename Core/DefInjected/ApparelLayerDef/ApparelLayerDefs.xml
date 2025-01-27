@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <OnSkin.label>עור</OnSkin.label>
-  <Middle.label>אמצעי</Middle.label>
-  <Shell.label>חיצוני</Shell.label>
+  
+  <!-- EN: utility -->
   <Belt.label>חגורה</Belt.label>
+  
+  <!-- EN: eyes -->
+  <EyeCover.label>TODO</EyeCover.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>אמצעי</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>עור</OnSkin.label>
+  
+  <!-- EN: headgear -->
   <Overhead.label>לבוש ראש</Overhead.label>
-
-
+  
+  <!-- EN: outer -->
+  <Shell.label>חיצוני</Shell.label>
+  
 </LanguageData>

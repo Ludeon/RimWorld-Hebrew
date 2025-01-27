@@ -1,18 +1,45 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Head.label>head</Head.label>
-  <Skull.label>skull</Skull.label>
+  
+  <!-- EN: brain -->
   <Brain.label>brain</Brain.label>
-  <Eye.label>eye</Eye.label>
+  
+  <!-- EN: ear -->
   <Ear.label>ear</Ear.label>
-  <Nose.label>nose</Nose.label>
-  <Jaw.label>jaw</Jaw.label>
-  <Neck.label>neck</Neck.label>
-  <Ribcage.label>ribcage</Ribcage.label>
-  <Spine.label>spine</Spine.label>
-  <Leg.label>leg</Leg.label>
+  
+  <!-- EN: eye -->
+  <Eye.label>eye</Eye.label>
+  
+  <!-- EN: foot -->
   <Foot.label>foot</Foot.label>
-
-
+  
+  <!-- EN: head -->
+  <Head.label>head</Head.label>
+  
+  <!-- EN: jaw -->
+  <Jaw.label>jaw</Jaw.label>
+  
+  <!-- EN: leg -->
+  <Leg.label>leg</Leg.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>neck</Neck.label>
+  
+  <!-- EN: nose -->
+  <Nose.label>nose</Nose.label>
+  
+  <!-- EN: ribcage -->
+  <Ribcage.label>ribcage</Ribcage.label>
+  
+  <!-- EN: skull -->
+  <Skull.label>skull</Skull.label>
+  
+  <!-- EN: spine -->
+  <Spine.label>spine</Spine.label>
+  
+  <!-- EN: tongue -->
+  <Tongue.label>TODO</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>TODO</Tongue.removeRecipeLabelOverride>
+  
 </LanguageData>

@@ -1,0 +1,1461 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal bed)שרטוט( -->
+  <Blueprint_AnimalBed.label>BlueprintLabelExtra</Blueprint_AnimalBed.label>
+  
+  <!-- EN: animal sleeping box)שרטוט( -->
+  <Blueprint_AnimalSleepingBox.label>BlueprintLabelExtra</Blueprint_AnimalSleepingBox.label>
+  
+  <!-- EN: animal sleeping spot)שרטוט( -->
+  <Blueprint_AnimalSleepingSpot.label>BlueprintLabelExtra</Blueprint_AnimalSleepingSpot.label>
+  
+  <!-- EN: armchair)שרטוט( -->
+  <Blueprint_Armchair.label>BlueprintLabelExtra</Blueprint_Armchair.label>
+  
+  <!-- EN: autodoor)שרטוט( -->
+  <Blueprint_Autodoor.label>BlueprintLabelExtra</Blueprint_Autodoor.label>
+  
+  <!-- EN: battery)שרטוט( -->
+  <Blueprint_Battery.label>BlueprintLabelExtra</Blueprint_Battery.label>
+  
+  <!-- EN: bed)שרטוט( -->
+  <Blueprint_Bed.label>BlueprintLabelExtra</Blueprint_Bed.label>
+  
+  <!-- EN: bedroll)שרטוט( -->
+  <Blueprint_Bedroll.label>BlueprintLabelExtra</Blueprint_Bedroll.label>
+  
+  <!-- EN: double bedroll)שרטוט( -->
+  <Blueprint_BedrollDouble.label>BlueprintLabelExtra</Blueprint_BedrollDouble.label>
+  
+  <!-- EN: billiards table)שרטוט( -->
+  <Blueprint_BilliardsTable.label>BlueprintLabelExtra</Blueprint_BilliardsTable.label>
+  
+  <!-- EN: biofuel refinery)שרטוט( -->
+  <Blueprint_BiofuelRefinery.label>BlueprintLabelExtra</Blueprint_BiofuelRefinery.label>
+  
+  <!-- EN: brewery)שרטוט( -->
+  <Blueprint_Brewery.label>BlueprintLabelExtra</Blueprint_Brewery.label>
+  
+  <!-- EN: bridge)שרטוט( -->
+  <Blueprint_Bridge.label>BlueprintLabelExtra</Blueprint_Bridge.label>
+  
+  <!-- EN: butcher spot)שרטוט( -->
+  <Blueprint_ButcherSpot.label>BlueprintLabelExtra</Blueprint_ButcherSpot.label>
+  
+  <!-- EN: campfire)שרטוט( -->
+  <Blueprint_Campfire.label>BlueprintLabelExtra</Blueprint_Campfire.label>
+  
+  <!-- EN: caravan packing spot)שרטוט( -->
+  <Blueprint_CaravanPackingSpot.label>BlueprintLabelExtra</Blueprint_CaravanPackingSpot.label>
+  
+  <!-- EN: chemfuel powered generator)שרטוט( -->
+  <Blueprint_ChemfuelPoweredGenerator.label>BlueprintLabelExtra</Blueprint_ChemfuelPoweredGenerator.label>
+  
+  <!-- EN: chess table)שרטוט( -->
+  <Blueprint_ChessTable.label>BlueprintLabelExtra</Blueprint_ChessTable.label>
+  
+  <!-- EN: comms console)שרטוט( -->
+  <Blueprint_CommsConsole.label>BlueprintLabelExtra</Blueprint_CommsConsole.label>
+  
+  <!-- EN: concrete)שרטוט( -->
+  <Blueprint_Concrete.label>BlueprintLabelExtra</Blueprint_Concrete.label>
+  
+  <!-- EN: cooler)שרטוט( -->
+  <Blueprint_Cooler.label>BlueprintLabelExtra</Blueprint_Cooler.label>
+  
+  <!-- EN: crafting spot)שרטוט( -->
+  <Blueprint_CraftingSpot.label>BlueprintLabelExtra</Blueprint_CraftingSpot.label>
+  
+  <!-- EN: cryptosleep casket)שרטוט( -->
+  <Blueprint_CryptosleepCasket.label>BlueprintLabelExtra</Blueprint_CryptosleepCasket.label>
+  
+  <!-- EN: deep drill)שרטוט( -->
+  <Blueprint_DeepDrill.label>BlueprintLabelExtra</Blueprint_DeepDrill.label>
+  
+  <!-- EN: dining chair)שרטוט( -->
+  <Blueprint_DiningChair.label>BlueprintLabelExtra</Blueprint_DiningChair.label>
+  
+  <!-- EN: door)שרטוט( -->
+  <Blueprint_Door.label>BlueprintLabelExtra</Blueprint_Door.label>
+  
+  <!-- EN: double bed)שרטוט( -->
+  <Blueprint_DoubleBed.label>BlueprintLabelExtra</Blueprint_DoubleBed.label>
+  
+  <!-- EN: double sleeping spot)שרטוט( -->
+  <Blueprint_DoubleSleepingSpot.label>BlueprintLabelExtra</Blueprint_DoubleSleepingSpot.label>
+  
+  <!-- EN: dresser)שרטוט( -->
+  <Blueprint_Dresser.label>BlueprintLabelExtra</Blueprint_Dresser.label>
+  
+  <!-- EN: drug lab)שרטוט( -->
+  <Blueprint_DrugLab.label>BlueprintLabelExtra</Blueprint_DrugLab.label>
+  
+  <!-- EN: electric crematorium)שרטוט( -->
+  <Blueprint_ElectricCrematorium.label>BlueprintLabelExtra</Blueprint_ElectricCrematorium.label>
+  
+  <!-- EN: electric smelter)שרטוט( -->
+  <Blueprint_ElectricSmelter.label>BlueprintLabelExtra</Blueprint_ElectricSmelter.label>
+  
+  <!-- EN: electric smithy)שרטוט( -->
+  <Blueprint_ElectricSmithy.label>BlueprintLabelExtra</Blueprint_ElectricSmithy.label>
+  
+  <!-- EN: electric stove)שרטוט( -->
+  <Blueprint_ElectricStove.label>BlueprintLabelExtra</Blueprint_ElectricStove.label>
+  
+  <!-- EN: electric tailor bench)שרטוט( -->
+  <Blueprint_ElectricTailoringBench.label>BlueprintLabelExtra</Blueprint_ElectricTailoringBench.label>
+  
+  <!-- EN: end table)שרטוט( -->
+  <Blueprint_EndTable.label>BlueprintLabelExtra</Blueprint_EndTable.label>
+  
+  <!-- EN: fabrication bench)שרטוט( -->
+  <Blueprint_FabricationBench.label>BlueprintLabelExtra</Blueprint_FabricationBench.label>
+  
+  <!-- EN: fermenting barrel)שרטוט( -->
+  <Blueprint_FermentingBarrel.label>BlueprintLabelExtra</Blueprint_FermentingBarrel.label>
+  
+  <!-- EN: firefoam popper)שרטוט( -->
+  <Blueprint_FirefoamPopper.label>BlueprintLabelExtra</Blueprint_FirefoamPopper.label>
+  
+  <!-- EN: granite flagstone)שרטוט( -->
+  <Blueprint_FlagstoneGranite.label>BlueprintLabelExtra</Blueprint_FlagstoneGranite.label>
+  
+  <!-- EN: limestone flagstone)שרטוט( -->
+  <Blueprint_FlagstoneLimestone.label>BlueprintLabelExtra</Blueprint_FlagstoneLimestone.label>
+  
+  <!-- EN: marble flagstone)שרטוט( -->
+  <Blueprint_FlagstoneMarble.label>BlueprintLabelExtra</Blueprint_FlagstoneMarble.label>
+  
+  <!-- EN: sandstone flagstone)שרטוט( -->
+  <Blueprint_FlagstoneSandstone.label>BlueprintLabelExtra</Blueprint_FlagstoneSandstone.label>
+  
+  <!-- EN: slate flagstone)שרטוט( -->
+  <Blueprint_FlagstoneSlate.label>BlueprintLabelExtra</Blueprint_FlagstoneSlate.label>
+  
+  <!-- EN: flatscreen television)שרטוט( -->
+  <Blueprint_FlatscreenTelevision.label>BlueprintLabelExtra</Blueprint_FlatscreenTelevision.label>
+  
+  <!-- EN: fueled smithy)שרטוט( -->
+  <Blueprint_FueledSmithy.label>BlueprintLabelExtra</Blueprint_FueledSmithy.label>
+  
+  <!-- EN: fueled stove)שרטוט( -->
+  <Blueprint_FueledStove.label>BlueprintLabelExtra</Blueprint_FueledStove.label>
+  
+  <!-- EN: game-of-Ur board)שרטוט( -->
+  <Blueprint_GameOfUrBoard.label>BlueprintLabelExtra</Blueprint_GameOfUrBoard.label>
+  
+  <!-- EN: geothermal generator)שרטוט( -->
+  <Blueprint_GeothermalGenerator.label>BlueprintLabelExtra</Blueprint_GeothermalGenerator.label>
+  
+  <!-- EN: gold tile)שרטוט( -->
+  <Blueprint_GoldTile.label>BlueprintLabelExtra</Blueprint_GoldTile.label>
+  
+  <!-- EN: grave)שרטוט( -->
+  <Blueprint_Grave.label>BlueprintLabelExtra</Blueprint_Grave.label>
+  
+  <!-- EN: ground-penetrating scanner)שרטוט( -->
+  <Blueprint_GroundPenetratingScanner.label>BlueprintLabelExtra</Blueprint_GroundPenetratingScanner.label>
+  
+  <!-- EN: hand tailor bench)שרטוט( -->
+  <Blueprint_HandTailoringBench.label>BlueprintLabelExtra</Blueprint_HandTailoringBench.label>
+  
+  <!-- EN: heater)שרטוט( -->
+  <Blueprint_Heater.label>BlueprintLabelExtra</Blueprint_Heater.label>
+  
+  <!-- EN: hi-tech research bench)שרטוט( -->
+  <Blueprint_HiTechResearchBench.label>BlueprintLabelExtra</Blueprint_HiTechResearchBench.label>
+  
+  <!-- EN: hoopstone ring)שרטוט( -->
+  <Blueprint_HoopstoneRing.label>BlueprintLabelExtra</Blueprint_HoopstoneRing.label>
+  
+  <!-- EN: hopper)שרטוט( -->
+  <Blueprint_Hopper.label>BlueprintLabelExtra</Blueprint_Hopper.label>
+  
+  <!-- EN: horseshoes pin)שרטוט( -->
+  <Blueprint_HorseshoesPin.label>BlueprintLabelExtra</Blueprint_HorseshoesPin.label>
+  
+  <!-- EN: hospital bed)שרטוט( -->
+  <Blueprint_HospitalBed.label>BlueprintLabelExtra</Blueprint_HospitalBed.label>
+  
+  <!-- EN: hydroponics basin)שרטוט( -->
+  <Blueprint_HydroponicsBasin.label>BlueprintLabelExtra</Blueprint_HydroponicsBasin.label>
+  
+  <!-- EN: animal bed)שרטוט( -->
+  <Blueprint_Install_AnimalBed.label>BlueprintLabelExtra</Blueprint_Install_AnimalBed.label>
+  
+  <!-- EN: animal sleeping box)שרטוט( -->
+  <Blueprint_Install_AnimalSleepingBox.label>BlueprintLabelExtra</Blueprint_Install_AnimalSleepingBox.label>
+  
+  <!-- EN: armchair)שרטוט( -->
+  <Blueprint_Install_Armchair.label>BlueprintLabelExtra</Blueprint_Install_Armchair.label>
+  
+  <!-- EN: battery)שרטוט( -->
+  <Blueprint_Install_Battery.label>BlueprintLabelExtra</Blueprint_Install_Battery.label>
+  
+  <!-- EN: bed)שרטוט( -->
+  <Blueprint_Install_Bed.label>BlueprintLabelExtra</Blueprint_Install_Bed.label>
+  
+  <!-- EN: bedroll)שרטוט( -->
+  <Blueprint_Install_Bedroll.label>BlueprintLabelExtra</Blueprint_Install_Bedroll.label>
+  
+  <!-- EN: double bedroll)שרטוט( -->
+  <Blueprint_Install_BedrollDouble.label>BlueprintLabelExtra</Blueprint_Install_BedrollDouble.label>
+  
+  <!-- EN: billiards table)שרטוט( -->
+  <Blueprint_Install_BilliardsTable.label>BlueprintLabelExtra</Blueprint_Install_BilliardsTable.label>
+  
+  <!-- EN: brewery)שרטוט( -->
+  <Blueprint_Install_Brewery.label>BlueprintLabelExtra</Blueprint_Install_Brewery.label>
+  
+  <!-- EN: chess table)שרטוט( -->
+  <Blueprint_Install_ChessTable.label>BlueprintLabelExtra</Blueprint_Install_ChessTable.label>
+  
+  <!-- EN: deep drill)שרטוט( -->
+  <Blueprint_Install_DeepDrill.label>BlueprintLabelExtra</Blueprint_Install_DeepDrill.label>
+  
+  <!-- EN: dining chair)שרטוט( -->
+  <Blueprint_Install_DiningChair.label>BlueprintLabelExtra</Blueprint_Install_DiningChair.label>
+  
+  <!-- EN: double bed)שרטוט( -->
+  <Blueprint_Install_DoubleBed.label>BlueprintLabelExtra</Blueprint_Install_DoubleBed.label>
+  
+  <!-- EN: dresser)שרטוט( -->
+  <Blueprint_Install_Dresser.label>BlueprintLabelExtra</Blueprint_Install_Dresser.label>
+  
+  <!-- EN: drug lab)שרטוט( -->
+  <Blueprint_Install_DrugLab.label>BlueprintLabelExtra</Blueprint_Install_DrugLab.label>
+  
+  <!-- EN: electric smelter)שרטוט( -->
+  <Blueprint_Install_ElectricSmelter.label>BlueprintLabelExtra</Blueprint_Install_ElectricSmelter.label>
+  
+  <!-- EN: electric smithy)שרטוט( -->
+  <Blueprint_Install_ElectricSmithy.label>BlueprintLabelExtra</Blueprint_Install_ElectricSmithy.label>
+  
+  <!-- EN: electric stove)שרטוט( -->
+  <Blueprint_Install_ElectricStove.label>BlueprintLabelExtra</Blueprint_Install_ElectricStove.label>
+  
+  <!-- EN: electric tailor bench)שרטוט( -->
+  <Blueprint_Install_ElectricTailoringBench.label>BlueprintLabelExtra</Blueprint_Install_ElectricTailoringBench.label>
+  
+  <!-- EN: end table)שרטוט( -->
+  <Blueprint_Install_EndTable.label>BlueprintLabelExtra</Blueprint_Install_EndTable.label>
+  
+  <!-- EN: fermenting barrel)שרטוט( -->
+  <Blueprint_Install_FermentingBarrel.label>BlueprintLabelExtra</Blueprint_Install_FermentingBarrel.label>
+  
+  <!-- EN: firefoam popper)שרטוט( -->
+  <Blueprint_Install_FirefoamPopper.label>BlueprintLabelExtra</Blueprint_Install_FirefoamPopper.label>
+  
+  <!-- EN: flatscreen television)שרטוט( -->
+  <Blueprint_Install_FlatscreenTelevision.label>BlueprintLabelExtra</Blueprint_Install_FlatscreenTelevision.label>
+  
+  <!-- EN: fueled smithy)שרטוט( -->
+  <Blueprint_Install_FueledSmithy.label>BlueprintLabelExtra</Blueprint_Install_FueledSmithy.label>
+  
+  <!-- EN: fueled stove)שרטוט( -->
+  <Blueprint_Install_FueledStove.label>BlueprintLabelExtra</Blueprint_Install_FueledStove.label>
+  
+  <!-- EN: game-of-Ur board)שרטוט( -->
+  <Blueprint_Install_GameOfUrBoard.label>BlueprintLabelExtra</Blueprint_Install_GameOfUrBoard.label>
+  
+  <!-- EN: glow pod)שרטוט( -->
+  <Blueprint_Install_GlowPod.label>BlueprintLabelExtra</Blueprint_Install_GlowPod.label>
+  
+  <!-- EN: hand tailor bench)שרטוט( -->
+  <Blueprint_Install_HandTailoringBench.label>BlueprintLabelExtra</Blueprint_Install_HandTailoringBench.label>
+  
+  <!-- EN: heater)שרטוט( -->
+  <Blueprint_Install_Heater.label>BlueprintLabelExtra</Blueprint_Install_Heater.label>
+  
+  <!-- EN: hoopstone ring)שרטוט( -->
+  <Blueprint_Install_HoopstoneRing.label>BlueprintLabelExtra</Blueprint_Install_HoopstoneRing.label>
+  
+  <!-- EN: horseshoes pin)שרטוט( -->
+  <Blueprint_Install_HorseshoesPin.label>BlueprintLabelExtra</Blueprint_Install_HorseshoesPin.label>
+  
+  <!-- EN: hospital bed)שרטוט( -->
+  <Blueprint_Install_HospitalBed.label>BlueprintLabelExtra</Blueprint_Install_HospitalBed.label>
+  
+  <!-- EN: infinite chemreactor)שרטוט( -->
+  <Blueprint_Install_InfiniteChemreactor.label>BlueprintLabelExtra</Blueprint_Install_InfiniteChemreactor.label>
+  
+  <!-- EN: megascreen television)שרטוט( -->
+  <Blueprint_Install_MegascreenTelevision.label>BlueprintLabelExtra</Blueprint_Install_MegascreenTelevision.label>
+  
+  <!-- EN: multi-analyzer)שרטוט( -->
+  <Blueprint_Install_MultiAnalyzer.label>BlueprintLabelExtra</Blueprint_Install_MultiAnalyzer.label>
+  
+  <!-- EN: orbital trade beacon)שרטוט( -->
+  <Blueprint_Install_OrbitalTradeBeacon.label>BlueprintLabelExtra</Blueprint_Install_OrbitalTradeBeacon.label>
+  
+  <!-- EN: plant pot)שרטוט( -->
+  <Blueprint_Install_PlantPot.label>BlueprintLabelExtra</Blueprint_Install_PlantPot.label>
+  
+  <!-- EN: poker table)שרטוט( -->
+  <Blueprint_Install_PokerTable.label>BlueprintLabelExtra</Blueprint_Install_PokerTable.label>
+  
+  <!-- EN: psychic emanator)שרטוט( -->
+  <Blueprint_Install_PsychicEmanator.label>BlueprintLabelExtra</Blueprint_Install_PsychicEmanator.label>
+  
+  <!-- EN: royal bed)שרטוט( -->
+  <Blueprint_Install_RoyalBed.label>BlueprintLabelExtra</Blueprint_Install_RoyalBed.label>
+  
+  <!-- EN: grand sculpture)שרטוט( -->
+  <Blueprint_Install_SculptureGrand.label>BlueprintLabelExtra</Blueprint_Install_SculptureGrand.label>
+  
+  <!-- EN: large sculpture)שרטוט( -->
+  <Blueprint_Install_SculptureLarge.label>BlueprintLabelExtra</Blueprint_Install_SculptureLarge.label>
+  
+  <!-- EN: small sculpture)שרטוט( -->
+  <Blueprint_Install_SculptureSmall.label>BlueprintLabelExtra</Blueprint_Install_SculptureSmall.label>
+  
+  <!-- EN: shelf)שרטוט( -->
+  <Blueprint_Install_Shelf.label>BlueprintLabelExtra</Blueprint_Install_Shelf.label>
+  
+  <!-- EN: simple research bench)שרטוט( -->
+  <Blueprint_Install_SimpleResearchBench.label>BlueprintLabelExtra</Blueprint_Install_SimpleResearchBench.label>
+  
+  <!-- EN: standing lamp (blue))שרטוט( -->
+  <Blueprint_Install_StandingLamp.label>BlueprintLabelExtra</Blueprint_Install_StandingLamp.label>
+  
+  <!-- EN: stool)שרטוט( -->
+  <Blueprint_Install_Stool.label>BlueprintLabelExtra</Blueprint_Install_Stool.label>
+  
+  <!-- EN: sun lamp)שרטוט( -->
+  <Blueprint_Install_SunLamp.label>BlueprintLabelExtra</Blueprint_Install_SunLamp.label>
+  
+  <!-- EN: table (1x2))שרטוט( -->
+  <Blueprint_Install_Table1x2c.label>BlueprintLabelExtra</Blueprint_Install_Table1x2c.label>
+  
+  <!-- EN: table (2x2))שרטוט( -->
+  <Blueprint_Install_Table2x2c.label>BlueprintLabelExtra</Blueprint_Install_Table2x2c.label>
+  
+  <!-- EN: table (2x4))שרטוט( -->
+  <Blueprint_Install_Table2x4c.label>BlueprintLabelExtra</Blueprint_Install_Table2x4c.label>
+  
+  <!-- EN: table (3x3))שרטוט( -->
+  <Blueprint_Install_Table3x3c.label>BlueprintLabelExtra</Blueprint_Install_Table3x3c.label>
+  
+  <!-- EN: butcher table)שרטוט( -->
+  <Blueprint_Install_TableButcher.label>BlueprintLabelExtra</Blueprint_Install_TableButcher.label>
+  
+  <!-- EN: machining table)שרטוט( -->
+  <Blueprint_Install_TableMachining.label>BlueprintLabelExtra</Blueprint_Install_TableMachining.label>
+  
+  <!-- EN: sculptor's table)שרטוט( -->
+  <Blueprint_Install_TableSculpting.label>BlueprintLabelExtra</Blueprint_Install_TableSculpting.label>
+  
+  <!-- EN: stonecutter's table)שרטוט( -->
+  <Blueprint_Install_TableStonecutter.label>BlueprintLabelExtra</Blueprint_Install_TableStonecutter.label>
+  
+  <!-- EN: telescope)שרטוט( -->
+  <Blueprint_Install_Telescope.label>BlueprintLabelExtra</Blueprint_Install_Telescope.label>
+  
+  <!-- EN: tool cabinet)שרטוט( -->
+  <Blueprint_Install_ToolCabinet.label>BlueprintLabelExtra</Blueprint_Install_ToolCabinet.label>
+  
+  <!-- EN: tube television)שרטוט( -->
+  <Blueprint_Install_TubeTelevision.label>BlueprintLabelExtra</Blueprint_Install_TubeTelevision.label>
+  
+  <!-- EN: mini-turret)שרטוט( -->
+  <Blueprint_Install_Turret_MiniTurret.label>BlueprintLabelExtra</Blueprint_Install_Turret_MiniTurret.label>
+  
+  <!-- EN: mortar)שרטוט( -->
+  <Blueprint_Install_Turret_Mortar.label>BlueprintLabelExtra</Blueprint_Install_Turret_Mortar.label>
+  
+  <!-- EN: vanometric power cell)שרטוט( -->
+  <Blueprint_Install_VanometricPowerCell.label>BlueprintLabelExtra</Blueprint_Install_VanometricPowerCell.label>
+  
+  <!-- EN: vitals monitor)שרטוט( -->
+  <Blueprint_Install_VitalsMonitor.label>BlueprintLabelExtra</Blueprint_Install_VitalsMonitor.label>
+  
+  <!-- EN: long-range mineral scanner)שרטוט( -->
+  <Blueprint_LongRangeMineralScanner.label>BlueprintLabelExtra</Blueprint_LongRangeMineralScanner.label>
+  
+  <!-- EN: marriage spot)שרטוט( -->
+  <Blueprint_MarriageSpot.label>BlueprintLabelExtra</Blueprint_MarriageSpot.label>
+  
+  <!-- EN: metal tile)שרטוט( -->
+  <Blueprint_MetalTile.label>BlueprintLabelExtra</Blueprint_MetalTile.label>
+  
+  <!-- EN: moisture pump)שרטוט( -->
+  <Blueprint_MoisturePump.label>BlueprintLabelExtra</Blueprint_MoisturePump.label>
+  
+  <!-- EN: multi-analyzer)שרטוט( -->
+  <Blueprint_MultiAnalyzer.label>BlueprintLabelExtra</Blueprint_MultiAnalyzer.label>
+  
+  <!-- EN: nutrient paste dispenser)שרטוט( -->
+  <Blueprint_NutrientPasteDispenser.label>BlueprintLabelExtra</Blueprint_NutrientPasteDispenser.label>
+  
+  <!-- EN: orbital trade beacon)שרטוט( -->
+  <Blueprint_OrbitalTradeBeacon.label>BlueprintLabelExtra</Blueprint_OrbitalTradeBeacon.label>
+  
+  <!-- EN: party spot)שרטוט( -->
+  <Blueprint_PartySpot.label>BlueprintLabelExtra</Blueprint_PartySpot.label>
+  
+  <!-- EN: passive cooler)שרטוט( -->
+  <Blueprint_PassiveCooler.label>BlueprintLabelExtra</Blueprint_PassiveCooler.label>
+  
+  <!-- EN: paved tile)שרטוט( -->
+  <Blueprint_PavedTile.label>BlueprintLabelExtra</Blueprint_PavedTile.label>
+  
+  <!-- EN: plant pot)שרטוט( -->
+  <Blueprint_PlantPot.label>BlueprintLabelExtra</Blueprint_PlantPot.label>
+  
+  <!-- EN: pod launcher)שרטוט( -->
+  <Blueprint_PodLauncher.label>BlueprintLabelExtra</Blueprint_PodLauncher.label>
+  
+  <!-- EN: poker table)שרטוט( -->
+  <Blueprint_PokerTable.label>BlueprintLabelExtra</Blueprint_PokerTable.label>
+  
+  <!-- EN: power conduit)שרטוט( -->
+  <Blueprint_PowerConduit.label>BlueprintLabelExtra</Blueprint_PowerConduit.label>
+  
+  <!-- EN: power switch)שרטוט( -->
+  <Blueprint_PowerSwitch.label>BlueprintLabelExtra</Blueprint_PowerSwitch.label>
+  
+  <!-- EN: royal bed)שרטוט( -->
+  <Blueprint_RoyalBed.label>BlueprintLabelExtra</Blueprint_RoyalBed.label>
+  
+  <!-- EN: sandbags)שרטוט( -->
+  <Blueprint_Sandbags.label>BlueprintLabelExtra</Blueprint_Sandbags.label>
+  
+  <!-- EN: sarcophagus)שרטוט( -->
+  <Blueprint_Sarcophagus.label>BlueprintLabelExtra</Blueprint_Sarcophagus.label>
+  
+  <!-- EN: shelf)שרטוט( -->
+  <Blueprint_Shelf.label>BlueprintLabelExtra</Blueprint_Shelf.label>
+  
+  <!-- EN: ship structural beam)שרטוט( -->
+  <Blueprint_Ship_Beam.label>BlueprintLabelExtra</Blueprint_Ship_Beam.label>
+  
+  <!-- EN: ship computer core)שרטוט( -->
+  <Blueprint_Ship_ComputerCore.label>BlueprintLabelExtra</Blueprint_Ship_ComputerCore.label>
+  
+  <!-- EN: ship cryptosleep casket)שרטוט( -->
+  <Blueprint_Ship_CryptosleepCasket.label>BlueprintLabelExtra</Blueprint_Ship_CryptosleepCasket.label>
+  
+  <!-- EN: ship engine)שרטוט( -->
+  <Blueprint_Ship_Engine.label>BlueprintLabelExtra</Blueprint_Ship_Engine.label>
+  
+  <!-- EN: ship reactor)שרטוט( -->
+  <Blueprint_Ship_Reactor.label>BlueprintLabelExtra</Blueprint_Ship_Reactor.label>
+  
+  <!-- EN: sensor cluster)שרטוט( -->
+  <Blueprint_Ship_SensorCluster.label>BlueprintLabelExtra</Blueprint_Ship_SensorCluster.label>
+  
+  <!-- EN: silver tile)שרטוט( -->
+  <Blueprint_SilverTile.label>BlueprintLabelExtra</Blueprint_SilverTile.label>
+  
+  <!-- EN: simple research bench)שרטוט( -->
+  <Blueprint_SimpleResearchBench.label>BlueprintLabelExtra</Blueprint_SimpleResearchBench.label>
+  
+  <!-- EN: sleeping spot)שרטוט( -->
+  <Blueprint_SleepingSpot.label>BlueprintLabelExtra</Blueprint_SleepingSpot.label>
+  
+  <!-- EN: solar generator)שרטוט( -->
+  <Blueprint_SolarGenerator.label>BlueprintLabelExtra</Blueprint_SolarGenerator.label>
+  
+  <!-- EN: standing lamp (blue))שרטוט( -->
+  <Blueprint_StandingLamp.label>BlueprintLabelExtra</Blueprint_StandingLamp.label>
+  
+  <!-- EN: sterile tile)שרטוט( -->
+  <Blueprint_SterileTile.label>BlueprintLabelExtra</Blueprint_SterileTile.label>
+  
+  <!-- EN: stool)שרטוט( -->
+  <Blueprint_Stool.label>BlueprintLabelExtra</Blueprint_Stool.label>
+  
+  <!-- EN: sun lamp)שרטוט( -->
+  <Blueprint_SunLamp.label>BlueprintLabelExtra</Blueprint_SunLamp.label>
+  
+  <!-- EN: table (1x2))שרטוט( -->
+  <Blueprint_Table1x2c.label>BlueprintLabelExtra</Blueprint_Table1x2c.label>
+  
+  <!-- EN: table (2x2))שרטוט( -->
+  <Blueprint_Table2x2c.label>BlueprintLabelExtra</Blueprint_Table2x2c.label>
+  
+  <!-- EN: table (2x4))שרטוט( -->
+  <Blueprint_Table2x4c.label>BlueprintLabelExtra</Blueprint_Table2x4c.label>
+  
+  <!-- EN: table (3x3))שרטוט( -->
+  <Blueprint_Table3x3c.label>BlueprintLabelExtra</Blueprint_Table3x3c.label>
+  
+  <!-- EN: butcher table)שרטוט( -->
+  <Blueprint_TableButcher.label>BlueprintLabelExtra</Blueprint_TableButcher.label>
+  
+  <!-- EN: machining table)שרטוט( -->
+  <Blueprint_TableMachining.label>BlueprintLabelExtra</Blueprint_TableMachining.label>
+  
+  <!-- EN: sculptor's table)שרטוט( -->
+  <Blueprint_TableSculpting.label>BlueprintLabelExtra</Blueprint_TableSculpting.label>
+  
+  <!-- EN: stonecutter's table)שרטוט( -->
+  <Blueprint_TableStonecutter.label>BlueprintLabelExtra</Blueprint_TableStonecutter.label>
+  
+  <!-- EN: granite tile)שרטוט( -->
+  <Blueprint_TileGranite.label>BlueprintLabelExtra</Blueprint_TileGranite.label>
+  
+  <!-- EN: limestone tile)שרטוט( -->
+  <Blueprint_TileLimestone.label>BlueprintLabelExtra</Blueprint_TileLimestone.label>
+  
+  <!-- EN: marble tile)שרטוט( -->
+  <Blueprint_TileMarble.label>BlueprintLabelExtra</Blueprint_TileMarble.label>
+  
+  <!-- EN: sandstone tile)שרטוט( -->
+  <Blueprint_TileSandstone.label>BlueprintLabelExtra</Blueprint_TileSandstone.label>
+  
+  <!-- EN: slate tile)שרטוט( -->
+  <Blueprint_TileSlate.label>BlueprintLabelExtra</Blueprint_TileSlate.label>
+  
+  <!-- EN: tool cabinet)שרטוט( -->
+  <Blueprint_ToolCabinet.label>BlueprintLabelExtra</Blueprint_ToolCabinet.label>
+  
+  <!-- EN: torch lamp)שרטוט( -->
+  <Blueprint_TorchLamp.label>BlueprintLabelExtra</Blueprint_TorchLamp.label>
+  
+  <!-- EN: transport pod)שרטוט( -->
+  <Blueprint_TransportPod.label>BlueprintLabelExtra</Blueprint_TransportPod.label>
+  
+  <!-- EN: IED antigrain warhead trap)שרטוט( -->
+  <Blueprint_TrapIED_AntigrainWarhead.label>BlueprintLabelExtra</Blueprint_TrapIED_AntigrainWarhead.label>
+  
+  <!-- EN: IED EMP trap)שרטוט( -->
+  <Blueprint_TrapIED_EMP.label>BlueprintLabelExtra</Blueprint_TrapIED_EMP.label>
+  
+  <!-- EN: IED firefoam trap)שרטוט( -->
+  <Blueprint_TrapIED_Firefoam.label>BlueprintLabelExtra</Blueprint_TrapIED_Firefoam.label>
+  
+  <!-- EN: IED trap)שרטוט( -->
+  <Blueprint_TrapIED_HighExplosive.label>BlueprintLabelExtra</Blueprint_TrapIED_HighExplosive.label>
+  
+  <!-- EN: IED incendiary trap)שרטוט( -->
+  <Blueprint_TrapIED_Incendiary.label>BlueprintLabelExtra</Blueprint_TrapIED_Incendiary.label>
+  
+  <!-- EN: tube television)שרטוט( -->
+  <Blueprint_TubeTelevision.label>BlueprintLabelExtra</Blueprint_TubeTelevision.label>
+  
+  <!-- EN: autocannon turret)שרטוט( -->
+  <Blueprint_Turret_Autocannon.label>BlueprintLabelExtra</Blueprint_Turret_Autocannon.label>
+  
+  <!-- EN: mini-turret)שרטוט( -->
+  <Blueprint_Turret_MiniTurret.label>BlueprintLabelExtra</Blueprint_Turret_MiniTurret.label>
+  
+  <!-- EN: mortar)שרטוט( -->
+  <Blueprint_Turret_Mortar.label>BlueprintLabelExtra</Blueprint_Turret_Mortar.label>
+  
+  <!-- EN: sniper turret)שרטוט( -->
+  <Blueprint_Turret_Sniper.label>BlueprintLabelExtra</Blueprint_Turret_Sniper.label>
+  
+  <!-- EN: vent)שרטוט( -->
+  <Blueprint_Vent.label>BlueprintLabelExtra</Blueprint_Vent.label>
+  
+  <!-- EN: vitals monitor)שרטוט( -->
+  <Blueprint_VitalsMonitor.label>BlueprintLabelExtra</Blueprint_VitalsMonitor.label>
+  
+  <!-- EN: wall)שרטוט( -->
+  <Blueprint_Wall.label>BlueprintLabelExtra</Blueprint_Wall.label>
+  
+  <!-- EN: watermill generator)שרטוט( -->
+  <Blueprint_WatermillGenerator.label>BlueprintLabelExtra</Blueprint_WatermillGenerator.label>
+  
+  <!-- EN: waterproof conduit)שרטוט( -->
+  <Blueprint_WaterproofConduit.label>BlueprintLabelExtra</Blueprint_WaterproofConduit.label>
+  
+  <!-- EN: wind turbine)שרטוט( -->
+  <Blueprint_WindTurbine.label>BlueprintLabelExtra</Blueprint_WindTurbine.label>
+  
+  <!-- EN: wood-fired generator)שרטוט( -->
+  <Blueprint_WoodFiredGenerator.label>BlueprintLabelExtra</Blueprint_WoodFiredGenerator.label>
+  
+  <!-- EN: wood floor)שרטוט( -->
+  <Blueprint_WoodPlankFloor.label>BlueprintLabelExtra</Blueprint_WoodPlankFloor.label>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Alpaca.label>CorpseLabel</Corpse_Alpaca.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Alpaca.description>CorpseDesc</Corpse_Alpaca.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Alphabeaver.label>CorpseLabel</Corpse_Alphabeaver.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Alphabeaver.description>CorpseDesc</Corpse_Alphabeaver.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Bear_Grizzly.label>CorpseLabel</Corpse_Bear_Grizzly.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Bear_Grizzly.description>CorpseDesc</Corpse_Bear_Grizzly.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Bear_Polar.label>CorpseLabel</Corpse_Bear_Polar.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Bear_Polar.description>CorpseDesc</Corpse_Bear_Polar.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Boomalope.label>CorpseLabel</Corpse_Boomalope.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Boomalope.description>CorpseDesc</Corpse_Boomalope.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Boomrat.label>CorpseLabel</Corpse_Boomrat.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Boomrat.description>CorpseDesc</Corpse_Boomrat.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Capybara.label>CorpseLabel</Corpse_Capybara.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Capybara.description>CorpseDesc</Corpse_Capybara.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Caribou.label>CorpseLabel</Corpse_Caribou.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Caribou.description>CorpseDesc</Corpse_Caribou.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Cassowary.label>CorpseLabel</Corpse_Cassowary.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Cassowary.description>CorpseDesc</Corpse_Cassowary.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Cat.label>CorpseLabel</Corpse_Cat.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Cat.description>CorpseDesc</Corpse_Cat.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Chicken.label>CorpseLabel</Corpse_Chicken.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Chicken.description>CorpseDesc</Corpse_Chicken.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Chinchilla.label>CorpseLabel</Corpse_Chinchilla.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Chinchilla.description>CorpseDesc</Corpse_Chinchilla.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Cobra.label>CorpseLabel</Corpse_Cobra.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Cobra.description>CorpseDesc</Corpse_Cobra.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Cougar.label>CorpseLabel</Corpse_Cougar.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Cougar.description>CorpseDesc</Corpse_Cougar.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Cow.label>CorpseLabel</Corpse_Cow.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Cow.description>CorpseDesc</Corpse_Cow.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Deer.label>CorpseLabel</Corpse_Deer.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Deer.description>CorpseDesc</Corpse_Deer.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Dromedary.label>CorpseLabel</Corpse_Dromedary.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Dromedary.description>CorpseDesc</Corpse_Dromedary.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Elephant.label>CorpseLabel</Corpse_Elephant.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Elephant.description>CorpseDesc</Corpse_Elephant.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Elk.label>CorpseLabel</Corpse_Elk.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Elk.description>CorpseDesc</Corpse_Elk.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Emu.label>CorpseLabel</Corpse_Emu.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Emu.description>CorpseDesc</Corpse_Emu.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Fox_Arctic.label>CorpseLabel</Corpse_Fox_Arctic.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Fox_Arctic.description>CorpseDesc</Corpse_Fox_Arctic.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Fox_Fennec.label>CorpseLabel</Corpse_Fox_Fennec.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Fox_Fennec.description>CorpseDesc</Corpse_Fox_Fennec.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Fox_Red.label>CorpseLabel</Corpse_Fox_Red.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Fox_Red.description>CorpseDesc</Corpse_Fox_Red.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Gazelle.label>CorpseLabel</Corpse_Gazelle.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Gazelle.description>CorpseDesc</Corpse_Gazelle.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Hare.label>CorpseLabel</Corpse_Hare.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Hare.description>CorpseDesc</Corpse_Hare.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Husky.label>CorpseLabel</Corpse_Husky.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Husky.description>CorpseDesc</Corpse_Husky.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Ibex.label>CorpseLabel</Corpse_Ibex.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Ibex.description>CorpseDesc</Corpse_Ibex.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Iguana.label>CorpseLabel</Corpse_Iguana.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Iguana.description>CorpseDesc</Corpse_Iguana.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_LabradorRetriever.label>CorpseLabel</Corpse_LabradorRetriever.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_LabradorRetriever.description>CorpseDesc</Corpse_LabradorRetriever.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Lynx.label>CorpseLabel</Corpse_Lynx.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Lynx.description>CorpseDesc</Corpse_Lynx.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Megascarab.label>CorpseLabel</Corpse_Megascarab.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Megascarab.description>CorpseDesc</Corpse_Megascarab.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Megasloth.label>CorpseLabel</Corpse_Megasloth.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Megasloth.description>CorpseDesc</Corpse_Megasloth.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Megaspider.label>CorpseLabel</Corpse_Megaspider.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Megaspider.description>CorpseDesc</Corpse_Megaspider.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Monkey.label>CorpseLabel</Corpse_Monkey.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Monkey.description>CorpseDesc</Corpse_Monkey.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Muffalo.label>CorpseLabel</Corpse_Muffalo.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Muffalo.description>CorpseDesc</Corpse_Muffalo.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Ostrich.label>CorpseLabel</Corpse_Ostrich.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Ostrich.description>CorpseDesc</Corpse_Ostrich.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Panther.label>CorpseLabel</Corpse_Panther.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Panther.description>CorpseDesc</Corpse_Panther.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Pig.label>CorpseLabel</Corpse_Pig.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Pig.description>CorpseDesc</Corpse_Pig.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Raccoon.label>CorpseLabel</Corpse_Raccoon.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Raccoon.description>CorpseDesc</Corpse_Raccoon.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Rat.label>CorpseLabel</Corpse_Rat.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Rat.description>CorpseDesc</Corpse_Rat.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Rhinoceros.label>CorpseLabel</Corpse_Rhinoceros.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Rhinoceros.description>CorpseDesc</Corpse_Rhinoceros.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Snowhare.label>CorpseLabel</Corpse_Snowhare.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Snowhare.description>CorpseDesc</Corpse_Snowhare.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Spelopede.label>CorpseLabel</Corpse_Spelopede.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Spelopede.description>CorpseDesc</Corpse_Spelopede.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Squirrel.label>CorpseLabel</Corpse_Squirrel.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Squirrel.description>CorpseDesc</Corpse_Squirrel.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Thrumbo.label>CorpseLabel</Corpse_Thrumbo.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Thrumbo.description>CorpseDesc</Corpse_Thrumbo.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Tortoise.label>CorpseLabel</Corpse_Tortoise.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Tortoise.description>CorpseDesc</Corpse_Tortoise.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Turkey.label>CorpseLabel</Corpse_Turkey.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Turkey.description>CorpseDesc</Corpse_Turkey.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Warg.label>CorpseLabel</Corpse_Warg.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Warg.description>CorpseDesc</Corpse_Warg.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_WildBoar.label>CorpseLabel</Corpse_WildBoar.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_WildBoar.description>CorpseDesc</Corpse_WildBoar.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Wolf_Arctic.label>CorpseLabel</Corpse_Wolf_Arctic.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Wolf_Arctic.description>CorpseDesc</Corpse_Wolf_Arctic.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_Wolf_Timber.label>CorpseLabel</Corpse_Wolf_Timber.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_Wolf_Timber.description>CorpseDesc</Corpse_Wolf_Timber.description>
+  
+  <!-- EN: גופתו של }0 -->
+  <Corpse_YorkshireTerrier.label>CorpseLabel</Corpse_YorkshireTerrier.label>
+  <!-- EN: .גופתו המתה של }0 -->
+  <Corpse_YorkshireTerrier.description>CorpseDesc</Corpse_YorkshireTerrier.description>
+  
+  <!-- EN: animal bed)מבנה( -->
+  <Frame_AnimalBed.label>FrameLabelExtra</Frame_AnimalBed.label>
+  
+  <!-- EN: animal sleeping box)מבנה( -->
+  <Frame_AnimalSleepingBox.label>FrameLabelExtra</Frame_AnimalSleepingBox.label>
+  
+  <!-- EN: animal sleeping spot)מבנה( -->
+  <Frame_AnimalSleepingSpot.label>FrameLabelExtra</Frame_AnimalSleepingSpot.label>
+  
+  <!-- EN: armchair)מבנה( -->
+  <Frame_Armchair.label>FrameLabelExtra</Frame_Armchair.label>
+  
+  <!-- EN: autodoor)מבנה( -->
+  <Frame_Autodoor.label>FrameLabelExtra</Frame_Autodoor.label>
+  
+  <!-- EN: battery)מבנה( -->
+  <Frame_Battery.label>FrameLabelExtra</Frame_Battery.label>
+  
+  <!-- EN: bed)מבנה( -->
+  <Frame_Bed.label>FrameLabelExtra</Frame_Bed.label>
+  
+  <!-- EN: bedroll)מבנה( -->
+  <Frame_Bedroll.label>FrameLabelExtra</Frame_Bedroll.label>
+  
+  <!-- EN: double bedroll)מבנה( -->
+  <Frame_BedrollDouble.label>FrameLabelExtra</Frame_BedrollDouble.label>
+  
+  <!-- EN: billiards table)מבנה( -->
+  <Frame_BilliardsTable.label>FrameLabelExtra</Frame_BilliardsTable.label>
+  
+  <!-- EN: biofuel refinery)מבנה( -->
+  <Frame_BiofuelRefinery.label>FrameLabelExtra</Frame_BiofuelRefinery.label>
+  
+  <!-- EN: brewery)מבנה( -->
+  <Frame_Brewery.label>FrameLabelExtra</Frame_Brewery.label>
+  
+  <!-- EN: bridge)מבנה( -->
+  <Frame_Bridge.label>FrameLabelExtra</Frame_Bridge.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Bridge.description>Terrain building in progress.</Frame_Bridge.description>
+  
+  <!-- EN: butcher spot)מבנה( -->
+  <Frame_ButcherSpot.label>FrameLabelExtra</Frame_ButcherSpot.label>
+  
+  <!-- EN: campfire)מבנה( -->
+  <Frame_Campfire.label>FrameLabelExtra</Frame_Campfire.label>
+  
+  <!-- EN: caravan packing spot)מבנה( -->
+  <Frame_CaravanPackingSpot.label>FrameLabelExtra</Frame_CaravanPackingSpot.label>
+  
+  <!-- EN: chemfuel powered generator)מבנה( -->
+  <Frame_ChemfuelPoweredGenerator.label>FrameLabelExtra</Frame_ChemfuelPoweredGenerator.label>
+  
+  <!-- EN: chess table)מבנה( -->
+  <Frame_ChessTable.label>FrameLabelExtra</Frame_ChessTable.label>
+  
+  <!-- EN: comms console)מבנה( -->
+  <Frame_CommsConsole.label>FrameLabelExtra</Frame_CommsConsole.label>
+  
+  <!-- EN: concrete)מבנה( -->
+  <Frame_Concrete.label>FrameLabelExtra</Frame_Concrete.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Concrete.description>Terrain building in progress.</Frame_Concrete.description>
+  
+  <!-- EN: cooler)מבנה( -->
+  <Frame_Cooler.label>FrameLabelExtra</Frame_Cooler.label>
+  
+  <!-- EN: crafting spot)מבנה( -->
+  <Frame_CraftingSpot.label>FrameLabelExtra</Frame_CraftingSpot.label>
+  
+  <!-- EN: cryptosleep casket)מבנה( -->
+  <Frame_CryptosleepCasket.label>FrameLabelExtra</Frame_CryptosleepCasket.label>
+  
+  <!-- EN: deep drill)מבנה( -->
+  <Frame_DeepDrill.label>FrameLabelExtra</Frame_DeepDrill.label>
+  
+  <!-- EN: dining chair)מבנה( -->
+  <Frame_DiningChair.label>FrameLabelExtra</Frame_DiningChair.label>
+  
+  <!-- EN: door)מבנה( -->
+  <Frame_Door.label>FrameLabelExtra</Frame_Door.label>
+  
+  <!-- EN: double bed)מבנה( -->
+  <Frame_DoubleBed.label>FrameLabelExtra</Frame_DoubleBed.label>
+  
+  <!-- EN: double sleeping spot)מבנה( -->
+  <Frame_DoubleSleepingSpot.label>FrameLabelExtra</Frame_DoubleSleepingSpot.label>
+  
+  <!-- EN: dresser)מבנה( -->
+  <Frame_Dresser.label>FrameLabelExtra</Frame_Dresser.label>
+  
+  <!-- EN: drug lab)מבנה( -->
+  <Frame_DrugLab.label>FrameLabelExtra</Frame_DrugLab.label>
+  
+  <!-- EN: electric crematorium)מבנה( -->
+  <Frame_ElectricCrematorium.label>FrameLabelExtra</Frame_ElectricCrematorium.label>
+  
+  <!-- EN: electric smelter)מבנה( -->
+  <Frame_ElectricSmelter.label>FrameLabelExtra</Frame_ElectricSmelter.label>
+  
+  <!-- EN: electric smithy)מבנה( -->
+  <Frame_ElectricSmithy.label>FrameLabelExtra</Frame_ElectricSmithy.label>
+  
+  <!-- EN: electric stove)מבנה( -->
+  <Frame_ElectricStove.label>FrameLabelExtra</Frame_ElectricStove.label>
+  
+  <!-- EN: electric tailor bench)מבנה( -->
+  <Frame_ElectricTailoringBench.label>FrameLabelExtra</Frame_ElectricTailoringBench.label>
+  
+  <!-- EN: end table)מבנה( -->
+  <Frame_EndTable.label>FrameLabelExtra</Frame_EndTable.label>
+  
+  <!-- EN: fabrication bench)מבנה( -->
+  <Frame_FabricationBench.label>FrameLabelExtra</Frame_FabricationBench.label>
+  
+  <!-- EN: fermenting barrel)מבנה( -->
+  <Frame_FermentingBarrel.label>FrameLabelExtra</Frame_FermentingBarrel.label>
+  
+  <!-- EN: firefoam popper)מבנה( -->
+  <Frame_FirefoamPopper.label>FrameLabelExtra</Frame_FirefoamPopper.label>
+  
+  <!-- EN: granite flagstone)מבנה( -->
+  <Frame_FlagstoneGranite.label>FrameLabelExtra</Frame_FlagstoneGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneGranite.description>Terrain building in progress.</Frame_FlagstoneGranite.description>
+  
+  <!-- EN: limestone flagstone)מבנה( -->
+  <Frame_FlagstoneLimestone.label>FrameLabelExtra</Frame_FlagstoneLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneLimestone.description>Terrain building in progress.</Frame_FlagstoneLimestone.description>
+  
+  <!-- EN: marble flagstone)מבנה( -->
+  <Frame_FlagstoneMarble.label>FrameLabelExtra</Frame_FlagstoneMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneMarble.description>Terrain building in progress.</Frame_FlagstoneMarble.description>
+  
+  <!-- EN: sandstone flagstone)מבנה( -->
+  <Frame_FlagstoneSandstone.label>FrameLabelExtra</Frame_FlagstoneSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSandstone.description>Terrain building in progress.</Frame_FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone)מבנה( -->
+  <Frame_FlagstoneSlate.label>FrameLabelExtra</Frame_FlagstoneSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSlate.description>Terrain building in progress.</Frame_FlagstoneSlate.description>
+  
+  <!-- EN: flatscreen television)מבנה( -->
+  <Frame_FlatscreenTelevision.label>FrameLabelExtra</Frame_FlatscreenTelevision.label>
+  
+  <!-- EN: fueled smithy)מבנה( -->
+  <Frame_FueledSmithy.label>FrameLabelExtra</Frame_FueledSmithy.label>
+  
+  <!-- EN: fueled stove)מבנה( -->
+  <Frame_FueledStove.label>FrameLabelExtra</Frame_FueledStove.label>
+  
+  <!-- EN: game-of-Ur board)מבנה( -->
+  <Frame_GameOfUrBoard.label>FrameLabelExtra</Frame_GameOfUrBoard.label>
+  
+  <!-- EN: geothermal generator)מבנה( -->
+  <Frame_GeothermalGenerator.label>FrameLabelExtra</Frame_GeothermalGenerator.label>
+  
+  <!-- EN: gold tile)מבנה( -->
+  <Frame_GoldTile.label>FrameLabelExtra</Frame_GoldTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_GoldTile.description>Terrain building in progress.</Frame_GoldTile.description>
+  
+  <!-- EN: grave)מבנה( -->
+  <Frame_Grave.label>FrameLabelExtra</Frame_Grave.label>
+  
+  <!-- EN: ground-penetrating scanner)מבנה( -->
+  <Frame_GroundPenetratingScanner.label>FrameLabelExtra</Frame_GroundPenetratingScanner.label>
+  
+  <!-- EN: hand tailor bench)מבנה( -->
+  <Frame_HandTailoringBench.label>FrameLabelExtra</Frame_HandTailoringBench.label>
+  
+  <!-- EN: heater)מבנה( -->
+  <Frame_Heater.label>FrameLabelExtra</Frame_Heater.label>
+  
+  <!-- EN: hi-tech research bench)מבנה( -->
+  <Frame_HiTechResearchBench.label>FrameLabelExtra</Frame_HiTechResearchBench.label>
+  
+  <!-- EN: hoopstone ring)מבנה( -->
+  <Frame_HoopstoneRing.label>FrameLabelExtra</Frame_HoopstoneRing.label>
+  
+  <!-- EN: hopper)מבנה( -->
+  <Frame_Hopper.label>FrameLabelExtra</Frame_Hopper.label>
+  
+  <!-- EN: horseshoes pin)מבנה( -->
+  <Frame_HorseshoesPin.label>FrameLabelExtra</Frame_HorseshoesPin.label>
+  
+  <!-- EN: hospital bed)מבנה( -->
+  <Frame_HospitalBed.label>FrameLabelExtra</Frame_HospitalBed.label>
+  
+  <!-- EN: hydroponics basin)מבנה( -->
+  <Frame_HydroponicsBasin.label>FrameLabelExtra</Frame_HydroponicsBasin.label>
+  
+  <!-- EN: long-range mineral scanner)מבנה( -->
+  <Frame_LongRangeMineralScanner.label>FrameLabelExtra</Frame_LongRangeMineralScanner.label>
+  
+  <!-- EN: marriage spot)מבנה( -->
+  <Frame_MarriageSpot.label>FrameLabelExtra</Frame_MarriageSpot.label>
+  
+  <!-- EN: metal tile)מבנה( -->
+  <Frame_MetalTile.label>FrameLabelExtra</Frame_MetalTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_MetalTile.description>Terrain building in progress.</Frame_MetalTile.description>
+  
+  <!-- EN: moisture pump)מבנה( -->
+  <Frame_MoisturePump.label>FrameLabelExtra</Frame_MoisturePump.label>
+  
+  <!-- EN: multi-analyzer)מבנה( -->
+  <Frame_MultiAnalyzer.label>FrameLabelExtra</Frame_MultiAnalyzer.label>
+  
+  <!-- EN: nutrient paste dispenser)מבנה( -->
+  <Frame_NutrientPasteDispenser.label>FrameLabelExtra</Frame_NutrientPasteDispenser.label>
+  
+  <!-- EN: orbital trade beacon)מבנה( -->
+  <Frame_OrbitalTradeBeacon.label>FrameLabelExtra</Frame_OrbitalTradeBeacon.label>
+  
+  <!-- EN: party spot)מבנה( -->
+  <Frame_PartySpot.label>FrameLabelExtra</Frame_PartySpot.label>
+  
+  <!-- EN: passive cooler)מבנה( -->
+  <Frame_PassiveCooler.label>FrameLabelExtra</Frame_PassiveCooler.label>
+  
+  <!-- EN: paved tile)מבנה( -->
+  <Frame_PavedTile.label>FrameLabelExtra</Frame_PavedTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_PavedTile.description>Terrain building in progress.</Frame_PavedTile.description>
+  
+  <!-- EN: plant pot)מבנה( -->
+  <Frame_PlantPot.label>FrameLabelExtra</Frame_PlantPot.label>
+  
+  <!-- EN: pod launcher)מבנה( -->
+  <Frame_PodLauncher.label>FrameLabelExtra</Frame_PodLauncher.label>
+  
+  <!-- EN: poker table)מבנה( -->
+  <Frame_PokerTable.label>FrameLabelExtra</Frame_PokerTable.label>
+  
+  <!-- EN: power conduit)מבנה( -->
+  <Frame_PowerConduit.label>FrameLabelExtra</Frame_PowerConduit.label>
+  
+  <!-- EN: power switch)מבנה( -->
+  <Frame_PowerSwitch.label>FrameLabelExtra</Frame_PowerSwitch.label>
+  
+  <!-- EN: royal bed)מבנה( -->
+  <Frame_RoyalBed.label>FrameLabelExtra</Frame_RoyalBed.label>
+  
+  <!-- EN: sandbags)מבנה( -->
+  <Frame_Sandbags.label>FrameLabelExtra</Frame_Sandbags.label>
+  
+  <!-- EN: sarcophagus)מבנה( -->
+  <Frame_Sarcophagus.label>FrameLabelExtra</Frame_Sarcophagus.label>
+  
+  <!-- EN: shelf)מבנה( -->
+  <Frame_Shelf.label>FrameLabelExtra</Frame_Shelf.label>
+  
+  <!-- EN: ship structural beam)מבנה( -->
+  <Frame_Ship_Beam.label>FrameLabelExtra</Frame_Ship_Beam.label>
+  
+  <!-- EN: ship computer core)מבנה( -->
+  <Frame_Ship_ComputerCore.label>FrameLabelExtra</Frame_Ship_ComputerCore.label>
+  
+  <!-- EN: ship cryptosleep casket)מבנה( -->
+  <Frame_Ship_CryptosleepCasket.label>FrameLabelExtra</Frame_Ship_CryptosleepCasket.label>
+  
+  <!-- EN: ship engine)מבנה( -->
+  <Frame_Ship_Engine.label>FrameLabelExtra</Frame_Ship_Engine.label>
+  
+  <!-- EN: ship reactor)מבנה( -->
+  <Frame_Ship_Reactor.label>FrameLabelExtra</Frame_Ship_Reactor.label>
+  
+  <!-- EN: sensor cluster)מבנה( -->
+  <Frame_Ship_SensorCluster.label>FrameLabelExtra</Frame_Ship_SensorCluster.label>
+  
+  <!-- EN: silver tile)מבנה( -->
+  <Frame_SilverTile.label>FrameLabelExtra</Frame_SilverTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SilverTile.description>Terrain building in progress.</Frame_SilverTile.description>
+  
+  <!-- EN: simple research bench)מבנה( -->
+  <Frame_SimpleResearchBench.label>FrameLabelExtra</Frame_SimpleResearchBench.label>
+  
+  <!-- EN: sleeping spot)מבנה( -->
+  <Frame_SleepingSpot.label>FrameLabelExtra</Frame_SleepingSpot.label>
+  
+  <!-- EN: solar generator)מבנה( -->
+  <Frame_SolarGenerator.label>FrameLabelExtra</Frame_SolarGenerator.label>
+  
+  <!-- EN: standing lamp (blue))מבנה( -->
+  <Frame_StandingLamp.label>FrameLabelExtra</Frame_StandingLamp.label>
+  
+  <!-- EN: sterile tile)מבנה( -->
+  <Frame_SterileTile.label>FrameLabelExtra</Frame_SterileTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SterileTile.description>Terrain building in progress.</Frame_SterileTile.description>
+  
+  <!-- EN: stool)מבנה( -->
+  <Frame_Stool.label>FrameLabelExtra</Frame_Stool.label>
+  
+  <!-- EN: sun lamp)מבנה( -->
+  <Frame_SunLamp.label>FrameLabelExtra</Frame_SunLamp.label>
+  
+  <!-- EN: table (1x2))מבנה( -->
+  <Frame_Table1x2c.label>FrameLabelExtra</Frame_Table1x2c.label>
+  
+  <!-- EN: table (2x2))מבנה( -->
+  <Frame_Table2x2c.label>FrameLabelExtra</Frame_Table2x2c.label>
+  
+  <!-- EN: table (2x4))מבנה( -->
+  <Frame_Table2x4c.label>FrameLabelExtra</Frame_Table2x4c.label>
+  
+  <!-- EN: table (3x3))מבנה( -->
+  <Frame_Table3x3c.label>FrameLabelExtra</Frame_Table3x3c.label>
+  
+  <!-- EN: butcher table)מבנה( -->
+  <Frame_TableButcher.label>FrameLabelExtra</Frame_TableButcher.label>
+  
+  <!-- EN: machining table)מבנה( -->
+  <Frame_TableMachining.label>FrameLabelExtra</Frame_TableMachining.label>
+  
+  <!-- EN: sculptor's table)מבנה( -->
+  <Frame_TableSculpting.label>FrameLabelExtra</Frame_TableSculpting.label>
+  
+  <!-- EN: stonecutter's table)מבנה( -->
+  <Frame_TableStonecutter.label>FrameLabelExtra</Frame_TableStonecutter.label>
+  
+  <!-- EN: granite tile)מבנה( -->
+  <Frame_TileGranite.label>FrameLabelExtra</Frame_TileGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileGranite.description>Terrain building in progress.</Frame_TileGranite.description>
+  
+  <!-- EN: limestone tile)מבנה( -->
+  <Frame_TileLimestone.label>FrameLabelExtra</Frame_TileLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileLimestone.description>Terrain building in progress.</Frame_TileLimestone.description>
+  
+  <!-- EN: marble tile)מבנה( -->
+  <Frame_TileMarble.label>FrameLabelExtra</Frame_TileMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileMarble.description>Terrain building in progress.</Frame_TileMarble.description>
+  
+  <!-- EN: sandstone tile)מבנה( -->
+  <Frame_TileSandstone.label>FrameLabelExtra</Frame_TileSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSandstone.description>Terrain building in progress.</Frame_TileSandstone.description>
+  
+  <!-- EN: slate tile)מבנה( -->
+  <Frame_TileSlate.label>FrameLabelExtra</Frame_TileSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSlate.description>Terrain building in progress.</Frame_TileSlate.description>
+  
+  <!-- EN: tool cabinet)מבנה( -->
+  <Frame_ToolCabinet.label>FrameLabelExtra</Frame_ToolCabinet.label>
+  
+  <!-- EN: torch lamp)מבנה( -->
+  <Frame_TorchLamp.label>FrameLabelExtra</Frame_TorchLamp.label>
+  
+  <!-- EN: transport pod)מבנה( -->
+  <Frame_TransportPod.label>FrameLabelExtra</Frame_TransportPod.label>
+  
+  <!-- EN: IED antigrain warhead trap)מבנה( -->
+  <Frame_TrapIED_AntigrainWarhead.label>FrameLabelExtra</Frame_TrapIED_AntigrainWarhead.label>
+  
+  <!-- EN: IED EMP trap)מבנה( -->
+  <Frame_TrapIED_EMP.label>FrameLabelExtra</Frame_TrapIED_EMP.label>
+  
+  <!-- EN: IED firefoam trap)מבנה( -->
+  <Frame_TrapIED_Firefoam.label>FrameLabelExtra</Frame_TrapIED_Firefoam.label>
+  
+  <!-- EN: IED trap)מבנה( -->
+  <Frame_TrapIED_HighExplosive.label>FrameLabelExtra</Frame_TrapIED_HighExplosive.label>
+  
+  <!-- EN: IED incendiary trap)מבנה( -->
+  <Frame_TrapIED_Incendiary.label>FrameLabelExtra</Frame_TrapIED_Incendiary.label>
+  
+  <!-- EN: tube television)מבנה( -->
+  <Frame_TubeTelevision.label>FrameLabelExtra</Frame_TubeTelevision.label>
+  
+  <!-- EN: autocannon turret)מבנה( -->
+  <Frame_Turret_Autocannon.label>FrameLabelExtra</Frame_Turret_Autocannon.label>
+  
+  <!-- EN: mini-turret)מבנה( -->
+  <Frame_Turret_MiniTurret.label>FrameLabelExtra</Frame_Turret_MiniTurret.label>
+  
+  <!-- EN: mortar)מבנה( -->
+  <Frame_Turret_Mortar.label>FrameLabelExtra</Frame_Turret_Mortar.label>
+  
+  <!-- EN: sniper turret)מבנה( -->
+  <Frame_Turret_Sniper.label>FrameLabelExtra</Frame_Turret_Sniper.label>
+  
+  <!-- EN: vent)מבנה( -->
+  <Frame_Vent.label>FrameLabelExtra</Frame_Vent.label>
+  
+  <!-- EN: vitals monitor)מבנה( -->
+  <Frame_VitalsMonitor.label>FrameLabelExtra</Frame_VitalsMonitor.label>
+  
+  <!-- EN: wall)מבנה( -->
+  <Frame_Wall.label>FrameLabelExtra</Frame_Wall.label>
+  
+  <!-- EN: watermill generator)מבנה( -->
+  <Frame_WatermillGenerator.label>FrameLabelExtra</Frame_WatermillGenerator.label>
+  
+  <!-- EN: waterproof conduit)מבנה( -->
+  <Frame_WaterproofConduit.label>FrameLabelExtra</Frame_WaterproofConduit.label>
+  
+  <!-- EN: wind turbine)מבנה( -->
+  <Frame_WindTurbine.label>FrameLabelExtra</Frame_WindTurbine.label>
+  
+  <!-- EN: wood-fired generator)מבנה( -->
+  <Frame_WoodFiredGenerator.label>FrameLabelExtra</Frame_WoodFiredGenerator.label>
+  
+  <!-- EN: wood floor)מבנה( -->
+  <Frame_WoodPlankFloor.label>FrameLabelExtra</Frame_WoodPlankFloor.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_WoodPlankFloor.description>Terrain building in progress.</Frame_WoodPlankFloor.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Alpaca.label>MeatLabel</Meat_Alpaca.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Alpaca.description>MeatDesc</Meat_Alpaca.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Alphabeaver.label>MeatLabel</Meat_Alphabeaver.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Alphabeaver.description>MeatDesc</Meat_Alphabeaver.description>
+  
+  <!-- EN: bear meat -->
+  <Meat_Bear_Grizzly.label>MeatLabel</Meat_Bear_Grizzly.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Bear_Grizzly.description>MeatDesc</Meat_Bear_Grizzly.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Boomalope.label>MeatLabel</Meat_Boomalope.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Boomalope.description>MeatDesc</Meat_Boomalope.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Boomrat.label>MeatLabel</Meat_Boomrat.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Boomrat.description>MeatDesc</Meat_Boomrat.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Capybara.label>MeatLabel</Meat_Capybara.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Capybara.description>MeatDesc</Meat_Capybara.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Caribou.label>MeatLabel</Meat_Caribou.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Caribou.description>MeatDesc</Meat_Caribou.description>
+  
+  <!-- EN: bird meat -->
+  <Meat_Cassowary.label>MeatLabel</Meat_Cassowary.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Cassowary.description>MeatDesc</Meat_Cassowary.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Cat.label>MeatLabel</Meat_Cat.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Cat.description>MeatDesc</Meat_Cat.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Chicken.label>MeatLabel</Meat_Chicken.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Chicken.description>MeatDesc</Meat_Chicken.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Chinchilla.label>MeatLabel</Meat_Chinchilla.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Chinchilla.description>MeatDesc</Meat_Chinchilla.description>
+  
+  <!-- EN: cobraflesh -->
+  <Meat_Cobra.label>MeatLabel</Meat_Cobra.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Cobra.description>MeatDesc</Meat_Cobra.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Cougar.label>MeatLabel</Meat_Cougar.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Cougar.description>MeatDesc</Meat_Cougar.description>
+  
+  <!-- EN: beef -->
+  <Meat_Cow.label>MeatLabel</Meat_Cow.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Cow.description>MeatDesc</Meat_Cow.description>
+  
+  <!-- EN: venison -->
+  <Meat_Deer.label>MeatLabel</Meat_Deer.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Deer.description>MeatDesc</Meat_Deer.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Dromedary.label>MeatLabel</Meat_Dromedary.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Dromedary.description>MeatDesc</Meat_Dromedary.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Elephant.label>MeatLabel</Meat_Elephant.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Elephant.description>MeatDesc</Meat_Elephant.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Elk.label>MeatLabel</Meat_Elk.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Elk.description>MeatDesc</Meat_Elk.description>
+  
+  <!-- EN: foxmeat -->
+  <Meat_Fox_Fennec.label>MeatLabel</Meat_Fox_Fennec.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Fox_Fennec.description>MeatDesc</Meat_Fox_Fennec.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Gazelle.label>MeatLabel</Meat_Gazelle.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Gazelle.description>MeatDesc</Meat_Gazelle.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Hare.label>MeatLabel</Meat_Hare.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Hare.description>MeatDesc</Meat_Hare.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Husky.label>MeatLabel</Meat_Husky.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Husky.description>MeatDesc</Meat_Husky.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Ibex.label>MeatLabel</Meat_Ibex.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Ibex.description>MeatDesc</Meat_Ibex.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Iguana.label>MeatLabel</Meat_Iguana.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Iguana.description>MeatDesc</Meat_Iguana.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_LabradorRetriever.label>MeatLabel</Meat_LabradorRetriever.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_LabradorRetriever.description>MeatDesc</Meat_LabradorRetriever.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Lynx.label>MeatLabel</Meat_Lynx.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Lynx.description>MeatDesc</Meat_Lynx.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Megasloth.label>MeatLabel</Meat_Megasloth.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Megasloth.description>MeatDesc</Meat_Megasloth.description>
+  
+  <!-- EN: insect meat -->
+  <Meat_Megaspider.label>MeatLabel</Meat_Megaspider.label>
+  <!-- EN: .בשר נא מבותר. אם צריך, יכול להתבשל למנות או אפילו להאכל נא. ממש לא מגרה תיאבון -->
+  <Meat_Megaspider.description>MeatDesc</Meat_Megaspider.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Monkey.label>MeatLabel</Meat_Monkey.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Monkey.description>MeatDesc</Meat_Monkey.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Muffalo.label>MeatLabel</Meat_Muffalo.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Muffalo.description>MeatDesc</Meat_Muffalo.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Panther.label>MeatLabel</Meat_Panther.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Panther.description>MeatDesc</Meat_Panther.description>
+  
+  <!-- EN: pork -->
+  <Meat_Pig.label>MeatLabel</Meat_Pig.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Pig.description>MeatDesc</Meat_Pig.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Raccoon.label>MeatLabel</Meat_Raccoon.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Raccoon.description>MeatDesc</Meat_Raccoon.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Rat.label>MeatLabel</Meat_Rat.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Rat.description>MeatDesc</Meat_Rat.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Rhinoceros.label>MeatLabel</Meat_Rhinoceros.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Rhinoceros.description>MeatDesc</Meat_Rhinoceros.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Squirrel.label>MeatLabel</Meat_Squirrel.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Squirrel.description>MeatDesc</Meat_Squirrel.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Thrumbo.label>MeatLabel</Meat_Thrumbo.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Thrumbo.description>MeatDesc</Meat_Thrumbo.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Tortoise.label>MeatLabel</Meat_Tortoise.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Tortoise.description>MeatDesc</Meat_Tortoise.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Turkey.label>MeatLabel</Meat_Turkey.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Turkey.description>MeatDesc</Meat_Turkey.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_Warg.label>MeatLabel</Meat_Warg.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Warg.description>MeatDesc</Meat_Warg.description>
+  
+  <!-- EN: wolfmeat -->
+  <Meat_Wolf_Timber.label>MeatLabel</Meat_Wolf_Timber.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_Wolf_Timber.description>MeatDesc</Meat_Wolf_Timber.description>
+  
+  <!-- EN: בשר }0 -->
+  <Meat_YorkshireTerrier.label>MeatLabel</Meat_YorkshireTerrier.label>
+  <!-- EN: .בשר נא מבותר. יכול להתבשל למנות או להאכל נא -->
+  <Meat_YorkshireTerrier.description>MeatDesc</Meat_YorkshireTerrier.description>
+  
+</LanguageData>

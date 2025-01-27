@@ -1,30 +1,40 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: orders -->
-  <Orders.label>פקודות</Orders.label>
-  <!-- EN: zone/Area -->
-  <Zone.label>איזור/מרחב</Zone.label>
-  <!-- EN: structure -->
-  <Structure.label>מבנה</Structure.label>
-  <!-- EN: production -->
-  <Production.label>תפוקה</Production.label>
-  <!-- EN: furniture -->
-  <Furniture.label>רהיטים</Furniture.label>
-  <!-- EN: power -->
-  <Power.label>חשמל</Power.label>
-  <!-- EN: security -->
-  <Security.label>אבטחה</Security.label>
-  <!-- EN: misc -->
-  <Misc.label>שונות</Misc.label>
+  
   <!-- EN: floors -->
   <Floors.label>מרצפות</Floors.label>
+  
+  <!-- EN: furniture -->
+  <Furniture.label>רהיטים</Furniture.label>
+  
   <!-- EN: recreation -->
   <Joy.label>שעשוע</Joy.label>
+  
+  <!-- EN: misc -->
+  <Misc.label>שונות</Misc.label>
+  
+  <!-- EN: orders -->
+  <Orders.label>פקודות</Orders.label>
+  
+  <!-- EN: power -->
+  <Power.label>חשמל</Power.label>
+  
+  <!-- EN: production -->
+  <Production.label>תפוקה</Production.label>
+  
+  <!-- EN: security -->
+  <Security.label>אבטחה</Security.label>
+  
   <!-- EN: ship -->
   <Ship.label>ספינה</Ship.label>
+  
+  <!-- EN: structure -->
+  <Structure.label>מבנה</Structure.label>
+  
   <!-- EN: temperature -->
   <Temperature.label>טמפרטורה</Temperature.label>
-
-
+  
+  <!-- EN: zone -->
+  <Zone.label>איזור/מרחב</Zone.label>
+  
 </LanguageData>

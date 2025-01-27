@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: New Arrivals -->
   <PlayerColony.label>מופיעים חדשים</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
@@ -11,7 +11,7 @@
   <PlayerColony.pawnSingular>תושב</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
   <PlayerColony.pawnsPlural>תושבים</PlayerColony.pawnsPlural>
-
+  
   <!-- EN: New Tribe -->
   <PlayerTribe.label>שבט חדש</PlayerTribe.label>
   <!-- EN: A small tribe. -->
@@ -22,6 +22,5 @@
   <PlayerTribe.pawnSingular>איש שבט</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
   <PlayerTribe.pawnsPlural>אנשי שבט</PlayerTribe.pawnsPlural>
-
-
+  
 </LanguageData>

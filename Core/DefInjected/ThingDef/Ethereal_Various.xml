@@ -1,11 +1,34 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <RectTrigger.label>rect trigger</RectTrigger.label>
-  <Explosion.label>explosion</Explosion.label>
+  
+  <!-- EN: blight -->
   <Blight.label>blight</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>explosion</Explosion.label>
+  
+  <!-- EN: flying -->
+  <PawnFlyer.label>TODO</PawnFlyer.label>
+  
+  <!-- EN: disrupted soil -->
+  <PawnGroundSpawner.label>TODO</PawnGroundSpawner.label>
+  
+  <!-- EN: proximity trigger -->
+  <RadialTrigger.label>TODO</RadialTrigger.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>rect trigger</RectTrigger.label>
+  
+  <!-- EN: tornado -->
   <Tornado.label>tornado</Tornado.label>
+  
+  <!-- EN: trigger container emptied -->
+  <TriggerContainerEmptied.label>TODO</TriggerContainerEmptied.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>TODO</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
   <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
-
-
+  
 </LanguageData>

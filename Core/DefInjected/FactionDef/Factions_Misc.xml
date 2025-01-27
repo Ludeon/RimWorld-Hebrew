@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: civil outlander union -->
   <OutlanderCivil.label>איחוד אזרחי נכרי</OutlanderCivil.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
@@ -11,7 +11,7 @@
   <OutlanderCivil.pawnSingular>נכרי</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
   <OutlanderCivil.pawnsPlural>נכרים</OutlanderCivil.pawnsPlural>
-
+  
   <!-- EN: rough outlander union -->
   <OutlanderRough.label>איחוד נכרי נוקשה</OutlanderRough.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
@@ -22,7 +22,18 @@
   <OutlanderRough.pawnSingular>נכרי</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
   <OutlanderRough.pawnsPlural>נכרים</OutlanderRough.pawnsPlural>
-
+  
+  <!-- EN: pirate gang -->
+  <Pirate.label>להקת פיראטים</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>קבוצה של כנופיות של פיראטים שהחליטו בעיקר להילחם בנכרים במקום בלהלחם אחד בשני. \n\n פיראטים לא שותלים, הם לא בונים והם כמעט ולא סוחרים. מונעים בעזרת התרבות הדם והכבוד שלהם שמעריכה חוזק אישי וחוזר רחמים, נם מעשירים את עצמם בעזרת שדידה של השכנים היותר פרודקטיביים שלהם. \n\n הרמה הטכנולוגית שלהם תלויב בעיקר ממי שהם הצליחו לגנוב ממנו לאחרונה. הם בעיקר נושאים נשקי אבק שריפה אך חלקם מעגיפים לדקור קורבנות מקרוב.</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>בוס</Pirate.leaderTitle>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>פיראט</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>פיראט</Pirate.pawnsPlural>
+  
   <!-- EN: gentle tribe -->
   <TribeCivil.label>שבט עדין</TribeCivil.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
@@ -33,8 +44,8 @@
   <TribeCivil.pawnSingular>איש שבט</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
   <TribeCivil.pawnsPlural>אנשי שבט</TribeCivil.pawnsPlural>
-
-  <!-- EN: savage tribe -->
+  
+  <!-- EN: fierce tribe -->
   <TribeRough.label>שבט פראי</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
   <TribeRough.description>האנשים הללו היו פה זמן רב מאוד. אולי האבות הקדמונים שלהם התרסקו פה לפני כמה אלפי שנים. אולי הם שרדו אסון מסוים שהשמיד ציווילזציה טכנולוגית. בכל מקרה, האנשים הללו הם בעיקר נודדים שחיים מהאדמה ומשתמשים בכלים ונשקים פרימיטיביים. \n\n בניגוד לחולשה הטכנולוגית שלהם, אנשי השבט יכולים להיות אוייבים מסוכנים וחברים יקרים בגלל היכולות שלהם במלחמה עם טכנולוגיה מועטה, הכמות שלהם, והיכולת שלהם לשרוד. \n\n השבט הזה ברברי ומעריך שליטה; יהיה קשה לעשות איתם ברית.</TribeRough.description>
@@ -44,17 +55,16 @@
   <TribeRough.pawnSingular>איש שבט</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
   <TribeRough.pawnsPlural>אנשי שבט</TribeRough.pawnsPlural>
-
-  <!-- EN: pirate band -->
-  <Pirate.label>להקת פיראטים</Pirate.label>
-  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
-  <Pirate.description>קבוצה של כנופיות של פיראטים שהחליטו בעיקר להילחם בנכרים במקום בלהלחם אחד בשני. \n\n פיראטים לא שותלים, הם לא בונים והם כמעט ולא סוחרים. מונעים בעזרת התרבות הדם והכבוד שלהם שמעריכה חוזק אישי וחוזר רחמים, נם מעשירים את עצמם בעזרת שדידה של השכנים היותר פרודקטיביים שלהם. \n\n הרמה הטכנולוגית שלהם תלויב בעיקר ממי שהם הצליחו לגנוב ממנו לאחרונה. הם בעיקר נושאים נשקי אבק שריפה אך חלקם מעגיפים לדקור קורבנות מקרוב.</Pirate.description>
-  <!-- EN: boss -->
-  <Pirate.leaderTitle>בוס</Pirate.leaderTitle>
-  <!-- EN: pirate -->
-  <Pirate.pawnSingular>פיראט</Pirate.pawnSingular>
-  <!-- EN: pirates -->
-  <Pirate.pawnsPlural>פיראט</Pirate.pawnsPlural>
-
-
+  
+  <!-- EN: savage tribe -->
+  <TribeSavage.label>TODO</TribeSavage.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
+  <TribeSavage.description>TODO</TribeSavage.description>
+  <!-- EN: chief -->
+  <TribeSavage.leaderTitle>TODO</TribeSavage.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeSavage.pawnSingular>TODO</TribeSavage.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeSavage.pawnsPlural>TODO</TribeSavage.pawnsPlural>
+  
 </LanguageData>

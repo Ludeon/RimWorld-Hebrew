@@ -1,24 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Torso.label>torso</Torso.label>
-  <Shoulder.label>shoulder</Shoulder.label>
+  
+  <!-- EN: arm -->
   <Arm.label>arm</Arm.label>
-  <Hand.label>hand</Hand.label>
-  <Finger.label>finger</Finger.label>
-  <Waist.label>waist</Waist.label>
-  <Toe.label>toe</Toe.label>
-
-
-  <!-- Bones -->
-
+  
+  <!-- EN: clavicle -->
   <Clavicle.label>clavicle</Clavicle.label>
-  <Sternum.label>sternum</Sternum.label>
-  <Humerus.label>humerus</Humerus.label>
-  <Radius.label>radius</Radius.label>
-  <Pelvis.label>pelvis</Pelvis.label>
+  
+  <!-- EN: femur -->
   <Femur.label>femur</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>finger</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>hand</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>humerus</Humerus.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>pelvis</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>radius</Radius.label>
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>shoulder</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>sternum</Sternum.label>
+  
+  <!-- EN: tibia -->
   <Tibia.label>tibia</Tibia.label>
-
-
+  
+  <!-- EN: toe -->
+  <Toe.label>toe</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>torso</Torso.label>
+  
+  <!-- EN: utility slot -->
+  <Waist.label>waist</Waist.label>
+  
 </LanguageData>

@@ -1,48 +1,85 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!--======== Common to various mechanoids ========-->
-
-  <MechanicalNeck.label>neck</MechanicalNeck.label>
-  <MechanicalHead.label>head</MechanicalHead.label>
+  
+  <!-- EN: artificial brain -->
   <ArtificialBrain.label>artificial brain</ArtificialBrain.label>
-  <SightSensor.label>sight sensor</SightSensor.label>
-  <HearingSensor.label>hearing sensor</HearingSensor.label>
-  <SmellSensor.label>smell sensor</SmellSensor.label>
-  <MechanicalShoulder.label>shoulder</MechanicalShoulder.label>
-  <MechanicalArm.label>arm</MechanicalArm.label>
-  <MechanicalHand.label>hand</MechanicalHand.label>
-  <MechanicalFinger.label>finger</MechanicalFinger.label>
-  <MechanicalLeg.label>leg</MechanicalLeg.label>
-  <MechanicalFoot.label>foot</MechanicalFoot.label>
-
-
-  <!--===================== Human-like specific (lancer, scyther) ====================-->
-
-  <MechanicalThorax.label>thorax</MechanicalThorax.label>
-
-
-  <!--===================== Scyther specific ====================-->
-
+  
+  <!-- EN: blade -->
   <Blade.label>blade</Blade.label>
-
-  <MechanicalCentipedeBodyFirstRing.label>first body ring</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodyFirstRing.labelShort>body ring</MechanicalCentipedeBodyFirstRing.labelShort>
-
-  <MechanicalCentipedeBodySecondRing.label>second body ring</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodySecondRing.labelShort>body ring</MechanicalCentipedeBodySecondRing.labelShort>
-
-  <MechanicalCentipedeBodyThirdRing.label>third body ring</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyThirdRing.labelShort>body ring</MechanicalCentipedeBodyThirdRing.labelShort>
-
-  <MechanicalCentipedeBodyFourthRing.label>fourth body ring</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFourthRing.labelShort>body ring</MechanicalCentipedeBodyFourthRing.labelShort>
-
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>TODO</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
+  <HearingSensor.label>hearing sensor</HearingSensor.label>
+  
+  <!-- EN: arm -->
+  <MechanicalArm.label>arm</MechanicalArm.label>
+  
+  <!-- EN: fifth body ring -->
   <MechanicalCentipedeBodyFifthRing.label>fifth body ring</MechanicalCentipedeBodyFifthRing.label>
+  <!-- EN: body ring -->
   <MechanicalCentipedeBodyFifthRing.labelShort>body ring</MechanicalCentipedeBodyFifthRing.labelShort>
-
+  
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>first body ring</MechanicalCentipedeBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>body ring</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>fourth body ring</MechanicalCentipedeBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>body ring</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>second body ring</MechanicalCentipedeBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>body ring</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
   <MechanicalCentipedeBodySixthRing.label>sixth body ring</MechanicalCentipedeBodySixthRing.label>
+  <!-- EN: body ring -->
   <MechanicalCentipedeBodySixthRing.labelShort>body ring</MechanicalCentipedeBodySixthRing.labelShort>
-
-
+  
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>third body ring</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>body ring</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <!-- EN: finger -->
+  <MechanicalFinger.label>finger</MechanicalFinger.label>
+  
+  <!-- EN: foot -->
+  <MechanicalFoot.label>foot</MechanicalFoot.label>
+  
+  <!-- EN: hand -->
+  <MechanicalHand.label>hand</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>head</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>leg</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>neck</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>shoulder</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThorax.label>thorax</MechanicalThorax.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThoraxCanManipulate.label>TODO</MechanicalThoraxCanManipulate.label>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>TODO</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>sight sensor</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>smell sensor</SmellSensor.label>
+  
 </LanguageData>

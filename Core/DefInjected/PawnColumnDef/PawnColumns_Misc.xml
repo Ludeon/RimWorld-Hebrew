@@ -1,13 +1,52 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Master.label>master</Master.label>
-  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
+  
+  <!-- EN: age -->
+  <Age.label>TODO</Age.label>
+  
+  <!-- EN: allowed area -->
   <AllowedArea.label>allowed area</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
   <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
-  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
-  <Outfit.label>current outfit</Outfit.label>
+  
+  <!-- EN: carry -->
+  <Carry.label>TODO</Carry.label>
+  
+  <!-- EN: drug policy -->
   <DrugPolicy.label>drug policy</DrugPolicy.label>
-
-
+  
+  <!-- EN: food policy -->
+  <FoodRestriction.label>TODO</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
+  
+  <!-- EN: name -->
+  <Label.label>TODO</Label.label>
+  <!-- EN: Name -->
+  <Label.headerTip>TODO</Label.headerTip>
+  
+  <!-- EN: name -->
+  <LabelShortWithIcon.label>TODO</LabelShortWithIcon.label>
+  <!-- EN: Name -->
+  <LabelShortWithIcon.headerTip>TODO</LabelShortWithIcon.headerTip>
+  
+  <!-- EN: name -->
+  <LabelWithIcon.label>TODO</LabelWithIcon.label>
+  <!-- EN: Name -->
+  <LabelWithIcon.headerTip>TODO</LabelWithIcon.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>master</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
+  
+  <!-- EN: apparel policy -->
+  <Outfit.label>current outfit</Outfit.label>
+  
+  <!-- EN: reading policy -->
+  <Reading.label>TODO</Reading.label>
+  
 </LanguageData>

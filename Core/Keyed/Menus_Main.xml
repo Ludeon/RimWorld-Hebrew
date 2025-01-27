@@ -1,377 +1,750 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!-- Main menu -->
-<!-- EN: Tutorial -->
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
   <Tutorial>הדרכה</Tutorial>
-<!-- EN: New colony -->
+  <!-- EN: New colony -->
   <NewColony>מושבה חדשה</NewColony>
-<!-- EN: Back to game -->
+  <!-- EN: Back to game -->
   <BackToGame>בחזרה למשחק</BackToGame>
-<!-- EN: Review scenario -->
+  <!-- EN: Review scenario -->
   <ReviewScenario>בדוק תקרית</ReviewScenario>
-<!-- EN: Save -->
+  <!-- EN: Save -->
   <Save>שמירות</Save>
-<!-- EN: Load game -->
+  <!-- EN: Load game -->
   <LoadGame>טעינת משחק</LoadGame>
-<!-- EN: Options -->
+  <!-- EN: Options -->
   <Options>הגדרות</Options>
-<!-- EN: Mods -->
+  <!-- EN: Mod -->
+  <Mod>TODO</Mod>
+  <!-- EN: Mods -->
   <Mods>מודים</Mods>
-<!-- EN: Save translation report -->
+  <!-- EN: Save translation report -->
   <SaveTranslationReport>שמור דוח תרגום</SaveTranslationReport>
-<!-- EN: Generating translation report -->
+  <!-- EN: Generating translation report -->
   <GeneratingTranslationReport>יצר דוח תרגום</GeneratingTranslationReport>
-<!-- EN: Cleanup translation files -->
-<CleanupTranslationFiles>TODO</CleanupTranslationFiles>
-<!-- EN: Cleaning translation files -->
-<CleaningTranslationFiles>TODO</CleaningTranslationFiles>
-<!-- EN: Credits -->
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>TODO</TranslationFilesTKeyUpdate>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>TODO</DevQuickTest>
+  <!-- EN: Credits -->
   <Credits>קרדיטים</Credits>
-<!-- EN: Quit to main menu -->
+  <!-- EN: Quit to main menu -->
   <QuitToMainMenu>צא לתפריט הראשי</QuitToMainMenu>
-<!-- EN: Save and quit to menu -->
+  <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>שמור וצא לתפריט הראשי</SaveAndQuitToMainMenu>
-<!-- EN: Quit to OS -->
+  <!-- EN: Quit to OS -->
   <QuitToOS>צא למערכת ההפעלה</QuitToOS>
-<!-- EN: Save and quit to OS -->
+  <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>שמור וצא למערכת ההפעלה</SaveAndQuitToOS>
-<!-- EN: Fiction primer -->
-<FictionPrimer>Fiction primer</FictionPrimer>
-<!-- EN: Ludeon blog -->
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <!-- EN: Ludeon blog -->
   <LudeonBlog> noeduL בלוג</LudeonBlog>
-<!-- EN: Forums -->
+  <!-- EN: Forums -->
   <Forums>פורום</Forums>
-<!-- EN: Official wiki -->
+  <!-- EN: Official wiki -->
   <OfficialWiki>הויקיפדיה הרשמית</OfficialWiki>
-<!-- EN: Tynan's twitter -->
+  <!-- EN: Tynan's twitter -->
   <TynansTwitter>הטוויטר של טינן</TynansTwitter>
-<!-- EN: Tynan's design book -->
+  <!-- EN: Tynan's design book -->
   <TynansDesignBook>ספר העיצוב של טינן</TynansDesignBook>
-<!-- EN: Help translate RimWorld -->
+  <!-- EN: Help translate RimWorld -->
   <HelpTranslate>עזור לתרגם את רימוורלד</HelpTranslate>
-<!-- EN: Buy soundtrack -->
+  <!-- EN: Buy soundtrack -->
   <BuySoundtrack>קנה את הפסקול</BuySoundtrack>
-<!-- EN: Create world -->
+  <!-- EN: Create world -->
   <CreateWorld>צור עולם</CreateWorld>
-<!-- Main menu translations info window -->
-<!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
   <TranslationThanks>כל התרגומים של רימוורלד נוצרו על ידי השחקנים. התרגום הזה נוצר על ידי המתנדבים הבאים.</TranslationThanks>
-<!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
   <TranslationHowToContribute>)אתה יכול לעזור גם. תלחץ למטה בשביל ללמוד עוד )פותח את הדפדפן</TranslationHowToContribute>
-<!-- EN: Learn more -->
+  <!-- EN: Learn more -->
   <LearnMore>למד עוד</LearnMore>
-<!-- Main menu dev build -->
-<!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-<DevBuildWarning>TODO</DevBuildWarning>
-<!-- Create/review world -->
-<!-- EN: Review world -->
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>TODO</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
   <ReviewWorld>בחן עולם</ReviewWorld>
-<!-- EN: Generate -->
+  <!-- EN: Generate -->
   <WorldGenerate>צור</WorldGenerate>
-<!-- EN: Save and finish -->
+  <!-- EN: Save and finish -->
   <WorldSaveAndFinish>שמור וסיים</WorldSaveAndFinish>
-<!-- EN: Reset -->
-  <Reset>איפוס</Reset>
-<!-- EN: Globe coverage -->
+  <!-- EN: Reset factions -->
+  <ResetFactions>TODO</ResetFactions>
+  <!-- EN: Globe coverage -->
   <PlanetCoverage>כיסוי עולם</PlanetCoverage>
-<!-- EN: Overall rainfall -->
+  <!-- EN: Overall rainfall -->
   <PlanetRainfall>מטר כללי</PlanetRainfall>
-<!-- EN: Overall temperature -->
+  <!-- EN: Overall temperature -->
   <PlanetTemperature>טמפרטורה כללית</PlanetTemperature>
-<!-- EN: Low -->
+  <!-- EN: Population -->
+  <PlanetPopulation>TODO</PlanetPopulation>
+  <!-- EN: Low -->
   <PlanetRainfall_Low>נמוך</PlanetRainfall_Low>
-<!-- EN: Normal -->
+  <!-- EN: Normal -->
   <PlanetRainfall_Normal>נורמלי</PlanetRainfall_Normal>
-<!-- EN: High -->
+  <!-- EN: High -->
   <PlanetRainfall_High>גבוה</PlanetRainfall_High>
-<!-- EN: Low -->
+  <!-- EN: Low -->
   <PlanetTemperature_Low>נמוך</PlanetTemperature_Low>
-<!-- EN: Normal -->
+  <!-- EN: Normal -->
   <PlanetTemperature_Normal>נורמלי</PlanetTemperature_Normal>
-<!-- EN: High -->
+  <!-- EN: High -->
   <PlanetTemperature_High>גבוה</PlanetTemperature_High>
-<!-- EN: Seed -->
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>TODO</PlanetPopulation_High>
+  <!-- EN: Seed -->
   <WorldSeed>זרע</WorldSeed>
-<!-- EN: Randomize seed -->
+  <!-- EN: Randomize seed -->
   <RandomizeSeed>זרע רנדומלי</RandomizeSeed>
-<!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>.העולם תמיד יהיה באותו קוטר אך מכיוון שהוא הרבה יותר גדול ממה שצריך לשחק,  אנחנו לא מיצרים את כל השטח כי זה יכול לקחת מלא זמן. זה האחוז של השטח שאתה רוצה לייצר</PlanetCoverageTip>
-<!-- EN: Factions -->
+  <!-- EN: Factions -->
   <WorldFactionsTab>פלוגות</WorldFactionsTab>
-<!-- Select world -->
-<!-- EN: Select world -->
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
   <SelectWorld>בחר עולם</SelectWorld>
-<!-- EN: Select -->
+  <!-- EN: Select -->
   <WorldChooseButton>בחר</WorldChooseButton>
-<!-- EN: No world files found. Create a world first. -->
+  <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>.לא נמצאו קבצי עולם. יצר עולם קודם</NoWorldsFilesFound>
-<!-- Version info -->
-<!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-<BuildNowAvailable> גרסה {0} עכשיו זמינה. בדוק את ludeon.com לעוד מידע</BuildNowAvailable>
-<!-- EN: This is the latest version. -->
-<BuildUpToDate>זאת הגרסה הכי עדכנית</BuildUpToDate>
-<!-- EN: Error getting version info: {0} -->
-<ErrorGettingVersionInfo>בעיה בלהשיג את מידע הגרסה: {0}</ErrorGettingVersionInfo>
-<!-- EN: Loading version info... -->
-<LoadingVersionInfo>מטעין את מידע הגרסה...</LoadingVersionInfo>
-<!-- World generator -->
-<!-- EN: Generate world -->
-<GenerateWorld>מייצר עולם</GenerateWorld>
-<!-- Mods config -->
-<!-- EN: Open Steam Workshop -->
-<OpenSteamWorkshop>פותח את הוורקשופ של סטים</OpenSteamWorkshop>
-<!-- EN: Get mods from forum -->
-<GetModsFromForum>משיג מודים מהפורום</GetModsFromForum>
-<!-- EN: Open mods data folder -->
-<OpenModsDataFolder>פתח את תיקיית התוכן של המודים</OpenModsDataFolder>
-<!-- EN: Show mods data location -->
-<ShowModsDataLocation>הראה מיקום תוכן המודים</ShowModsDataLocation>
-<!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-<ConfirmDisableCoreMod>אתה בטוח שאתה רוצה לכבות את מוד הבסיס? המשחק לא יפעל בכלל אלא אם יש לך עוד מוד שמחליף את כל פעולות הבסיס. \n\n זכור, מודים אחרים יכולים להחליף דברים אחרים במוד הבסיס על שימוש באותו שם</ConfirmDisableCoreMod>
-<!-- EN: Are you sure you want to delete all the content for {0}? -->
-<ConfirmDeleteMod>אתה בטוח שאתה רוצה למחוק את כל התוכן עבור {0}?</ConfirmDeleteMod>
-<!-- EN: Unsubscribe -->
-<Unsubscribe>בטל רישום</Unsubscribe>
-<!-- EN: Are you sure you want to unsubscribe from {0}? -->
-<ConfirmUnsubscribe>האם אתה בטוח שאתה רוצה לבטל את הרישום מ{0}?</ConfirmUnsubscribe>
-<!-- EN: Author -->
-<Author>יוצר</Author>
-<!-- EN: Workshop page -->
-<WorkshopPage>דף הוורקשופ</WorkshopPage>
-<!-- EN: Upload to Steam Workshop -->
-<UploadToSteamWorkshop>העלה לוורקשופ של סטים</UploadToSteamWorkshop>
-<!-- EN: Update on Steam Workshop -->
-<UpdateOnSteamWorkshop>עדכן את הוורקשופ של סטים</UpdateOnSteamWorkshop>
-<!-- EN: Upload already in progress. -->
-<UploadAlreadyInProgress>כבר בתהליך העלאה.</UploadAlreadyInProgress>
-<!-- EN: Workshop submission failed.Reason: {0} -->
-<WorkshopSubmissionFailed>פרסום הוורקשופ/n/n נכשל סיבה:{0}</WorkshopSubmissionFailed>
-<!-- EN: Successfully uploaded {0}. -->
-<WorkshopUploadSucceeded>{0} הועלה בהצלחה.</WorkshopUploadSucceeded>
-<!-- EN: Downloading -->
-<Downloading>מוריד</Downloading>
-<!-- EN: Source -->
-<Source>מקור</Source>
-<!-- EN: For version(s): {0} -->
-<ModTargetVersion>עבור גרסה: {0}</ModTargetVersion>
-<!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-<ModNotMadeForThisVersion>המוד לא נוצר עבור גרסה זאת של רימוורלד, ובטח לא יעבוד נכון</ModNotMadeForThisVersion>
-<!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-<ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
-<!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-<MessageModNeedsWellFormattedTargetVersion>: המוד צריך גרסה מנוסחת נכון של מידע על הגרסה בקובץ About.xml. כמו זה &lt;targetVersion>{0}&lt;/targetVersion></MessageModNeedsWellFormattedTargetVersion>
-<!-- EN: Drag to reorder -->
-<DragToReorder>גרור כדי לסדר מחדש</DragToReorder>
-<!-- Select scenario -->
-<!-- EN: Choose scenario -->
-<ChooseScenario>בחר תקרית</ChooseScenario>
-<!-- EN: Custom -->
-<ScenariosCustom>מותאם אישית</ScenariosCustom>
-<!-- EN: Steam Workshop -->
-<ScenariosSteamWorkshop>הוורקשופ של סטים</ScenariosSteamWorkshop>
-<!-- EN: Scenario editor -->
-<ScenarioEditor>עורך תקריות</ScenarioEditor>
-<!-- EN: Delete -->
-<Delete>מחק</Delete>
-<!-- Scenario editor -->
-<!-- EN: seed -->
-<Seed>זרע</Seed>
-<!-- EN: Load -->
-<Load>טען</Load>
-<!-- EN: edit mode -->
-<EditMode>מצב עריכה</EditMode>
-<!-- EN: Summary -->
-<Summary>תקציר</Summary>
-<!-- EN: Add part -->
-<AddPart>הוסף חלק</AddPart>
-<!-- EN: All text fields must be filled. -->
-<TextFieldsMustBeFilled>כל השדות חייבים להיות ממולאים</TextFieldsMustBeFilled>
-<!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-<ConfirmSteamWorkshopUpload>http://steamcommunity.com/sharedfiles/workshoplegalagreement \n\n אתה מוכרח להסכים לתנאי השימוש של הוורקשופ של סטים. מצא את כל התנאים כאן:\n\n אתה בטוח שאתה רוצה לעלאות את זה לוורקשופ של סטים?</ConfirmSteamWorkshopUpload>
-<!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-<ConfirmContentAuthor>האם יצרת את התוכן הזה בעצמך?\n\n כמובן שאתה יכול להעלאות רק תוכן שיצרת בעצמך. </ConfirmContentAuthor>
-<!-- EN: Incompatible -->
-<Incompatible>לא תואם</Incompatible>
-<!-- EN: Too many (max {0}):  -->
-<TooMany>({0}מקסימום) יותר מדי: </TooMany>
-<!-- EN: Can be updated on Workshop, since you are the author. -->
-<CanBeUpdatedOnWorkshop>יכול להתעדכן בוורקשופ, מכיון שאתה היוצר.</CanBeUpdatedOnWorkshop>
-<!-- Select storyteller -->
-<!-- EN: Choose AI Storyteller -->
-<ChooseAIStoryteller>בחר את מספר הסיפור</ChooseAIStoryteller>
-<!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-<HowStorytellersWork>מספר הסיפורים מייצר תקריות כמו תקיפות פיראטים, נפילות של משאבים, או מתקפות של חיות. הבחירה שלהם תשפיע על הסיפור של המושבה שלך. אתה יכול לשנות את ההגדרות האלו בכל זמן.</HowStorytellersWork>
-<!-- EN: Please choose a difficulty setting. -->
-<MustChooseDifficulty>בחר את הגדרות רמת הקושי</MustChooseDifficulty>
-<!-- EN: Difficulty -->
-<Difficulty>קושי</Difficulty>
-<!-- EN: Commitment mode -->
-<CommitmentMode>מצב מחוייבות</CommitmentMode>
-<!-- EN: Reload anytime mode -->
-<ReloadAnytimeMode>טען מחדש בכל רגע</ReloadAnytimeMode>
-<!-- EN: Please choose commitment mode or reload anytime mode. -->
-<MustChoosePermadeath>אנא בחר מצב מחוייבות או מצב טעינה בכל רגע</MustChoosePermadeath>
-<!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-<ReloadAnytimeModeInfo>זה בחירה טובה אם אתה עוד לומד את המשחק, אם זה מתאים לאיך שאתה משחק, אם אתה משתמש במודים שיכולים לשבור את המשחק שלך, או אם אתה מתכנן להתחייב לא להטעין באופן ידעני. \n\n אתה יכול לשמור ולהטעין את המשחק בכל רגע.</ReloadAnytimeModeInfo>
-<!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-<PermadeathModeInfo>יש סיבה שליוק סקיווקר לא פרש והטעין מחדש את המשחק שהמשפחה שלו נהרגה - הפסדר והתאוששות זה דרמטי. \n\n שמשחקים בסיטואציות הנוראיות האלו נוצר סיפור של טרגדיה וניצחוןככה רימוורלד נועד להשחק. \n\n מכיוון שרימוורלד הוא מייצר סיפורים, אפילו לאבד הכל חוץ מאיש אחד זה לא סוף המשחק - זה חלק מהסיפור. המשחק תוכנן להרשות להתאוששות לאחר הפסדים. \n\n אתה יכול לשמור רק שאתה יוצא מהמשחק.</PermadeathModeInfo>
-<!-- EN: Storyteller and difficulty can be changed any time. -->
-<CanChangeStorytellerSettingsDuringPlay>אפשר לשנות את מספר הסיפורים ורמת הקושי בכל רגע</CanChangeStorytellerSettingsDuringPlay>
-<!-- EN: Merciless mode -->
-<UnlockExtremeDifficulty>מצב חסר רחמים</UnlockExtremeDifficulty>
-<!-- EN: Merciless mode is a special game mode where every challenge is turned up to extreme levels.\n\nMerciless mode unlocks automatically when you reach specific milestones. However, you can unlock it now.\n\nThis option is only recommended once you've played a high-difficulty game or two and want to have a good chance at dying despite your best efforts. -->
-<ConfirmUnlockExtremeDifficulty>האופציה הזאת מומלצת רק ברגע ששיחקת כמה משחקים ברמות קושי גבוהות ורוצה סיכוי טוב למות למרות המאמצים הכי טובים שלך. \n\n.מצב חוסר רחמים נפתח באופן אוטומטי שאתה מגיע לנקודות מסויימות במשחק. אבל, אתה יכול לפתוח את זה עכשיו \n\n.מצב חסר רחמים זה מצב משחק מיוחד שכל אתגר במשחק מועלה לרמות קיצוניות.</ConfirmUnlockExtremeDifficulty>
-<!-- Site select -->
-<!-- EN: Select starting site -->
-<SelectStartingSite>בחר אתר נחיתה</SelectStartingSite>
-<!-- EN: Select random site -->
-<SelectRandomSite>בחר אתר רנדומלי</SelectRandomSite>
-<!-- EN: Select site -->
-<SelectSite>בחר אתר</SelectSite>
-<!-- EN: Please select a site. -->
-<MustSelectStartingSite>בבקשה בחר אתר</MustSelectStartingSite>
-<!-- EN: You cannot land on this biome: {0} -->
-<CannotLandBiome>{0} :אתה לא יכול לנחות בביומה הזאת</CannotLandBiome>
-<!-- EN: Biome not implemented -->
-<BiomeNotImplemented>ביומה לא נכנסה לפועל</BiomeNotImplemented>
-<!-- EN: You cannot land on impassable mountains. -->
-<CannotLandImpassableMountains>אתה לא יכול לנחות על הרים ללא מעבר</CannotLandImpassableMountains>
-<!-- EN: {0} already have a base there. -->
-<BaseAlreadyThere>ל{0} יש כבר בסיס שם</BaseAlreadyThere>
-<!-- EN: You already have a base there. -->
-<YourBaseAlreadyThere>יש לך כבר בסיס שם.</YourBaseAlreadyThere>
-<!-- EN: This tile is occupied. -->
-<TileOccupied>האריח הזה כבר תפוס.</TileOccupied>
-<!-- EN: Settlements cannot be directly adjacent to each other. -->
-<FactionBaseAdjacent>המושבות לא יכולות להיות אחד ליד השני</FactionBaseAdjacent>
-<!-- EN: Biome -->
-<Biome>ביומה</Biome>
-<!-- EN: Terrain -->
-<Terrain>שטח</Terrain>
-<!-- EN: Road -->
-<Road>כביש</Road>
-<!-- EN: River -->
-<River>נהר</River>
-<!-- EN: Elevation -->
-<Elevation>הרמה</Elevation>
-<!-- EN: Fertility -->
-<Fertility>פוריות</Fertility>
-<!-- EN: Average temperature -->
-<AvgTemp>טמפרטורה ממוצעת</AvgTemp>
-<!-- EN: Rainfall -->
-<Rainfall>מטר</Rainfall>
-<!-- EN: Special features -->
-<SpecialFeatures>תכונות מיוחדות</SpecialFeatures>
-<!-- EN: northern coast -->
-<HasCoast0>חוף צפוני</HasCoast0>
-<!-- EN: eastern coast -->
-<HasCoast1>חוף מזרחי</HasCoast1>
-<!-- EN: southern coast -->
-<HasCoast2>חוף דרומית</HasCoast2>
-<!-- EN: western coast -->
-<HasCoast3>חוף  מערבי</HasCoast3>
-<!-- EN: caves -->
-<HasCaves>מערות</HasCaves>
-<!-- EN: Faction base -->
-<FactionBase>בסיס הפלוגה</FactionBase>
-<!-- EN: Stone types -->
-<StoneTypesHere>סוגי אבנים</StoneTypesHere>
-<!-- EN: Time zone -->
-<TimeZone>זמן אזור</TimeZone>
-<!-- EN: Movement difficulty -->
-<MovementDifficulty>קושי תזוזה</MovementDifficulty>
-<!-- EN: Animals can graze now -->
-<AnimalsCanGrazeNow>חיות יכולים לרעות</AnimalsCanGrazeNow>
-<!-- EN: Average disease frequency -->
-<AverageDiseaseFrequency>ממוצע תדירות מחלות</AverageDiseaseFrequency>
-<!-- EN: per year -->
-<PerYear>בשנה</PerYear>
-<!-- EN: Forageability -->
-<Forageability>יכולת ליקוט</Forageability>
-<!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-<ConfirmRequiredWorkTypeDisabledForEveryone>זה יכול לעשות את המשחק יותר קשה מהרגיל. אתה בטוח שאתה רוצה להמשיך?\n{0}\n\nאף אחד מהאנשים שנבחרו יכולים לעשות את העבודות הבאות:</ConfirmRequiredWorkTypeDisabledForEveryone>
-<!-- Character chooser -->
-<!-- EN: Create characters -->
-<CreateCharacters>צור דמויות</CreateCharacters>
-<!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-<FirstNameDesc>זה מוצג רק בתפריטים מסויימים\n\n.השם הפרטי של הדמות</FirstNameDesc>
-<!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-<ShortIdentifierDesc>זה מוצג בכל הזמנים. זה גם יכול להיות שם ראשון או אחרון, או כינוי שונה לגמרי.\n\n.המזהה הקצר של הדמות</ShortIdentifierDesc>
-<!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-<LastNameDesc>זה מוצג רק בתפריטים מסויימים\n\n.השם משפחה של הדמות</LastNameDesc>
-<!-- EN: Randomize -->
-<Randomize>בחר רנדומלית</Randomize>
-<!-- EN: age {0} -->
-<AgeIndicator>{0} גיל</AgeIndicator>
-<!-- EN: Backstory -->
-<Backstory>סיפור רקע</Backstory>
-<!-- EN: Incapable of -->
-<IncapableOf>לא מסוגל ל</IncapableOf>
-<!-- EN: Traits -->
-<Traits>תכונות</Traits>
-<!-- EN: Permanent mood effect -->
-<PermanentMoodEffect>אפקט מצב רוח טבעי</PermanentMoodEffect>
-<!-- EN: Skills -->
-<Skills>כשרונות</Skills>
-<!-- EN: none -->
-<NoneLower>ללא</NoneLower>
-<!-- EN: Adulthood -->
-<Adulthood>בגרות</Adulthood>
-<!-- EN: Childhood -->
-<Childhood>ילדות</Childhood>
-<!-- EN: Current -->
-<Current>נוכחית</Current>
-<!-- EN: male -->
-<Male>זכר</Male>
-<!-- EN: female -->
-<Female>נקבה</Female>
-<!-- EN: male -->
-<MaleAnimal>זכר</MaleAnimal>
-<!-- EN: female -->
-<FemaleAnimal>נקבה</FemaleAnimal>
-<!-- EN: Pain -->
-<Pain>כאב</Pain>
-<!-- EN: Health -->
-<Health>בריאות</Health>
-<!-- EN: Relations -->
-<Relations>יחסים</Relations>
-<!-- EN: Team skills -->
-<TeamSkills>כשרונות קבוצתיים</TeamSkills>
-<!-- EN: Selected -->
-<StartingPawnsSelected>נבחר</StartingPawnsSelected>
-<!-- EN: Left behind -->
-<StartingPawnsLeftBehind>נשאר מאחור</StartingPawnsLeftBehind>
-<!-- Misc -->
-<!-- EN: Start -->
-<Start>התחל</Start>
-<!-- EN: Advanced -->
-<Advanced>מתקדם</Advanced>
-<!-- EN: Next -->
-<Next>הבא</Next>
-<!-- EN: Back -->
-<Back>הקודם</Back>
-<!-- EN: Gameplay -->
-<Gameplay>משחק</Gameplay>
-<!-- EN: Really quit? You'll lose unsaved progress. -->
-<ConfirmQuit>באמת לעזוב? אתה תפסיד כל התקדמות שלא שמרת</ConfirmQuit>
-<!-- EN: Each person needs a valid name. -->
-<EveryoneNeedsValidName>כל איש צריך שם תקין</EveryoneNeedsValidName>
-<!-- EN: None of the selected people can do the following jobs -->
-<RequiredWorkTypeDisabledForEveryone>אף אחד מהאנשים שנבחרו יכולים לעשות את העבודות הבאות</RequiredWorkTypeDisabledForEveryone>
-<!-- EN: Quit -->
-<Quit>צא</Quit>
-<!-- EN: Ignore -->
-<Ignore>התעלם</Ignore>
-<!-- Progress bar -->
-<!-- EN: Generating world -->
-<GeneratingWorld>מייצר עולם</GeneratingWorld>
-<!-- EN: Generating planet -->
-<GeneratingPlanet>מייצר כדור ארץ</GeneratingPlanet>
-<!-- EN: Generating map -->
-<GeneratingMap>מייצר מפה</GeneratingMap>
-<!-- EN: Generating map for new encounter -->
-<GeneratingMapForNewEncounter>מייצר מפה לתקרית חדשה</GeneratingMapForNewEncounter>
-<!-- UNUSED -->
-<SelectLandingSite>בחר אתר נחיתה</SelectLandingSite>
-<MustSelectLandingSite>בבקשה בחר אתר בנייה</MustSelectLandingSite>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable> גרסה {0} עכשיו זמינה. בדוק את ludeon.com לעוד מידע</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>זאת הגרסה הכי עדכנית</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>בעיה בלהשיג את מידע הגרסה: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>מטעין את מידע הגרסה...</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>מייצר עולם</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>פותח את הוורקשופ של סטים</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>משיג מודים מהפורום</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <OpenModsDataFolder>פתח את תיקיית התוכן של המודים</OpenModsDataFolder>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>הראה מיקום תוכן המודים</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>אתה בטוח שאתה רוצה לכבות את מוד הבסיס? המשחק לא יפעל בכלל אלא אם יש לך עוד מוד שמחליף את כל פעולות הבסיס. \n\n זכור, מודים אחרים יכולים להחליף דברים אחרים במוד הבסיס על שימוש באותו שם</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>אתה בטוח שאתה רוצה למחוק את כל התוכן עבור {0}?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>TODO</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>TODO</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>TODO</DiscardModChanges>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>TODO</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>TODO</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>בטל רישום</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>האם אתה בטוח שאתה רוצה לבטל את הרישום מ{0}?</ConfirmUnsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribeFrom>TODO</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>TODO</ConfirmUnsubscribeFromMultiple>
+  <!-- EN: Author -->
+  <Author>יוצר</Author>
+  <!-- EN: Enabled -->
+  <Enabled>TODO</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>TODO</Disabled>
+  <!-- EN: Enable -->
+  <Enable>TODO</Enable>
+  <!-- EN: Disable -->
+  <Disable>TODO</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>TODO</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>TODO</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>TODO</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>TODO</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>TODO</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>TODO</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>TODO</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>TODO</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>TODO</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>TODO</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>TODO</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>TODO</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>TODO</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>TODO</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>TODO</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>TODO</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>TODO</AllIncompatibleMods>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>דף הוורקשופ</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>העלה לוורקשופ של סטים</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>עדכן את הוורקשופ של סטים</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>כבר בתהליך העלאה.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>פרסום הוורקשופ/n/n נכשל סיבה:{0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>{0} הועלה בהצלחה.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>מוריד</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>TODO</WorkshopId>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>TODO</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>מקור</Source>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>עבור גרסה: {0}</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>TODO</ModVersion>
+  <!-- EN: ID -->
+  <ModPackageId>TODO</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>TODO</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>המוד לא נוצר עבור גרסה זאת של רימוורלד, ובטח לא יעבוד נכון</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>TODO</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>: המוד צריך גרסה מנוסחת נכון של מידע על הגרסה בקובץ About.xml. כמו זה &lt;targetVersion>{0}&lt;/targetVersion></MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>TODO</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>גרור כדי לסדר מחדש</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>בחר תקרית</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>מותאם אישית</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>הוורקשופ של סטים</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>עורך תקריות</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>מחק</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>זרע</Seed>
+  <!-- EN: Load -->
+  <Load>טען</Load>
+  <!-- EN: edit mode -->
+  <EditMode>מצב עריכה</EditMode>
+  <!-- EN: Summary -->
+  <Summary>תקציר</Summary>
+  <!-- EN: Add part -->
+  <AddPart>הוסף חלק</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>כל השדות חייבים להיות ממולאים</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>http://steamcommunity.com/sharedfiles/workshoplegalagreement \n\n אתה מוכרח להסכים לתנאי השימוש של הוורקשופ של סטים. מצא את כל התנאים כאן:\n\n אתה בטוח שאתה רוצה לעלאות את זה לוורקשופ של סטים?</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>האם יצרת את התוכן הזה בעצמך?\n\n כמובן שאתה יכול להעלאות רק תוכן שיצרת בעצמך. </ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>לא תואם</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>TODO</TagAsTranslation>
+  <!-- EN: Too many (max {0}):  -->
+  <TooMany>({0}מקסימום) יותר מדי: </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>יכול להתעדכן בוורקשופ, מכיון שאתה היוצר.</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>TODO</ScenarioChangedSavePrompt>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>בחר את מספר הסיפור</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>מספר הסיפורים מייצר תקריות כמו תקיפות פיראטים, נפילות של משאבים, או מתקפות של חיות. הבחירה שלהם תשפיע על הסיפור של המושבה שלך. אתה יכול לשנות את ההגדרות האלו בכל זמן.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>בחר את הגדרות רמת הקושי</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>קושי</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>מצב מחוייבות</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>טען מחדש בכל רגע</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>אנא בחר מצב מחוייבות או מצב טעינה בכל רגע</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>זה בחירה טובה אם אתה עוד לומד את המשחק, אם זה מתאים לאיך שאתה משחק, אם אתה משתמש במודים שיכולים לשבור את המשחק שלך, או אם אתה מתכנן להתחייב לא להטעין באופן ידעני. \n\n אתה יכול לשמור ולהטעין את המשחק בכל רגע.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>יש סיבה שליוק סקיווקר לא פרש והטעין מחדש את המשחק שהמשפחה שלו נהרגה - הפסדר והתאוששות זה דרמטי. \n\n שמשחקים בסיטואציות הנוראיות האלו נוצר סיפור של טרגדיה וניצחוןככה רימוורלד נועד להשחק. \n\n מכיוון שרימוורלד הוא מייצר סיפורים, אפילו לאבד הכל חוץ מאיש אחד זה לא סוף המשחק - זה חלק מהסיפור. המשחק תוכנן להרשות להתאוששות לאחר הפסדים. \n\n אתה יכול לשמור רק שאתה יוצא מהמשחק.</PermadeathModeInfo>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>אפשר לשנות את מספר הסיפורים ורמת הקושי בכל רגע</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>TODO</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>TODO</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>TODO</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>TODO</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>TODO</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>TODO</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>TODO</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>TODO</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>TODO</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>TODO</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>TODO</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>TODO</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>TODO</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>TODO</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>TODO</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>TODO</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>TODO</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>TODO</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>TODO</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>TODO</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>TODO</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>TODO</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>TODO</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>TODO</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>TODO</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>TODO</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>TODO</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>TODO</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>TODO</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>TODO</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>TODO</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>TODO</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>TODO</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>TODO</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>TODO</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>TODO</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>TODO</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>TODO</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>TODO</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>TODO</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>TODO</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>TODO</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>TODO</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>TODO</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>TODO</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>TODO</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>TODO</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>TODO</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>TODO</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>TODO</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>TODO</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>TODO</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>TODO</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>TODO</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>TODO</Difficulty_UnwaveringPrisoners_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>TODO</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>TODO</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>TODO</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>TODO</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>TODO</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>TODO</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>TODO</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>TODO</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>TODO</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>TODO</DifficultyAdaptationSection>
+  <!-- EN: Adaptation growth rate -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Adaptation impact -->
+  <Difficulty_AdaptationEffectFactor_Label>TODO</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
+  <Difficulty_AdaptationEffectFactor_Info>TODO</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>TODO</Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>TODO</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>TODO</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>TODO</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>TODO</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>TODO</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>TODO</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>בחר אתר נחיתה</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>בחר אתר רנדומלי</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>בחר אתר</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>בבקשה בחר אתר</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>{0} :אתה לא יכול לנחות בביומה הזאת</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>ביומה לא נכנסה לפועל</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>אתה לא יכול לנחות על הרים ללא מעבר</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>ל{0} יש כבר בסיס שם</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>יש לך כבר בסיס שם.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>האריח הזה כבר תפוס.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>המושבות לא יכולות להיות אחד ליד השני</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>ביומה</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>שטח</Terrain>
+  <!-- EN: Road -->
+  <Road>כביש</Road>
+  <!-- EN: River -->
+  <River>נהר</River>
+  <!-- EN: Elevation -->
+  <Elevation>הרמה</Elevation>
+  <!-- EN: Fertility -->
+  <Fertility>פוריות</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>TODO</FertilityLower>
+  <!-- EN: Average temperature -->
+  <AvgTemp>טמפרטורה ממוצעת</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>מטר</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>תכונות מיוחדות</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>חוף צפוני</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>חוף מזרחי</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>חוף דרומית</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>חוף  מערבי</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>מערות</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>בסיס הפלוגה</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>סוגי אבנים</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>זמן אזור</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>קושי תזוזה</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>חיות יכולים לרעות</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>ממוצע תדירות מחלות</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>בשנה</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>יכולת ליקוט</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>זה יכול לעשות את המשחק יותר קשה מהרגיל. אתה בטוח שאתה רוצה להמשיך?\n{0}\n\nאף אחד מהאנשים שנבחרו יכולים לעשות את העבודות הבאות:</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>TODO</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>TODO</LightLower>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <CreateCharacters>צור דמויות</CreateCharacters>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <FirstNameDesc>זה מוצג רק בתפריטים מסויימים\n\n.השם הפרטי של הדמות</FirstNameDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>זה מוצג בכל הזמנים. זה גם יכול להיות שם ראשון או אחרון, או כינוי שונה לגמרי.\n\n.המזהה הקצר של הדמות</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>זה מוצג רק בתפריטים מסויימים\n\n.השם משפחה של הדמות</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>בחר רנדומלית</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>{0} גיל</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>TODO</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>סיפור רקע</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>לא מסוגל ל</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>TODO</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>TODO</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>TODO</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>TODO</IncapableOfTooltipMutant>
+  <!-- EN: Traits -->
+  <Traits>תכונות</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>אפקט מצב רוח טבעי</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>כשרונות</Skills>
+  <!-- EN: none -->
+  <NoneLower>ללא</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>בגרות</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>ילדות</Childhood>
+  <!-- EN: male -->
+  <Male>זכר</Male>
+  <!-- EN: female -->
+  <Female>נקבה</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>TODO</MaleAndFemale>
+  <!-- EN: male -->
+  <MaleAnimal>זכר</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>נקבה</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>כאב</Pain>
+  <!-- EN: Health -->
+  <Health>בריאות</Health>
+  <!-- EN: Relations -->
+  <Relations>יחסים</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>TODO</Possessions>
+  <!-- EN: Team skills -->
+  <TeamSkills>כשרונות קבוצתיים</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>נבחר</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>נשאר מאחור</StartingPawnsLeftBehind>
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
+  <GuiltyDesc>TODO</GuiltyDesc>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>התחל</Start>
+  <!-- EN: Advanced -->
+  <Advanced>מתקדם</Advanced>
+  <!-- EN: Next -->
+  <Next>הבא</Next>
+  <!-- EN: Back -->
+  <Back>הקודם</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>TODO</ShowMaterials>
+  <!-- EN: Gameplay -->
+  <Gameplay>משחק</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>באמת לעזוב? אתה תפסיד כל התקדמות שלא שמרת</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>כל איש צריך שם תקין</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>אף אחד מהאנשים שנבחרו יכולים לעשות את העבודות הבאות</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>צא</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>התעלם</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>מייצר עולם</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>מייצר כדור ארץ</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>מייצר מפה</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>מייצר מפה לתקרית חדשה</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>TODO</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>TODO</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>TODO</MaxFactionsForType>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>TODO</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>TODO</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>TODO</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>TODO</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>TODO</FactionsDisabledWarning>
+
+  <!-- UNUSED -->
+  <UnlockExtremeDifficulty>מצב חסר רחמים</UnlockExtremeDifficulty>
+  <ConfirmUnlockExtremeDifficulty>האופציה הזאת מומלצת רק ברגע ששיחקת כמה משחקים ברמות קושי גבוהות ורוצה סיכוי טוב למות למרות המאמצים הכי טובים שלך. \n\n.מצב חוסר רחמים נפתח באופן אוטומטי שאתה מגיע לנקודות מסויימות במשחק. אבל, אתה יכול לפתוח את זה עכשיו \n\n.מצב חסר רחמים זה מצב משחק מיוחד שכל אתגר במשחק מועלה לרמות קיצוניות.</ConfirmUnlockExtremeDifficulty>
+  <Current>נוכחית</Current>
+  <SelectLandingSite>בחר אתר נחיתה</SelectLandingSite>
+  <MustSelectLandingSite>בבקשה בחר אתר בנייה</MustSelectLandingSite>
+
 </LanguageData>

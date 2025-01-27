@@ -1,69 +1,97 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!-- EN: d -->
+
+  <!-- EN: d -->
   <LetterDay>י</LetterDay>
-<!-- EN: h -->
+  <!-- EN: h -->
   <LetterHour>ה</LetterHour>
-<!-- EN: m -->
+  <!-- EN: m -->
   <LetterMinute>ד</LetterMinute>
-<!-- EN: s -->
+  <!-- EN: s -->
   <LetterSecond>שנ</LetterSecond>
-<!-- EN: days -->
+  <!-- EN: y -->
+  <LetterYear>TODO</LetterYear>
+  
+  <!-- EN: AM -->
+  <AM>TODO</AM>
+  <!-- EN: PM -->
+  <PM>TODO</PM>
+
+  <!-- EN: days -->
   <DaysLower>ימים</DaysLower>
-<!-- EN: seconds -->
+  <!-- EN: hours -->
+  <HoursLower>TODO</HoursLower>
+  <!-- EN: seconds -->
   <SecondsLower>שניות</SecondsLower>
-<!-- EN: spring -->
+
+  <!-- EN: spring -->
   <SeasonSpring>אביב</SeasonSpring>
-<!-- EN: summer -->
+  <!-- EN: summer -->
   <SeasonSummer>קיץ</SeasonSummer>
-<!-- EN: fall -->
+  <!-- EN: fall -->
   <SeasonFall>סתיו</SeasonFall>
-<!-- EN: winter -->
+  <!-- EN: winter -->
   <SeasonWinter>חורף</SeasonWinter>
-<!-- EN: permanent summer -->
+  <!-- EN: permanent summer -->
   <SeasonPermanentSummer>קיץ תמידי</SeasonPermanentSummer>
-<!-- EN: permanent winter -->
+  <!-- EN: permanent winter -->
   <SeasonPermanentWinter>חורף תמידי</SeasonPermanentWinter>
-<!-- EN: Aprimay -->
+
+  <!-- EN: Aprimay -->
   <QuadrumAprimay>אפרימאי</QuadrumAprimay>
-<!-- EN: Jugust -->
+  <!-- EN: Jugust -->
   <QuadrumJugust>יוגוסט</QuadrumJugust>
-<!-- EN: Septober -->
+  <!-- EN: Septober -->
   <QuadrumSeptober>ספטובר</QuadrumSeptober>
-<!-- EN: Decembary -->
+  <!-- EN: Decembary -->
   <QuadrumDecembary>דסמבואר</QuadrumDecembary>
-<!-- EN: Born: {0} -->
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>TODO</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>TODO</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>TODO</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
+  
+  <!-- EN: Born: {0} -->
   <Born>:נולד }0{</Born>
-<!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
   <AgeChronological>גיל כרונולוגי }0{ שנים }1{ רבעים }2{ ימים</AgeChronological>
-<!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
   <AgeBiological>גיל ביולוגי }0{ שנים }1{ רבעים }2{ ימים</AgeBiological>
-<!-- Date periods -->
-<!-- EN: 1 year -->
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
   <Period1Year>שנה</Period1Year>
-<!-- EN: {0} years -->
+  <!-- EN: {0} years -->
   <PeriodYears>שנים }0{</PeriodYears>
-<!-- EN: 1 quadrum -->
+  <!-- EN: 1 quadrum -->
   <Period1Quadrum>רבע</Period1Quadrum>
-<!-- EN: {0} quadrums -->
+  <!-- EN: {0} quadrums -->
   <PeriodQuadrums>רבעים }0{</PeriodQuadrums>
-<!-- EN: 1 day -->
+  <!-- EN: 1 day -->
   <Period1Day>יום</Period1Day>
-<!-- EN: {0} days -->
+  <!-- EN: {0} days -->
   <PeriodDays>ימים }0{</PeriodDays>
-<!-- EN: 1 hour -->
+  <!-- EN: 1 hour -->
   <Period1Hour>שעה</Period1Hour>
-<!-- EN: {0} hours -->
+  <!-- EN: {0} hours -->
   <PeriodHours>שעות }0{</PeriodHours>
-<!-- EN: 1 second -->
+  <!-- EN: 1 second -->
   <Period1Second>שניה</Period1Second>
-<!-- EN: {0} seconds -->
+  <!-- EN: {0} seconds -->
   <PeriodSeconds>שניות }0{</PeriodSeconds>
-<!-- Misc -->
-<!-- EN: Started -->
+
+  <!-- Misc -->
+  <!-- EN: Started -->
   <Started>התחיל</Started>
-<!-- EN: Lasted -->
+  <!-- EN: Lasted -->
   <Lasted>החזיק</Lasted>
-<!-- EN: occurred {0} ago -->
+  <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo> קרה לפני }0{</OccurredTimeAgo>
+  <!-- EN: {0} ago -->
+  <TimeAgo>TODO</TimeAgo>
+  
 </LanguageData>

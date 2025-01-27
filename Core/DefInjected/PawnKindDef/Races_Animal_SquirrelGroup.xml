@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>boomrat</Boomrat.label>
+  <Boomrat.labelFemale>boomrat</Boomrat.labelFemale>
+  <Boomrat.labelFemalePlural>boomrat</Boomrat.labelFemalePlural>
+  <Boomrat.labelMale>boomrat</Boomrat.labelMale>
+  <Boomrat.labelMalePlural>boomrat</Boomrat.labelMalePlural>
+  <Boomrat.labelPlural>boomrat</Boomrat.labelPlural>
+  <Boomrat.lifeStages.0.label>boomrat</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.0.labelFemale>boomrat</Boomrat.lifeStages.0.labelFemale>
+  <Boomrat.lifeStages.0.labelFemalePlural>boomrat</Boomrat.lifeStages.0.labelFemalePlural>
+  <Boomrat.lifeStages.0.labelMale>boomrat</Boomrat.lifeStages.0.labelMale>
+  <Boomrat.lifeStages.0.labelMalePlural>boomrat</Boomrat.lifeStages.0.labelMalePlural>
+  <Boomrat.lifeStages.0.labelPlural>boomrat</Boomrat.lifeStages.0.labelPlural>
+  <Boomrat.lifeStages.1.label>boomrat</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.1.labelFemale>boomrat</Boomrat.lifeStages.1.labelFemale>
+  <Boomrat.lifeStages.1.labelFemalePlural>boomrat</Boomrat.lifeStages.1.labelFemalePlural>
+  <Boomrat.lifeStages.1.labelMale>boomrat</Boomrat.lifeStages.1.labelMale>
+  <Boomrat.lifeStages.1.labelMalePlural>boomrat</Boomrat.lifeStages.1.labelMalePlural>
+  <Boomrat.lifeStages.1.labelPlural>boomrat</Boomrat.lifeStages.1.labelPlural>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>iguana</Iguana.label>
+  <Iguana.labelFemale>iguana</Iguana.labelFemale>
+  <Iguana.labelFemalePlural>iguana</Iguana.labelFemalePlural>
+  <Iguana.labelMale>iguana</Iguana.labelMale>
+  <Iguana.labelMalePlural>iguana</Iguana.labelMalePlural>
+  <Iguana.labelPlural>iguana</Iguana.labelPlural>
+  <Iguana.lifeStages.0.label>iguana</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.0.labelFemale>iguana</Iguana.lifeStages.0.labelFemale>
+  <Iguana.lifeStages.0.labelFemalePlural>iguana</Iguana.lifeStages.0.labelFemalePlural>
+  <Iguana.lifeStages.0.labelMale>iguana</Iguana.lifeStages.0.labelMale>
+  <Iguana.lifeStages.0.labelMalePlural>iguana</Iguana.lifeStages.0.labelMalePlural>
+  <Iguana.lifeStages.0.labelPlural>iguana</Iguana.lifeStages.0.labelPlural>
+  <Iguana.lifeStages.1.label>iguana</Iguana.lifeStages.1.label>
+  <Iguana.lifeStages.1.labelFemale>iguana</Iguana.lifeStages.1.labelFemale>
+  <Iguana.lifeStages.1.labelFemalePlural>iguana</Iguana.lifeStages.1.labelFemalePlural>
+  <Iguana.lifeStages.1.labelMale>iguana</Iguana.lifeStages.1.labelMale>
+  <Iguana.lifeStages.1.labelMalePlural>iguana</Iguana.lifeStages.1.labelMalePlural>
+  <Iguana.lifeStages.1.labelPlural>iguana</Iguana.lifeStages.1.labelPlural>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>raccoon</Raccoon.label>
+  <Raccoon.labelFemale>raccoon</Raccoon.labelFemale>
+  <Raccoon.labelFemalePlural>raccoon</Raccoon.labelFemalePlural>
+  <Raccoon.labelMale>raccoon</Raccoon.labelMale>
+  <Raccoon.labelMalePlural>raccoon</Raccoon.labelMalePlural>
+  <Raccoon.labelPlural>raccoon</Raccoon.labelPlural>
+  <Raccoon.lifeStages.0.label>raccoon</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.0.labelFemale>raccoon</Raccoon.lifeStages.0.labelFemale>
+  <Raccoon.lifeStages.0.labelFemalePlural>raccoon</Raccoon.lifeStages.0.labelFemalePlural>
+  <Raccoon.lifeStages.0.labelMale>raccoon</Raccoon.lifeStages.0.labelMale>
+  <Raccoon.lifeStages.0.labelMalePlural>raccoon</Raccoon.lifeStages.0.labelMalePlural>
+  <Raccoon.lifeStages.0.labelPlural>raccoon</Raccoon.lifeStages.0.labelPlural>
+  <Raccoon.lifeStages.1.label>raccoon</Raccoon.lifeStages.1.label>
+  <Raccoon.lifeStages.1.labelFemale>raccoon</Raccoon.lifeStages.1.labelFemale>
+  <Raccoon.lifeStages.1.labelFemalePlural>raccoon</Raccoon.lifeStages.1.labelFemalePlural>
+  <Raccoon.lifeStages.1.labelMale>raccoon</Raccoon.lifeStages.1.labelMale>
+  <Raccoon.lifeStages.1.labelMalePlural>raccoon</Raccoon.lifeStages.1.labelMalePlural>
+  <Raccoon.lifeStages.1.labelPlural>raccoon</Raccoon.lifeStages.1.labelPlural>
+  
+  <!-- EN: rat -->
+  <Rat.label>rat</Rat.label>
+  <Rat.labelFemale>rat</Rat.labelFemale>
+  <Rat.labelFemalePlural>rat</Rat.labelFemalePlural>
+  <Rat.labelMale>rat</Rat.labelMale>
+  <Rat.labelMalePlural>rat</Rat.labelMalePlural>
+  <Rat.labelPlural>rat</Rat.labelPlural>
+  <Rat.lifeStages.0.label>rat</Rat.lifeStages.0.label>
+  <Rat.lifeStages.0.labelFemale>rat</Rat.lifeStages.0.labelFemale>
+  <Rat.lifeStages.0.labelFemalePlural>rat</Rat.lifeStages.0.labelFemalePlural>
+  <Rat.lifeStages.0.labelMale>rat</Rat.lifeStages.0.labelMale>
+  <Rat.lifeStages.0.labelMalePlural>rat</Rat.lifeStages.0.labelMalePlural>
+  <Rat.lifeStages.0.labelPlural>rat</Rat.lifeStages.0.labelPlural>
+  <Rat.lifeStages.1.label>rat</Rat.lifeStages.1.label>
+  <Rat.lifeStages.1.labelFemale>rat</Rat.lifeStages.1.labelFemale>
+  <Rat.lifeStages.1.labelFemalePlural>rat</Rat.lifeStages.1.labelFemalePlural>
+  <Rat.lifeStages.1.labelMale>rat</Rat.lifeStages.1.labelMale>
+  <Rat.lifeStages.1.labelMalePlural>rat</Rat.lifeStages.1.labelMalePlural>
+  <Rat.lifeStages.1.labelPlural>rat</Rat.lifeStages.1.labelPlural>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>squirrel</Squirrel.label>
+  <Squirrel.labelFemale>squirrel</Squirrel.labelFemale>
+  <Squirrel.labelFemalePlural>squirrel</Squirrel.labelFemalePlural>
+  <Squirrel.labelMale>squirrel</Squirrel.labelMale>
+  <Squirrel.labelMalePlural>squirrel</Squirrel.labelMalePlural>
+  <Squirrel.labelPlural>squirrel</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>squirrel</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.0.labelFemale>squirrel</Squirrel.lifeStages.0.labelFemale>
+  <Squirrel.lifeStages.0.labelFemalePlural>squirrel</Squirrel.lifeStages.0.labelFemalePlural>
+  <Squirrel.lifeStages.0.labelMale>squirrel</Squirrel.lifeStages.0.labelMale>
+  <Squirrel.lifeStages.0.labelMalePlural>squirrel</Squirrel.lifeStages.0.labelMalePlural>
+  <Squirrel.lifeStages.0.labelPlural>squirrel</Squirrel.lifeStages.0.labelPlural>
+  <Squirrel.lifeStages.1.label>squirrel</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.1.labelFemale>squirrel</Squirrel.lifeStages.1.labelFemale>
+  <Squirrel.lifeStages.1.labelFemalePlural>squirrel</Squirrel.lifeStages.1.labelFemalePlural>
+  <Squirrel.lifeStages.1.labelMale>squirrel</Squirrel.lifeStages.1.labelMale>
+  <Squirrel.lifeStages.1.labelMalePlural>squirrel</Squirrel.lifeStages.1.labelMalePlural>
+  <Squirrel.lifeStages.1.labelPlural>squirrel</Squirrel.lifeStages.1.labelPlural>
+  
+</LanguageData>

@@ -1,35 +1,47 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!-- EN: none -->
+
+  <!-- EN: none -->
   <WorkTagNone>ללא</WorkTagNone>
-<!-- EN: intellectual -->
+  <!-- EN: intellectual -->
   <WorkTagIntellectual>אינטלקטואלי</WorkTagIntellectual>
-<!-- EN: dumb labor -->
+  <!-- EN: dumb labor -->
   <WorkTagManualDumb>עבודה קלה</WorkTagManualDumb>
-<!-- EN: skilled labor -->
+  <!-- EN: skilled labor -->
   <WorkTagManualSkilled>עבודה כשרונית</WorkTagManualSkilled>
-<!-- EN: violent -->
+  <!-- EN: violent -->
   <WorkTagViolent>אלים</WorkTagViolent>
-<!-- EN: caring -->
+  <!-- EN: shooting -->
+  <WorkTagShooting>TODO</WorkTagShooting>
+  <!-- EN: caring -->
   <WorkTagCaring>אכפתיות</WorkTagCaring>
-<!-- EN: social -->
+  <!-- EN: social -->
   <WorkTagSocial>סוציאלי</WorkTagSocial>
-<!-- EN: animals -->
+  <!-- EN: animals -->
   <WorkTagAnimals>חיות</WorkTagAnimals>
-<!-- EN: artistic -->
+  <!-- EN: artistic -->
   <WorkTagArtistic>ארטיסטי</WorkTagArtistic>
-<!-- EN: crafting -->
+  <!-- EN: crafting -->
   <WorkTagCrafting>יצירה</WorkTagCrafting>
-<!-- EN: cooking -->
+  <!-- EN: cooking -->
   <WorkTagCooking>בישול</WorkTagCooking>
-<!-- EN: firefighting -->
+  <!-- EN: firefighting -->
   <WorkTagFirefighting>לחימה באש</WorkTagFirefighting>
-<!-- EN: cleaning -->
+  <!-- EN: cleaning -->
   <WorkTagCleaning>ניקיון</WorkTagCleaning>
-<!-- EN: hauling -->
+  <!-- EN: hauling -->
   <WorkTagHauling>סחיבה</WorkTagHauling>
-<!-- EN: plant work -->
+  <!-- EN: plant work -->
   <WorkTagPlantWork>עבודה בצמחים</WorkTagPlantWork>
-<!-- EN: mining -->
+  <!-- EN: mining -->
   <WorkTagMining>חפירה</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>TODO</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>TODO</WorkTagAllWork>
+
 </LanguageData>

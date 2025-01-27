@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
-
-  <RangedStab.label>stab</RangedStab.label>
-  <RangedStab.deathMessage>{0} has been stabbed to death.</RangedStab.deathMessage>
-
-  <Bullet.label>bullet</Bullet.label>
-  <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
-
+  
+  <!-- EN: arrow -->
   <Arrow.label>arrow</Arrow.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
   <Arrow.deathMessage>{0} has been shot to death by an arrow.</Arrow.deathMessage>
-
+  
+  <!-- EN: arrow -->
   <ArrowHighVelocity.label>arrow</ArrowHighVelocity.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
   <ArrowHighVelocity.deathMessage>{0} has been shot to death by an arrow.</ArrowHighVelocity.deathMessage>
-
-
+  
+  <!-- EN: bullet -->
+  <Bullet.label>bullet</Bullet.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Bullet.deathMessage>{0} has been shot to death.</Bullet.deathMessage>
+  
+  <!-- EN: stab -->
+  <RangedStab.label>stab</RangedStab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <RangedStab.deathMessage>{0} has been stabbed to death.</RangedStab.deathMessage>
+  
 </LanguageData>

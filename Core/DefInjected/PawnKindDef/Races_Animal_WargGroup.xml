@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: warg -->
+  <Warg.label>warg</Warg.label>
+  <Warg.labelFemale>warg</Warg.labelFemale>
+  <Warg.labelFemalePlural>warg</Warg.labelFemalePlural>
+  <Warg.labelMale>warg</Warg.labelMale>
+  <Warg.labelMalePlural>warg</Warg.labelMalePlural>
+  <Warg.labelPlural>warg</Warg.labelPlural>
+  <!-- EN: warg puppy -->
+  <Warg.lifeStages.warg_puppy.label>warg puppy</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.labelFemale>warg</Warg.lifeStages.warg_puppy.labelFemale>
+  <Warg.lifeStages.warg_puppy.labelFemalePlural>warg</Warg.lifeStages.warg_puppy.labelFemalePlural>
+  <Warg.lifeStages.warg_puppy.labelMale>warg</Warg.lifeStages.warg_puppy.labelMale>
+  <Warg.lifeStages.warg_puppy.labelMalePlural>warg</Warg.lifeStages.warg_puppy.labelMalePlural>
+  <!-- EN: warg puppies -->
+  <Warg.lifeStages.warg_puppy.labelPlural>warg puppies</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.1.label>warg</Warg.lifeStages.1.label>
+  <Warg.lifeStages.1.labelFemale>warg</Warg.lifeStages.1.labelFemale>
+  <Warg.lifeStages.1.labelFemalePlural>warg</Warg.lifeStages.1.labelFemalePlural>
+  <Warg.lifeStages.1.labelMale>warg</Warg.lifeStages.1.labelMale>
+  <Warg.lifeStages.1.labelMalePlural>warg</Warg.lifeStages.1.labelMalePlural>
+  <Warg.lifeStages.1.labelPlural>warg</Warg.lifeStages.1.labelPlural>
+  
+</LanguageData>

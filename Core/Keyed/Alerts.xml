@@ -10,21 +10,23 @@
   <BreakRiskMajor>סיכון שבירה נפשית משמעותית</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>סיכון שבירה נפשית קיצונית</BreakRiskExtreme>
-  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
   <BreakRiskMinorDesc>התושבים הבאים לוקים במצב רוח ירוד ועלולים להישבר קלות בכל רגע:\n\n{0}</BreakRiskMinorDesc>
-  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
   <BreakRiskMajorDesc>התושבים הבאים לוקים במצב רוח ירוד מאוד ועלולים להישבר משמעותית בכל רגע:\n\n{0}</BreakRiskMajorDesc>
-  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
   <BreakRiskExtremeDesc>התושבים הבאים מאוד לחוצים ועלולים להישבר נפשית (אולי באופן אלים) בכל רגע:\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>בדוק את לשונית הצרכים של התושבים הללו כדי לראות מה מפריע להם.\n\nכדי לגרום להם להרגיש טוב יותר, ביכולתך לגרום להם לבשל ארוחות מפוארות, להביא להם יותר שעות בילוי ולשפר את איכות עצמי הבילוי, לייפות את סביבתם, לגרום להם לשתות ולעשן, ועוד.</BreakRiskDescEnding>
-  
+
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>מתישב דורש חילוץ</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>תושבים דורשים חילוץ</ColonistsNeedRescue>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
   <ColonistsNeedRescueDesc>תושבים אלו חסרי יכולת תנועה:\n\n{0}\nשלח מתישב אחר לחלצם ושיביא אותם בחזרה למיטתם.\n\n(לחילוץ, בחר מתישב אחר, ואז לחץ עם הלחצן הימני על הקורבן ובחר באפשרות החילוץ.</ColonistsNeedRescueDesc>
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
+  <ColonistsNeedRescueDescController>TODO</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
   <NeedDefenses>דרושות הגנות</NeedDefenses>
@@ -33,7 +35,7 @@
 
   <!-- EN: Need doctor -->
   <NeedDoctor>דרוש רופא</NeedDoctor>
-  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
   <NeedDoctorDesc>התושבים הללו צריכים עזרה רפואית, אך אין לך תושבים בריאים שהוקצו כרופאים.\n\n{0}\nהקצה מתישב בריא לעבודה בתור רופא. אם לא יטופלו, פציעות עלולות לא להחלים ואף להפוך לקבועות.</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
@@ -62,35 +64,40 @@
   <NeedColonistBeds>דרושות מיטות לתושבים</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
   <NeedColonistBedsDesc>יש לך יותר תושבים ממיטות. למישהו יחסר מקום לינה.\n\nצור עוד מיטות, או הפוך מיטת אסיר למיטת מתישב.\n\nאם אין לך משאבים, איזורי לינה הם חינמיים וניתנים להצבה מיידית.</NeedColonistBedsDesc>
+  
+  <!-- EN: Colonist left unburied -->
+  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
+  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
 
-  <!-- EN: Hunter lacks ranged weapon -->
+  <!-- EN: Hunter lacks suitable weapon -->
   <HunterLacksWeapon>לצייד חסר נשק ארוך טווח</HunterLacksWeapon>
-  <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
+  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
   <HunterLacksWeaponDesc>מתישב מוקצה כצייד אבל אין לו נשק ארוך טווח.\n\nהם לא יצודו עד להשגת נשק ארוך טווח.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>לבוש בלוי</AlertTatteredApparel>
-  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertTatteredApparelDesc>התושבים הבאים לובשים לבוש בלוי, שמעציב אותם:\n\n{0}\nהשג דברי לבוש שלא ניזוקים קשות.\n\nביכולתך לתפור לבוש על שולחן התפירה, או לקנותו מסוחרים.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>עירום לא משמח</AlertUnhappyNudity>
-  <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
+  <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertUnhappyNudityDesc>התושבים הבאים עירומים ולא שמחים לגבי זה:\n\n{0}\nהשג להם בגדים.\n\nביכולתך לתפור לבוש על שולחן התפירה, או לקנותו מסוחרים.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>רעב</Starvation>
-  <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
+  <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
   <StarvationDesc>התושבים הבאים רעבים:\n\n{0}\nהשג להם אוכל.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>חיות רעבות</StarvationAnimals>
-  <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
+  <!-- EN: These colony animals are starving:\n{0}\n\nGet them some food. -->
   <StarvationAnimalsDesc>חיות המושבה הבאות רעבות:\n\n{0}\nהשג להן אוכל.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>תשישות</Exhaustion>
-  <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>התושבים הבאים תשושים וצריכים מנוחה:\n\n{0}\nתן להם מנוחה. הם יצטרכו מיטה מוקצת לשימוש תושבים. בנסף, וודא שהם לא מגוייסים.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
@@ -118,13 +125,17 @@
 
   <!-- EN: Boredom -->
   <Boredom>שיעמום</Boredom>
-  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
   <BoredomDesc>האנשים הבאים צריכים לבלות או מוקצים לבילוי, אבל משועממים מכל סוג בילוי זמין:\n\n{0}\n\nהשג להם עוד סוגי בילויים.\n\nסוגי בילויים זמינים עבור {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
   <NeedBatteries>דרושות סוללות</NeedBatteries>
-  <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
+  <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
   <NeedBatteriesDesc>ברשותך גנרטור שמש או רוח, אבל אין לך סוללות. זה אומר שהחשמל יופסק בכל פעם שהשמש תשקע או שהרוח תירגע.\n\nבנה סוללה או שתיים כדי להבטיח אספקת חשמל ממושכת.</NeedBatteriesDesc>
+  <!-- EN: Build a battery or two to guarantee sustained power. -->
+  <NeedBatteriesResearchedDesc>TODO</NeedBatteriesResearchedDesc>
+  <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
+  <NeedBatteriesNotResearchedDesc>TODO</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>לברולר יש נשק ארוך טווח</BrawlerHasRangedWeapon>
@@ -138,27 +149,34 @@
 
   <!-- EN: Need research project -->
   <NeedResearchProject>דרוש פרוייקט מחקר</NeedResearchProject>
-  <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
   <NeedResearchProjectDesc>ברשותך ציוד למחקר אבל לא בחרת בפרוייקט.\n\nפתח את תפריט המחקר ובחר פרוייקט.</NeedResearchProjectDesc>
-  
+
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>{0} תושבים מובטלים</ColonistsIdle>
-  <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
+  <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>התושבים הבאים משוטטים ללא מעש:\n\n{0}\nכדאי לך למצוא להם משהו יצרני לעשות.</ColonistsIdleDesc>
+  
+  <!-- EN: Caravan idle -->
+  <CaravanIdle>TODO</CaravanIdle>
+  <!-- EN: These caravans are waiting for you to set their next destination:\n{0} -->
+  <CaravanIdleDesc>TODO</CaravanIdleDesc>
 
-  <!-- EN: Colonist needs treatment -->
+  <!-- EN: Medical treatment needed -->
   <ColonistNeedsTreatment>מתישב דורש טיפול</ColonistNeedsTreatment>
-  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>התושבים הבאים צריכים טיפול רפואי. בלעדיו הם עלולים למות מפציעותיהם, או שפציעותיהם יהפכו לקבועות.\n\n{0}\nטפל בהם על ידי שליחתם למיטה רפיאות.\n\n(קודם כל, הקצה מיטה על ידי בחירתה ומיתוגה למיטה רפואית. לאחר מכן, בחר את התושבים הפצועים ולחץ לחיצה ימנית על המיטה הרפואית להפיכתם למטופלים.)</ColonistNeedsTreatmentDesc>
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDescController>TODO</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>היפותרמיה</AlertHypothermia>
-  <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <!-- EN: These colonists are suffering from hypothermia:\n{0}\n\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>התושבים הבאים סובלים מהיפותרמיה.\n\n{0}\nוודא שלבושם מתאים לעונה ושהשטחים המקורים מחוממים היטב.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} מטופלים ממתינים לניתוח רפואי</PatientsAwaitingMedicalOperation>
-  <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <!-- EN: These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available. -->
   <PatientsAwaitingMedicalOperationDesc>המטופלים הבעים ממתינים לניתוח רפואי:\n\n{0}\nוודא שברשותך על הכלים הרפואיים וגם רופא פנוי.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
@@ -168,15 +186,25 @@
 
   <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>חרום רפואי</PawnsWithLifeThreateningDisease>
-  <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
+  <!-- EN: People are at risk of death because of severe illness:\n{0}\n\nMake sure that they get the best medical care possible. -->
   <PawnsWithLifeThreateningDiseaseDesc>אנשים בסכנת מוות עקב מחלה קשה:\n\n{0}\nוודא שהם מקבלים את הטיפול הרפואי הטוב ביותר.</PawnsWithLifeThreateningDiseaseDesc>
-  <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <!-- EN: People are at risk for death because of severe illness:\n{0}\n\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
   <PawnsWithLifeThreateningDiseaseAmputationDesc>אנשים בסכנת מוות עקב מחלה קשה:\n\n{0}\nאם אפשר, שקול קטיעה או החלפה של איברים נגועים כדי לשמור את התושבים בחיים.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
   <BilliardsNeedsSpace>ביליארד דורש מרווח</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
   <BilliardsNeedsSpaceDesc>אחד משולחנות הביליארד שלך סמוך למכשול שימנה מתושבים להשתמש בו.\n\nשולחן ביליארד צריך מרווח פנוי מסביבו מכל הכיוונים כדי להיות שמיש.</BilliardsNeedsSpaceDesc>
+
+  <!-- EN: Chess table needs chairs -->
+  <ChessTablesNeedChairs>TODO</ChessTablesNeedChairs>
+  <!-- EN: One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once. -->
+  <ChessTablesNeedChairsDesc>TODO</ChessTablesNeedChairsDesc>
+
+  <!-- EN: Poker table needs chairs -->
+  <PokerTablesNeedChairs>TODO</PokerTablesNeedChairs>
+  <!-- EN: One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once. -->
+  <PokerTablesNeedChairsDesc>TODO</PokerTablesNeedChairsDesc>
 
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>לצייד יש מגן ונשק ארוך טווח</HunterHasShieldAndRangedWeapon>
@@ -191,10 +219,119 @@
   <NeedWarmClothesDesc1All>לכל התושבים שלך יהיו חסרים בגדים חמים כשהעונה הקרה תגיע.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
   <NeedWarmClothesDesc2>הטמפרטורה בחוץ תגיע ל {0}.\n\nביכולתך לתפור לבוש חם בעזרת שולחן התפירה, או לקנות אותם מסוחרים.</NeedWarmClothesDesc2>
-  
+
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>קרוואן ללא תנועה</ImmobileCaravan>
   <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
   <ImmobileCaravanDesc>אחת מהקרוואנים שלך לא מסוגל לנוע מכיוון שהוא נושא יותר מדי.\n\nביכולתך לאפשר תנועה לקרוואן על ידי הפקרת פריטים בלשונית הפריטים.</ImmobileCaravanDesc>
+
+  <!-- EN: Building unusable due to roof -->
+  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
+  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+
+  <!-- EN: Heatstroke -->
+  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <!-- EN: The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+
+  <!-- EN: Guest unhappy -->
+  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
+  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
+  
+  <!-- EN: Shuttle leaving in {0} -->
+  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>TODO</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>TODO</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>TODO</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>TODO</QuestPartShuttleArriveDelayDescHidden>
+
+  <!-- EN: Monument will be destroyed -->
+  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
+  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+
+  <!-- EN: Countdown activator {0} -->
+  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <!-- EN: {0} countdown activators -->
+  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+
+  <!-- EN: Quest expires in {0} -->
+  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <!-- EN: The quest '{0}' will expire in {1}. -->
+  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+
+  <!-- EN: Animal filth -->
+  <AlertAnimalFilth>TODO</AlertAnimalFilth>
+  <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
+  <AlertAnimalFilthDesc>TODO</AlertAnimalFilthDesc>
+
+  <!-- EN: Pen needed -->
+  <AlertAnimalPenNeeded>TODO</AlertAnimalPenNeeded>
+  <!-- EN: Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away. -->
+  <AlertAnimalPenNeededDesc>TODO</AlertAnimalPenNeededDesc>
+  <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
+  <AlertAnimalPenNeededNoHandlers>TODO</AlertAnimalPenNeededNoHandlers>
+  <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
+  <AlertAnimalPenNeededDescExplanation>TODO</AlertAnimalPenNeededDescExplanation>
+  
+  <!-- EN: Pen not enclosed -->
+  <AlertAnimalPenNotEnclosed>TODO</AlertAnimalPenNotEnclosed>
+  <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
+  <AlertAnimalPenNotEnclosedDesc>TODO</AlertAnimalPenNotEnclosedDesc>
+
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>TODO</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>TODO</AlertPredatorInAnimalPenDesc>
+
+  <!-- EN: Animal wandering away -->
+  <AlertAnimalIsRoaming>TODO</AlertAnimalIsRoaming>
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0} -->
+  <AlertAnimalIsRoamingDesc>TODO</AlertAnimalIsRoamingDesc>
+
+  <!-- EN: Hungry pen animals -->
+  <AlertPennedAnimalHungry>TODO</AlertPennedAnimalHungry>
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0} -->
+  <AlertPennedAnimalHungryDesc>TODO</AlertPennedAnimalHungryDesc>
+
+  <!-- EN: Hungry hitched animal -->
+  <AlertHitchedAnimalHungryNoFood>TODO</AlertHitchedAnimalHungryNoFood>
+  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0} -->
+  <AlertHitchedAnimalHungryNoFoodDesc>TODO</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <!-- EN: Raids arriving in {0} -->
+  <AlertTimedRaidsArrivingIn>TODO</AlertTimedRaidsArrivingIn>
+  <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
+  <AlertTimedRaidsArrivingInDesc>TODO</AlertTimedRaidsArrivingInDesc>
+  <!-- EN: Arriving at {0} in {1} -->
+  <AlertTimedRaidsArrivingAt>TODO</AlertTimedRaidsArrivingAt>
+
+  <!-- EN: Faction will become hostile if you stay -->
+  <FactionWillBecomeHostileIfNotLeavingWithin>TODO</FactionWillBecomeHostileIfNotLeavingWithin>
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n{0} -->
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>TODO</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <!-- EN: {0} trees dying -->
+  <AlertMinifiedTreeAboutToDie>TODO</AlertMinifiedTreeAboutToDie>
+  <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
+  <AlertMinifiedTreeAboutToDieDesc>TODO</AlertMinifiedTreeAboutToDieDesc>
+
+  <!-- EN: Need research bench -->
+  <NeedResearchBench>TODO</NeedResearchBench>
+  <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
+  <NeedResearchBenchDesc>TODO</NeedResearchBenchDesc>
   
 </LanguageData>

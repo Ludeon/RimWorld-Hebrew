@@ -1,17 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Eclipse.label>eclipse</Eclipse.label>
-  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
-  <Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText>
-
-  <SolarFlare.label>solar flare</SolarFlare.label>
-  <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
-  <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
-
+  
+  <!-- EN: aurora -->
   <Aurora.label>aurora</Aurora.label>
+  <!-- EN: Aurora -->
   <Aurora.letterLabel>Aurora</Aurora.letterLabel>
   <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText>
-
-
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>eclipse</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
+  <Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>solar flare</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
+  <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
+  
 </LanguageData>

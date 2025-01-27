@@ -1,32 +1,54 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Cut.label>cut</Cut.label>
-  <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
-
-  <Crush.label>crush</Crush.label>
-  <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
-
-  <Blunt.label>blunt</Blunt.label>
-  <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
-
-
-  <!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
-
-  <Poke.label>blunt</Poke.label>
-  <Poke.deathMessage>{0} has been beaten to death.</Poke.deathMessage>
-
-  <Stab.label>stab</Stab.label>
-  <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
-
-  <Scratch.label>scratch</Scratch.label>
-  <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
-
+  
+  <!-- EN: bite -->
   <Bite.label>bite</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
   <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
-
+  
+  <!-- EN: blunt -->
+  <Blunt.label>blunt</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>crush</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>cut</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Demolish.label>TODO</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>TODO</Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>blunt</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} has been beaten to death.</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>scratch</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>TODO</ScratchToxic.label>
+  <!-- EN: {0} has been torn to death. -->
+  <ScratchToxic.deathMessage>TODO</ScratchToxic.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>stab</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
   <ToxicBite.label>toxic bite</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
   <ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
-
-
+  
 </LanguageData>

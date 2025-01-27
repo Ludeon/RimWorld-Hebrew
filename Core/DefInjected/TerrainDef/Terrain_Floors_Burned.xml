@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <BurnedWoodPlankFloor.label>burned wood floor</BurnedWoodPlankFloor.label>
-  <BurnedWoodPlankFloor.description>Burned-out wood plank flooring.</BurnedWoodPlankFloor.description>
-
+  
+  <!-- EN: burned carpet -->
   <BurnedCarpet.label>burned carpet</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
   <BurnedCarpet.description>Burned-out carpet.</BurnedCarpet.description>
-
-
+  
+  <!-- EN: burned straw matting -->
+  <BurnedStrawMatting.label>TODO</BurnedStrawMatting.label>
+  <!-- EN: Straw matting that has been burned in a fire. -->
+  <BurnedStrawMatting.description>TODO</BurnedStrawMatting.description>
+  
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>burned wood floor</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>Burned-out wood plank flooring.</BurnedWoodPlankFloor.description>
+  
 </LanguageData>

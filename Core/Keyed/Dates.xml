@@ -12,6 +12,10 @@
 
   <!-- EN: {0} of {1}, {2} -->
   <FullDate>{0} ב- {1}, {2}</FullDate>
+  <!-- EN: {0} {1} {2} -->
+  <ShortDate>TODO</ShortDate>
+  <!-- EN: {0}, {1} -->
+  <MonthYearDate>TODO</MonthYearDate>
   <!-- EN: {0} of {1}, {2} -->
   <DateReadout>{0} ב- {1}, {2}</DateReadout>
   <!-- EN: {0} of {1} -->

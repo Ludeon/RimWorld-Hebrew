@@ -1,104 +1,103 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: human -->
   <Human.label>אנוש</Human.label>
   <!-- EN: left lung -->
-  <Human.corePart.parts.6.customLabel>ריאה שמאלית</Human.corePart.parts.6.customLabel>
+  <Human.corePart.parts.left_lung.customLabel>ריאה שמאלית</Human.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <Human.corePart.parts.7.customLabel>ריאה ימנית</Human.corePart.parts.7.customLabel>
+  <Human.corePart.parts.right_lung.customLabel>ריאה ימנית</Human.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
-  <Human.corePart.parts.8.customLabel>כליה שמאלית</Human.corePart.parts.8.customLabel>
+  <Human.corePart.parts.left_kidney.customLabel>כליה שמאלית</Human.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
-  <Human.corePart.parts.9.customLabel>כליה ימנית</Human.corePart.parts.9.customLabel>
+  <Human.corePart.parts.right_kidney.customLabel>כליה ימנית</Human.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <Human.corePart.parts.11.parts.0.parts.1.customLabel>עין שמאלית</Human.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>עין שמאלית</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <Human.corePart.parts.11.parts.0.parts.2.customLabel>עין ימנית</Human.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>עין ימנית</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
   <!-- EN: left ear -->
-  <Human.corePart.parts.11.parts.0.parts.3.customLabel>אוזן שמאליתr</Human.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>אוזן שמאליתr</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
   <!-- EN: right ear -->
-  <Human.corePart.parts.11.parts.0.parts.4.customLabel>אוזן ימנית</Human.corePart.parts.11.parts.0.parts.4.customLabel>
+  <Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>אוזן ימנית</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: left shoulder -->
-  <Human.corePart.parts.12.customLabel>כתף שמאל</Human.corePart.parts.12.customLabel>
+  <Human.corePart.parts.left_shoulder.customLabel>כתף שמאל</Human.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left clavicle -->
-  <Human.corePart.parts.12.parts.0.customLabel>עצם הבריח השמאלית</Human.corePart.parts.12.parts.0.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>עצם הבריח השמאלית</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
   <!-- EN: left arm -->
-  <Human.corePart.parts.12.parts.1.customLabel>זרוע שמאל</Human.corePart.parts.12.parts.1.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>זרוע שמאל</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left humerus -->
-  <Human.corePart.parts.12.parts.1.parts.0.customLabel>עצם הזרוע השמאלית</Human.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>עצם הזרוע השמאלית</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
   <!-- EN: left radius -->
-  <Human.corePart.parts.12.parts.1.parts.1.customLabel>חישור שמאלי</Human.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>חישור שמאלי</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
-  <Human.corePart.parts.12.parts.1.parts.2.customLabel>יד שמאל</Human.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>יד שמאל</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>זרת שמאלית</Human.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>זרת שמאלית</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left ring finger -->
-  <Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>קמיצה שמאלית</Human.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>קמיצה שמאלית</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
   <!-- EN: left middle finger -->
-  <Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>צרדה שמאלית</Human.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>צרדה שמאלית</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>אצבע מורה שמאלית</Human.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>אצבע מורה שמאלית</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>אגודל שמאלי</Human.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>אגודל שמאלי</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right shoulder -->
-  <Human.corePart.parts.13.customLabel>כתף ימין</Human.corePart.parts.13.customLabel>
+  <Human.corePart.parts.right_shoulder.customLabel>כתף ימין</Human.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right clavicle -->
-  <Human.corePart.parts.13.parts.0.customLabel>עצם בריח ימנית</Human.corePart.parts.13.parts.0.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>עצם בריח ימנית</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
   <!-- EN: right arm -->
-  <Human.corePart.parts.13.parts.1.customLabel>זרוע ימין</Human.corePart.parts.13.parts.1.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>זרוע ימין</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right humerus -->
-  <Human.corePart.parts.13.parts.1.parts.0.customLabel>עצם הזרוע הימנית</Human.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>עצם הזרוע הימנית</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Human.corePart.parts.13.parts.1.parts.1.customLabel>חישור ימני</Human.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>חישור ימני</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
-  <Human.corePart.parts.13.parts.1.parts.2.customLabel>יד ימין</Human.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>יד ימין</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Human.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>זרת ימין</Human.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>זרת ימין</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right ring finger -->
-  <Human.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>קמיצה ימנית</Human.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>קמיצה ימנית</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
   <!-- EN: right middle finger -->
-  <Human.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>צרדה ימנית</Human.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>צרדה ימנית</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Human.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>אצבע מורה ימנית</Human.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>אצבע מורה ימנית</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Human.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>אגודל ימין</Human.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>אגודל ימין</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Human.corePart.parts.15.customLabel>רגל שמאל</Human.corePart.parts.15.customLabel>
+  <Human.corePart.parts.left_leg.customLabel>רגל שמאל</Human.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
-  <Human.corePart.parts.15.parts.0.customLabel>עצם הירך השמאלית</Human.corePart.parts.15.parts.0.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>עצם הירך השמאלית</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
-  <Human.corePart.parts.15.parts.1.customLabel>שוק שמאלי</Human.corePart.parts.15.parts.1.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>שוק שמאלי</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
   <!-- EN: left foot -->
-  <Human.corePart.parts.15.parts.2.customLabel>כף רגל שמאל</Human.corePart.parts.15.parts.2.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.customLabel>כף רגל שמאל</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left little toe -->
-  <Human.corePart.parts.15.parts.2.parts.0.customLabel>הבוהן הקטנה השמאלית</Human.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>הבוהן הקטנה השמאלית</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
   <!-- EN: left fourth toe -->
-  <Human.corePart.parts.15.parts.2.parts.1.customLabel>הבוהן הרביעית השמאלית</Human.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>הבוהן הרביעית השמאלית</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
-  <Human.corePart.parts.15.parts.2.parts.2.customLabel>הבוהן האמצעית השמאלית</Human.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>הבוהן האמצעית השמאלית</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
-  <Human.corePart.parts.15.parts.2.parts.3.customLabel>הבוהן השנייה השמאלית</Human.corePart.parts.15.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>הבוהן השנייה השמאלית</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
-  <Human.corePart.parts.15.parts.2.parts.4.customLabel>הבוהן הגדולה השמאלית</Human.corePart.parts.15.parts.2.parts.4.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>הבוהן הגדולה השמאלית</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
   <!-- EN: right leg -->
-  <Human.corePart.parts.16.customLabel>רגל ימין</Human.corePart.parts.16.customLabel>
+  <Human.corePart.parts.right_leg.customLabel>רגל ימין</Human.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
-  <Human.corePart.parts.16.parts.0.customLabel>עצם הירך הימנית</Human.corePart.parts.16.parts.0.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>עצם הירך הימנית</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
-  <Human.corePart.parts.16.parts.1.customLabel>שוק ימני</Human.corePart.parts.16.parts.1.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>שוק ימני</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
-  <Human.corePart.parts.16.parts.2.customLabel>כף רגל ימין</Human.corePart.parts.16.parts.2.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.customLabel>כף רגל ימין</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
-  <Human.corePart.parts.16.parts.2.parts.0.customLabel>הבוהן הקטנה הימנית</Human.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>הבוהן הקטנה הימנית</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
   <!-- EN: right fourth toe -->
-  <Human.corePart.parts.16.parts.2.parts.1.customLabel>הבוהן הרביעית הימנית</Human.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>הבוהן הרביעית הימנית</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
   <!-- EN: right middle toe -->
-  <Human.corePart.parts.16.parts.2.parts.2.customLabel>הבוהן האמצעית הימנית</Human.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>הבוהן האמצעית הימנית</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
   <!-- EN: right second toe -->
-  <Human.corePart.parts.16.parts.2.parts.3.customLabel>הבוהן השנייה הימנית</Human.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>הבוהן השנייה הימנית</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
-  <Human.corePart.parts.16.parts.2.parts.4.customLabel>הבוהן הגדולה הימנית</Human.corePart.parts.16.parts.2.parts.4.customLabel>
-
-
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>הבוהן הגדולה הימנית</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
 </LanguageData>

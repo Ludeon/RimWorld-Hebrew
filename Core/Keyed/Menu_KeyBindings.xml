@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!-- EN: Save -->
+
+  <!-- EN: Save -->
   <SaveButton>שמור</SaveButton>
-<!-- EN: Clear -->
+  <!-- EN: Clear -->
   <ClearBinding>נקה</ClearBinding>
-<!-- EN: Reset to default -->
+  <!-- EN: Reset to default -->
   <ResetBinding>אפס לברירת מחדל</ResetBinding>
-<!-- EN: Left-click to bind this key or right-click for options -->
+  <!-- EN: Left-click to bind this key or right-click for options -->
   <BindingButtonToolTip>קליק שמאלי כדי להשים פקודה לכפתור הזה או קליק ימני להגדרות</BindingButtonToolTip>
-<!-- EN: Press any key or Esc to cancel... -->
+  <!-- EN: Click to bind this key or left trigger button for options -->
+  <BindingButtonToolTipController>TODO</BindingButtonToolTipController>
+  <!-- EN: Press any key or Esc to cancel... -->
   <PressAnyKeyOrEsc>לחץ על כל מקש או CSE לביטול</PressAnyKeyOrEsc>
-<!-- EN: Key binding overwritten: {0} -->
+  <!-- EN: Press any button or {Key:Cancel} to cancel... -->
+  <PressAnyKeyOrEscController>TODO</PressAnyKeyOrEscController>
+  <!-- EN: Key binding overwritten: {0} -->
   <KeyBindingOverwritten>פקודת מקש חדשה: }0{</KeyBindingOverwritten>
+  
 </LanguageData>

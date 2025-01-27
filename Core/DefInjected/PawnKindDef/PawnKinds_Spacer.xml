@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <SpaceRefugee.label>space refugee</SpaceRefugee.label>
-  <SpaceRefugee.labelPlural>space refugee</SpaceRefugee.labelPlural>
-
+  
+  <!-- EN: ancient soldier -->
   <AncientSoldier.label>ancient soldier</AncientSoldier.label>
   <AncientSoldier.labelPlural>ancient soldier</AncientSoldier.labelPlural>
-
-
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>space refugee</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>space refugee</SpaceRefugee.labelPlural>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee_Clothed.label>TODO</SpaceRefugee_Clothed.label>
+  
 </LanguageData>

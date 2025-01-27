@@ -1,26 +1,59 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Deterioration.label>deterioration</Deterioration.label>
-  <Deterioration.deathMessage>{0} has been killed.</Deterioration.deathMessage>
-
-  <Mining.label>mining</Mining.label>
-  <Mining.deathMessage>{0} has been killed.</Mining.deathMessage>
-
-  <Rotting.label>rotting</Rotting.label>
-  <Rotting.deathMessage>{0} has been killed.</Rotting.deathMessage>
-
-  <Extinguish.label>extinguish</Extinguish.label>
-  <Extinguish.deathMessage>{0} has been killed.</Extinguish.deathMessage>
-
+  
+  <!-- EN: acid burn -->
+  <AcidBurn.label>TODO</AcidBurn.label>
+  <!-- EN: {0} has burned to death. -->
+  <AcidBurn.deathMessage>TODO</AcidBurn.deathMessage>
+  
+  <!-- EN: bomb -->
   <Bomb.label>bomb</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
   <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
-
+  
+  <!-- EN: bomb -->
   <BombSuper.label>bomb</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
   <BombSuper.deathMessage>{0} has died in an explosion.</BombSuper.deathMessage>
-
+  
+  <!-- EN: decayed organ -->
+  <Decayed.label>TODO</Decayed.label>
+  <!-- EN: {0} died from metabolic disruptions caused by organ decay. -->
+  <Decayed.deathMessage>TODO</Decayed.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>deterioration</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>{0} has been killed.</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>extinguish</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>{0} has been killed.</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>mining</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>{0} has been killed.</Mining.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>rotting</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>{0} has been killed.</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
   <Smoke.label>smoke</Smoke.label>
+  <!-- EN: {0} has been killed. -->
   <Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
-
-
+  
+  <!-- EN: thump -->
+  <Thump.label>TODO</Thump.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Thump.deathMessage>TODO</Thump.deathMessage>
+  
+  <!-- EN: vaporize -->
+  <Vaporize.label>TODO</Vaporize.label>
+  <!-- EN: {0} has been vaporized by extreme heat. -->
+  <Vaporize.deathMessage>TODO</Vaporize.deathMessage>
+  
 </LanguageData>
