@@ -17,7 +17,7 @@
 <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
   <MessageRaidersSatisfiedLeaving>עוזבים. הם ועכשיו שנעשה מהנזק מרוצים מ}1{ }0{.</MessageRaidersSatisfiedLeaving>
 <!-- EN: {0} from {1} are fleeing. -->
-  <MessageFightersFleeing>בורחים מ{1} {0}.</MessageFightersFleei0}ng>
+  <MessageFightersFleeing>בורחים מ{1} {0}.</MessageFightersFleeing>
 <!-- EN: Friendly {0} from {1} are leaving. -->
   <MessageFriendlyFightersLeaving>עוזבים מ}1{ החברותיים }0{.</MessageFriendlyFightersLeaving>
 <!-- EN: {0} from {1} are taking a wounded guest. -->

@@ -36,7 +36,7 @@
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
   <ErrorWhileLoadingAssets_ModsInfo>המשחק כרגע פועל עם מודים לא רשמיים - הם עלולים לגרום לבעיות.</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
-  <ErrorWhileGeneratingMapTitle>שגיאה בזמן יצירת מפה./ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMapTitle>שגיאה בזמן יצירת מפה.</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
   <ErrorWhileGeneratingMap>שגיאה התרחשה בזמן יצירת המפה. בדוק את תיעוד השגיאה לעוד נתונים.</ErrorWhileGeneratingMap>
   <!-- EN: Error while loading a map -->
