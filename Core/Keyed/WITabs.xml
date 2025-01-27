@@ -21,9 +21,9 @@
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
-  <AbandonSliderText>}0{ x}}0{{ לנטוש</AbandonSliderText>
+  <AbandonSliderText>{0} x}{0}{ לנטוש</AbandonSliderText>
   <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>.האם אתה באמת רוצה לנטוש את }0{\n\n ?  פריטים נטושים נעלמים ולא יכולים לחזור</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>.האם אתה באמת רוצה לנטוש את {0}\n\n ?  פריטים נטושים נעלמים ולא יכולים לחזור</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
   <AbandonTip>לנטוש</AbandonTip>
   <!-- EN: Banish -->
@@ -35,7 +35,7 @@
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>.חפצים נטושים יעלמו ובחיים לא יחזרו</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>.רוב הסיכויים ש }0{ ימות</BanishTipWillDie>
+  <BanishTipWillDie>.רוב הסיכויים ש {0} ימות</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->

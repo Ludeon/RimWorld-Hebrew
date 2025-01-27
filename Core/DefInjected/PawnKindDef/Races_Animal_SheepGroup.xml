@@ -2,64 +2,13 @@
 <LanguageData>
   
   <!-- EN: alpaca -->
-  <Alpaca.label>alpaca</Alpaca.label>
-  <Alpaca.labelFemale>alpaca</Alpaca.labelFemale>
-  <Alpaca.labelFemalePlural>alpaca</Alpaca.labelFemalePlural>
-  <Alpaca.labelMale>alpaca</Alpaca.labelMale>
-  <Alpaca.labelMalePlural>alpaca</Alpaca.labelMalePlural>
-  <Alpaca.labelPlural>alpaca</Alpaca.labelPlural>
-  <Alpaca.lifeStages.0.label>alpaca</Alpaca.lifeStages.0.label>
-  <Alpaca.lifeStages.0.labelFemale>alpaca</Alpaca.lifeStages.0.labelFemale>
-  <Alpaca.lifeStages.0.labelFemalePlural>alpaca</Alpaca.lifeStages.0.labelFemalePlural>
-  <Alpaca.lifeStages.0.labelMale>alpaca</Alpaca.lifeStages.0.labelMale>
-  <Alpaca.lifeStages.0.labelMalePlural>alpaca</Alpaca.lifeStages.0.labelMalePlural>
-  <Alpaca.lifeStages.0.labelPlural>alpaca</Alpaca.lifeStages.0.labelPlural>
-  <Alpaca.lifeStages.1.label>alpaca</Alpaca.lifeStages.1.label>
-  <Alpaca.lifeStages.1.labelFemale>alpaca</Alpaca.lifeStages.1.labelFemale>
-  <Alpaca.lifeStages.1.labelFemalePlural>alpaca</Alpaca.lifeStages.1.labelFemalePlural>
-  <Alpaca.lifeStages.1.labelMale>alpaca</Alpaca.lifeStages.1.labelMale>
-  <Alpaca.lifeStages.1.labelMalePlural>alpaca</Alpaca.lifeStages.1.labelMalePlural>
-  <Alpaca.lifeStages.1.labelPlural>alpaca</Alpaca.lifeStages.1.labelPlural>
+  <Alpaca.label>TODO</Alpaca.label>
   
   <!-- EN: capybara -->
-  <Capybara.label>capybara</Capybara.label>
-  <Capybara.labelFemale>capybara</Capybara.labelFemale>
-  <Capybara.labelFemalePlural>capybara</Capybara.labelFemalePlural>
-  <Capybara.labelMale>capybara</Capybara.labelMale>
-  <Capybara.labelMalePlural>capybara</Capybara.labelMalePlural>
-  <Capybara.labelPlural>capybara</Capybara.labelPlural>
-  <Capybara.lifeStages.0.label>capybara</Capybara.lifeStages.0.label>
-  <Capybara.lifeStages.0.labelFemale>capybara</Capybara.lifeStages.0.labelFemale>
-  <Capybara.lifeStages.0.labelFemalePlural>capybara</Capybara.lifeStages.0.labelFemalePlural>
-  <Capybara.lifeStages.0.labelMale>capybara</Capybara.lifeStages.0.labelMale>
-  <Capybara.lifeStages.0.labelMalePlural>capybara</Capybara.lifeStages.0.labelMalePlural>
-  <Capybara.lifeStages.0.labelPlural>capybara</Capybara.lifeStages.0.labelPlural>
-  <Capybara.lifeStages.1.label>capybara</Capybara.lifeStages.1.label>
-  <Capybara.lifeStages.1.labelFemale>capybara</Capybara.lifeStages.1.labelFemale>
-  <Capybara.lifeStages.1.labelFemalePlural>capybara</Capybara.lifeStages.1.labelFemalePlural>
-  <Capybara.lifeStages.1.labelMale>capybara</Capybara.lifeStages.1.labelMale>
-  <Capybara.lifeStages.1.labelMalePlural>capybara</Capybara.lifeStages.1.labelMalePlural>
-  <Capybara.lifeStages.1.labelPlural>capybara</Capybara.lifeStages.1.labelPlural>
+  <Capybara.label>TODO</Capybara.label>
   
   <!-- EN: megasloth -->
-  <Megasloth.label>megasloth</Megasloth.label>
-  <Megasloth.labelFemale>megasloth</Megasloth.labelFemale>
-  <Megasloth.labelFemalePlural>megasloth</Megasloth.labelFemalePlural>
-  <Megasloth.labelMale>megasloth</Megasloth.labelMale>
-  <Megasloth.labelMalePlural>megasloth</Megasloth.labelMalePlural>
-  <Megasloth.labelPlural>megasloth</Megasloth.labelPlural>
-  <Megasloth.lifeStages.0.label>megasloth</Megasloth.lifeStages.0.label>
-  <Megasloth.lifeStages.0.labelFemale>megasloth</Megasloth.lifeStages.0.labelFemale>
-  <Megasloth.lifeStages.0.labelFemalePlural>megasloth</Megasloth.lifeStages.0.labelFemalePlural>
-  <Megasloth.lifeStages.0.labelMale>megasloth</Megasloth.lifeStages.0.labelMale>
-  <Megasloth.lifeStages.0.labelMalePlural>megasloth</Megasloth.lifeStages.0.labelMalePlural>
-  <Megasloth.lifeStages.0.labelPlural>megasloth</Megasloth.lifeStages.0.labelPlural>
-  <Megasloth.lifeStages.1.label>megasloth</Megasloth.lifeStages.1.label>
-  <Megasloth.lifeStages.1.labelFemale>megasloth</Megasloth.lifeStages.1.labelFemale>
-  <Megasloth.lifeStages.1.labelFemalePlural>megasloth</Megasloth.lifeStages.1.labelFemalePlural>
-  <Megasloth.lifeStages.1.labelMale>megasloth</Megasloth.lifeStages.1.labelMale>
-  <Megasloth.lifeStages.1.labelMalePlural>megasloth</Megasloth.lifeStages.1.labelMalePlural>
-  <Megasloth.lifeStages.1.labelPlural>megasloth</Megasloth.lifeStages.1.labelPlural>
+  <Megasloth.label>TODO</Megasloth.label>
   
   <!-- EN: sheep -->
   <Sheep.label>TODO</Sheep.label>

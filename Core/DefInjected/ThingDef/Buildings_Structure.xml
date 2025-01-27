@@ -7,9 +7,9 @@
   <AnimalFlap.description>TODO</AnimalFlap.description>
   
   <!-- EN: autodoor -->
-  <Autodoor.label>autodoor</Autodoor.label>
+  <Autodoor.label>TODO</Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
-  <Autodoor.description>Divides rooms. Powered operation allows people to move through the door without slowing down.</Autodoor.description>
+  <Autodoor.description>TODO</Autodoor.description>
   
   <!-- EN: column -->
   <Column.label>TODO</Column.label>
@@ -17,9 +17,9 @@
   <Column.description>TODO</Column.description>
   
   <!-- EN: door -->
-  <Door.label>door</Door.label>
+  <Door.label>TODO</Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
-  <Door.description>Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</Door.description>
+  <Door.description>TODO</Door.description>
   
   <!-- EN: fence -->
   <Fence.label>TODO</Fence.label>
@@ -37,8 +37,8 @@
   <OrnateDoor.description>TODO</OrnateDoor.description>
   
   <!-- EN: wall -->
-  <Wall.label>wall</Wall.label>
+  <Wall.label>TODO</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
-  <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>
+  <Wall.description>TODO</Wall.description>
   
 </LanguageData>

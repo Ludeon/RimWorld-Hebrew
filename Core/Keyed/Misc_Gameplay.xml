@@ -29,15 +29,15 @@
   <!-- EN: Unsafe room temperature -->
   <BedUnsafeTemperature>TODO</BedUnsafeTemperature>
   <!-- EN: Died on the {0} -->
-  <DiedOn>מת }0{ב</DiedOn>
+  <DiedOn>מת {0}ב</DiedOn>
   <!-- EN: Nobody -->
   <Nobody>אף אחד</Nobody>
   <!-- EN: Unowned -->
   <Unowned>ללא בעלים</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>}0{ מת כבר</DeadTime>
+  <DeadTime>{0} מת כבר</DeadTime>
   <!-- EN: walk speed {0} -->
-  <WalkSpeed>מהירות הליכה }0{</WalkSpeed>
+  <WalkSpeed>מהירות הליכה {0}</WalkSpeed>
   <!-- EN: fert. -->
   <FertShort>פוריות</FertShort>
   <!-- EN: dying -->
@@ -61,15 +61,15 @@
   <!-- EN: Can tend now -->
   <CanTendNow>זמין לטיפול עכשיו</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>הטיפול מתפוגג ב }0{</TreatmentExpiresIn>
+  <TreatmentExpiresIn>הטיפול מתפוגג ב {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>זמין לטיפול בעוד }0{</NextTendIn>
+  <NextTendIn>זמין לטיפול בעוד {0}</NextTendIn>
   <!-- EN: Tend quality -->
   <TendQuality>איכות הטיפול</TendQuality>
   <!-- EN: Total tend quality -->
   <DisappearsAtTotalTendQuality>TODO</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
-  <MissingMedicalBillIngredient>אין }0{</MissingMedicalBillIngredient>
+  <MissingMedicalBillIngredient>אין {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
   <Immunity>חסינות</Immunity>
   <!-- EN: {0} days to recover -->
@@ -147,7 +147,7 @@
   <!-- EN: Hatches in -->
   <HatchesIn>TODO</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>צריך }0{ רמת כשרון ,}2{ יש }1{</SkillTooLow>
+  <SkillTooLow>צריך {0} רמת כשרון ,{2} יש {1}</SkillTooLow>
   <!-- EN: Freezing -->
   <Freezing>קופא</Freezing>
   <!-- EN: Overheating -->
@@ -161,7 +161,7 @@
   <!-- EN: Dormant: Not reproducing. -->
   <DormantHiveNotReproducing>.רדום: לא מתרבה</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>}0{ הבא בעוד</NextSpawnedItemIn>
+  <NextSpawnedItemIn>{0} הבא בעוד</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
   <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
@@ -173,11 +173,11 @@
   <!-- EN: Fuel -->
   <FuelLevelGizmoLabel>דלק</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>קבע רמת דלק נדרשת ל}0{</SetTargetFuelLevel>
+  <SetTargetFuelLevel>קבע רמת דלק נדרשת ל{0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>מרחק מירבי }1{ אריחיםn\}0{קבע רמת דלק נדרשת ל</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>מרחק מירבי {1} אריחיםn\{0}קבע רמת דלק נדרשת ל</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>}0{ :כמות רמת הדלק הנדרשת</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>{0} :כמות רמת הדלק הנדרשת</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>אויבים</Enemies>
   <!-- EN: people -->
@@ -195,19 +195,19 @@
   <!-- EN: using 1 bedroll -->
   <UsingBedroll>משתמש בשק שינה 1</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
-  <UsingBedrolls>משתמשים }0{ב שקי שינה</UsingBedrolls>
+  <UsingBedrolls>משתמשים {0}ב שקי שינה</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>זמן מוארך להגעה ליעד: }0{ ימים</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>זמן מוארך להגעה ליעד: {0} ימים</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>זמן מוארך להגעה: }0{</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>זמן מוארך להגעה: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>מקובע: יותר מדי משקל.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
   <CaravanOutOfFood>.ללא מזון</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
-  <CaravanDaysOfFood>ימים של אוכל: }0{</CaravanDaysOfFood>
+  <CaravanDaysOfFood>ימים של אוכל: {0}</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
-  <CaravanDaysOfFoodRot>ימים של אוכל: }0{ (נרקב בעוד }1{ ימים)</CaravanDaysOfFoodRot>
+  <CaravanDaysOfFoodRot>ימים של אוכל: {0} (נרקב בעוד {1} ימים)</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
   <AllCaravanMembersDowned>נעצר בגלל: כולם נפולים.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
@@ -217,15 +217,15 @@
   <!-- EN: 1 animal -->
   <CaravanAnimal>חיה 1</CaravanAnimal>
   <!-- EN: {0} animals -->
-  <CaravanAnimalsCount>}0{ חיות</CaravanAnimalsCount>
+  <CaravanAnimalsCount>{0} חיות</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
   <CaravanPrisoner>אסיר 1</CaravanPrisoner>
   <!-- EN: {0} prisoners -->
-  <CaravanPrisonersCount>}0{ אסירים</CaravanPrisonersCount>
+  <CaravanPrisonersCount>{0} אסירים</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
-  <CaravanPawnsInMentalState>}0{ בהתמוטטות עצבים</CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>{0} בהתמוטטות עצבים</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
-  <CaravanPawnsDowned>}0{ נפולים</CaravanPawnsDowned>
+  <CaravanPawnsDowned>{0} נפולים</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
   <CaravanTraveling>.נעים</CaravanTraveling>
   <!-- EN: Waiting. -->
@@ -245,15 +245,15 @@
   <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>טמפרטורה אידיאלית להתססה</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>}0{ מכפיל אפקטים: }1{</DrugEffectMultiplier>
+  <DrugEffectMultiplier>{0} מכפיל אפקטים: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
-  <CaravanVisiting>}0{ מבקר.</CaravanVisiting>
+  <CaravanVisiting>{0} מבקר.</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>}0{ נכנס.</CaravanEntering>
+  <CaravanEntering>{0} נכנס.</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>}0{ תוקף.</CaravanAttacking>
+  <CaravanAttacking>{0} תוקף.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>}0{ מציע מתנות ל.</CaravanOfferingGifts>
+  <CaravanOfferingGifts>{0} מציע מתנות ל.</CaravanOfferingGifts>
   <!-- EN: Trading with {0}. -->
   <CaravanTrading>TODO</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
@@ -303,7 +303,7 @@
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>אין מספיק דלק</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>}0{ מתוך }1{</SettlementTrader>
+  <SettlementTrader>{0} מתוך {1}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
   <RoomSurgerySuccessChanceFactor>מכפיל סיכוי הצלחת הניתוח מהחדר</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
@@ -311,11 +311,11 @@
   <!-- EN: Closed -->
   <VentClosed>סגור</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>נלבש על ידי }0{</WornBy>
+  <WornBy>נלבש על ידי {0}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>מצויד על ידי }0{</EquippedBy>
+  <EquippedBy>מצויד על ידי {0}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>}1{: רוצה את זה הרוס n\ פרס: }1{.</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>{1}: רוצה את זה הרוס n\ פרס: {1}.</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
   <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
@@ -325,7 +325,7 @@
   <!-- EN: Should depart on shuttle -->
   <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
-  <WorldObjectTimeout>זמן שנשאר: }0{</WorldObjectTimeout>
+  <WorldObjectTimeout>זמן שנשאר: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
   <ClickToSortByThisColumn>לחץ כדי לסדר לפי שורה זאת.</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
@@ -347,7 +347,7 @@
   <!-- EN: {0}x any of -->
   <NumAnyOf>TODO</NumAnyOf>
   <!-- EN: {0} of {1} -->
-  <Relationship>}0{ מתוך }1{</Relationship>
+  <Relationship>{0} מתוך {1}</Relationship>
   <!-- EN: Prisoner -->
   <Prisoner>אסיר</Prisoner>
   <!-- EN: Refugee -->
@@ -367,7 +367,7 @@
   <!-- EN: Multiplier from ridden animals -->
   <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
-  <MultiplierForCarriedMass>מכפיל עבור משקל שנסחב: }0{</MultiplierForCarriedMass>
+  <MultiplierForCarriedMass>מכפיל עבור משקל שנסחב: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
   <RideableAnimalTip>TODO</RideableAnimalTip>
   <!-- EN: This caravan can't move because it carries too much. -->
@@ -379,7 +379,7 @@
   <!-- EN: Winter -->
   <Winter>חורף</Winter>
   <!-- EN: {0} in winter -->
-  <MovementDifficultyOffsetInWinter>חורף בעוד }0{</MovementDifficultyOffsetInWinter>
+  <MovementDifficultyOffsetInWinter>חורף בעוד {0}</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
   <RangeTo>ל</RangeTo>
   <!-- EN: Caused by -->
@@ -389,27 +389,27 @@
   <!-- EN: expires in -->
   <ExpiresIn>פג תוקף בעוד</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>הקרוואן של }0{</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>הקרוואן של {0}</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
   <Reason>סיבה</Reason>
   <!-- EN: Relations with {0} -->
-  <RelationsWith>יחסים עם }0{</RelationsWith>
+  <RelationsWith>יחסים עם {0}</RelationsWith>
   <!-- EN: captured by {0} -->
-  <capturedBy>נלכד על ידי }0{</capturedBy>
+  <capturedBy>נלכד על ידי {0}</capturedBy>
   <!-- EN: your caravan -->
   <yourCaravan>הקרוואן שלך</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>}0{ פראיות</CreatureWildness>
+  <CreatureWildness>{0} פראיות</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>רמת אילוף }0{</CreatureTrainability>
+  <CreatureTrainability>רמת אילוף {0}</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
   <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
   <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>}0{ עם }1{</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{0} עם {1}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>אתה לא יכול להכנס לפחות עוד }0{ ימים.</EnterCooldown>
+  <EnterCooldown>אתה לא יכול להכנס לפחות עוד {0} ימים.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>קרוואן</Caravan>
   <!-- EN: there may be danger there. -->
@@ -417,7 +417,7 @@
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
   <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>גוש של }0{</PreciousLumpLabel>
+  <PreciousLumpLabel>גוש של {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
   <!-- EN: Current project -->
@@ -625,23 +625,23 @@
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
-  <ContainsWort>מכיל }0{ / }1{ וורט.</ContainsWort>
+  <ContainsWort>מכיל {0} / {1} וורט.</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
-  <ContainsBeer>מכיל }0{ / }1{ בירה.</ContainsBeer>
+  <ContainsBeer>מכיל {0} / {1} בירה.</ContainsBeer>
   <!-- EN: Fermented -->
   <Fermented>מותסס</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>התקדמות: }0{ )}1{( נשאר</FermentationProgress>
+  <FermentationProgress>התקדמות: {0} ){1}( נשאר</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>טמפרטורה לא אידיאלית. זמן התססה: }0{</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>טמפרטורה לא אידיאלית. זמן התססה: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
   <Headshot>פגיעת ראש</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>הטיפול הצליח!\n }0{ אחוזים</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>הטיפול הצליח!\n {0} אחוזים</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
-  <TextMote_TreatFailed>הטיפול נכשל\n }0{ אחוזים</TextMote_TreatFailed>
+  <TextMote_TreatFailed>הטיפול נכשל\n {0} אחוזים</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
   <TextMote_HarvestFailed>הקצירה\n נכשלה</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
@@ -649,17 +649,17 @@
   <!-- EN: Product\nwasted -->
   <TextMote_ProductWasted>המוצר\n נהרס</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>הגיוס נכשל!\n }0{ אחוזים</TextMote_RecruitFail>
+  <TextMote_RecruitFail>הגיוס נכשל!\n {0} אחוזים</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>TODO</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>האילוף נכשל\n }0{ אחוזים</TextMote_TameFail>
+  <TextMote_TameFail>האילוף נכשל\n {0} אחוזים</TextMote_TameFail>
   <!-- EN: Tamed! -->
-  <TextMote_TameSuccess>אולף!\n }0{ אחוזים</TextMote_TameSuccess>
+  <TextMote_TameSuccess>אולף!\n {0} אחוזים</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
-  <TextMote_TrainFail>האימון נכשל: }0{n\ }1{ אחוזים</TextMote_TrainFail>
+  <TextMote_TrainFail>האימון נכשל: {0}n\ {1} אחוזים</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
-  <TextMote_TrainSuccess>זוחא }1{n\ אולף: }0{</TextMote_TrainSuccess>
+  <TextMote_TrainSuccess>זוחא {1}n\ אולף: {0}</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
   <TextMote_FixBrokenDownBuildingFail>נכשל n\ תיקון</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
@@ -669,7 +669,7 @@
   <!-- EN: Immune -->
   <TextMote_Immune>TODO</TextMote_Immune>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>}0{ טופל</TextMote_Tended>
+  <TextMote_Tended>{0} טופל</TextMote_Tended>
   <!-- EN: level {0} -->
   <TextMote_SkillUp>TODO</TextMote_SkillUp>
   <!-- EN: low mood -->
@@ -687,7 +687,7 @@
   <!-- EN: Snow clear -->
   <SnowClear>שלג מנוקה</SnowClear>
   <!-- EN: Area {0} -->
-  <AreaDefaultLabel>אזור }0{</AreaDefaultLabel>
+  <AreaDefaultLabel>אזור {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
   <NoAreaAllowed>ללא הגבלת אזור</NoAreaAllowed>
   <!-- EN: New area -->
@@ -794,11 +794,11 @@
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>.לא יכול לפקד על דמויות שלא בשליטך</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>.}0{ לא מסוגל להיות אלים</IsIncapableOfViolence>
+  <IsIncapableOfViolence>.{0} לא מסוגל להיות אלים</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
   <IsIncapableOfViolenceShort>.לא מסוגל להיות אלים</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>}0{ לא מורם לקרב.</IsNotDrafted>
+  <IsNotDrafted>{0} לא מורם לקרב.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
   <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
@@ -830,7 +830,7 @@
   <!-- EN: roofed -->
   <Roofed>עם קורת גג</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>תרמילים טעונים: }0{</ShellLoaded>
+  <ShellLoaded>תרמילים טעונים: {0}</ShellLoaded>
   <!-- EN: Not loaded -->
   <ShellNotLoaded>לא טעון</ShellNotLoaded>
   <!-- EN: Already active -->
@@ -852,11 +852,11 @@
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>.סוחב }0{ ל}1{</ReportHaulingTo>
+  <ReportHaulingTo>.סוחב {0} ל{1}</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
   <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>סוחב }0{.</ReportHauling>
+  <ReportHauling>סוחב {0}.</ReportHauling>
   <!-- EN: hauling. -->
   <ReportHaulingUnknown>סוחב.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
@@ -878,7 +878,7 @@
   <!-- EN: watching the aurora. -->
   <WatchingAurora>צופה בזוהר הקוטבי.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>משתמש ב}0{ על }1{.</UsingVerb>
+  <UsingVerb>משתמש ב{0} על {1}.</UsingVerb>
   <!-- EN: using {0}. -->
   <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
   <!-- EN: area -->
@@ -890,7 +890,7 @@
   <!-- EN: extinguishing fire. -->
   <ReportExtinguishingFire>מכבה אש.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>.מכבה אש ב}0{</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>.מכבה אש ב{0}</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>חופר לבחוץ גופה.</ReportDiggingUpCorpse>
   <!-- EN: being carried by {0_labelShort}. -->
@@ -936,7 +936,7 @@
   <!-- EN: Cover -->
   <ShootingCover>מכסה</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>}0{ עוצר }1{</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>{0} עוצר {1}</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
   <NoCoverLower>אין מכסה</NoCoverLower>
   <!-- EN: Execution -->
@@ -944,15 +944,15 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>.הכן }0{</RecipeMake>
+  <RecipeMake>.הכן {0}</RecipeMake>
   <!-- EN: Make {0}. -->
   <RecipeMakeDescription>TODO</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>מכין }0{</RecipeMakeJobString>
+  <RecipeMakeJobString>מכין {0}</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>תן/הזרק }0{</RecipeAdminister>
+  <RecipeAdminister>תן/הזרק {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>.נותן }0{</RecipeAdministerJobString>
+  <RecipeAdministerJobString>.נותן {0}</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
   <TeetotalerUnhappy>מתנזר מסמים לא יהיה שמח</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
@@ -960,13 +960,13 @@
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
-  <ThoughtExpiresIn>מתפוגג בעוד: }0{</ThoughtExpiresIn>
+  <ThoughtExpiresIn>מתפוגג בעוד: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
   <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>מתחיל להתפוגג בעוד: }0{</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>מתחיל להתפוגג בעוד: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>מסיים להתפוגג בעוד:}0{</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>מסיים להתפוגג בעוד:{0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>קצה גבול של התמוטטות עצבית אקסטרימית</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
@@ -978,7 +978,7 @@
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>}0{ מתוך }1{</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{0} מתוך {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
   <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
@@ -1022,7 +1022,7 @@
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>תלחץ על הדבר הבא באותו הריבוע.n\n\ מקש קיצור הדרך: }0{n\n\ אתה יכול גם לעשות זאת על ידי לחיצה באיטיות על אותו מרובע שוב.</SelectNextInSquareTip>
+  <SelectNextInSquareTip>תלחץ על הדבר הבא באותו הריבוע.n\n\ מקש קיצור הדרך: {0}n\n\ אתה יכול גם לעשות זאת על ידי לחיצה באיטיות על אותו מרובע שוב.</SelectNextInSquareTip>
   <!-- EN: View information. -->
   <DefInfoTip>צפה במידע בנוגע לאובייקט זה.</DefInfoTip>
   <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
@@ -1042,7 +1042,7 @@
   <!-- EN: Not connected to power. -->
   <PowerNotConnected>לא מחובר לחשמל.</PowerNotConnected>
   <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
-  <PowerConnectedRateStored>מחובר קצב/שמור: }0{ וואט / }1{ וואט</PowerConnectedRateStored>
+  <PowerConnectedRateStored>מחובר קצב/שמור: {0} וואט / {1} וואט</PowerConnectedRateStored>
   <!-- EN: Power needed -->
   <PowerNeeded>חשמל נדרש</PowerNeeded>
   <!-- EN: Power output -->
@@ -1084,9 +1084,9 @@
   <!-- EN: Frozen -->
   <CurrentlyFrozen>קפוא )לא יתקלקל(</CurrentlyFrozen> 
   <!-- EN: Refrigerated, spoils in {0} -->
-  <CurrentlyRefrigerated>מקורר )מתקלקל בעוד }0{(</CurrentlyRefrigerated> 
+  <CurrentlyRefrigerated>מקורר )מתקלקל בעוד {0}(</CurrentlyRefrigerated> 
   <!-- EN: Unrefrigerated, spoils in {0} -->
-  <NotRefrigerated>לא מקורר )מתקלקל בעוד }0{(</NotRefrigerated> 
+  <NotRefrigerated>לא מקורר )מתקלקל בעוד {0}(</NotRefrigerated> 
   <!-- EN: over a decade -->
   <OverADecade>מעל לעשור</OverADecade>
   <!-- EN: less than a day -->
@@ -1094,7 +1094,7 @@
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>נורה על ידי }0{</ShotBy>
+  <ShotBy>נורה על ידי {0}</ShotBy>
   <!-- EN: Cannot hit target. -->
   <CannotHit>לא יכול לפגוע במטרה.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
@@ -1114,17 +1114,17 @@
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
-  <PercentGrowth>}0{ צמח</PercentGrowth>
+  <PercentGrowth>{0} צמח</PercentGrowth>
   <!-- EN: Growth rate -->
   <GrowthRate>מהירות צמיחה</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
-  <FullyGrownIn>. צומח לגמרי בעוד }0{ של צמיחה</FullyGrownIn>
+  <FullyGrownIn>. צומח לגמרי בעוד {0} של צמיחה</FullyGrownIn>
   <!-- EN: Needs light level -->
   <PlantNeedsLightLevel>צריך רמת אור</PlantNeedsLightLevel>
   <!-- EN: Resting -->
   <PlantResting>נח</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>טמפרטורה לא אידיאלית. מכפיל טמפרטורת צמיחה: }0{%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>טמפרטורה לא אידיאלית. מכפיל טמפרטורת צמיחה: {0}%</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
   <OutOfIdealTemperatureRangeNotGrowing>טמפרטורה לא אידיאלית. לא צומח</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
@@ -1188,11 +1188,11 @@
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
-  <HitPoints>}0{ נקודות חיים</HitPoints>
+  <HitPoints>{0} נקודות חיים</HitPoints>
   <!-- EN: any quality -->
   <AnyQuality>כל איכות</AnyQuality>
   <!-- EN: {0} only -->
-  <OnlyQuality>רק }0{</OnlyQuality>
+  <OnlyQuality>רק {0}</OnlyQuality>
 
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
@@ -1250,11 +1250,11 @@
   
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>אש על }0{</FireOn>
+  <FireOn>אש על {0}</FireOn>
   <!-- EN: Burning -->
   <Burning>עולה באש</Burning>
   <!-- EN: fire size {0} -->
-  <FireSizeLower>גודל אש }0{</FireSizeLower>
+  <FireSizeLower>גודל אש {0}</FireSizeLower>
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
@@ -1278,7 +1278,7 @@
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>ל}0{ יהיה מהירות עבודה מוגבלת</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>ל{0} יהיה מהירות עבודה מוגבלת</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>.לא יכול להיבנות מתחת לגג</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
@@ -1378,9 +1378,9 @@
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
-  <UnfinishedItem>}0{ לא גמור</UnfinishedItem>
+  <UnfinishedItem>{0} לא גמור</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
-  <UnfinishedItemWithStuff>}1{ }0{ לא גמור</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>{1} {0} לא גמור</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <!-- EN: Quality -->
@@ -1390,7 +1390,7 @@
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>איכות הדבר זה כמה טוב שהוא מוכן.</QualityDescription>
   <!-- EN: Quality: {0} -->
-  <QualityIs>}0{ :איכות</QualityIs>
+  <QualityIs>{0} :איכות</QualityIs>
 
   <!-- Mood descriptions -->
   <!-- EN: mental state -->
@@ -1414,7 +1414,7 @@
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>כולם מתים או הלכו, הסיפור נגמר.n\n\ אולי מישהו אחר ימצא שימוש להריסות של המקום הזה.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>במהירות קרובה למהירות האור, הנשק מחסל הכוכבים התנגש לתוך האדמה עם כוח של טריליון פצצות מימן. כמו בלון מים שנורה עם רובה, העולם נהפך לנוזלי מעוצמת הפגיעה והמעיים המותך רוסס לאורך הקוסמוס.n\n\ חלק מ}0{ הוא עכשיו רצועת אסטרואידים קטנה. השאר הוא נוזל מותך ורדיואקטיבי.n\n\ אתה לא שרדת.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>במהירות קרובה למהירות האור, הנשק מחסל הכוכבים התנגש לתוך האדמה עם כוח של טריליון פצצות מימן. כמו בלון מים שנורה עם רובה, העולם נהפך לנוזלי מעוצמת הפגיעה והמעיים המותך רוסס לאורך הקוסמוס.n\n\ חלק מ{0} הוא עכשיו רצועת אסטרואידים קטנה. השאר הוא נוזל מותך ורדיואקטיבי.n\n\ אתה לא שרדת.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
   <GameOverShipLaunchedIntro>TODO</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
@@ -1458,27 +1458,27 @@
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>.ה}0{ של }1{ עכשיו צומח</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>.ה{0} של {1} עכשיו צומח</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>.ה}0{ של }1{ עכשיו יציב</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>.ה{0} של {1} עכשיו יציב</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>.ה}0{ של }1{ עכשיו בנסיגה</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>.ה{0} של {1} עכשיו בנסיגה</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
   <MarriageSpotUsable>.שמיש עכשיו</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>לא שמיש: }0{</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>לא שמיש: {0}</MarriageSpotNotUsable>
   <!-- EN: blocked -->
   <MarriageSpotNotStandable>חסום</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>יותר מדי מסוכן בשביל }0{</MarriageSpotDangerous>
+  <MarriageSpotDangerous>יותר מדי מסוכן בשביל {0}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>אסור עבור }0{</MarriageSpotForbidden>
+  <MarriageSpotForbidden>אסור עבור {0}</MarriageSpotForbidden>
   <!-- EN: reserved -->
   <MarriageSpotReserved>שמור</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>}לא ניתן להשגה עבור }0{</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>}לא ניתן להשגה עבור {0}</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
   <MarriageSpotInPrisonCell>בתא מאסר</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
@@ -1516,7 +1516,7 @@
   <!-- EN: No resources below. -->
   <DeepDrillNoResources>.אין משאבים מתחת</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>מקדחת משאבים עמוקה מותשת, המקדחה נאסרה אוטומטית. בטל את האסירה כדי להמשיך בחפירה של }0{</DeepDrillExhausted>
+  <DeepDrillExhausted>מקדחת משאבים עמוקה מותשת, המקדחה נאסרה אוטומטית. בטל את האסירה כדי להמשיך בחפירה של {0}</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>.מקדחת משאבים עמוקה מותשת</DeepDrillExhaustedNoFallback>
 
@@ -1548,11 +1548,11 @@
   <!-- EN: Add one or more waypoints. -->
   <RoutePlannerAddOneOrMoreWaypoints>.הוסף 1 או יותר נקודות ציון</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
-  <RoutePlannerEstTimeToFinalDest>זמן מסע מוערך: }0{</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerEstTimeToFinalDest>זמן מסע מוערך: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
   <RoutePlannerUsingAverageTicksPerMoveWarning>מצב תכנון משתמש במהירות ברירת מחדל של הקרוואן. המהירות שלך עלולה להיות שונה.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>מחשב עבור: }0{</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>מחשב עבור: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
   <RoutePlannerPressRMBToAddAndRemoveWaypoints>.קליק ימני בעכבר: הוסף/הסר נקודות ציון</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: Left trigger button: Add/remove waypoints. -->
@@ -1566,11 +1566,11 @@
   <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
   <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToWaypoint>זמן מסע מוערך: }0{</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypoint>זמן מסע מוערך: {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>זמן מסע מוערך )מנקודת ציון קודמת(: }0{</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>זמן מסע מוערך )מנקודת ציון קודמת(: {0}</EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToTile>זמן מסע מוערך: }0{</EstimatedTimeToTile>
+  <EstimatedTimeToTile>זמן מסע מוערך: {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
   <ForagedFoodAmount>כמות מזון שנלקט</ForagedFoodAmount>
 
@@ -1592,7 +1592,7 @@
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
-  <ClickToSeeAvailableOrders_WorldObject>}0{: תראה פקודות זמינות...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>{0}: תראה פקודות זמינות...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>תראה פקודות זמינות...</ClickToSeeAvailableOrders_Empty>
   
@@ -2033,23 +2033,4 @@
   <!-- EN: blocked by roof -->
   <BlockedByRoof>TODO</BlockedByRoof>
   
-  <!-- UNUSED -->
-  <ForceExitAndRemoveMapCountdown>}0{ עד שיוצא</ForceExitAndRemoveMapCountdown>
-  <ForceExitAndRemoveMapCountdownTip>התושבים שלך יחזרו לקרוואן באופן אוטומטי ויעזבו את האזור בעוד }0{.</ForceExitAndRemoveMapCountdownTip>
-  <ItemStashContents>תכולה: }0{</ItemStashContents>
-  <KnownSiteThreat>אימים ידוע: }0{</KnownSiteThreat>
-  <KnownSiteThreats>איומים ידועים: }0{</KnownSiteThreats>
-  <KnownSiteThreatsNone>איומים ידועים: אין</KnownSiteThreatsNone>
-  <AverageCaravanMemberMoveSpeed>מהירות תזוזה ממוצעת של בן אדם</AverageCaravanMemberMoveSpeed>
-  <NeurotrainerUsed>}3{ השתמש ב}1{ מאמן נוירונים בשביל להתקדם מרמה }2{ לרמה }0{.</NeurotrainerUsed>
-  <GameOverShipLaunched>שיגרת את החללית! התושבים האלו ברחו:\n\n }0{ התושבים האלו הושארו מאחור \n\n}1{ \n\nהבינה המלאכותית שלך עכשיו תנסה לכוון את החללית למקום בטוח, זה יכול למצוא כוכב מרווח בשבילך במערכת או, שאולי זה יקח מסע של מאות שנים לכוכב אחר, זה יכול אפילו להחליט להתחבאות מתחת לקרח על אסטרואיד למשך כמה אלפי שנים, ולחכות למישהו לבנות עולם גליטר חדש כאן, אתה תגלה שאתה תתעורר.</GameOverShipLaunched>
-  <GameOverArrivedAtJourneyDestination>איך שאתה עולה על החללית הצוות פוגש אותך עם ידיים פתוחות. הם נראים שמחים שהם יכולים לקחת לפחות עוד מישהו אחד איתם.n\n\ התושבים האלו ברחו:n\n\ }0{n\ התושבים האלו הושארו מאחורn\n\ }1{n\ הבינה המלאכותית שלך עכשיו תנסה לכוון את החללית למקום בטוח, זה יכול למצוא כוכב מרווח בשבילך במערכת או, שאולי זה יקח מסע של מאות שנים לכוכב אחר, זה יכול אפילו להחליט להתחבאות מתחת לקרח על אסטרואיד למשך כמה אלפי שנים, ולחכות למישהו לבנות עולם גליטר חדש כאן,n\n\ בזמן שאתה נכנס לארון הקריפטושינה אתה מהסס לשניה ומרגיש טיפה לא בטוח בנוגע לאם אתה יכול לסמוך על האנשים האלו.n\n\ אתה תגלה שאתה תתעורר.n\</GameOverArrivedAtJourneyDestination>
-  <GameOverKeepPlaying>המשך לשחק</GameOverKeepPlaying>
-  <CaravanPaused>.נחים</CaravanPaused>
-  <LongRangeMineralScannerEfficiency>יעילות: }0{</LongRangeMineralScannerEfficiency>
-  <Fire>אש</Fire>
-  <TrapArmed>חמוש</TrapArmed>
-  <TrapNotArmed>לא חמוש</TrapNotArmed>
-  <TrapRearmingCost>חימוש מחדש עולה: }0{</TrapRearmingCost>
-
 </LanguageData>

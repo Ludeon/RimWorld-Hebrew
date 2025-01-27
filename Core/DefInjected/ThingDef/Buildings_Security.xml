@@ -6,41 +6,35 @@
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
   <Barricade.description>TODO</Barricade.description>
   
-  <!-- UNUSED -->
-  <Blueprint_TrapDeadfall.label>BlueprintLabelExtra</Blueprint_TrapDeadfall.label>
-  
-  <!-- UNUSED -->
-  <Frame_TrapDeadfall.label>FrameLabelExtra</Frame_TrapDeadfall.label>
-  
   <!-- EN: sandbags -->
-  <Sandbags.label>sandbags</Sandbags.label>
+  <Sandbags.label>TODO</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
-  <Sandbags.description>Bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks.</Sandbags.description>
+  <Sandbags.description>TODO</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
-  <TrapIED_AntigrainWarhead.label>IED antigrain warhead trap</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.label>TODO</TrapIED_AntigrainWarhead.label>
   <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_AntigrainWarhead.description>A high-tech antigraing warhead connected to a homemade trigger. When triggered, the antigrain warhead detonates, creating a massive antimatter explosion. Wild animals will avoid these.</TrapIED_AntigrainWarhead.description>
+  <TrapIED_AntigrainWarhead.description>TODO</TrapIED_AntigrainWarhead.description>
   
   <!-- EN: IED EMP trap -->
-  <TrapIED_EMP.label>IED EMP trap</TrapIED_EMP.label>
+  <TrapIED_EMP.label>TODO</TrapIED_EMP.label>
   <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_EMP.description>A simple trap consisting of an EMP shell and a homemade trigger. The explosion can paralyze mechanoids for a few seconds. Can be triggered even by those who are unaffected by EMP explosions. Wild animals will avoid these.</TrapIED_EMP.description>
+  <TrapIED_EMP.description>TODO</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
-  <TrapIED_Firefoam.label>IED firefoam trap</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.label>TODO</TrapIED_Firefoam.label>
   <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Firefoam.description>When someone touches the trigger, the trap explodes and sprays a fire-extinguishing foam around itself. Wild animals will avoid these.</TrapIED_Firefoam.description>
+  <TrapIED_Firefoam.description>TODO</TrapIED_Firefoam.description>
   
   <!-- EN: IED trap -->
-  <TrapIED_HighExplosive.label>IED trap</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.label>TODO</TrapIED_HighExplosive.label>
   <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_HighExplosive.description>A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. Wild animals will avoid these.</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive.description>TODO</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>IED incendiary trap</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>TODO</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Incendiary.description>Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable. Wild animals will avoid these.</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary.description>TODO</TrapIED_Incendiary.description>
   
   <!-- EN: IED smoke trap -->
   <TrapIED_Smoke.label>TODO</TrapIED_Smoke.label>
@@ -48,21 +42,8 @@
   <TrapIED_Smoke.description>TODO</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
-  <TrapSpike.label>deadfall trap</TrapSpike.label>
+  <TrapSpike.label>TODO</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.</TrapSpike.description>
-  
-  <!-- UNUSED -->
-  <Turret_Autocannon.comps.5.fuelGizmoLabel>Barrel durability</Turret_Autocannon.comps.5.fuelGizmoLabel>
-  <Turret_Autocannon.comps.5.fuelLabel>Shots until barrel change</Turret_Autocannon.comps.5.fuelLabel>
-  <Turret_Autocannon.comps.5.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_Autocannon.comps.5.outOfFuelMessage>
-  
-  <!-- UNUSED -->
-  <Turret_Sniper.comps.0.fuelGizmoLabel>Barrel durability</Turret_Sniper.comps.0.fuelGizmoLabel>
-  <Turret_Sniper.comps.0.fuelLabel>Shots until barrel change</Turret_Sniper.comps.0.fuelLabel>
-  <Turret_Sniper.comps.0.outOfFuelMessage>Cannot shoot: Needs new barrel</Turret_Sniper.comps.0.outOfFuelMessage>
-  <Turret_Sniper.comps.5.fuelGizmoLabel>Barrel durability</Turret_Sniper.comps.5.fuelGizmoLabel>
-  <Turret_Sniper.comps.5.fuelLabel>Shots until rearm</Turret_Sniper.comps.5.fuelLabel>
-  <Turret_Sniper.comps.5.outOfFuelMessage>Cannot shoot: Needs rearm</Turret_Sniper.comps.5.outOfFuelMessage>
+  <TrapSpike.description>TODO</TrapSpike.description>
   
 </LanguageData>

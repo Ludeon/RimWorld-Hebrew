@@ -2,8 +2,7 @@
 <LanguageData>
   
   <!-- EN: slave -->
-  <Slave.label>slave</Slave.label>
-  <Slave.labelPlural>slave</Slave.labelPlural>
+  <Slave.label>TODO</Slave.label>
   
   <!-- EN: stranger in black -->
   <StrangerInBlack.label>TODO</StrangerInBlack.label>
@@ -15,14 +14,12 @@
   <StrangerInBlack.labelPlural>TODO</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
-  <WildMan.label>wild man</WildMan.label>
+  <WildMan.label>TODO</WildMan.label>
   <!-- EN: wild woman -->
-  <WildMan.labelFemale>wild woman</WildMan.labelFemale>
+  <WildMan.labelFemale>TODO</WildMan.labelFemale>
   <!-- EN: wild women -->
-  <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>
-  <WildMan.labelMale>wild man</WildMan.labelMale>
-  <WildMan.labelMalePlural>wild man</WildMan.labelMalePlural>
+  <WildMan.labelFemalePlural>TODO</WildMan.labelFemalePlural>
   <!-- EN: wild men -->
-  <WildMan.labelPlural>wild men</WildMan.labelPlural>
+  <WildMan.labelPlural>TODO</WildMan.labelPlural>
   
 </LanguageData>

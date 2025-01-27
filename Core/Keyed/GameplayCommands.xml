@@ -666,9 +666,4 @@
   <!-- EN: No uses left. -->
   <CommandNoUsesLeft>TODO</CommandNoUsesLeft>
   
-  <!-- UNUSED -->
-  <CommandBedSetOwnerLabel>קבע בעלים</CommandBedSetOwnerLabel>
-  <CommandRenameZoneLabel>שנה שם</CommandRenameZoneLabel>
-  <CommandRenameZoneDesc>שנה שם האזור</CommandRenameZoneDesc>
-
 </LanguageData>

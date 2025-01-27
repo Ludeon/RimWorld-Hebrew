@@ -626,8 +626,4 @@
   <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
   <!-- EN: no reachable, un-reserved research bench available -->
   <NoResearchBench>TODO</NoResearchBench>
-  <!-- UNUSED -->
-  <ConstructionSkillTooLow>כשרון בנייה נמוך מדי</ConstructionSkillTooLow>
-  <PickUp>{1_label}הרם </PickUp>
-
 </LanguageData>

@@ -2,8 +2,7 @@
 <LanguageData>
   
   <!-- EN: centipede blaster -->
-  <Mech_CentipedeBlaster.label>centipede</Mech_CentipedeBlaster.label>
-  <Mech_CentipedeBlaster.labelPlural>centipede</Mech_CentipedeBlaster.labelPlural>
+  <Mech_CentipedeBlaster.label>TODO</Mech_CentipedeBlaster.label>
   
   <!-- EN: centipede burner -->
   <Mech_CentipedeBurner.label>TODO</Mech_CentipedeBurner.label>
@@ -12,8 +11,7 @@
   <Mech_CentipedeGunner.label>TODO</Mech_CentipedeGunner.label>
   
   <!-- EN: lancer -->
-  <Mech_Lancer.label>lancer</Mech_Lancer.label>
-  <Mech_Lancer.labelPlural>lancer</Mech_Lancer.labelPlural>
+  <Mech_Lancer.label>TODO</Mech_Lancer.label>
   
   <!-- EN: pikeman -->
   <Mech_Pikeman.label>TODO</Mech_Pikeman.label>
@@ -21,7 +19,6 @@
   <Mech_Pikeman.labelPlural>TODO</Mech_Pikeman.labelPlural>
   
   <!-- EN: scyther -->
-  <Mech_Scyther.label>scyther</Mech_Scyther.label>
-  <Mech_Scyther.labelPlural>scyther</Mech_Scyther.labelPlural>
+  <Mech_Scyther.label>TODO</Mech_Scyther.label>
   
 </LanguageData>

@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: kibble -->
-  <Kibble.label>kibble</Kibble.label>
+  <Kibble.label>TODO</Kibble.label>
   <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
-  <Kibble.description>Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>
+  <Kibble.description>TODO</Kibble.description>
   
   <!-- EN: fine meal -->
-  <MealFine.label>fine meal</MealFine.label>
+  <MealFine.label>TODO</MealFine.label>
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>A complex dish assembled with care from a variety of ingredients.</MealFine.description>
+  <MealFine.description>TODO</MealFine.description>
   
   <!-- EN: carnivore fine meal -->
   <MealFine_Meat.label>TODO</MealFine_Meat.label>
@@ -22,9 +22,9 @@
   <MealFine_Veg.description>TODO</MealFine_Veg.description>
   
   <!-- EN: lavish meal -->
-  <MealLavish.label>lavish meal</MealLavish.label>
+  <MealLavish.label>TODO</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.</MealLavish.description>
+  <MealLavish.description>TODO</MealLavish.description>
   
   <!-- EN: carnivore lavish meal -->
   <MealLavish_Meat.label>TODO</MealLavish_Meat.label>
@@ -37,23 +37,23 @@
   <MealLavish_Veg.description>TODO</MealLavish_Veg.description>
   
   <!-- EN: nutrient paste meal -->
-  <MealNutrientPaste.label>nutrient paste meal</MealNutrientPaste.label>
+  <MealNutrientPaste.label>TODO</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.</MealNutrientPaste.description>
+  <MealNutrientPaste.description>TODO</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
-  <MealSimple.label>simple meal</MealSimple.label>
+  <MealSimple.label>TODO</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>A simple meal quickly cooked from one main ingredient.</MealSimple.description>
+  <MealSimple.description>TODO</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
-  <MealSurvivalPack.label>packaged survival meal</MealSurvivalPack.label>
+  <MealSurvivalPack.label>TODO</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can stilll deteriorate if left outside. Great for traveling.</MealSurvivalPack.description>
+  <MealSurvivalPack.description>TODO</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>pemmican</Pemmican.label>
+  <Pemmican.label>TODO</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling.</Pemmican.description>
+  <Pemmican.description>TODO</Pemmican.description>
   
 </LanguageData>

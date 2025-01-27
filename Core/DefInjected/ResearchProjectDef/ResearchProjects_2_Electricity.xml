@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: air conditioning -->
-  <AirConditioning.label>air conditioning</AirConditioning.label>
+  <AirConditioning.label>TODO</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
-  <AirConditioning.description>Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods.</AirConditioning.description>
+  <AirConditioning.description>TODO</AirConditioning.description>
   <!-- EN:
     <li>subject->air conditioning</li>
     <li>subject_story->visited the hottest town on the planet</li>
@@ -15,9 +15,9 @@
   <AirConditioning.generalRules.rulesStrings>TODO</AirConditioning.generalRules.rulesStrings>
   
   <!-- EN: autodoor -->
-  <Autodoors.label>autodoor</Autodoors.label>
+  <Autodoors.label>TODO</Autodoors.label>
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
-  <Autodoors.description>Build autodoors which automatically open when someone approaches, without slowing anyone down.</Autodoors.description>
+  <Autodoors.description>TODO</Autodoors.description>
   <!-- EN:
     <li>subject->autodoors</li>
     <li>subject->automatic doors</li>
@@ -29,9 +29,9 @@
   <Autodoors.generalRules.rulesStrings>TODO</Autodoors.generalRules.rulesStrings>
   
   <!-- EN: battery -->
-  <Batteries.label>battery</Batteries.label>
+  <Batteries.label>TODO</Batteries.label>
   <!-- EN: Build batteries for storing electricity. -->
-  <Batteries.description>Build batteries for storing electricity.</Batteries.description>
+  <Batteries.description>TODO</Batteries.description>
   <!-- EN:
     <li>subject->batteries</li>
     <li>subject_story->discovered that an acid lake on the leaden shores of a deathworld worked as a natural battery</li>
@@ -42,9 +42,9 @@
   <Batteries.generalRules.rulesStrings>TODO</Batteries.generalRules.rulesStrings>
   
   <!-- EN: biofuel refining -->
-  <BiofuelRefining.label>biofuel refining</BiofuelRefining.label>
+  <BiofuelRefining.label>TODO</BiofuelRefining.label>
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
-  <BiofuelRefining.description>Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs.</BiofuelRefining.description>
+  <BiofuelRefining.description>TODO</BiofuelRefining.description>
   <!-- EN:
     <li>subject->biofuel</li>
     <li>subject_story->was trapped when a generation ship lost power. [ANYPAWN_pronoun] used [ANYPAWN_possessive] knowledge of refining to turn human remains into biofuel and restart the engines</li>
@@ -55,9 +55,9 @@
   <BiofuelRefining.generalRules.rulesStrings>TODO</BiofuelRefining.generalRules.rulesStrings>
   
   <!-- EN: blowback operation -->
-  <BlowbackOperation.label>blowback operation</BlowbackOperation.label>
+  <BlowbackOperation.label>TODO</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
-  <BlowbackOperation.description>Craft low-power blowback-operated guns like autopistols, machine pistols, and heavy SMGs.</BlowbackOperation.description>
+  <BlowbackOperation.description>TODO</BlowbackOperation.description>
   <!-- EN:
     <li>subject->pistols</li>
     <li>subject->blowback firearms</li>
@@ -69,9 +69,9 @@
   <BlowbackOperation.generalRules.rulesStrings>TODO</BlowbackOperation.generalRules.rulesStrings>
   
   <!-- EN: advanced lights -->
-  <ColoredLights.label>colored lights</ColoredLights.label>
+  <ColoredLights.label>TODO</ColoredLights.label>
   <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
-  <ColoredLights.description>Construct colored lights for decorative purposes.</ColoredLights.description>
+  <ColoredLights.description>TODO</ColoredLights.description>
   <!-- EN:
     <li>subject->advanced lighting</li>
     <li>subject_story->installed floodlights all around the prison world's many security perimeters</li>
@@ -81,14 +81,10 @@
   -->
   <ColoredLights.generalRules.rulesStrings>TODO</ColoredLights.generalRules.rulesStrings>
   
-  <!-- UNUSED -->
-  <ElectricCremation.label>electric cremation</ElectricCremation.label>
-  <ElectricCremation.description>Build crematoriums for vaporizing unwanted corpses.</ElectricCremation.description>
-  
   <!-- EN: electricity -->
-  <Electricity.label>electricity</Electricity.label>
+  <Electricity.label>TODO</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
-  <Electricity.description>Harness the power of electricity for a hundred different tasks.</Electricity.description>
+  <Electricity.description>TODO</Electricity.description>
   <!-- EN: Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
   <Electricity.discoveredLetterText>TODO</Electricity.discoveredLetterText>
   <!-- EN: About: Electricity -->
@@ -102,14 +98,10 @@
   -->
   <Electricity.generalRules.rulesStrings>TODO</Electricity.generalRules.rulesStrings>
   
-  <!-- UNUSED -->
-  <ElectricSmelting.label>electric smelting</ElectricSmelting.label>
-  <ElectricSmelting.description>Build electric smithy and smelters.\n\nThe electric smithy allows smithing items without fuel. The electric smelter extracts useful metal from slag chunks and other items.</ElectricSmelting.description>
-  
   <!-- EN: firefoam -->
-  <Firefoam.label>firefoam</Firefoam.label>
+  <Firefoam.label>TODO</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
-  <Firefoam.description>Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames.</Firefoam.description>
+  <Firefoam.description>TODO</Firefoam.description>
   <!-- EN:
     <li>subject->firefoam poppers</li>
     <li>subject->fire safety devices</li>
@@ -122,9 +114,9 @@
   <Firefoam.generalRules.rulesStrings>TODO</Firefoam.generalRules.rulesStrings>
   
   <!-- EN: flak armor -->
-  <FlakArmor.label>flak armor</FlakArmor.label>
+  <FlakArmor.label>TODO</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
-  <FlakArmor.description>Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly.</FlakArmor.description>
+  <FlakArmor.description>TODO</FlakArmor.description>
   <!-- EN:
     <li>subject->flak armor</li>
     <li>subject_story->supplied flak armor to the militias that ran the cities</li>
@@ -150,9 +142,9 @@
   <FoamTurret.generalRules.rulesStrings>TODO</FoamTurret.generalRules.rulesStrings>
   
   <!-- EN: gas operation -->
-  <GasOperation.label>gas operation</GasOperation.label>
+  <GasOperation.label>TODO</GasOperation.label>
   <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
-  <GasOperation.description>Craft high-power guns like chain shotguns and LMGs.</GasOperation.description>
+  <GasOperation.description>TODO</GasOperation.description>
   <!-- EN:
     <li>subject->heavy weaponry</li>
     <li>subject->high-power firearms</li>
@@ -164,9 +156,9 @@
   <GasOperation.generalRules.rulesStrings>TODO</GasOperation.generalRules.rulesStrings>
   
   <!-- EN: geothermal power -->
-  <GeothermalPower.label>geothermal power</GeothermalPower.label>
+  <GeothermalPower.label>TODO</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
-  <GeothermalPower.description>Build geothermal power plants on top of steam geysers, for uninterrupted power.</GeothermalPower.description>
+  <GeothermalPower.description>TODO</GeothermalPower.description>
   <!-- EN:
     <li>subject->geothermal power</li>
     <li>subject_story->studied steam power and established geothermal plants throughout the region</li>
@@ -178,9 +170,9 @@
   <GeothermalPower.generalRules.rulesStrings>TODO</GeothermalPower.generalRules.rulesStrings>
   
   <!-- EN: gunsmithing -->
-  <Gunsmithing.label>gunsmithing</Gunsmithing.label>
+  <Gunsmithing.label>TODO</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
-  <Gunsmithing.description>Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers.</Gunsmithing.description>
+  <Gunsmithing.description>TODO</Gunsmithing.description>
   <!-- EN:
     <li>subject->simple firearms</li>
     <li>subject_story->built a unique 12-shot revolver and won shoot-out after shoot-out</li>
@@ -192,9 +184,9 @@
   <Gunsmithing.generalRules.rulesStrings>TODO</Gunsmithing.generalRules.rulesStrings>
   
   <!-- EN: gun turrets -->
-  <GunTurrets.label>gun turrets</GunTurrets.label>
+  <GunTurrets.label>TODO</GunTurrets.label>
   <!-- EN: Produce simple automated gun turrets. -->
-  <GunTurrets.description>Produce simple automated gun turrets.</GunTurrets.description>
+  <GunTurrets.description>TODO</GunTurrets.description>
   <!-- EN:
     <li>subject->gun turrets</li>
     <li>subject_story->worked on AI routines, to enable gun turrets to identify friends and foes</li>
@@ -205,9 +197,9 @@
   <GunTurrets.generalRules.rulesStrings>TODO</GunTurrets.generalRules.rulesStrings>
   
   <!-- EN: hydroponics -->
-  <Hydroponics.label>hydroponics</Hydroponics.label>
+  <Hydroponics.label>TODO</Hydroponics.label>
   <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
-  <Hydroponics.description>Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside.</Hydroponics.description>
+  <Hydroponics.description>TODO</Hydroponics.description>
   <!-- EN:
     <li>subject->hydroponics</li>
     <li>subject_story->joined a generation ship crew as their crop specialist</li>
@@ -219,9 +211,9 @@
   <Hydroponics.generalRules.rulesStrings>TODO</Hydroponics.generalRules.rulesStrings>
   
   <!-- EN: IEDs -->
-  <IEDs.label>IEDs</IEDs.label>
+  <IEDs.label>TODO</IEDs.label>
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
-  <IEDs.description>Build improvised traps from any kind of mortar shell.</IEDs.description>
+  <IEDs.description>TODO</IEDs.description>
   <!-- EN:
     <li>subject->improvised explosive traps</li>
     <li>subject_story->disarmed the leftover shells of the war, sending them onto the new frontline as mines</li>
@@ -232,9 +224,9 @@
   <IEDs.generalRules.rulesStrings>TODO</IEDs.generalRules.rulesStrings>
   
   <!-- EN: machining -->
-  <Machining.label>machining</Machining.label>
+  <Machining.label>TODO</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
-  <Machining.description>Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources.</Machining.description>
+  <Machining.description>TODO</Machining.description>
   <!-- EN:
     <li>subject->machining</li>
     <li>subject_story->gathered the remains of dead mechanoids and shredded them for resources</li>
@@ -246,9 +238,9 @@
   <Machining.generalRules.rulesStrings>TODO</Machining.generalRules.rulesStrings>
   
   <!-- EN: mortars -->
-  <Mortars.label>mortars</Mortars.label>
+  <Mortars.label>TODO</Mortars.label>
   <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
-  <Mortars.description>Build mortars which can lob shells long distances - even over walls.</Mortars.description>
+  <Mortars.description>TODO</Mortars.description>
   <!-- EN:
     <li>subject->artillery</li>
     <li>subject->mortars</li>
@@ -261,9 +253,9 @@
   <Mortars.generalRules.rulesStrings>TODO</Mortars.generalRules.rulesStrings>
   
   <!-- EN: nutrient paste -->
-  <NutrientPaste.label>nutrient paste</NutrientPaste.label>
+  <NutrientPaste.label>TODO</NutrientPaste.label>
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
-  <NutrientPaste.description>Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all.</NutrientPaste.description>
+  <NutrientPaste.description>TODO</NutrientPaste.description>
   <!-- EN:
     <li>subject->nutrient paste</li>
     <li>subject_story->worked in a factory canteen and devised nutrient paste as a way to avoid all labor</li>
@@ -274,9 +266,9 @@
   <NutrientPaste.generalRules.rulesStrings>TODO</NutrientPaste.generalRules.rulesStrings>
   
   <!-- EN: packaged survival meal -->
-  <PackagedSurvivalMeal.label>packaged survival meal</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.label>TODO</PackagedSurvivalMeal.label>
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
-  <PackagedSurvivalMeal.description>Produce packaged survival meals which never go bad. Great for traveling.</PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.description>TODO</PackagedSurvivalMeal.description>
   <!-- EN:
     <li>subject->packaged survival meals</li>
     <li>subject->non-perishable food</li>
@@ -288,9 +280,9 @@
   <PackagedSurvivalMeal.generalRules.rulesStrings>TODO</PackagedSurvivalMeal.generalRules.rulesStrings>
   
   <!-- EN: prosthetics -->
-  <Prosthetics.label>prosthetics</Prosthetics.label>
+  <Prosthetics.label>TODO</Prosthetics.label>
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
-  <Prosthetics.description>Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach.</Prosthetics.description>
+  <Prosthetics.description>TODO</Prosthetics.description>
   <!-- EN:
     <li>subject->prosthesis</li>
     <li>subject_story->had a limb replaced with a prosthetic, to show how easy it was</li>
@@ -301,9 +293,9 @@
   <Prosthetics.generalRules.rulesStrings>TODO</Prosthetics.generalRules.rulesStrings>
   
   <!-- EN: smokepop packs -->
-  <SmokepopBelt.label>smokepop belts</SmokepopBelt.label>
+  <SmokepopBelt.label>TODO</SmokepopBelt.label>
   <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
-  <SmokepopBelt.description>Build smokepop belts which generate an automatic defensive smokescreen when the user is shot.</SmokepopBelt.description>
+  <SmokepopBelt.description>TODO</SmokepopBelt.description>
   <!-- EN:
     <li>subject->smokescreen</li>
     <li>subject_story->worked as a hauler for bands, using smokepops for special effects</li>
@@ -315,9 +307,9 @@
   <SmokepopBelt.generalRules.rulesStrings>TODO</SmokepopBelt.generalRules.rulesStrings>
   
   <!-- EN: solar panel -->
-  <SolarPanels.label>solar panel</SolarPanels.label>
+  <SolarPanels.label>TODO</SolarPanels.label>
   <!-- EN: Build solar panels for electricity generation. -->
-  <SolarPanels.description>Build solar panels for electricity generation.</SolarPanels.description>
+  <SolarPanels.description>TODO</SolarPanels.description>
   <!-- EN:
     <li>subject->solar panels</li>
     <li>subject->solar energy</li>
@@ -329,9 +321,9 @@
   <SolarPanels.generalRules.rulesStrings>TODO</SolarPanels.generalRules.rulesStrings>
   
   <!-- EN: sterile materials -->
-  <SterileMaterials.label>sterile materials</SterileMaterials.label>
+  <SterileMaterials.label>TODO</SterileMaterials.label>
   <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
-  <SterileMaterials.description>Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking.</SterileMaterials.description>
+  <SterileMaterials.description>TODO</SterileMaterials.description>
   <!-- EN:
     <li>subject->sterile surfaces</li>
     <li>subject_story->prevented many deaths by insisting on effective, consistent sterilization of all equipment</li>
@@ -343,9 +335,9 @@
   <SterileMaterials.generalRules.rulesStrings>TODO</SterileMaterials.generalRules.rulesStrings>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>tube television</TubeTelevision.label>
+  <TubeTelevision.label>TODO</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
-  <TubeTelevision.description>Produce tube televisions for recreational watching.</TubeTelevision.description>
+  <TubeTelevision.description>TODO</TubeTelevision.description>
   <!-- EN:
     <li>subject->tube televisions</li>
     <li>subject_story->designed a faux-retro television set that could pick up interstellar signals</li>
@@ -367,9 +359,5 @@
     <li>subject_gerund->watermill generators</li>
   -->
   <WatermillGenerator.generalRules.rulesStrings>TODO</WatermillGenerator.generalRules.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Waterproofing.label>waterproof conduit</Waterproofing.label>
-  <Waterproofing.description>Build underwater electrical conduits.</Waterproofing.description>
   
 </LanguageData>

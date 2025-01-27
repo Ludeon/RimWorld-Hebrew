@@ -2,28 +2,15 @@
 <LanguageData>
   
   <!-- EN: chicken -->
-  <Chicken.label>chicken</Chicken.label>
+  <Chicken.label>TODO</Chicken.label>
   <!-- EN: hen -->
-  <Chicken.labelFemale>hen</Chicken.labelFemale>
-  <Chicken.labelFemalePlural>hen</Chicken.labelFemalePlural>
+  <Chicken.labelFemale>TODO</Chicken.labelFemale>
   <!-- EN: rooster -->
-  <Chicken.labelMale>rooster</Chicken.labelMale>
-  <Chicken.labelMalePlural>rooster</Chicken.labelMalePlural>
-  <Chicken.labelPlural>chicken</Chicken.labelPlural>
+  <Chicken.labelMale>TODO</Chicken.labelMale>
   <!-- EN: chick -->
-  <Chicken.lifeStages.chick.label>chick</Chicken.lifeStages.chick.label>
-  <Chicken.lifeStages.chick.labelFemale>chicken</Chicken.lifeStages.chick.labelFemale>
-  <Chicken.lifeStages.chick.labelFemalePlural>chicken</Chicken.lifeStages.chick.labelFemalePlural>
-  <Chicken.lifeStages.chick.labelMale>chicken</Chicken.lifeStages.chick.labelMale>
-  <Chicken.lifeStages.chick.labelMalePlural>chicken</Chicken.lifeStages.chick.labelMalePlural>
-  <Chicken.lifeStages.chick.labelPlural>chick</Chicken.lifeStages.chick.labelPlural>
-  <Chicken.lifeStages.cockerel.label>chicken</Chicken.lifeStages.cockerel.label>
-  <Chicken.lifeStages.cockerel.labelFemale>chicken</Chicken.lifeStages.cockerel.labelFemale>
-  <Chicken.lifeStages.cockerel.labelFemalePlural>cockerel</Chicken.lifeStages.cockerel.labelFemalePlural>
+  <Chicken.lifeStages.chick.label>TODO</Chicken.lifeStages.chick.label>
   <!-- EN: cockerel -->
-  <Chicken.lifeStages.cockerel.labelMale>cockerel</Chicken.lifeStages.cockerel.labelMale>
-  <Chicken.lifeStages.cockerel.labelMalePlural>cockerel</Chicken.lifeStages.cockerel.labelMalePlural>
-  <Chicken.lifeStages.cockerel.labelPlural>chicken</Chicken.lifeStages.cockerel.labelPlural>
+  <Chicken.lifeStages.cockerel.labelMale>TODO</Chicken.lifeStages.cockerel.labelMale>
   
   <!-- EN: duck -->
   <Duck.label>TODO</Duck.label>
@@ -36,23 +23,6 @@
   <Goose.labelPlural>TODO</Goose.labelPlural>
   
   <!-- EN: turkey -->
-  <Turkey.label>turkey</Turkey.label>
-  <Turkey.labelFemale>turkey</Turkey.labelFemale>
-  <Turkey.labelFemalePlural>turkey</Turkey.labelFemalePlural>
-  <Turkey.labelMale>turkey</Turkey.labelMale>
-  <Turkey.labelMalePlural>turkey</Turkey.labelMalePlural>
-  <Turkey.labelPlural>turkey</Turkey.labelPlural>
-  <Turkey.lifeStages.0.label>turkey</Turkey.lifeStages.0.label>
-  <Turkey.lifeStages.0.labelFemale>turkey</Turkey.lifeStages.0.labelFemale>
-  <Turkey.lifeStages.0.labelFemalePlural>turkey</Turkey.lifeStages.0.labelFemalePlural>
-  <Turkey.lifeStages.0.labelMale>turkey</Turkey.lifeStages.0.labelMale>
-  <Turkey.lifeStages.0.labelMalePlural>turkey</Turkey.lifeStages.0.labelMalePlural>
-  <Turkey.lifeStages.0.labelPlural>turkey</Turkey.lifeStages.0.labelPlural>
-  <Turkey.lifeStages.1.label>turkey</Turkey.lifeStages.1.label>
-  <Turkey.lifeStages.1.labelFemale>turkey</Turkey.lifeStages.1.labelFemale>
-  <Turkey.lifeStages.1.labelFemalePlural>turkey</Turkey.lifeStages.1.labelFemalePlural>
-  <Turkey.lifeStages.1.labelMale>turkey</Turkey.lifeStages.1.labelMale>
-  <Turkey.lifeStages.1.labelMalePlural>turkey</Turkey.lifeStages.1.labelMalePlural>
-  <Turkey.lifeStages.1.labelPlural>turkey</Turkey.lifeStages.1.labelPlural>
+  <Turkey.label>TODO</Turkey.label>
   
 </LanguageData>

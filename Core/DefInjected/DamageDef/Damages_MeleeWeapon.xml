@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: bite -->
-  <Bite.label>bite</Bite.label>
+  <Bite.label>TODO</Bite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
+  <Bite.deathMessage>TODO</Bite.deathMessage>
   
   <!-- EN: blunt -->
-  <Blunt.label>blunt</Blunt.label>
+  <Blunt.label>TODO</Blunt.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+  <Blunt.deathMessage>TODO</Blunt.deathMessage>
   
   <!-- EN: crush -->
-  <Crush.label>crush</Crush.label>
+  <Crush.label>TODO</Crush.label>
   <!-- EN: {0} has been crushed to death. -->
-  <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
+  <Crush.deathMessage>TODO</Crush.deathMessage>
   
   <!-- EN: cut -->
-  <Cut.label>cut</Cut.label>
+  <Cut.label>TODO</Cut.label>
   <!-- EN: {0} has been cut to death. -->
-  <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
+  <Cut.deathMessage>TODO</Cut.deathMessage>
   
   <!-- EN: blunt -->
   <Demolish.label>TODO</Demolish.label>
@@ -27,14 +27,14 @@
   <Demolish.deathMessage>TODO</Demolish.deathMessage>
   
   <!-- EN: blunt -->
-  <Poke.label>blunt</Poke.label>
+  <Poke.label>TODO</Poke.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Poke.deathMessage>{0} has been beaten to death.</Poke.deathMessage>
+  <Poke.deathMessage>TODO</Poke.deathMessage>
   
   <!-- EN: scratch -->
-  <Scratch.label>scratch</Scratch.label>
+  <Scratch.label>TODO</Scratch.label>
   <!-- EN: {0} has been torn to death. -->
-  <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
+  <Scratch.deathMessage>TODO</Scratch.deathMessage>
   
   <!-- EN: toxic scratch -->
   <ScratchToxic.label>TODO</ScratchToxic.label>
@@ -42,13 +42,13 @@
   <ScratchToxic.deathMessage>TODO</ScratchToxic.deathMessage>
   
   <!-- EN: stab -->
-  <Stab.label>stab</Stab.label>
+  <Stab.label>TODO</Stab.label>
   <!-- EN: {0} has been stabbed to death. -->
-  <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
+  <Stab.deathMessage>TODO</Stab.deathMessage>
   
   <!-- EN: toxic bite -->
-  <ToxicBite.label>toxic bite</ToxicBite.label>
+  <ToxicBite.label>TODO</ToxicBite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
+  <ToxicBite.deathMessage>TODO</ToxicBite.deathMessage>
   
 </LanguageData>

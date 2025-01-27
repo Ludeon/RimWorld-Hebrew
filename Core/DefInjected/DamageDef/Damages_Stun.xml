@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: EMP -->
-  <EMP.label>EMP</EMP.label>
+  <EMP.label>TODO</EMP.label>
   <!-- EN: {0} has been EMPed to death. -->
-  <EMP.deathMessage>{0} has been EMPed to death.</EMP.deathMessage>
+  <EMP.deathMessage>TODO</EMP.deathMessage>
   
   <!-- EN: stun -->
-  <Stun.label>stun</Stun.label>
+  <Stun.label>TODO</Stun.label>
   <!-- EN: {0} has been stunned to death. -->
-  <Stun.deathMessage>{0} has been stunned to death.</Stun.deathMessage>
+  <Stun.deathMessage>TODO</Stun.deathMessage>
   
 </LanguageData>

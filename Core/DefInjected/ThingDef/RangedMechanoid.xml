@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: charge blaster shot -->
-  <Bullet_ChargeBlasterHeavy.label>charge blaster shot</Bullet_ChargeBlasterHeavy.label>
+  <Bullet_ChargeBlasterHeavy.label>TODO</Bullet_ChargeBlasterHeavy.label>
   
   <!-- EN: inferno cannon shell -->
-  <Bullet_InfernoCannon.label>inferno cannon shell</Bullet_InfernoCannon.label>
+  <Bullet_InfernoCannon.label>TODO</Bullet_InfernoCannon.label>
   
   <!-- EN: needle shot -->
   <Bullet_NeedleGun.label>TODO</Bullet_NeedleGun.label>
   
   <!-- EN: heavy charge blaster -->
-  <Gun_ChargeBlasterHeavy.label>heavy charge blaster</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.label>TODO</Gun_ChargeBlasterHeavy.label>
   <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts. -->
-  <Gun_ChargeBlasterHeavy.description>A pulse-charged rapid-fire blaster for area suppressive fire.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.description>TODO</Gun_ChargeBlasterHeavy.description>
   <!-- EN: barrel -->
-  <Gun_ChargeBlasterHeavy.tools.barrel.label>barrel</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>TODO</Gun_ChargeBlasterHeavy.tools.barrel.label>
   <!-- EN: heavy charge blaster -->
   <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>TODO</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
   
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannon.label>inferno cannon</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.label>TODO</Gun_InfernoCannon.label>
   <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
-  <Gun_InfernoCannon.description>An incendiary-shot mini-artillery device. It fires a large incendiary warhead.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.description>TODO</Gun_InfernoCannon.description>
   <!-- EN: barrel -->
-  <Gun_InfernoCannon.tools.barrel.label>barrel</Gun_InfernoCannon.tools.barrel.label>
+  <Gun_InfernoCannon.tools.barrel.label>TODO</Gun_InfernoCannon.tools.barrel.label>
   <!-- EN: inferno cannon -->
   <Gun_InfernoCannon.verbs.Verb_Shoot.label>TODO</Gun_InfernoCannon.verbs.Verb_Shoot.label>
   

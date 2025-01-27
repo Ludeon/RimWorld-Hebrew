@@ -15,15 +15,15 @@
   <DisabledLower>מבוטל</DisabledLower>
 
   <!-- EN: Version {0} -->
-  <VersionIndicator>גרסה }0{</VersionIndicator>
+  <VersionIndicator>גרסה {0}</VersionIndicator>
   <!-- EN: Game version -->
   <GameVersionIndicator>TODO</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>גרסת פיתוח</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
-  <CompiledOn>Compiled {0}</CompiledOn>
+  <CompiledOn>TODO</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
-  <LoggedIntoSteamAs>מחובר לסטים כ }0{</LoggedIntoSteamAs>
+  <LoggedIntoSteamAs>מחובר לסטים כ {0}</LoggedIntoSteamAs>
   
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
@@ -110,7 +110,7 @@
   <!-- Content generation-->
   
   <!-- EN: {0} meat -->
-  <MeatLabel>בשר }0{</MeatLabel>
+  <MeatLabel>בשר {0}</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>.בשר נא מבותר. יכול להתבשל למנות או להאכל נא</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
@@ -129,24 +129,24 @@
   <Unlocks>TODO</Unlocks>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>גופתו של }0{</CorpseLabel>
+  <CorpseLabel>גופתו של {0}</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>.גופתו המתה של }0{</CorpseDesc>
+  <CorpseDesc>.גופתו המתה של {0}</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>}0{ )מת(</DeadLabel>
+  <DeadLabel>{0} )מת(</DeadLabel>
 
   <!-- EN: rough {0} -->
-  <RoughStoneTerrainLabel>קשוח }0{</RoughStoneTerrainLabel>
+  <RoughStoneTerrainLabel>קשוח {0}</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
-  <RoughStoneTerrainDesc>קשוח, רצפת }0{ טבעית.</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>קשוח, רצפת {0} טבעית.</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>}0{ קצץ קשוח</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>{0} קצץ קשוח</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
-  <RoughHewnStoneTerrainDesc>.רצפה חתוכה טבעית של }0{</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>.רצפה חתוכה טבעית של {0}</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
-  <SmoothStoneTerrainLabel>}0{ חלק</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainLabel>{0} חלק</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
-  <SmoothStoneTerrainDesc>.רצפת }0{ חלקה באופן טבעי</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>.רצפת {0} חלקה באופן טבעי</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra>)שרטוט(</BlueprintLabelExtra>
@@ -165,12 +165,12 @@
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
-  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>TODO</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>}0{ של }1{</SomeonesRoom>
+  <SomeonesRoom>{0} של {1}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>ה}2{ של }0{ ו}1{</CouplesRoom>
+  <CouplesRoom>ה{2} של {0} ו{1}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
   <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>

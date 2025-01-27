@@ -12,19 +12,19 @@
   <!-- EN: Passion -->
   <Passion>תשוקה</Passion>
   <!-- EN: No passion -->
-  <PassionNone>}0{ לומד-   n\כלום</PassionNone>
+  <PassionNone>{0} לומד-   n\כלום</PassionNone>
   <!-- EN: Passion -->
-  <PassionMinor>}0{ לומד-   n\מעוניין</PassionMinor>
+  <PassionMinor>{0} לומד-   n\מעוניין</PassionMinor>
   <!-- EN: Burning passion -->
-  <PassionMajor>}0{ לומד-   n\רותחת</PassionMajor>
+  <PassionMajor>{0} לומד-   n\רותחת</PassionMajor>
   <!-- EN: Learning speed -->
   <LearningSpeed>TODO</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
-  <LearnedMaxToday>)}2{ למידה נוספת מוכפלת על ידי ,}1{/}0{( למד מקסימום היום</LearnedMaxToday>
+  <LearnedMaxToday>){2} למידה נוספת מוכפלת על ידי ,{1}/{0}( למד מקסימום היום</LearnedMaxToday>
   <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
   <ChildrenLearn>TODO</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
-  <EffectsAtLevel>}0{ אפקטים ברמה</EffectsAtLevel>
+  <EffectsAtLevel>{0} אפקטים ברמה</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>מקסימום</SkillMax>
   <!-- EN: Learned level -->

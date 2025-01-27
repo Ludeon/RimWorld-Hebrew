@@ -56,33 +56,33 @@
   <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
-  <Born>:נולד }0{</Born>
+  <Born>:נולד {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>גיל כרונולוגי }0{ שנים }1{ רבעים }2{ ימים</AgeChronological>
+  <AgeChronological>גיל כרונולוגי {0} שנים {1} רבעים {2} ימים</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>גיל ביולוגי }0{ שנים }1{ רבעים }2{ ימים</AgeBiological>
+  <AgeBiological>גיל ביולוגי {0} שנים {1} רבעים {2} ימים</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
   <Period1Year>שנה</Period1Year>
   <!-- EN: {0} years -->
-  <PeriodYears>שנים }0{</PeriodYears>
+  <PeriodYears>שנים {0}</PeriodYears>
   <!-- EN: 1 quadrum -->
   <Period1Quadrum>רבע</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>רבעים }0{</PeriodQuadrums>
+  <PeriodQuadrums>רבעים {0}</PeriodQuadrums>
   <!-- EN: 1 day -->
   <Period1Day>יום</Period1Day>
   <!-- EN: {0} days -->
-  <PeriodDays>ימים }0{</PeriodDays>
+  <PeriodDays>ימים {0}</PeriodDays>
   <!-- EN: 1 hour -->
   <Period1Hour>שעה</Period1Hour>
   <!-- EN: {0} hours -->
-  <PeriodHours>שעות }0{</PeriodHours>
+  <PeriodHours>שעות {0}</PeriodHours>
   <!-- EN: 1 second -->
   <Period1Second>שניה</Period1Second>
   <!-- EN: {0} seconds -->
-  <PeriodSeconds>שניות }0{</PeriodSeconds>
+  <PeriodSeconds>שניות {0}</PeriodSeconds>
 
   <!-- Misc -->
   <!-- EN: Started -->
@@ -90,7 +90,7 @@
   <!-- EN: Lasted -->
   <Lasted>החזיק</Lasted>
   <!-- EN: occurred {0} ago -->
-  <OccurredTimeAgo> קרה לפני }0{</OccurredTimeAgo>
+  <OccurredTimeAgo> קרה לפני {0}</OccurredTimeAgo>
   <!-- EN: {0} ago -->
   <TimeAgo>TODO</TimeAgo>
   

@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.label>TODO</BionicArm.label>
   <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
   <BionicArm.description>TODO</BionicArm.description>
   <!-- EN: fist -->
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+  <BionicArm.labelNoun>TODO</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>bionic ear</BionicEar.label>
+  <BionicEar.label>TODO</BionicEar.label>
   <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
   <BionicEar.description>TODO</BionicEar.description>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+  <BionicEar.labelNoun>TODO</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>bionic eye</BionicEye.label>
+  <BionicEye.label>TODO</BionicEye.label>
   <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
   <BionicEye.description>TODO</BionicEye.description>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
+  <BionicEye.labelNoun>TODO</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>bionic heart</BionicHeart.label>
+  <BionicHeart.label>TODO</BionicHeart.label>
   <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
   <BionicHeart.description>TODO</BionicHeart.description>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>TODO</BionicHeart.labelNoun>
   
   <!-- EN: bionic jaw -->
   <BionicJaw.label>TODO</BionicJaw.label>
@@ -39,25 +39,25 @@
   <BionicJaw.labelNoun>TODO</BionicJaw.labelNoun>
   
   <!-- EN: bionic leg -->
-  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.label>TODO</BionicLeg.label>
   <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
   <BionicLeg.description>TODO</BionicLeg.description>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
+  <BionicLeg.labelNoun>TODO</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>bionic spine</BionicSpine.label>
+  <BionicSpine.label>TODO</BionicSpine.label>
   <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
   <BionicSpine.description>TODO</BionicSpine.description>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>TODO</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>bionic stomach</BionicStomach.label>
+  <BionicStomach.label>TODO</BionicStomach.label>
   <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
   <BionicStomach.description>TODO</BionicStomach.description>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>TODO</BionicStomach.labelNoun>
   
   <!-- EN: bionic tongue -->
   <BionicTongue.label>TODO</BionicTongue.label>

@@ -5,13 +5,13 @@
   <ApplyTechprint.reportString>TODO</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
-  <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
+  <AttackMelee.reportString>TODO</AttackMelee.reportString>
   
   <!-- EN: attacking TargetA. -->
-  <AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
+  <AttackStatic.reportString>TODO</AttackStatic.reportString>
   
   <!-- EN: beating fire out. -->
-  <BeatFire.reportString>beating fire out.</BeatFire.reportString>
+  <BeatFire.reportString>TODO</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
   <Carried.reportString>TODO</Carried.reportString>
@@ -35,7 +35,7 @@
   <CastJump.reportString>TODO</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
-  <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
+  <ClearSnow.reportString>TODO</ClearSnow.reportString>
   
   <!-- EN: delivering TargetA. -->
   <DeliverToBed.reportString>TODO</DeliverToBed.reportString>
@@ -47,67 +47,67 @@
   <DismissTrader.reportString>TODO</DismissTrader.reportString>
   
   <!-- EN: dropping TargetA. -->
-  <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+  <DropEquipment.reportString>TODO</DropEquipment.reportString>
   
   <!-- EN: emptying TargetA. -->
   <EmptyThingContainer.reportString>TODO</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
-  <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
+  <EnterCryptosleepCasket.reportString>TODO</EnterCryptosleepCasket.reportString>
   
   <!-- EN: entering TargetA. -->
   <EnterPortal.reportString>TODO</EnterPortal.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
+  <EnterTransporter.reportString>TODO</EnterTransporter.reportString>
   
   <!-- EN: equipping TargetA. -->
-  <Equip.reportString>equipping TargetA.</Equip.reportString>
+  <Equip.reportString>TODO</Equip.reportString>
   
   <!-- EN: extinguishing fires nearby. -->
   <ExtinguishFiresNearby.reportString>TODO</ExtinguishFiresNearby.reportString>
   
   <!-- EN: extinguishing self. -->
-  <ExtinguishSelf.reportString>extinguishing self.</ExtinguishSelf.reportString>
+  <ExtinguishSelf.reportString>TODO</ExtinguishSelf.reportString>
   
   <!-- EN: filling TargetA. -->
-  <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
+  <FillFermentingBarrel.reportString>TODO</FillFermentingBarrel.reportString>
   
   <!-- EN: fleeing. -->
-  <Flee.reportString>fleeing.</Flee.reportString>
+  <Flee.reportString>TODO</Flee.reportString>
   
   <!-- EN: fleeing. -->
-  <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
+  <FleeAndCower.reportString>TODO</FleeAndCower.reportString>
   
   <!-- EN: flicking switch. -->
-  <Flick.reportString>flicking switch.</Flick.reportString>
+  <Flick.reportString>TODO</Flick.reportString>
   
   <!-- EN: following TargetA. -->
-  <Follow.reportString>following TargetA.</Follow.reportString>
+  <Follow.reportString>TODO</Follow.reportString>
   
   <!-- EN: following TargetA. -->
-  <FollowClose.reportString>following TargetA.</FollowClose.reportString>
+  <FollowClose.reportString>TODO</FollowClose.reportString>
   
   <!-- EN: following TargetA. -->
   <FollowRoper.reportString>TODO</FollowRoper.reportString>
   
   <!-- EN: taking TargetA. -->
-  <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
+  <GiveToPackAnimal.reportString>TODO</GiveToPackAnimal.reportString>
   
   <!-- EN: moving. -->
-  <Goto.reportString>moving.</Goto.reportString>
+  <Goto.reportString>TODO</Goto.reportString>
   
   <!-- EN: moving. -->
   <GotoMindControlled.reportString>TODO</GotoMindControlled.reportString>
   
   <!-- EN: seeking safe temperature. -->
-  <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
+  <GotoSafeTemperature.reportString>TODO</GotoSafeTemperature.reportString>
   
   <!-- EN: wandering. -->
-  <GotoWander.reportString>wandering.</GotoWander.reportString>
+  <GotoWander.reportString>TODO</GotoWander.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
+  <HaulCorpseToPublicPlace.reportString>TODO</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToPortal.reportString>TODO</HaulToPortal.reportString>
@@ -119,22 +119,22 @@
   <IdleWhileDespawned.reportString>TODO</IdleWhileDespawned.reportString>
   
   <!-- EN: igniting TargetA. -->
-  <Ignite.reportString>igniting TargetA.</Ignite.reportString>
+  <Ignite.reportString>TODO</Ignite.reportString>
   
   <!-- EN: inducing TargetA to escape. -->
-  <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
+  <InducePrisonerToEscape.reportString>TODO</InducePrisonerToEscape.reportString>
   
   <!-- EN: consuming TargetA. -->
-  <Ingest.reportString>consuming TargetA.</Ingest.reportString>
+  <Ingest.reportString>TODO</Ingest.reportString>
   
   <!-- EN: insulting TargetA. -->
-  <Insult.reportString>insulting TargetA.</Insult.reportString>
+  <Insult.reportString>TODO</Insult.reportString>
   
   <!-- EN: activating TargetA. -->
   <InteractThing.reportString>TODO</InteractThing.reportString>
   
   <!-- EN: lying down. -->
-  <LayDown.reportString>lying down.</LayDown.reportString>
+  <LayDown.reportString>TODO</LayDown.reportString>
   
   <!-- EN: lying down. -->
   <LayDownAwake.reportString>TODO</LayDownAwake.reportString>
@@ -143,16 +143,16 @@
   <LayDownResting.reportString>TODO</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
-  <Lovin.reportString>lovin'.</Lovin.reportString>
+  <Lovin.reportString>TODO</Lovin.reportString>
   
   <!-- EN: operating turret. -->
-  <ManTurret.reportString>operating turret.</ManTurret.reportString>
+  <ManTurret.reportString>TODO</ManTurret.reportString>
   
   <!-- EN: helping TargetA. -->
   <OfferHelp.reportString>TODO</OfferHelp.reportString>
   
   <!-- EN: opening TargetA. -->
-  <Open.reportString>opening TargetA.</Open.reportString>
+  <Open.reportString>TODO</Open.reportString>
   
   <!-- EN: picking up TargetA. -->
   <PickupToHold.reportString>TODO</PickupToHold.reportString>
@@ -160,41 +160,38 @@
   <!-- EN: reading TargetA -->
   <Reading.reportString>TODO</Reading.reportString>
   
-  <!-- UNUSED -->
-  <RearmTrap.reportString>rearming TargetA.</RearmTrap.reportString>
+  <!-- EN: rearming TargetA. -->
+  <RearmTurret.reportString>TODO</RearmTurret.reportString>
   
   <!-- EN: rearming TargetA. -->
-  <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
-  
-  <!-- EN: rearming TargetA. -->
-  <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
+  <RearmTurretAtomic.reportString>TODO</RearmTurretAtomic.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <Refuel.reportString>refueling TargetA.</Refuel.reportString>
+  <Refuel.reportString>TODO</Refuel.reportString>
   
   <!-- EN: refueling TargetA. -->
-  <RefuelAtomic.reportString>refueling TargetA.</RefuelAtomic.reportString>
+  <RefuelAtomic.reportString>TODO</RefuelAtomic.reportString>
   
   <!-- EN: reloading TargetA. -->
   <Reload.reportString>TODO</Reload.reportString>
   
   <!-- EN: removing TargetA. -->
-  <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
+  <RemoveApparel.reportString>TODO</RemoveApparel.reportString>
   
   <!-- EN: resurrecting TargetA. -->
-  <Resurrect.reportString>resurrecting TargetA.</Resurrect.reportString>
+  <Resurrect.reportString>TODO</Resurrect.reportString>
   
   <!-- EN: fighting with TargetA. -->
-  <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  <SocialFight.reportString>TODO</SocialFight.reportString>
   
   <!-- EN: staring. -->
   <StandAndStare.reportString>TODO</StandAndStare.reportString>
   
   <!-- EN: stripping TargetA. -->
-  <Strip.reportString>stripping TargetA.</Strip.reportString>
+  <Strip.reportString>TODO</Strip.reportString>
   
   <!-- EN: taking beer out of TargetA. -->
-  <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>TODO</TakeBeerOutOfFermentingBarrel.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeCountToInventory.reportString>TODO</TakeCountToInventory.reportString>
@@ -203,31 +200,31 @@
   <TakeFromOtherInventory.reportString>TODO</TakeFromOtherInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
-  <TakeInventory.reportString>taking TargetA.</TakeInventory.reportString>
+  <TakeInventory.reportString>TODO</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
-  <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
+  <TradeWithPawn.reportString>TODO</TradeWithPawn.reportString>
   
   <!-- EN: triggering TargetA. -->
-  <TriggerObject.reportString>triggering firefoam popper.</TriggerObject.reportString>
+  <TriggerObject.reportString>TODO</TriggerObject.reportString>
   
   <!-- EN: unloading TargetA. -->
-  <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
+  <UnloadInventory.reportString>TODO</UnloadInventory.reportString>
   
   <!-- EN: unloading inventory. -->
-  <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
+  <UnloadYourInventory.reportString>TODO</UnloadYourInventory.reportString>
   
   <!-- EN: activating artifact. -->
-  <UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
+  <UseArtifact.reportString>TODO</UseArtifact.reportString>
   
   <!-- EN: using TargetA. -->
-  <UseItem.reportString>using TargetA.</UseItem.reportString>
+  <UseItem.reportString>TODO</UseItem.reportString>
   
   <!-- EN: using neurotrainer. -->
-  <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
+  <UseNeurotrainer.reportString>TODO</UseNeurotrainer.reportString>
   
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>Doing something.</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>TODO</UseVerbOnThing.reportString>
   
   <!-- EN: Doing something. -->
   <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
@@ -236,10 +233,10 @@
   <UseVerbOnThingStaticReserve.reportString>TODO</UseVerbOnThingStaticReserve.reportString>
   
   <!-- EN: vomiting. -->
-  <Vomit.reportString>vomiting.</Vomit.reportString>
+  <Vomit.reportString>TODO</Vomit.reportString>
   
   <!-- EN: standing. -->
-  <Wait.reportString>standing.</Wait.reportString>
+  <Wait.reportString>TODO</Wait.reportString>
   
   <!-- EN: sleeping. -->
   <Wait_Asleep.reportString>TODO</Wait_Asleep.reportString>
@@ -248,21 +245,21 @@
   <Wait_AsleepDormancy.reportString>TODO</Wait_AsleepDormancy.reportString>
   
   <!-- EN: watching for targets. -->
-  <Wait_Combat.reportString>watching for targets.</Wait_Combat.reportString>
+  <Wait_Combat.reportString>TODO</Wait_Combat.reportString>
   
   <!-- EN: downed. -->
-  <Wait_Downed.reportString>downed.</Wait_Downed.reportString>
+  <Wait_Downed.reportString>TODO</Wait_Downed.reportString>
   
   <!-- EN: standing. -->
-  <Wait_MaintainPosture.reportString>standing.</Wait_MaintainPosture.reportString>
+  <Wait_MaintainPosture.reportString>TODO</Wait_MaintainPosture.reportString>
   
   <!-- EN: waiting in safe temperature. -->
-  <Wait_SafeTemperature.reportString>waiting in safe temperature.</Wait_SafeTemperature.reportString>
+  <Wait_SafeTemperature.reportString>TODO</Wait_SafeTemperature.reportString>
   
   <!-- EN: wandering. -->
-  <Wait_Wander.reportString>wandering.</Wait_Wander.reportString>
+  <Wait_Wander.reportString>TODO</Wait_Wander.reportString>
   
   <!-- EN: wearing TargetA. -->
-  <Wear.reportString>wearing TargetA.</Wear.reportString>
+  <Wear.reportString>TODO</Wear.reportString>
   
 </LanguageData>

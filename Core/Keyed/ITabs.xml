@@ -63,13 +63,13 @@
   <!-- EN: Add bill -->
   <AddBill>חוקק חוק</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>המתכון }0{ דורש את הכישרונות מתחת. לאף אחד מהקולוניסטים יש את הכשרונות האלו, אז אף אחד לא יבצע את החוק הזה.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>המתכון {0} דורש את הכישרונות מתחת. לאף אחד מהקולוניסטים יש את הכשרונות האלו, אז אף אחד לא יבצע את החוק הזה.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>כישרון מינימאלי</MinimumSkill>
   <!-- EN: SUSPENDED -->
   <SuspendedCaps>מושהה</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>עובד: }0{</BoundWorkerIs>
+  <BoundWorkerIs>עובד: {0}</BoundWorkerIs>
   <!-- EN: Plant -->
   <PlantVerb>צמח</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here -->
@@ -129,7 +129,7 @@
   <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>נסה לגייס</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>מוגדר כאשם )פג תוקף בעוד }0{(</ConsideredGuilty>
+  <ConsideredGuilty>מוגדר כאשם )פג תוקף בעוד {0}(</ConsideredGuilty>
   <!-- EN: Considered guilty -->
   <ConsideredGuiltyNoTimer>TODO</ConsideredGuiltyNoTimer>
   <!-- EN: Last resistance reduction -->
@@ -190,15 +190,15 @@
   <!-- EN: Bleeding -->
   <BleedingRate>מדמם</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>מוות בעוד }0{</TimeToDeath>
+  <TimeToDeath>מוות בעוד {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
   <WontBleedOutSoon>אין סכנה מיידית</WontBleedOutSoon>
   <!-- EN: Overview -->
   <HealthOverview>תקציר</HealthOverview>
   <!-- EN: Operations -->
-  <MedicalOperationsShort>טיפולים )}0{(</MedicalOperationsShort>
+  <MedicalOperationsShort>טיפולים ){0}(</MedicalOperationsShort>
   <!-- EN: Modifications -->
-  <MedicalOperationsMechanoidsShort>תוספות )}0{(</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>תוספות ){0}(</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>טיפולים רפואיים</MedicalOperations>
   <!-- EN: amputate -->
@@ -268,12 +268,12 @@
   <!-- EN: Trainability -->
   <Trainability>יכולת לאילוף</Trainability>
   <!-- EN: Requires {0} trainability. -->
-  <CannotTrainNotSmartEnough>מדריש }0{ יכולת לאילוף.</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>מדריש {0} יכולת לאילוף.</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>}0{ קטן מדי בשביל לאלף אותו בזה.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{0} קטן מדי בשביל לאלף אותו בזה.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
-  <TrainingNeedsPrerequisite>דרישות קדם נדרשות }0{</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>דרישות קדם נדרשות {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
   <!-- EN: Kidnapped -->
@@ -287,9 +287,9 @@
   <!-- EN: Faction leader -->
   <FactionLeader>מנהיג הפלוגה</FactionLeader>
   <!-- EN: Opinion of {0} -->
-  <OpinionOf>דעה של }0{</OpinionOf>
+  <OpinionOf>דעה של {0}</OpinionOf>
   <!-- EN: {0}'s opinion of me -->
-  <SomeonesOpinionOfMe>הדעה של }0{ עלי</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>הדעה של {0} עלי</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>אני מת</IAmDead>
   <!-- EN: I'm a psychopath -->
@@ -299,7 +299,7 @@
   <!-- EN: Overall armor -->
   <OverallArmor>מיגון כללי</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
-  <MassCarried>מסה שנסחבת }0{ \ }1{ קילו</MassCarried>
+  <MassCarried>מסה שנסחבת {0} \ {1} קילו</MassCarried>
   <!-- EN: Comfortable temperature range -->
   <ComfyTemperatureRange>טווח טמפרטורה נוחה</ComfyTemperatureRange>
   <!-- EN: Blunt -->
@@ -448,13 +448,5 @@
   <StudyNotesTab_ToggleStudy>TODO</StudyNotesTab_ToggleStudy>
   <!-- EN: No discoveries yet -->
   <StudyNotesTab_NoDiscoveries>TODO</StudyNotesTab_NoDiscoveries>
-
-  <!-- UNUSED -->
-  <RecruitmentDifficulty>קושי גיוס</RecruitmentDifficulty>
-  <SelfTend>טיפול עצמי</SelfTend>
-  <SelfTendTip>ש}0{ עם טיפול עצמי מופעל יטפל בעצמו על הנקודה ב}1{ מהיעילות הנורמלית</SelfTendTip>
-  <NoRelationships>)אין מערכות יחסים(</NoRelationships>
-  <FormingCaravanStatus_GatheringSlaves>אוסף עבדים</FormingCaravanStatus_GatheringSlaves>
-  <FormingCaravanStatus_GatheringSlaves_Pause>אוסף עבדים )מחכה(</FormingCaravanStatus_GatheringSlaves_Pause>
 
 </LanguageData>

@@ -319,8 +319,4 @@
   <!-- EN: Extract the skull from a corpse. -->
   <DesignatorExtractSkullDesc>TODO</DesignatorExtractSkullDesc>
 
-  <!-- UNUSED -->
-  <NoColonistWithConstructionSkillTip>אין לאף אחד מ ה- {0} שלך את המיומנות הזאת.</NoColonistWithConstructionSkillTip>
-  <AllColonistsWithConstructionSkillHaveDisaledConstructingTip>כל ה- {0} שלך שברשותם מיומנות זו לא מוקצים ל- {1}.</AllColonistsWithConstructionSkillHaveDisaledConstructingTip>
-
 </LanguageData>

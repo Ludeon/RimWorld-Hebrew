@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: Arresting worsens faction relations -->
-  <ArrestingCreatesEnemies.label>Arresting worsens faction relations</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.label>TODO</ArrestingCreatesEnemies.label>
   <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
-  <ArrestingCreatesEnemies.helpText>Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy.</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.helpText>TODO</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
-  <MaxNumberOfPlayerSettlements.label>Maximum number of player colonies</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.label>TODO</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
-  <MaxNumberOfPlayerSettlements.helpText>Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum.</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>TODO</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Steam Deck controls -->
   <SteamDeckControlsGame.label>TODO</SteamDeckControlsGame.label>
@@ -22,14 +22,14 @@
   <SteamDeckControlsMainMenu.helpText>TODO</SteamDeckControlsMainMenu.helpText>
   
   <!-- EN: Flick designations only designate -->
-  <SwitchFlickingDesignation.label>Flick designations only designate</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.label>TODO</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
-  <SwitchFlickingDesignation.helpText>Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist (with the Flicker work type) comes and flicks the switch by hand.</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.helpText>TODO</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
-  <TradeGoodsMustBeNearBeacon.label>Trade goods and trade beacons</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.label>TODO</TradeGoodsMustBeNearBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <TradeGoodsMustBeNearBeacon.helpText>To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it.</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.helpText>TODO</TradeGoodsMustBeNearBeacon.helpText>
   
   <!-- EN: Trading permit requirements -->
   <TradingRequiresPermit.label>TODO</TradingRequiresPermit.label>

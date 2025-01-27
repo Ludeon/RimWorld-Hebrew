@@ -17,11 +17,11 @@
   <Bison.tools.right_hoof.labelNoLocation>TODO</Bison.tools.right_hoof.labelNoLocation>
   
   <!-- EN: boomalope -->
-  <Boomalope.label>boomalope</Boomalope.label>
+  <Boomalope.label>TODO</Boomalope.label>
   <!-- EN: Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully. -->
-  <Boomalope.description>Engineered for chemicals production, the boomalope grows a large sac of volatile chemicals on its back. Though it is weak and fragile for its size, other animals have learned to avoid it because of the huge explosion it produces when it dies. It can be milked to produce chemfuel - very carefully.</Boomalope.description>
+  <Boomalope.description>TODO</Boomalope.description>
   <!-- EN: head -->
-  <Boomalope.tools.head.label>head</Boomalope.tools.head.label>
+  <Boomalope.tools.head.label>TODO</Boomalope.tools.head.label>
   <!-- EN: left hoof -->
   <Boomalope.tools.left_hoof.label>TODO</Boomalope.tools.left_hoof.label>
   <!-- EN: hoof -->
@@ -32,28 +32,28 @@
   <Boomalope.tools.right_hoof.labelNoLocation>TODO</Boomalope.tools.right_hoof.labelNoLocation>
   
   <!-- EN: caribou -->
-  <Caribou.label>caribou</Caribou.label>
+  <Caribou.label>TODO</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs.</Caribou.description>
+  <Caribou.description>TODO</Caribou.description>
   <!-- EN: left hoof -->
-  <Caribou.tools.left_hoof.label>left hoof</Caribou.tools.left_hoof.label>
+  <Caribou.tools.left_hoof.label>TODO</Caribou.tools.left_hoof.label>
   <!-- EN: hoof -->
   <Caribou.tools.left_hoof.labelNoLocation>TODO</Caribou.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Caribou.tools.right_hoof.label>right hoof</Caribou.tools.right_hoof.label>
+  <Caribou.tools.right_hoof.label>TODO</Caribou.tools.right_hoof.label>
   <!-- EN: hoof -->
   <Caribou.tools.right_hoof.labelNoLocation>TODO</Caribou.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
-  <Caribou.tools.head.label>head</Caribou.tools.head.label>
+  <Caribou.tools.head.label>TODO</Caribou.tools.head.label>
   
   <!-- EN: cow -->
-  <Cow.label>cow</Cow.label>
+  <Cow.label>TODO</Cow.label>
   <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
-  <Cow.description>A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild.</Cow.description>
+  <Cow.description>TODO</Cow.description>
   <!-- EN: beef -->
-  <Cow.race.meatLabel>beef</Cow.race.meatLabel>
+  <Cow.race.meatLabel>TODO</Cow.race.meatLabel>
   <!-- EN: head -->
-  <Cow.tools.head.label>head</Cow.tools.head.label>
+  <Cow.tools.head.label>TODO</Cow.tools.head.label>
   <!-- EN: left hoof -->
   <Cow.tools.left_hoof.label>TODO</Cow.tools.left_hoof.label>
   <!-- EN: hoof -->
@@ -79,51 +79,51 @@
   <Donkey.tools.right_hoof.labelNoLocation>TODO</Donkey.tools.right_hoof.labelNoLocation>
   
   <!-- EN: dromedary -->
-  <Dromedary.label>dromedary</Dromedary.label>
+  <Dromedary.label>TODO</Dromedary.label>
   <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
   <Dromedary.description>A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but it's bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.</Dromedary.description>
   <!-- EN: left hoof -->
-  <Dromedary.tools.left_hoof.label>left hoof</Dromedary.tools.left_hoof.label>
+  <Dromedary.tools.left_hoof.label>TODO</Dromedary.tools.left_hoof.label>
   <!-- EN: hoof -->
   <Dromedary.tools.left_hoof.labelNoLocation>TODO</Dromedary.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Dromedary.tools.right_hoof.label>right hoof</Dromedary.tools.right_hoof.label>
+  <Dromedary.tools.right_hoof.label>TODO</Dromedary.tools.right_hoof.label>
   <!-- EN: hoof -->
   <Dromedary.tools.right_hoof.labelNoLocation>TODO</Dromedary.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
-  <Dromedary.tools.head.label>head</Dromedary.tools.head.label>
+  <Dromedary.tools.head.label>TODO</Dromedary.tools.head.label>
   
   <!-- EN: elephant -->
-  <Elephant.label>elephant</Elephant.label>
+  <Elephant.label>TODO</Elephant.label>
   <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
-  <Elephant.description>The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before.</Elephant.description>
+  <Elephant.description>TODO</Elephant.description>
   <!-- EN: tusk -->
-  <Elephant.tools.tusk.label>tusk</Elephant.tools.tusk.label>
+  <Elephant.tools.tusk.label>TODO</Elephant.tools.tusk.label>
   <!-- EN: left foot -->
-  <Elephant.tools.left_foot.label>left foot</Elephant.tools.left_foot.label>
+  <Elephant.tools.left_foot.label>TODO</Elephant.tools.left_foot.label>
   <!-- EN: foot -->
   <Elephant.tools.left_foot.labelNoLocation>TODO</Elephant.tools.left_foot.labelNoLocation>
   <!-- EN: right foot -->
-  <Elephant.tools.right_foot.label>right foot</Elephant.tools.right_foot.label>
+  <Elephant.tools.right_foot.label>TODO</Elephant.tools.right_foot.label>
   <!-- EN: foot -->
   <Elephant.tools.right_foot.labelNoLocation>TODO</Elephant.tools.right_foot.labelNoLocation>
   <!-- EN: head -->
-  <Elephant.tools.head.label>head</Elephant.tools.head.label>
+  <Elephant.tools.head.label>TODO</Elephant.tools.head.label>
   
   <!-- EN: elk -->
-  <Elk.label>elk</Elk.label>
+  <Elk.label>TODO</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs.</Elk.description>
+  <Elk.description>TODO</Elk.description>
   <!-- EN: left hoof -->
-  <Elk.tools.left_hoof.label>left hoof</Elk.tools.left_hoof.label>
+  <Elk.tools.left_hoof.label>TODO</Elk.tools.left_hoof.label>
   <!-- EN: hoof -->
   <Elk.tools.left_hoof.labelNoLocation>TODO</Elk.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Elk.tools.right_hoof.label>right hoof</Elk.tools.right_hoof.label>
+  <Elk.tools.right_hoof.label>TODO</Elk.tools.right_hoof.label>
   <!-- EN: hoof -->
   <Elk.tools.right_hoof.labelNoLocation>TODO</Elk.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
-  <Elk.tools.head.label>head</Elk.tools.head.label>
+  <Elk.tools.head.label>TODO</Elk.tools.head.label>
   
   <!-- EN: goat -->
   <Goat.label>TODO</Goat.label>
@@ -150,11 +150,11 @@
   <Horse.tools.right_hoof.labelNoLocation>TODO</Horse.tools.right_hoof.labelNoLocation>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>muffalo</Muffalo.label>
+  <Muffalo.label>TODO</Muffalo.label>
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
-  <Muffalo.description>A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed.</Muffalo.description>
+  <Muffalo.description>TODO</Muffalo.description>
   <!-- EN: head -->
-  <Muffalo.tools.head.label>head</Muffalo.tools.head.label>
+  <Muffalo.tools.head.label>TODO</Muffalo.tools.head.label>
   <!-- EN: left hoof -->
   <Muffalo.tools.left_hoof.label>TODO</Muffalo.tools.left_hoof.label>
   <!-- EN: hoof -->
@@ -165,15 +165,15 @@
   <Muffalo.tools.right_hoof.labelNoLocation>TODO</Muffalo.tools.right_hoof.labelNoLocation>
   
   <!-- EN: rhinoceros -->
-  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
+  <Rhinoceros.label>TODO</Rhinoceros.label>
   <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
-  <Rhinoceros.description>Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body.</Rhinoceros.description>
+  <Rhinoceros.description>TODO</Rhinoceros.description>
   <!-- EN: horn -->
-  <Rhinoceros.tools.horn-0.label>horn</Rhinoceros.tools.horn-0.label>
+  <Rhinoceros.tools.horn-0.label>TODO</Rhinoceros.tools.horn-0.label>
   <!-- EN: horn -->
-  <Rhinoceros.tools.horn-1.label>horn</Rhinoceros.tools.horn-1.label>
+  <Rhinoceros.tools.horn-1.label>TODO</Rhinoceros.tools.horn-1.label>
   <!-- EN: head -->
-  <Rhinoceros.tools.head.label>head</Rhinoceros.tools.head.label>
+  <Rhinoceros.tools.head.label>TODO</Rhinoceros.tools.head.label>
   
   <!-- EN: yak -->
   <Yak.label>TODO</Yak.label>

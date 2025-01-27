@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: ambush -->
-  <Ambush.label>ambush</Ambush.label>
+  <Ambush.label>TODO</Ambush.label>
   <!-- EN: Caravan ambushed -->
-  <Ambush.letterLabel>Caravan ambushed</Ambush.letterLabel>
+  <Ambush.letterLabel>TODO</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>{0} has been ambushed by {1} from {2}!</Ambush.letterText>
+  <Ambush.letterText>TODO</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>payment demand</CaravanDemand.label>
+  <CaravanDemand.label>TODO</CaravanDemand.label>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>caravan meeting</CaravanMeeting.label>
+  <CaravanMeeting.label>TODO</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>manhunter ambush</ManhunterAmbush.label>
+  <ManhunterAmbush.label>TODO</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>Caravan ambushed (manhunters)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>TODO</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
-  <ManhunterAmbush.letterText>{0} has been ambushed by manhunting {1}!</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>TODO</ManhunterAmbush.letterText>
   
 </LanguageData>

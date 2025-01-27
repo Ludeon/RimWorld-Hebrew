@@ -43,7 +43,7 @@
   <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>שמור וצא למערכת ההפעלה</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
-  <FictionPrimer>Fiction primer</FictionPrimer>
+  <FictionPrimer>TODO</FictionPrimer>
   <!-- EN: Ludeon blog -->
   <LudeonBlog> noeduL בלוג</LudeonBlog>
   <!-- EN: Forums -->
@@ -739,12 +739,5 @@
   <MechanoidsDisabledContentWarning>TODO</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>TODO</FactionsDisabledWarning>
-
-  <!-- UNUSED -->
-  <UnlockExtremeDifficulty>מצב חסר רחמים</UnlockExtremeDifficulty>
-  <ConfirmUnlockExtremeDifficulty>האופציה הזאת מומלצת רק ברגע ששיחקת כמה משחקים ברמות קושי גבוהות ורוצה סיכוי טוב למות למרות המאמצים הכי טובים שלך. \n\n.מצב חוסר רחמים נפתח באופן אוטומטי שאתה מגיע לנקודות מסויימות במשחק. אבל, אתה יכול לפתוח את זה עכשיו \n\n.מצב חסר רחמים זה מצב משחק מיוחד שכל אתגר במשחק מועלה לרמות קיצוניות.</ConfirmUnlockExtremeDifficulty>
-  <Current>נוכחית</Current>
-  <SelectLandingSite>בחר אתר נחיתה</SelectLandingSite>
-  <MustSelectLandingSite>בבקשה בחר אתר בנייה</MustSelectLandingSite>
 
 </LanguageData>

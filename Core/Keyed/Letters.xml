@@ -9,7 +9,7 @@
   <!-- EN: Reject -->
   <RejectLetter>דחה</RejectLetter>
   <!-- EN: Read more -->
-  <ReadMore>Read more</ReadMore>
+  <ReadMore>TODO</ReadMore>
   <!-- EN: You have {0} more letters -->
   <MoreLetters>TODO</MoreLetters>
 
@@ -81,73 +81,73 @@
   <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
   <LetterBirthdayBiological>TODO</LetterBirthdayBiological>
   <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
-  <BirthdayBiologicalAgeInjuries>{0} has reached the biological age of {1}.\n\nUnfortunately, {0} has gained the following diseases due to aging:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>TODO</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
-  <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
+  <LetterLabelNewDisease>TODO</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{0} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewDisease>
+  <NewDisease>TODO</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{0} has gotten sick from {3}. The infection is in [PAWN_possessive] {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {2} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
+  <NewPartDisease>TODO</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
-  <NewDiseaseAnimal>{0} has developed an illness: {1}</NewDiseaseAnimal>
+  <NewDiseaseAnimal>TODO</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
-  <NewPartDiseaseAnimal>{0} has developed an illness: {3} in [PAWN_possessive] {1}</NewPartDiseaseAnimal>
+  <NewPartDiseaseAnimal>TODO</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>{0} was formerly part of your faction.</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>TODO</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
   <PawnWasFormerlyLodger>TODO</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
-  <PawnHasTheseRelationshipsWithColonists>{0} has these relationships with your colonists:</PawnHasTheseRelationshipsWithColonists>
+  <PawnHasTheseRelationshipsWithColonists>TODO</PawnHasTheseRelationshipsWithColonists>
 
   <!-- EN: Ancient danger -->
-  <LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
+  <LetterLabelAncientShrineWarning>TODO</LetterLabelAncientShrineWarning>
   <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>As {0} draws near the ancient wall, a sense of foreboding overcomes [PAWN_objective]. [PAWN_pronoun] isn't sure why, but [PAWN_pronoun] feels that this dusty structure may contain great danger.</AncientShrineWarning>
+  <AncientShrineWarning>TODO</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
-  <StruckMineable>We have struck {0}!</StruckMineable>
+  <StruckMineable>TODO</StruckMineable>
 
   <!-- EN: {0} revenge -->
-  <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
+  <LetterLabelAnimalManhunterRevenge>TODO</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>A {0} is attacking after being harmed!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>TODO</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>A {0} is attacking due to a taming attempt!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>TODO</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
-  <AnimalManhunterOthers>Other {0} nearby have also become enraged!</AnimalManhunterOthers>
+  <AnimalManhunterOthers>TODO</AnimalManhunterOthers>
 
   <!-- EN: {1_labelShort} hit trap -->
-  <LetterFriendlyTrapSprungLabel>{0} hit trap</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>TODO</LetterFriendlyTrapSprungLabel>
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>{0} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>TODO</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>{0} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2}</LetterHealthComplications>
+  <LetterHealthComplications>TODO</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHealthComplicationsLabel>{0}: {1}</LetterHealthComplicationsLabel>
+  <LetterHealthComplicationsLabel>TODO</LetterHealthComplicationsLabel>
   
   <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
-  <LetterHediffFromRandomHediffGiver>{0} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>TODO</LetterHediffFromRandomHediffGiver>
   <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHediffFromRandomHediffGiverLabel>{0}: {1}</LetterHediffFromRandomHediffGiverLabel>
+  <LetterHediffFromRandomHediffGiverLabel>TODO</LetterHediffFromRandomHediffGiverLabel>
 
   <!-- EN: {1} died: {0} -->
-  <LetterLeadersDeathLabel>{1} died: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeathLabel>TODO</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>{0}, {3} of {1}, has died.\n\nThe new {3} is {2}.</LetterLeadersDeath>
+  <LetterLeadersDeath>TODO</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
-  <LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChangedLabel>TODO</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>{0} is no longer {3} of {1}.\n\nThe new {3} is {2}.</LetterLeaderChanged>
+  <LetterLeaderChanged>TODO</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
   <LetterNewLeader>TODO</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
-  <FinalStraw>The final straw was: {0}</FinalStraw>
+  <FinalStraw>TODO</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
   <MentalStateReason_Mood>TODO</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
@@ -157,118 +157,118 @@
   <!-- EN: This happened because of {0_definite}'s death. -->
   <MentalStateReason_BondedHumanDeath>TODO</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
-  <LastFactionRelationsEvent>The last event was</LastFactionRelationsEvent>
+  <LastFactionRelationsEvent>TODO</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
   <ViewRelatedQuest>TODO</ViewRelatedQuest>
   <!-- EN: View quest -->
   <ViewQuest>TODO</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>The last events in {0}'s life</LastEventsInLife>
+  <LastEventsInLife>TODO</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
   <LetterInspirationBeginThanksToHighMoodPart>TODO</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
-  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
+  <LetterLabelNoticedRelatedPawns>TODO</LetterLabelNoticedRelatedPawns>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
-  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidEnemy>TODO</LetterRelatedPawnsRaidEnemy>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
-  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsRaidFriendly>TODO</LetterRelatedPawnsRaidFriendly>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
-  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your {0} or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsNeutralGroup>TODO</LetterRelatedPawnsNeutralGroup>
   <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradeShip>TODO</LetterRelatedPawnsTradeShip>
   <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithSettlement>TODO</LetterRelatedPawnsTradingWithSettlement>
   <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsTradingWithOtherCaravan>TODO</LetterRelatedPawnsTradingWithOtherCaravan>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
-  <LetterRelatedPawnsGroupGeneric>There are people who have relationships with your {0} or prisoners in the group:</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsGroupGeneric>TODO</LetterRelatedPawnsGroupGeneric>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
-  <LetterRelatedPawnsInMapWherePlayerLanded>There are people who have relationships with your {0} or prisoners in the area where your {0} have landed.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsInMapWherePlayerLanded>TODO</LetterRelatedPawnsInMapWherePlayerLanded>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
-  <LetterRelatedPawnsSettlement>There are people who have relationships with your {0} or prisoners in this settlement:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSettlement>TODO</LetterRelatedPawnsSettlement>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
-  <LetterRelatedPawnsSite>There are people who have relationships with your {0} or prisoners in this area:</LetterRelatedPawnsSite>
+  <LetterRelatedPawnsSite>TODO</LetterRelatedPawnsSite>
 
   <!-- EN: relationship -->
-  <RelationshipAppendedLetterSuffix>(relationship)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterSuffix>TODO</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>[PAWN_nameDef] has a relationship with a colonist. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>TODO</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>[PAWN_nameDef] has a relationship with one of your prisoners. [PAWN_pronoun] is {0}'s {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>TODO</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
-  <LetterLabelAffair>Affair</LetterLabelAffair>
+  <LetterLabelAffair>TODO</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>{0}, married to {1}, has begun an affair with {2}.</LetterAffair>
+  <LetterAffair>TODO</LetterAffair>
   <!-- EN: New lovers -->
-  <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
+  <LetterLabelNewLovers>TODO</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
   <LetterNewLovers>TODO</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>{0} and {1} are no longer in a relationship.</LetterNoLongerLovers>
+  <LetterNoLongerLovers>TODO</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
   <LetterNoLongerLovers_BackToBirthName>TODO</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
-  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
+  <LetterLabelBreakup>TODO</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
-  <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>TODO</LetterLabelAcceptedProposal>
   <!-- EN: Rejected proposal -->
-  <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
+  <LetterLabelRejectedProposal>TODO</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
+  <LetterAcceptedProposal>TODO</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
   <LetterAcceptedProposal_NameChange>TODO</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>{0} is going to be unhappy about this.</LetterRejectedProposal>
+  <LetterRejectedProposal>TODO</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- EN: Hostile: {0} -->
-  <LetterLabelRelationsChange_Hostile>Hostile: {0}</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Hostile>TODO</LetterLabelRelationsChange_Hostile>
   <!-- EN: Allied: {0} -->
-  <LetterLabelRelationsChange_Ally>Allied: {0}</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_Ally>TODO</LetterLabelRelationsChange_Ally>
   <!-- EN: Enemy now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromHostile>Enemy now neutral: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromHostile>TODO</LetterLabelRelationsChange_NeutralFromHostile>
   <!-- EN: Ally now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromAlly>Ally now neutral: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelRelationsChange_NeutralFromAlly>TODO</LetterLabelRelationsChange_NeutralFromAlly>
   <!-- EN: Zzztt... -->
-  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
+  <LetterLabelShortCircuit>TODO</LetterLabelShortCircuit>
 
   <!-- Bonded animals -->
   <!-- EN: bonded -->
-  <LetterLabelSuffixBondedAnimalDied>bonded animal</LetterLabelSuffixBondedAnimalDied>
+  <LetterLabelSuffixBondedAnimalDied>TODO</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>{0} was bonded to {1}. It will affect {1}'s mood.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>TODO</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
-  <LetterPartBondedAnimalDiedMulti>It will affect mood of the following people:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+  <LetterPartBondedAnimalDiedMulti>TODO</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
   <!-- EN: Prison break -->
-  <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
+  <LetterLabelPrisonBreak>TODO</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
+  <LetterPrisonBreak>TODO</LetterPrisonBreak>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
-  <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
+  <LetterLabelNewlyAddicted>TODO</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>{0} has developed an addiction to {1}.\n\n[PAWN_pronoun] now has a need for {1}, visible on [PAWN_possessive] Needs tab. [PAWN_pronoun] will automatically consume the drug to fulfil [PAWN_possessive] need. If [PAWN_pronoun] cannot get any {1}, [PAWN_pronoun] will go into withdrawal.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>TODO</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
-  <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
+  <LetterLabelDrugBinge>TODO</LetterLabelDrugBinge>
   <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>{0} is binging on {1}.</LetterDrugBinge>
+  <LetterDrugBinge>TODO</LetterDrugBinge>
 
   <!-- Caravan destroyed -->
   <!-- EN: Caravan destroyed -->
-  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+  <LetterLabelAllCaravanColonistsDied>TODO</LetterLabelAllCaravanColonistsDied>
   <!-- EN: All members of {0} have died. -->
-  <LetterAllCaravanColonistsDied>All members of {0} have died.</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>TODO</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered map -->
   <!-- EN: Caravan arrived at {0_label} -->
@@ -278,37 +278,37 @@
 
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+  <LetterLabelCaravanEnteredEnemyBase>TODO</LetterLabelCaravanEnteredEnemyBase>
   <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
-  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>TODO</LetterCaravanEnteredEnemyBase>
 
   <!-- Transport pods landed in enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelTransportPodsLandedInEnemyBase>Attack begun</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterLabelTransportPodsLandedInEnemyBase>TODO</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
-  <LetterTransportPodsLandedInEnemyBase>Your transport pods have arrived at {0}.</LetterTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>TODO</LetterTransportPodsLandedInEnemyBase>
   <!-- EN: The shuttle has arrived at {0}. -->
   <LetterShuttleLandedInEnemyBase>TODO</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
-  <LetterLabelFactionBaseDefeated>Base destroyed</LetterLabelFactionBaseDefeated>
+  <LetterLabelFactionBaseDefeated>TODO</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterFactionBaseDefeated>The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>TODO</LetterFactionBaseDefeated>
   <!-- EN: Since this was their last settlement, {0} has been defeated. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>This was the last base of {0}, which means this faction doesn't exist anymore.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>TODO</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterLabelDefeatAllEnemiesQuestCompleted>TODO</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>TODO</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Long-range mineral scanner -->
   <!-- EN: Distant resource scanned -->
-  <LetterLabelFoundPreciousLump>Precious minerals found</LetterLabelFoundPreciousLump>
+  <LetterLabelFoundPreciousLump>TODO</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>Your long-range mineral scanner has found a lump of {0} nearby.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>TODO</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
@@ -318,52 +318,52 @@
 
   <!-- Ambush -->
   <!-- EN: Ambush -->
-  <LetterLabelAmbushInExistingMap>Ambush</LetterLabelAmbushInExistingMap>
+  <LetterLabelAmbushInExistingMap>TODO</LetterLabelAmbushInExistingMap>
   <!-- EN: Your {0} have been ambushed! -->
-  <LetterAmbushInExistingMap>Your {0} have been ambushed!</LetterAmbushInExistingMap>
+  <LetterAmbushInExistingMap>TODO</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
   <!-- EN: Peace talks disaster -->
-  <LetterLabelPeaceTalks_Disaster>Peace talks disaster</LetterLabelPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Disaster>TODO</LetterLabelPeaceTalks_Disaster>
   <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
-  <LetterPeaceTalks_Disaster>The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>TODO</LetterPeaceTalks_Disaster>
   <!-- EN: Peace talks backfire -->
-  <LetterLabelPeaceTalks_Backfire>Peace talks backfire</LetterLabelPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_Backfire>TODO</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
-  <LetterPeaceTalks_Backfire>The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>TODO</LetterPeaceTalks_Backfire>
   <!-- EN: Peace talks flounder -->
-  <LetterLabelPeaceTalks_TalksFlounder>Peace talks flounder</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_TalksFlounder>TODO</LetterLabelPeaceTalks_TalksFlounder>
   <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
-  <LetterPeaceTalks_TalksFlounder>The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged.</LetterPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>TODO</LetterPeaceTalks_TalksFlounder>
   <!-- EN: Peace talks success -->
-  <LetterLabelPeaceTalks_Success>Peace talks success</LetterLabelPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Success>TODO</LetterLabelPeaceTalks_Success>
   <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
-  <LetterPeaceTalks_Success>The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}.</LetterPeaceTalks_Success>
+  <LetterPeaceTalks_Success>TODO</LetterPeaceTalks_Success>
   <!-- EN: Peace talks triumph -->
-  <LetterLabelPeaceTalks_Triumph>Peace talks triumph</LetterLabelPeaceTalks_Triumph>
+  <LetterLabelPeaceTalks_Triumph>TODO</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
-  <LetterPeaceTalks_Triumph>The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2}</LetterPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>TODO</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
-  <PeaceTalksSocialXPGain>{0}, your negotiator, has gained {1} social experience.</PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>TODO</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
-  <LetterRunWildMentalBreak>{0} is fed up with civilization.\n\n[PAWN_pronoun] realized that wild creatures are always free. So, [PAWN_pronoun] has decided to leave your faction and live with the animals.\n\nYou can attempt to tame [PAWN_objective] to get [PAWN_objective] back.</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>TODO</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
-  <LetterCatatonicMentalBreak>{0} has suffered a total mental breakdown and entered a catatonic state. [PAWN_pronoun] will recover in several days.</LetterCatatonicMentalBreak>
+  <LetterCatatonicMentalBreak>TODO</LetterCatatonicMentalBreak>
 
   <!-- EN: Persona Core Offer -->
-  <LetterLabelAICoreOffer>AI Core Offer</LetterLabelAICoreOffer>
+  <LetterLabelAICoreOffer>TODO</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
-  <LetterAICoreOffer>{0} of {1} contacts you with an offer of information: the location of an AI persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested.</LetterAICoreOffer>
+  <LetterAICoreOffer>TODO</LetterAICoreOffer>
 
   <!-- Crafting letters -->
   <!-- EN: Legendary Work -->
-  <LetterCraftedLegendaryLabel>Legendary Work</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryLabel>TODO</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>{0} has created a {1}.\n\nNews of this valuable artifact will spread across the world.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>TODO</LetterCraftedLegendaryMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
   <LetterCraftedLegendaryMessageArt>TODO</LetterCraftedLegendaryMessageArt>
 
@@ -376,51 +376,51 @@
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Caravan lost</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>TODO</LetterLabelPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
-  <LetterPawnsLostBecauseMapClosed_Caravan>Your caravan has been lost. The following people and animals have been lost with it</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>TODO</LetterPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Inhabitants abandoned -->
-  <LetterLabelPawnsLostBecauseMapClosed_Home>Inhabitants abandoned</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <LetterLabelPawnsLostBecauseMapClosed_Home>TODO</LetterLabelPawnsLostBecauseMapClosed_Home>
   <!-- EN: The following people and animals have been abandoned -->
-  <LetterPawnsLostBecauseMapClosed_Home>The following people and animals have been abandoned</LetterPawnsLostBecauseMapClosed_Home>
+  <LetterPawnsLostBecauseMapClosed_Home>TODO</LetterPawnsLostBecauseMapClosed_Home>
 
   <!-- Hibernate complete -->
   <!-- EN: Reactor ready -->
-  <LetterLabelHibernateComplete>Reactor ready</LetterLabelHibernateComplete>
+  <LetterLabelHibernateComplete>TODO</LetterLabelHibernateComplete>
   <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>Charlon Whitestone has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff.</LetterHibernateComplete>
+  <LetterHibernateComplete>TODO</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
-  <LetterHibernateCompleteStandalone>The reactor's power up sequence is complete. It is now ready to power a liftoff.</LetterHibernateCompleteStandalone>
+  <LetterHibernateCompleteStandalone>TODO</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
   <!-- EN: Gift from {0} -->
-  <LetterLabelVisitorsGaveGift>Gift</LetterLabelVisitorsGaveGift>
+  <LetterLabelVisitorsGaveGift>TODO</LetterLabelVisitorsGaveGift>
   <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
-  <LetterVisitorsGaveGift>Since you're having a hard time, we're helping you out.</LetterVisitorsGaveGift>
+  <LetterVisitorsGaveGift>TODO</LetterVisitorsGaveGift>
 
   <!-- Faction base proximity -->
   <!-- EN: Faction base proximity -->
-  <LetterLabelFactionBaseProximity>Faction base proximity</LetterLabelFactionBaseProximity>
+  <LetterLabelFactionBaseProximity>TODO</LetterLabelFactionBaseProximity>
   <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
-  <LetterFactionBaseProximity>Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by:</LetterFactionBaseProximity>
+  <LetterFactionBaseProximity>TODO</LetterFactionBaseProximity>
 
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
-  <LetterLabelCaravansBattlefieldVictory>Caravan battle won</LetterLabelCaravansBattlefieldVictory>
+  <LetterLabelCaravansBattlefieldVictory>TODO</LetterLabelCaravansBattlefieldVictory>
   <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterCaravansBattlefieldVictory>Your caravan has won the battle.\n\nIn {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.</LetterCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>TODO</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
-  <LetterLabelRescueQuestFinished>Rescuee joins</LetterLabelRescueQuestFinished>
+  <LetterLabelRescueQuestFinished>TODO</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>You have rescued [PAWN_nameDef] and [PAWN_pronoun] has joined your group.\n\nYou can take [PAWN_objective] with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option.</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>TODO</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>{0} hunting {1}</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>TODO</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>{0} is hunting {1} for food!</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>TODO</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on -->
@@ -587,15 +587,5 @@
   <LetterSpeechCancelled>TODO</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
   <LetterLabelSpeechCancelled>TODO</LetterLabelSpeechCancelled>
-
-  <!-- UNUSED -->
-  <PrisonerRescueTimeout>The camp will disappear after {0} days. If you miss this opportunity, you may never hear from {1} again.</PrisonerRescueTimeout>
-  <LetterLabelMentalBreakdown>Mental break</LetterLabelMentalBreakdown>
-  <LetterLabelNewParty>Party</LetterLabelNewParty>
-  <LetterNewParty>{0} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost.</LetterNewParty>
-  <MentalBreakLetterLabel>Mental break</MentalBreakLetterLabel>
-  <LetterLabelCaravanEnteredAmbushMap>Caravan arrived at ambush</LetterLabelCaravanEnteredAmbushMap>
-  <LetterCaravanEnteredAmbushMap>{0} has arrived at the ambush site.</LetterCaravanEnteredAmbushMap>
-  <LetterLabelPlayerEnteredNewSiteGeneric>Arrived at site</LetterLabelPlayerEnteredNewSiteGeneric>
 
 </LanguageData>

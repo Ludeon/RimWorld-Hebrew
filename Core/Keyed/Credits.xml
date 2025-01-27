@@ -74,17 +74,4 @@
 
 
 
-  <!-- UNUSED -->
-  <Credit_DirectionVarious>ניהול, עיצוב, קוד, אומנות</Credit_DirectionVarious>
-  <Credit_Code>קוד</Credit_Code>
-  <Credit_MenuArt>אומנות טפרית</Credit_MenuArt>
-  <Credit_AdditionalCode>קוד נוסף</Credit_AdditionalCode>
-  <Credit_Tester>בודק</Credit_Tester>
-  <Credit_Moderator>ממתן</Credit_Moderator>
-  <Credit_WikiMaster>Wiki מאסטר</Credit_WikiMaster>
-  <Credit_Writer>כותב</Credit_Writer>
-  <Credit_Translator>מתרגם</Credit_Translator>
-  <Credit_OpenSourceLibraries>ספריות קוד פתוח</Credit_OpenSourceLibraries>
-  <Credit_NoiseGeneration>יצירת רעש</Credit_NoiseGeneration>
-
 </LanguageData>

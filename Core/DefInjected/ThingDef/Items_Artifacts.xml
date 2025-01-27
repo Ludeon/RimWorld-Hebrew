@@ -1,30 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- UNUSED -->
-  <Apparel_PsychicInsanityLance.comps.0.useLabel>Activate</Apparel_PsychicInsanityLance.comps.0.useLabel>
-  
-  <!-- UNUSED -->
-  <Apparel_PsychicShockLance.comps.0.useLabel>Activate</Apparel_PsychicShockLance.comps.0.useLabel>
-  
   <!-- EN: psychic animal pulser -->
-  <PsychicAnimalPulser.label>psychic animal pulser</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.label>TODO</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
-  <PsychicAnimalPulser.description>A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage.</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.description>TODO</PsychicAnimalPulser.description>
   <!-- EN: Activate {0_label} -->
   <PsychicAnimalPulser.comps.CompUsable.useLabel>TODO</PsychicAnimalPulser.comps.CompUsable.useLabel>
   
-  <!-- UNUSED -->
-  <PsychicAnimalPulser.comps.0.useLabel>Activate</PsychicAnimalPulser.comps.0.useLabel>
-  
   <!-- EN: psychic soothe pulser -->
-  <PsychicSoothePulser.label>psychic soothe pulser</PsychicSoothePulser.label>
+  <PsychicSoothePulser.label>TODO</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
-  <PsychicSoothePulser.description>A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region.</PsychicSoothePulser.description>
+  <PsychicSoothePulser.description>TODO</PsychicSoothePulser.description>
   <!-- EN: Activate {0_label} -->
   <PsychicSoothePulser.comps.CompUsable.useLabel>TODO</PsychicSoothePulser.comps.CompUsable.useLabel>
-  
-  <!-- UNUSED -->
-  <PsychicSoothePulser.comps.0.useLabel>Activate</PsychicSoothePulser.comps.0.useLabel>
   
 </LanguageData>

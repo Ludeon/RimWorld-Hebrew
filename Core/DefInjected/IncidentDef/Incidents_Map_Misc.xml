@@ -2,102 +2,94 @@
 <LanguageData>
   
   <!-- EN: alphabeavers -->
-  <Alphabeavers.label>alphabeavers</Alphabeavers.label>
+  <Alphabeavers.label>TODO</Alphabeavers.label>
   
   <!-- EN: ambrosia sprout -->
-  <AmbrosiaSprout.label>ambrosia sprout</AmbrosiaSprout.label>
+  <AmbrosiaSprout.label>TODO</AmbrosiaSprout.label>
   <!-- EN: Ambrosia sprout -->
-  <AmbrosiaSprout.letterLabel>Ambrosia sprout</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterLabel>TODO</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>TODO</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>cold snap</ColdSnap.label>
+  <ColdSnap.label>TODO</ColdSnap.label>
   <!-- EN: Cold snap -->
-  <ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
-  <ColdSnap.letterText>An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.</ColdSnap.letterText>
+  <ColdSnap.letterLabel>TODO</ColdSnap.letterLabel>
   
   <!-- EN: crop blight -->
-  <CropBlight.label>crop blight</CropBlight.label>
+  <CropBlight.label>TODO</CropBlight.label>
   
   <!-- EN: farm animals wander in -->
-  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>TODO</FarmAnimalsWanderIn.label>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>flashstorm</Flashstorm.label>
+  <Flashstorm.label>TODO</Flashstorm.label>
   <!-- EN: Flashstorm -->
-  <Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
-  <Flashstorm.letterText>A freak localized flashstorm is striking a small area with lightning. This can cause massive fires.</Flashstorm.letterText>
+  <Flashstorm.letterLabel>TODO</Flashstorm.letterLabel>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>heat wave</HeatWave.label>
+  <HeatWave.label>TODO</HeatWave.label>
   <!-- EN: Heat wave -->
-  <HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
-  <HeatWave.letterText>An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain.</HeatWave.letterText>
+  <HeatWave.letterLabel>TODO</HeatWave.letterLabel>
   
   <!-- EN: herd migration -->
-  <HerdMigration.label>herd migration</HerdMigration.label>
+  <HerdMigration.label>TODO</HerdMigration.label>
   <!-- EN: Animal migration: {0} -->
-  <HerdMigration.letterLabel>Animal migration: {0}</HerdMigration.letterLabel>
+  <HerdMigration.letterLabel>TODO</HerdMigration.letterLabel>
   <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
-  <HerdMigration.letterText>A group of {0} is passing through the area.\n\nThey won't attack unless provoked.</HerdMigration.letterText>
+  <HerdMigration.letterText>TODO</HerdMigration.letterText>
   
   <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>meteorite impact</MeteoriteImpact.label>
+  <MeteoriteImpact.label>TODO</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
-  <MeteoriteImpact.letterLabel>Meteorite</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterLabel>TODO</MeteoriteImpact.letterLabel>
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
-  <MeteoriteImpact.letterText>A large meteorite has struck ground in the area. It has left behind a lump of {0}.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterText>TODO</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>psychic drone</PsychicDrone.label>
+  <PsychicDrone.label>TODO</PsychicDrone.label>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>psychic soothe</PsychicSoothe.label>
+  <PsychicSoothe.label>TODO</PsychicSoothe.label>
   
   <!-- EN: ransom demand -->
-  <RansomDemand.label>ransom demand</RansomDemand.label>
+  <RansomDemand.label>TODO</RansomDemand.label>
   <!-- EN: Ransom demand -->
-  <RansomDemand.letterLabel>Ransom demand</RansomDemand.letterLabel>
-  
-  <!-- UNUSED -->
-  <RefugeeChased.label>chased refugee</RefugeeChased.label>
+  <RansomDemand.letterLabel>TODO</RansomDemand.letterLabel>
   
   <!-- EN: transport pod crash -->
-  <RefugeePodCrash.label>refugee pod crash</RefugeePodCrash.label>
+  <RefugeePodCrash.label>TODO</RefugeePodCrash.label>
   
   <!-- EN: resource pod crash -->
-  <ResourcePodCrash.label>resource pod crash</ResourcePodCrash.label>
+  <ResourcePodCrash.label>TODO</ResourcePodCrash.label>
   
   <!-- EN: self-tame -->
-  <SelfTame.label>self-tame</SelfTame.label>
+  <SelfTame.label>TODO</SelfTame.label>
   
   <!-- EN: short circuit -->
-  <ShortCircuit.label>short circuit</ShortCircuit.label>
+  <ShortCircuit.label>TODO</ShortCircuit.label>
   
   <!-- EN: thrumbos pass -->
-  <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
+  <ThrumboPasses.label>TODO</ThrumboPasses.label>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>toxic fallout</ToxicFallout.label>
+  <ToxicFallout.label>TODO</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
-  <ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
-  <ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season.</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>TODO</ToxicFallout.letterLabel>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
+  <VolcanicWinter.label>TODO</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
-  <VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
-  <VolcanicWinter.letterText>A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums.</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>TODO</VolcanicWinter.letterLabel>
   
   <!-- EN: wanderer join -->
-  <WandererJoin.label>wanderer join</WandererJoin.label>
+  <WandererJoin.label>TODO</WandererJoin.label>
   
   <!-- EN: wild man wanders in -->
-  <WildManWandersIn.label>wild man wanders in</WildManWandersIn.label>
+  <WildManWandersIn.label>TODO</WildManWandersIn.label>
   <!-- EN: {0} wanders in -->
-  <WildManWandersIn.letterLabel>Wild man wanders in</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterLabel>TODO</WildManWandersIn.letterLabel>
   <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
-  <WildManWandersIn.letterText>A person living among wild animals has wandered into the area. [PAWN_pronoun]'s called {0}.\n\nYou can attempt to tame [PAWN_objective].</WildManWandersIn.letterText>
+  <WildManWandersIn.letterText>TODO</WildManWandersIn.letterText>
   
 </LanguageData>

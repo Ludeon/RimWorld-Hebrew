@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: Toggle animals tab -->
-  <MainTab_Animals.label>Toggle {0} tab</MainTab_Animals.label>
+  <MainTab_Animals.label>TODO</MainTab_Animals.label>
   
   <!-- EN: Toggle architect tab -->
-  <MainTab_Architect.label>Toggle {0} tab</MainTab_Architect.label>
+  <MainTab_Architect.label>TODO</MainTab_Architect.label>
   
   <!-- EN: Toggle assign tab -->
-  <MainTab_Assign.label>Toggle {0} tab</MainTab_Assign.label>
+  <MainTab_Assign.label>TODO</MainTab_Assign.label>
   
   <!-- EN: Toggle history tab -->
-  <MainTab_History.label>Toggle {0} tab</MainTab_History.label>
+  <MainTab_History.label>TODO</MainTab_History.label>
   
   <!-- EN: Toggle research tab -->
-  <MainTab_Research.label>Toggle {0} tab</MainTab_Research.label>
+  <MainTab_Research.label>TODO</MainTab_Research.label>
   
   <!-- EN: Toggle wildlife tab -->
-  <MainTab_Wildlife.label>Toggle {0} tab</MainTab_Wildlife.label>
+  <MainTab_Wildlife.label>TODO</MainTab_Wildlife.label>
   
   <!-- EN: Toggle work tab -->
-  <MainTab_Work.label>Toggle {0} tab</MainTab_Work.label>
+  <MainTab_Work.label>TODO</MainTab_Work.label>
   
   <!-- EN: Toggle world tab -->
-  <MainTab_World.label>Toggle {0} tab</MainTab_World.label>
+  <MainTab_World.label>TODO</MainTab_World.label>
   
 </LanguageData>

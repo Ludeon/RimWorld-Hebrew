@@ -9,72 +9,29 @@
   <Bison.lifeStages.bison_calf.labelPlural>TODO</Bison.lifeStages.bison_calf.labelPlural>
   
   <!-- EN: boomalope -->
-  <Boomalope.label>boomalope</Boomalope.label>
-  <Boomalope.labelFemale>boomalope</Boomalope.labelFemale>
-  <Boomalope.labelFemalePlural>boomalope</Boomalope.labelFemalePlural>
-  <Boomalope.labelMale>boomalope</Boomalope.labelMale>
-  <Boomalope.labelMalePlural>boomalope</Boomalope.labelMalePlural>
-  <Boomalope.labelPlural>boomalope</Boomalope.labelPlural>
+  <Boomalope.label>TODO</Boomalope.label>
   <!-- EN: boomalope calf -->
-  <Boomalope.lifeStages.boomalope_calf.label>boomalope calf</Boomalope.lifeStages.boomalope_calf.label>
-  <Boomalope.lifeStages.boomalope_calf.labelFemale>boomalope</Boomalope.lifeStages.boomalope_calf.labelFemale>
-  <Boomalope.lifeStages.boomalope_calf.labelFemalePlural>boomalope</Boomalope.lifeStages.boomalope_calf.labelFemalePlural>
-  <Boomalope.lifeStages.boomalope_calf.labelMale>boomalope</Boomalope.lifeStages.boomalope_calf.labelMale>
-  <Boomalope.lifeStages.boomalope_calf.labelMalePlural>boomalope</Boomalope.lifeStages.boomalope_calf.labelMalePlural>
+  <Boomalope.lifeStages.boomalope_calf.label>TODO</Boomalope.lifeStages.boomalope_calf.label>
   <!-- EN: boomalope calves -->
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>boomalope calves</Boomalope.lifeStages.boomalope_calf.labelPlural>
-  <Boomalope.lifeStages.1.label>boomalope</Boomalope.lifeStages.1.label>
-  <Boomalope.lifeStages.1.labelFemale>boomalope</Boomalope.lifeStages.1.labelFemale>
-  <Boomalope.lifeStages.1.labelFemalePlural>boomalope</Boomalope.lifeStages.1.labelFemalePlural>
-  <Boomalope.lifeStages.1.labelMale>boomalope</Boomalope.lifeStages.1.labelMale>
-  <Boomalope.lifeStages.1.labelMalePlural>boomalope</Boomalope.lifeStages.1.labelMalePlural>
-  <Boomalope.lifeStages.1.labelPlural>boomalope</Boomalope.lifeStages.1.labelPlural>
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>TODO</Boomalope.lifeStages.boomalope_calf.labelPlural>
   
   <!-- EN: caribou -->
-  <Caribou.label>caribou</Caribou.label>
-  <Caribou.labelFemale>caribou</Caribou.labelFemale>
-  <Caribou.labelFemalePlural>caribou</Caribou.labelFemalePlural>
-  <Caribou.labelMale>caribou</Caribou.labelMale>
-  <Caribou.labelMalePlural>caribou</Caribou.labelMalePlural>
+  <Caribou.label>TODO</Caribou.label>
   <!-- EN: caribou -->
-  <Caribou.labelPlural>caribou</Caribou.labelPlural>
+  <Caribou.labelPlural>TODO</Caribou.labelPlural>
   <!-- EN: caribou calf -->
-  <Caribou.lifeStages.caribou_calf.label>caribou calf</Caribou.lifeStages.caribou_calf.label>
-  <Caribou.lifeStages.caribou_calf.labelFemale>caribou</Caribou.lifeStages.caribou_calf.labelFemale>
-  <Caribou.lifeStages.caribou_calf.labelFemalePlural>caribou</Caribou.lifeStages.caribou_calf.labelFemalePlural>
-  <Caribou.lifeStages.caribou_calf.labelMale>caribou</Caribou.lifeStages.caribou_calf.labelMale>
-  <Caribou.lifeStages.caribou_calf.labelMalePlural>caribou</Caribou.lifeStages.caribou_calf.labelMalePlural>
+  <Caribou.lifeStages.caribou_calf.label>TODO</Caribou.lifeStages.caribou_calf.label>
   <!-- EN: caribou calves -->
-  <Caribou.lifeStages.caribou_calf.labelPlural>caribou calves</Caribou.lifeStages.caribou_calf.labelPlural>
-  <Caribou.lifeStages.1.label>caribou</Caribou.lifeStages.1.label>
-  <Caribou.lifeStages.1.labelFemale>caribou</Caribou.lifeStages.1.labelFemale>
-  <Caribou.lifeStages.1.labelFemalePlural>caribou</Caribou.lifeStages.1.labelFemalePlural>
-  <Caribou.lifeStages.1.labelMale>caribou</Caribou.lifeStages.1.labelMale>
-  <Caribou.lifeStages.1.labelMalePlural>caribou</Caribou.lifeStages.1.labelMalePlural>
-  <Caribou.lifeStages.1.labelPlural>caribou</Caribou.lifeStages.1.labelPlural>
+  <Caribou.lifeStages.caribou_calf.labelPlural>TODO</Caribou.lifeStages.caribou_calf.labelPlural>
   
   <!-- EN: cow -->
-  <Cow.label>cow</Cow.label>
-  <Cow.labelFemale>cow</Cow.labelFemale>
-  <Cow.labelFemalePlural>cow</Cow.labelFemalePlural>
+  <Cow.label>TODO</Cow.label>
   <!-- EN: bull -->
-  <Cow.labelMale>bull</Cow.labelMale>
-  <Cow.labelMalePlural>bull</Cow.labelMalePlural>
-  <Cow.labelPlural>cow</Cow.labelPlural>
+  <Cow.labelMale>TODO</Cow.labelMale>
   <!-- EN: calf -->
-  <Cow.lifeStages.calf.label>calf</Cow.lifeStages.calf.label>
-  <Cow.lifeStages.calf.labelFemale>cow</Cow.lifeStages.calf.labelFemale>
-  <Cow.lifeStages.calf.labelFemalePlural>cow</Cow.lifeStages.calf.labelFemalePlural>
-  <Cow.lifeStages.calf.labelMale>cow</Cow.lifeStages.calf.labelMale>
-  <Cow.lifeStages.calf.labelMalePlural>cow</Cow.lifeStages.calf.labelMalePlural>
+  <Cow.lifeStages.calf.label>TODO</Cow.lifeStages.calf.label>
   <!-- EN: calves -->
-  <Cow.lifeStages.calf.labelPlural>calves</Cow.lifeStages.calf.labelPlural>
-  <Cow.lifeStages.1.label>cow</Cow.lifeStages.1.label>
-  <Cow.lifeStages.1.labelFemale>cow</Cow.lifeStages.1.labelFemale>
-  <Cow.lifeStages.1.labelFemalePlural>cow</Cow.lifeStages.1.labelFemalePlural>
-  <Cow.lifeStages.1.labelMale>cow</Cow.lifeStages.1.labelMale>
-  <Cow.lifeStages.1.labelMalePlural>cow</Cow.lifeStages.1.labelMalePlural>
-  <Cow.lifeStages.1.labelPlural>cow</Cow.lifeStages.1.labelPlural>
+  <Cow.lifeStages.calf.labelPlural>TODO</Cow.lifeStages.calf.labelPlural>
   
   <!-- EN: donkey -->
   <Donkey.label>TODO</Donkey.label>
@@ -82,71 +39,27 @@
   <Donkey.lifeStages.donkey_foal.label>TODO</Donkey.lifeStages.donkey_foal.label>
   
   <!-- EN: dromedary -->
-  <Dromedary.label>dromedary</Dromedary.label>
-  <Dromedary.labelFemale>dromedary</Dromedary.labelFemale>
-  <Dromedary.labelFemalePlural>dromedary</Dromedary.labelFemalePlural>
-  <Dromedary.labelMale>dromedary</Dromedary.labelMale>
-  <Dromedary.labelMalePlural>dromedary</Dromedary.labelMalePlural>
+  <Dromedary.label>TODO</Dromedary.label>
   <!-- EN: dromedaries -->
-  <Dromedary.labelPlural>dromedaries</Dromedary.labelPlural>
+  <Dromedary.labelPlural>TODO</Dromedary.labelPlural>
   <!-- EN: dromedary calf -->
-  <Dromedary.lifeStages.dromedary_calf.label>dromedary calf</Dromedary.lifeStages.dromedary_calf.label>
-  <Dromedary.lifeStages.dromedary_calf.labelFemale>dromedary</Dromedary.lifeStages.dromedary_calf.labelFemale>
-  <Dromedary.lifeStages.dromedary_calf.labelFemalePlural>dromedary</Dromedary.lifeStages.dromedary_calf.labelFemalePlural>
-  <Dromedary.lifeStages.dromedary_calf.labelMale>dromedary</Dromedary.lifeStages.dromedary_calf.labelMale>
-  <Dromedary.lifeStages.dromedary_calf.labelMalePlural>dromedary</Dromedary.lifeStages.dromedary_calf.labelMalePlural>
+  <Dromedary.lifeStages.dromedary_calf.label>TODO</Dromedary.lifeStages.dromedary_calf.label>
   <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>dromedary calves</Dromedary.lifeStages.dromedary_calf.labelPlural>
-  <Dromedary.lifeStages.1.label>dromedary</Dromedary.lifeStages.1.label>
-  <Dromedary.lifeStages.1.labelFemale>dromedary</Dromedary.lifeStages.1.labelFemale>
-  <Dromedary.lifeStages.1.labelFemalePlural>dromedary</Dromedary.lifeStages.1.labelFemalePlural>
-  <Dromedary.lifeStages.1.labelMale>dromedary</Dromedary.lifeStages.1.labelMale>
-  <Dromedary.lifeStages.1.labelMalePlural>dromedary</Dromedary.lifeStages.1.labelMalePlural>
-  <Dromedary.lifeStages.1.labelPlural>dromedary</Dromedary.lifeStages.1.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>TODO</Dromedary.lifeStages.dromedary_calf.labelPlural>
   
   <!-- EN: elephant -->
-  <Elephant.label>elephant</Elephant.label>
-  <Elephant.labelFemale>elephant</Elephant.labelFemale>
-  <Elephant.labelFemalePlural>elephant</Elephant.labelFemalePlural>
-  <Elephant.labelMale>elephant</Elephant.labelMale>
-  <Elephant.labelMalePlural>elephant</Elephant.labelMalePlural>
-  <Elephant.labelPlural>elephant</Elephant.labelPlural>
+  <Elephant.label>TODO</Elephant.label>
   <!-- EN: elephant calf -->
-  <Elephant.lifeStages.elephant_calf.label>elephant calf</Elephant.lifeStages.elephant_calf.label>
-  <Elephant.lifeStages.elephant_calf.labelFemale>elephant</Elephant.lifeStages.elephant_calf.labelFemale>
-  <Elephant.lifeStages.elephant_calf.labelFemalePlural>elephant</Elephant.lifeStages.elephant_calf.labelFemalePlural>
-  <Elephant.lifeStages.elephant_calf.labelMale>elephant</Elephant.lifeStages.elephant_calf.labelMale>
-  <Elephant.lifeStages.elephant_calf.labelMalePlural>elephant</Elephant.lifeStages.elephant_calf.labelMalePlural>
-  <Elephant.lifeStages.elephant_calf.labelPlural>elephant calf</Elephant.lifeStages.elephant_calf.labelPlural>
-  <Elephant.lifeStages.1.label>elephant</Elephant.lifeStages.1.label>
-  <Elephant.lifeStages.1.labelFemale>elephant</Elephant.lifeStages.1.labelFemale>
-  <Elephant.lifeStages.1.labelFemalePlural>elephant</Elephant.lifeStages.1.labelFemalePlural>
-  <Elephant.lifeStages.1.labelMale>elephant</Elephant.lifeStages.1.labelMale>
-  <Elephant.lifeStages.1.labelMalePlural>elephant</Elephant.lifeStages.1.labelMalePlural>
-  <Elephant.lifeStages.1.labelPlural>elephant</Elephant.lifeStages.1.labelPlural>
+  <Elephant.lifeStages.elephant_calf.label>TODO</Elephant.lifeStages.elephant_calf.label>
   
   <!-- EN: elk -->
-  <Elk.label>elk</Elk.label>
-  <Elk.labelFemale>elk</Elk.labelFemale>
-  <Elk.labelFemalePlural>elk</Elk.labelFemalePlural>
-  <Elk.labelMale>elk</Elk.labelMale>
-  <Elk.labelMalePlural>elk</Elk.labelMalePlural>
+  <Elk.label>TODO</Elk.label>
   <!-- EN: elk -->
-  <Elk.labelPlural>elk</Elk.labelPlural>
+  <Elk.labelPlural>TODO</Elk.labelPlural>
   <!-- EN: elk calf -->
-  <Elk.lifeStages.elk_calf.label>elk calf</Elk.lifeStages.elk_calf.label>
-  <Elk.lifeStages.elk_calf.labelFemale>elk</Elk.lifeStages.elk_calf.labelFemale>
-  <Elk.lifeStages.elk_calf.labelFemalePlural>elk</Elk.lifeStages.elk_calf.labelFemalePlural>
-  <Elk.lifeStages.elk_calf.labelMale>elk</Elk.lifeStages.elk_calf.labelMale>
-  <Elk.lifeStages.elk_calf.labelMalePlural>elk</Elk.lifeStages.elk_calf.labelMalePlural>
+  <Elk.lifeStages.elk_calf.label>TODO</Elk.lifeStages.elk_calf.label>
   <!-- EN: elk calves -->
-  <Elk.lifeStages.elk_calf.labelPlural>elk calves</Elk.lifeStages.elk_calf.labelPlural>
-  <Elk.lifeStages.1.label>elk</Elk.lifeStages.1.label>
-  <Elk.lifeStages.1.labelFemale>elk</Elk.lifeStages.1.labelFemale>
-  <Elk.lifeStages.1.labelFemalePlural>elk</Elk.lifeStages.1.labelFemalePlural>
-  <Elk.lifeStages.1.labelMale>elk</Elk.lifeStages.1.labelMale>
-  <Elk.lifeStages.1.labelMalePlural>elk</Elk.lifeStages.1.labelMalePlural>
-  <Elk.lifeStages.1.labelPlural>elk</Elk.lifeStages.1.labelPlural>
+  <Elk.lifeStages.elk_calf.labelPlural>TODO</Elk.lifeStages.elk_calf.labelPlural>
   
   <!-- EN: goat -->
   <Goat.label>TODO</Goat.label>
@@ -165,47 +78,16 @@
   <Horse.lifeStages.foal.label>TODO</Horse.lifeStages.foal.label>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>muffalo</Muffalo.label>
-  <Muffalo.labelFemale>muffalo</Muffalo.labelFemale>
-  <Muffalo.labelFemalePlural>muffalo</Muffalo.labelFemalePlural>
-  <Muffalo.labelMale>muffalo</Muffalo.labelMale>
-  <Muffalo.labelMalePlural>muffalo</Muffalo.labelMalePlural>
-  <Muffalo.labelPlural>muffalo</Muffalo.labelPlural>
+  <Muffalo.label>TODO</Muffalo.label>
   <!-- EN: muffalo calf -->
-  <Muffalo.lifeStages.muffalo_calf.label>muffalo calf</Muffalo.lifeStages.muffalo_calf.label>
-  <Muffalo.lifeStages.muffalo_calf.labelFemale>muffalo</Muffalo.lifeStages.muffalo_calf.labelFemale>
-  <Muffalo.lifeStages.muffalo_calf.labelFemalePlural>muffalo</Muffalo.lifeStages.muffalo_calf.labelFemalePlural>
-  <Muffalo.lifeStages.muffalo_calf.labelMale>muffalo</Muffalo.lifeStages.muffalo_calf.labelMale>
-  <Muffalo.lifeStages.muffalo_calf.labelMalePlural>muffalo</Muffalo.lifeStages.muffalo_calf.labelMalePlural>
+  <Muffalo.lifeStages.muffalo_calf.label>TODO</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>muffalo calves</Muffalo.lifeStages.muffalo_calf.labelPlural>
-  <Muffalo.lifeStages.1.label>muffalo</Muffalo.lifeStages.1.label>
-  <Muffalo.lifeStages.1.labelFemale>muffalo</Muffalo.lifeStages.1.labelFemale>
-  <Muffalo.lifeStages.1.labelFemalePlural>muffalo</Muffalo.lifeStages.1.labelFemalePlural>
-  <Muffalo.lifeStages.1.labelMale>muffalo</Muffalo.lifeStages.1.labelMale>
-  <Muffalo.lifeStages.1.labelMalePlural>muffalo</Muffalo.lifeStages.1.labelMalePlural>
-  <Muffalo.lifeStages.1.labelPlural>muffalo</Muffalo.lifeStages.1.labelPlural>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>TODO</Muffalo.lifeStages.muffalo_calf.labelPlural>
   
   <!-- EN: rhinoceros -->
-  <Rhinoceros.label>rhinoceros</Rhinoceros.label>
-  <Rhinoceros.labelFemale>rhinoceros</Rhinoceros.labelFemale>
-  <Rhinoceros.labelFemalePlural>rhinoceros</Rhinoceros.labelFemalePlural>
-  <Rhinoceros.labelMale>rhinoceros</Rhinoceros.labelMale>
-  <Rhinoceros.labelMalePlural>rhinoceros</Rhinoceros.labelMalePlural>
+  <Rhinoceros.label>TODO</Rhinoceros.label>
   <!-- EN: rhinoceroses -->
-  <Rhinoceros.labelPlural>rhinoceroses</Rhinoceros.labelPlural>
-  <Rhinoceros.lifeStages.0.label>rhinoceros</Rhinoceros.lifeStages.0.label>
-  <Rhinoceros.lifeStages.0.labelFemale>rhinoceros</Rhinoceros.lifeStages.0.labelFemale>
-  <Rhinoceros.lifeStages.0.labelFemalePlural>rhinoceros</Rhinoceros.lifeStages.0.labelFemalePlural>
-  <Rhinoceros.lifeStages.0.labelMale>rhinoceros</Rhinoceros.lifeStages.0.labelMale>
-  <Rhinoceros.lifeStages.0.labelMalePlural>rhinoceros</Rhinoceros.lifeStages.0.labelMalePlural>
-  <Rhinoceros.lifeStages.0.labelPlural>rhinoceros</Rhinoceros.lifeStages.0.labelPlural>
-  <Rhinoceros.lifeStages.1.label>rhinoceros</Rhinoceros.lifeStages.1.label>
-  <Rhinoceros.lifeStages.1.labelFemale>rhinoceros</Rhinoceros.lifeStages.1.labelFemale>
-  <Rhinoceros.lifeStages.1.labelFemalePlural>rhinoceros</Rhinoceros.lifeStages.1.labelFemalePlural>
-  <Rhinoceros.lifeStages.1.labelMale>rhinoceros</Rhinoceros.lifeStages.1.labelMale>
-  <Rhinoceros.lifeStages.1.labelMalePlural>rhinoceros</Rhinoceros.lifeStages.1.labelMalePlural>
-  <Rhinoceros.lifeStages.1.labelPlural>rhinoceros</Rhinoceros.lifeStages.1.labelPlural>
+  <Rhinoceros.labelPlural>TODO</Rhinoceros.labelPlural>
   
   <!-- EN: yak -->
   <Yak.label>TODO</Yak.label>

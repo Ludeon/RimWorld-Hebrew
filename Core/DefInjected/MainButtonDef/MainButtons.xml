@@ -2,37 +2,37 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>animals</Animals.label>
+  <Animals.label>TODO</Animals.label>
   <!-- EN: Configure how the colony's tame animals should be treated. -->
-  <Animals.description>Configure how the colony's tame animals should be treated.</Animals.description>
+  <Animals.description>TODO</Animals.description>
   
   <!-- EN: architect -->
-  <Architect.label>architect</Architect.label>
+  <Architect.label>TODO</Architect.label>
   <!-- EN: Designate where to build, farm, store items, and so on. -->
-  <Architect.description>Designate where to build, farm, store items, and so on.</Architect.description>
+  <Architect.description>TODO</Architect.description>
   
   <!-- EN: assign -->
-  <Assign.label>assign</Assign.label>
+  <Assign.label>TODO</Assign.label>
   <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
-  <Assign.description>Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies.</Assign.description>
+  <Assign.description>TODO</Assign.description>
   
   <!-- EN: factions -->
-  <Factions.label>factions</Factions.label>
+  <Factions.label>TODO</Factions.label>
   <!-- EN: Review the other factions on this world and their relationships. -->
-  <Factions.description>Review the other factions on this world and their relationships.</Factions.description>
+  <Factions.description>TODO</Factions.description>
   
   <!-- EN: history -->
-  <History.label>history</History.label>
+  <History.label>TODO</History.label>
   <!-- EN: Review historical records. -->
-  <History.description>Review historical records.</History.description>
+  <History.description>TODO</History.description>
   
   <!-- EN: inspect -->
-  <Inspect.label>inspect</Inspect.label>
+  <Inspect.label>TODO</Inspect.label>
   
   <!-- EN: menu -->
-  <Menu.label>menu</Menu.label>
+  <Menu.label>TODO</Menu.label>
   <!-- EN: Change options, save, load, or quit the game. -->
-  <Menu.description>Change options, save, load, or quit the game.</Menu.description>
+  <Menu.description>TODO</Menu.description>
   
   <!-- EN: quests -->
   <Quests.label>TODO</Quests.label>
@@ -40,13 +40,9 @@
   <Quests.description>TODO</Quests.description>
   
   <!-- EN: research -->
-  <Research.label>research</Research.label>
+  <Research.label>TODO</Research.label>
   <!-- EN: Examine and decide on research projects. -->
-  <Research.description>Examine and decide on research projects.</Research.description>
-  
-  <!-- UNUSED -->
-  <Restrict.label>restrict</Restrict.label>
-  <Restrict.description>Restrict colonists to certain activities at certain times of day, or to specific allowed areas.</Restrict.description>
+  <Research.description>TODO</Research.description>
   
   <!-- EN: schedule -->
   <Schedule.label>TODO</Schedule.label>
@@ -54,18 +50,18 @@
   <Schedule.description>TODO</Schedule.description>
   
   <!-- EN: wildlife -->
-  <Wildlife.label>wildlife</Wildlife.label>
+  <Wildlife.label>TODO</Wildlife.label>
   <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
-  <Wildlife.description>List wild animals in the area and designate them for hunting or taming.</Wildlife.description>
+  <Wildlife.description>TODO</Wildlife.description>
   
   <!-- EN: work -->
-  <Work.label>work</Work.label>
+  <Work.label>TODO</Work.label>
   <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
-  <Work.description>Choose which colonist does what kinds of work, and in what order.</Work.description>
+  <Work.description>TODO</Work.description>
   
   <!-- EN: world -->
-  <World.label>world</World.label>
+  <World.label>TODO</World.label>
   <!-- EN: Examine the world map, form, and manage caravans. -->
-  <World.description>Examine the world map, form, and manage caravans.</World.description>
+  <World.description>TODO</World.description>
   
 </LanguageData>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: animal products -->
-  <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
+  <AnimalProductRaw.label>TODO</AnimalProductRaw.label>
   
   <!-- EN: animals -->
   <Animals.label>TODO</Animals.label>
   
   <!-- EN: apparel -->
-  <Apparel.label>apparel</Apparel.label>
+  <Apparel.label>TODO</Apparel.label>
   
   <!-- EN: armor -->
   <ApparelArmor.label>TODO</ApparelArmor.label>
@@ -26,16 +26,13 @@
   <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
-  <Artifacts.label>artifacts</Artifacts.label>
+  <Artifacts.label>TODO</Artifacts.label>
   
   <!-- EN: body parts -->
-  <BodyParts.label>body parts</BodyParts.label>
+  <BodyParts.label>TODO</BodyParts.label>
   
   <!-- EN: archotech -->
   <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
-  
-  <!-- UNUSED -->
-  <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
   
   <!-- EN: bionic -->
   <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
@@ -44,7 +41,7 @@
   <BodyPartsMechtech.label>TODO</BodyPartsMechtech.label>
   
   <!-- EN: natural -->
-  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
+  <BodyPartsNatural.label>TODO</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
   <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
@@ -62,76 +59,76 @@
   <Books.label>TODO</Books.label>
   
   <!-- EN: buildings -->
-  <Buildings.label>buildings</Buildings.label>
+  <Buildings.label>TODO</Buildings.label>
   
   <!-- EN: art -->
-  <BuildingsArt.label>art</BuildingsArt.label>
+  <BuildingsArt.label>TODO</BuildingsArt.label>
   
   <!-- EN: furniture -->
-  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
+  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
-  <BuildingsJoy.label>recreation</BuildingsJoy.label>
+  <BuildingsJoy.label>TODO</BuildingsJoy.label>
   
   <!-- EN: misc -->
-  <BuildingsMisc.label>misc</BuildingsMisc.label>
+  <BuildingsMisc.label>TODO</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>power</BuildingsPower.label>
+  <BuildingsPower.label>TODO</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>production</BuildingsProduction.label>
+  <BuildingsProduction.label>TODO</BuildingsProduction.label>
   
   <!-- EN: security -->
-  <BuildingsSecurity.label>security</BuildingsSecurity.label>
+  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>special</BuildingsSpecial.label>
+  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>temperature</BuildingsTemperature.label>
+  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
-  <Chunks.label>chunks</Chunks.label>
+  <Chunks.label>TODO</Chunks.label>
   
   <!-- EN: corpses -->
-  <Corpses.label>corpses</Corpses.label>
+  <Corpses.label>TODO</Corpses.label>
   
   <!-- EN: animal corpses -->
-  <CorpsesAnimal.label>animal corpses</CorpsesAnimal.label>
+  <CorpsesAnimal.label>TODO</CorpsesAnimal.label>
   
   <!-- EN: humanlike corpses -->
-  <CorpsesHumanlike.label>humanlike corpses</CorpsesHumanlike.label>
+  <CorpsesHumanlike.label>TODO</CorpsesHumanlike.label>
   
   <!-- EN: insect corpses -->
-  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
+  <CorpsesInsect.label>TODO</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
-  <CorpsesMechanoid.label>mechanoid corpses</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>TODO</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
-  <Drugs.label>drugs</Drugs.label>
+  <Drugs.label>TODO</Drugs.label>
   
   <!-- EN: eggs (fert.) -->
-  <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
+  <EggsFertilized.label>TODO</EggsFertilized.label>
   
   <!-- EN: eggs (unfert.) -->
-  <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
+  <EggsUnfertilized.label>TODO</EggsUnfertilized.label>
   
   <!-- EN: meals -->
-  <FoodMeals.label>meals</FoodMeals.label>
+  <FoodMeals.label>TODO</FoodMeals.label>
   
   <!-- EN: raw food -->
-  <FoodRaw.label>raw food</FoodRaw.label>
+  <FoodRaw.label>TODO</FoodRaw.label>
   
   <!-- EN: foods -->
-  <Foods.label>foods</Foods.label>
+  <Foods.label>TODO</Foods.label>
   
   <!-- EN: grenades -->
-  <Grenades.label>grenades</Grenades.label>
+  <Grenades.label>TODO</Grenades.label>
   
   <!-- EN: headgear -->
-  <Headgear.label>headgear</Headgear.label>
+  <Headgear.label>TODO</Headgear.label>
   
   <!-- EN: headgear -->
   <HeadgearNoble.label>TODO</HeadgearNoble.label>
@@ -140,25 +137,25 @@
   <InertRelics.label>TODO</InertRelics.label>
   
   <!-- EN: items -->
-  <Items.label>items</Items.label>
+  <Items.label>TODO</Items.label>
   
   <!-- EN: misc -->
   <ItemsMisc.label>TODO</ItemsMisc.label>
   
   <!-- EN: leathers -->
-  <Leathers.label>leathers</Leathers.label>
+  <Leathers.label>TODO</Leathers.label>
   
   <!-- EN: manufactured -->
-  <Manufactured.label>manufactured</Manufactured.label>
+  <Manufactured.label>TODO</Manufactured.label>
   
   <!-- EN: meat -->
-  <MeatRaw.label>meat</MeatRaw.label>
+  <MeatRaw.label>TODO</MeatRaw.label>
   
   <!-- EN: medicine -->
-  <Medicine.label>medicine</Medicine.label>
+  <Medicine.label>TODO</Medicine.label>
   
   <!-- EN: mortar shells -->
-  <MortarShells.label>mortar shells</MortarShells.label>
+  <MortarShells.label>TODO</MortarShells.label>
   
   <!-- EN: neurotrainers -->
   <Neurotrainers.label>TODO</Neurotrainers.label>
@@ -170,10 +167,10 @@
   <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
+  <PlantFoodRaw.label>TODO</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
-  <PlantMatter.label>plant matter</PlantMatter.label>
+  <PlantMatter.label>TODO</PlantMatter.label>
   
   <!-- EN: plants -->
   <Plants.label>TODO</Plants.label>
@@ -182,19 +179,19 @@
   <ResearchGain.label>TODO</ResearchGain.label>
   
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>raw resources</ResourcesRaw.label>
+  <ResourcesRaw.label>TODO</ResourcesRaw.label>
   
   <!-- EN: root -->
-  <Root.label>root</Root.label>
+  <Root.label>TODO</Root.label>
   
   <!-- EN: skill gain -->
   <SkillGain.label>TODO</SkillGain.label>
   
   <!-- EN: stone blocks -->
-  <StoneBlocks.label>stone blocks</StoneBlocks.label>
+  <StoneBlocks.label>TODO</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
-  <StoneChunks.label>stone chunks</StoneChunks.label>
+  <StoneChunks.label>TODO</StoneChunks.label>
   
   <!-- EN: stumps -->
   <Stumps.label>TODO</Stumps.label>
@@ -203,22 +200,22 @@
   <Techprints.label>TODO</Techprints.label>
   
   <!-- EN: textiles -->
-  <Textiles.label>textiles</Textiles.label>
+  <Textiles.label>TODO</Textiles.label>
   
   <!-- EN: unfinished -->
-  <Unfinished.label>unfinished</Unfinished.label>
+  <Unfinished.label>TODO</Unfinished.label>
   
   <!-- EN: weapons -->
-  <Weapons.label>weapons</Weapons.label>
+  <Weapons.label>TODO</Weapons.label>
   
   <!-- EN: melee weapons -->
-  <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
+  <WeaponsMelee.label>TODO</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
   <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
-  <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
+  <WeaponsRanged.label>TODO</WeaponsRanged.label>
   
   <!-- EN: wools -->
   <Wools.label>TODO</Wools.label>

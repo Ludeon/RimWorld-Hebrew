@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: blight -->
-  <Blight.label>blight</Blight.label>
+  <Blight.label>TODO</Blight.label>
   
   <!-- EN: explosion -->
-  <Explosion.label>explosion</Explosion.label>
+  <Explosion.label>TODO</Explosion.label>
   
   <!-- EN: flying -->
   <PawnFlyer.label>TODO</PawnFlyer.label>
@@ -17,10 +17,10 @@
   <RadialTrigger.label>TODO</RadialTrigger.label>
   
   <!-- EN: rect trigger -->
-  <RectTrigger.label>rect trigger</RectTrigger.label>
+  <RectTrigger.label>TODO</RectTrigger.label>
   
   <!-- EN: tornado -->
-  <Tornado.label>tornado</Tornado.label>
+  <Tornado.label>TODO</Tornado.label>
   
   <!-- EN: trigger container emptied -->
   <TriggerContainerEmptied.label>TODO</TriggerContainerEmptied.label>
@@ -29,6 +29,6 @@
   <TriggerUnfogged.label>TODO</TriggerUnfogged.label>
   
   <!-- EN: tunnel -->
-  <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
+  <TunnelHiveSpawner.label>TODO</TunnelHiveSpawner.label>
   
 </LanguageData>

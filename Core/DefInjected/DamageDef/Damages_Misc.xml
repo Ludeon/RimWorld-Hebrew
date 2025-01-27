@@ -7,14 +7,14 @@
   <AcidBurn.deathMessage>TODO</AcidBurn.deathMessage>
   
   <!-- EN: bomb -->
-  <Bomb.label>bomb</Bomb.label>
+  <Bomb.label>TODO</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>{0} has died in an explosion.</Bomb.deathMessage>
+  <Bomb.deathMessage>TODO</Bomb.deathMessage>
   
   <!-- EN: bomb -->
-  <BombSuper.label>bomb</BombSuper.label>
+  <BombSuper.label>TODO</BombSuper.label>
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>{0} has died in an explosion.</BombSuper.deathMessage>
+  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
   
   <!-- EN: decayed organ -->
   <Decayed.label>TODO</Decayed.label>
@@ -22,29 +22,29 @@
   <Decayed.deathMessage>TODO</Decayed.deathMessage>
   
   <!-- EN: deterioration -->
-  <Deterioration.label>deterioration</Deterioration.label>
+  <Deterioration.label>TODO</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>{0} has been killed.</Deterioration.deathMessage>
+  <Deterioration.deathMessage>TODO</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
-  <Extinguish.label>extinguish</Extinguish.label>
+  <Extinguish.label>TODO</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>{0} has been killed.</Extinguish.deathMessage>
+  <Extinguish.deathMessage>TODO</Extinguish.deathMessage>
   
   <!-- EN: mining -->
-  <Mining.label>mining</Mining.label>
+  <Mining.label>TODO</Mining.label>
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>{0} has been killed.</Mining.deathMessage>
+  <Mining.deathMessage>TODO</Mining.deathMessage>
   
   <!-- EN: rotting -->
-  <Rotting.label>rotting</Rotting.label>
+  <Rotting.label>TODO</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>{0} has been killed.</Rotting.deathMessage>
+  <Rotting.deathMessage>TODO</Rotting.deathMessage>
   
   <!-- EN: smoke -->
-  <Smoke.label>smoke</Smoke.label>
+  <Smoke.label>TODO</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>{0} has been killed.</Smoke.deathMessage>
+  <Smoke.deathMessage>TODO</Smoke.deathMessage>
   
   <!-- EN: thump -->
   <Thump.label>TODO</Thump.label>

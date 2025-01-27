@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: chicken -->
-  <Chicken.label>chicken</Chicken.label>
+  <Chicken.label>TODO</Chicken.label>
   <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
-  <Chicken.description>The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often.</Chicken.description>
+  <Chicken.description>TODO</Chicken.description>
   <!-- EN: claws -->
-  <Chicken.tools.claws.label>claws</Chicken.tools.claws.label>
+  <Chicken.tools.claws.label>TODO</Chicken.tools.claws.label>
   <!-- EN: beak -->
-  <Chicken.tools.beak.label>beak</Chicken.tools.beak.label>
+  <Chicken.tools.beak.label>TODO</Chicken.tools.beak.label>
   <!-- EN: head -->
-  <Chicken.tools.head.label>head</Chicken.tools.head.label>
+  <Chicken.tools.head.label>TODO</Chicken.tools.head.label>
   
   <!-- EN: duck -->
   <Duck.label>TODO</Duck.label>
@@ -35,14 +35,14 @@
   <Goose.tools.head.label>TODO</Goose.tools.head.label>
   
   <!-- EN: turkey -->
-  <Turkey.label>turkey</Turkey.label>
+  <Turkey.label>TODO</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
-  <Turkey.description>A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild.</Turkey.description>
+  <Turkey.description>TODO</Turkey.description>
   <!-- EN: claws -->
-  <Turkey.tools.claws.label>claws</Turkey.tools.claws.label>
+  <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
   <!-- EN: beak -->
-  <Turkey.tools.beak.label>beak</Turkey.tools.beak.label>
+  <Turkey.tools.beak.label>TODO</Turkey.tools.beak.label>
   <!-- EN: head -->
-  <Turkey.tools.head.label>head</Turkey.tools.head.label>
+  <Turkey.tools.head.label>TODO</Turkey.tools.head.label>
   
 </LanguageData>

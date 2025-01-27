@@ -111,7 +111,7 @@
   <!-- EN: Disable tiny font -->
   <DisableTinyText>TODO</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
-  <MaxNumberOfPlayerSettlements>מקסימום מספר של תושבים }0{</MaxNumberOfPlayerSettlements>
+  <MaxNumberOfPlayerSettlements>מקסימום מספר של תושבים {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Autosaves count: {0} -->
   <AutosavesCount>TODO</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
@@ -121,7 +121,7 @@
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>הרשה גדלי בדיקה למפות</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
-  <MaxPermadeathAutosaveIntervalInfo>מקסימום זמן בין שמירות אוטומטית במצב מוות תמידי הוא }0{ יום</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>מקסימום זמן בין שמירות אוטומטית במצב מוות תמידי הוא {0} יום</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
   <ModSettings>הגדרות מוד</ModSettings>
   <!-- EN: Permanently disable development mode -->
@@ -166,13 +166,5 @@
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>TODO</SetBackgroundImage>
-
-  <!-- UNUSED -->
-  <OpenSaveGameDataFolder>פתח את תיקיית השמירות</OpenSaveGameDataFolder>
-  <ShowSaveGameDataLocation>הראה את מיקום תיקיית השמירות</ShowSaveGameDataLocation>
-  <UserName>שם משתמש</UserName>
-  <Privacy>פרטיות</Privacy>
-  <ChooseHistoryUploadPref>שליחת קובץ העדפות משחק.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>העדפות משחק של משתמשים עוזרת למפתחים לאזן את המשחק, אם אתם מסכימים המידע של המשחק שלכם ישלח כל }0{ ימי משחק (ובמקרים נדירים גם סוף המשחק) לשרתי רימוורלד להנתח, המידע שנשלח מכיל רק מידע על היסטוריה במשחק ונתונים סטטיסטיים ושום מידע פרטי לא נשלח מלבד השם משתמש מה שאומר שזה אנונימי לגמרי</AboutHistoryUpload>
 
 </LanguageData>

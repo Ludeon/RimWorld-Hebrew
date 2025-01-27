@@ -2,21 +2,18 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>aurora</Aurora.label>
+  <Aurora.label>TODO</Aurora.label>
   <!-- EN: Aurora -->
-  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
-  <Aurora.letterText>A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter.</Aurora.letterText>
+  <Aurora.letterLabel>TODO</Aurora.letterLabel>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>eclipse</Eclipse.label>
+  <Eclipse.label>TODO</Eclipse.label>
   <!-- EN: Eclipse -->
-  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
-  <Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText>
+  <Eclipse.letterLabel>TODO</Eclipse.letterLabel>
   
   <!-- EN: solar flare -->
-  <SolarFlare.label>solar flare</SolarFlare.label>
+  <SolarFlare.label>TODO</SolarFlare.label>
   <!-- EN: Solar flare -->
-  <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
-  <SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>TODO</SolarFlare.letterLabel>
   
 </LanguageData>
