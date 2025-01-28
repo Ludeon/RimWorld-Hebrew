@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Custom -->
+  <Custom.label>TODO</Custom.label>
+  <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
+  <Custom.description>TODO</Custom.description>
+  
+  <!-- EN: community builder -->
+  <Easy.label>בנאי</Easy.label>
+  <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
+  <Easy.description>בנה מושבה יחד עם טעם של סכנה. \n\nמומלץ ל: שחקנים שחדשים לסוג כזה של משחקים, ושחקנים שרוצים יותר  רוגע. \n\nאירועים רציניים מופיעים אך הם חלשים יותר מבמצבים אחרים. כמה אירועים מסוכנים במיוחד מבוטלים.</Easy.description>
+  
+  <!-- EN: losing is fun -->
+  <Extreme.label>חסר רחמים</Extreme.label>
+  <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
+  <Extreme.description>השתמש בכל הידע שלך מרימוורלד בכדי לשרוד ניסיון מרגיז נגד עולם אכזר ולא פייר.\n\nמומלץ ל: שחקנים שרוצים לצאת כנגד סיטואציות אכזריות ולא פייריות שידרשו פיתוח של כשרונות שוטפים וכוללים רק בכדי לא לאבד את הכל.\n\nאין כאן משחק נקי. אתה תצטרך להשקיע זמן רב במלחמה כשאתה פצוע ומחלים, אתה תצטרך להתכונן בזהירות, ואתה תצטרך להקריב דברים שאתה אוהב כדי להמנע ממוות.</Extreme.description>
+  
+  <!-- EN: blood and dust -->
+  <Hard.label>פראי</Hard.label>
+  <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
+  <Hard.description>התמודד עם אתגרי הישרדות אכזריים. המחיר של הישרדות הוא דם.\n\nמומלץ ל: שחקנים עם הרבה ניסיון שרוצים לדחוץ את עצמם מעבר לקשה.\n\nהצלחה בשלב הזה דורשת הבנה כוללת של אסטרטגיות מגוונות, עין  להכנה, ומזל. איומים יכולים להיות קשים במיוחד ולהשתלב באופן אכזרי אז היה מוכן לקבל הקרבות קציניות בכדי לשרוד.</Hard.description>
+  
+  <!-- EN: adventure story -->
+  <Medium.label>בינוני</Medium.label>
+  <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
+  <Medium.description>בנה קהילה בזמן התמודדות עם כמה איומים מסוכנים.\n\nמומלץ ל: שחקני אסטרטגיה מנוסים במשחק הראשון שלהם של רימוורלד, או שחקני רימוורלד מנוסים שרוצים מרחב נשימה למטרות מצחיקות או מוזרות.</Medium.description>
+  
+  <!-- EN: peaceful -->
+  <Peaceful.label>שלו</Peaceful.label>
+  <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
+  <Peaceful.description>בנה קהילה באווירה של ארגז חול. \n\n מומלץ ל: שחקנים שרוצים יותר להתעסק עם בניית קהילה. \n\n מצב המשחק הזה מוציא אירועים מסכני חיים רציניים אך אתגרים כגון מחלות, שבירות נפשיות וחיות משוגעות עדיין יכולים להתקיים.</Peaceful.description>
+  
+  <!-- EN: strive to survive -->
+  <Rough.label>קשוח</Rough.label>
+  <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
+  <Rough.description>היאבק לשרוד בעולם קשה וקשוח.\n\nמומלץ ל: שחקנים עם ניסיון ברימוורלד, שרוצים ליצור סיפור עז שדורש הרבה ניסיון בכדי לשרוד בו.\n\nאין כאן משחק מושלם - כמה מהמשימות יהיו בלתי אפשריות ללא נזקים, אז המושבה תלחם פצועה, תקריב כדי לשרוד ותחלים.</Rough.description>
+  
+</LanguageData>

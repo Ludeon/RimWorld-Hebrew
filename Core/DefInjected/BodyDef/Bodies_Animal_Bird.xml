@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bird -->
+  <Bird.label>ציפור</Bird.label>
+  <!-- EN: left lung -->
+  <Bird.corePart.parts.left_lung.customLabel>ריאה שמאלית</Bird.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Bird.corePart.parts.right_lung.customLabel>ריאה ימנית</Bird.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Bird.corePart.parts.left_kidney.customLabel>כליה שמאלית</Bird.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Bird.corePart.parts.right_kidney.customLabel>כליה ימנית</Bird.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>עין שמאלית</Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>עין ימנית</Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left leg -->
+  <Bird.corePart.parts.left_leg.customLabel>רגל שמאלית</Bird.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Bird.corePart.parts.left_leg.parts.left_foot.customLabel>כף רגל שמאלית</Bird.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Bird.corePart.parts.right_leg.customLabel>רגל ימנית</Bird.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Bird.corePart.parts.right_leg.parts.right_foot.customLabel>כף רגל ימנית</Bird.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+</LanguageData>

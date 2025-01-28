@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Call {0} -->
+  <CallOnRadio>התקשר ל{0}</CallOnRadio>
+  <!-- EN: Cannot use: {0} -->
+  <CannotUseReason>לא יכול להשתמש ב({0})</CannotUseReason>
+  <!-- EN: Cannot use: EMP -->
+  <CannotUseSolarFlare>לא יכול להשתמש (התלקחות סולרית)</CannotUseSolarFlare>
+  <!-- EN: Cannot use: No power -->
+  <CannotUseNoPower>לא יכול להשתמש (אין חשמל)</CannotUseNoPower>
+  <!-- EN: Cannot use: No path -->
+  <CannotUseNoPath>לא יכול להשתמש (אין דרך לפריט)</CannotUseNoPath>
+  <!-- EN: Cannot use: Reserved -->
+  <CannotUseReserved>לא יכול להשתמש(שמור)</CannotUseReserved>
+  <!-- EN: Cannot use: Full -->
+  <CannotUseFull>לא יכול להשתמש(מלא)</CannotUseFull>
+  <!-- EN: leader {1_labelShort} is unavailable -->
+  <LeaderUnavailable>לא זמין {1_labelShort} המנהיג </LeaderUnavailable>
+  <!-- EN: leader is unavailable -->
+  <LeaderUnavailableNoLeader>המנהיג אינו זמין</LeaderUnavailableNoLeader>
+  <!-- EN: Not allowed -->
+  <NotAllowed>TODO</NotAllowed>
+  
+  <!-- EN: Fire at {1_labelShort} -->
+  <FireAt>{1_label} תירה על</FireAt>
+
+  <!-- EN: out of range -->
+  <OutOfRange>מחוץ לטווח</OutOfRange>
+  <!-- EN: too close -->
+  <TooClose>יותר מדי קרוב</TooClose>
+  <!-- EN: Cannot hit target -->
+  <CannotHitTarget>לא יכול לפגוע במטרה</CannotHitTarget>
+  <!-- EN: {1_labelShort} is incapable of violence -->
+  <IsIncapableOfViolenceLower>לא מסוגל להיות אלים {1_labelShort}</IsIncapableOfViolenceLower>
+  <!-- EN: incapable of violence -->
+  <IncapableOfViolenceLower>לא יכול להיות אלים</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>TODO</IsIncapableOfShootingLower>
+  <!-- EN: {1_labelShort} is not drafted -->
+  <IsNotDraftedLower>לא מוכן לקרב {1_labelShort}</IsNotDraftedLower>
+  <!-- EN: cannot order characters you do not control -->
+  <CannotOrderNonControlledLower>לא יכול לפקד על דמויות שאתה לא שולט בהם</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack self -->
+  <CannotAttackSelf>לא יכול לתקוף את עצמו</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>TODO</IncapableOfFirefighting>
+
+  <!-- EN: Man {1_labelShort} -->
+  <OrderManThing>{1_labelShort}אייש </OrderManThing>
+  
+  <!-- EN: Melee attack {1_labelShort} -->
+  <MeleeAttack>{1_label}הכה את </MeleeAttack>
+  <!-- EN: Melee attack {1_labelShort} to death -->
+  <MeleeAttackToDeath>{1_label}הכה למוות את </MeleeAttackToDeath>
+  <!-- EN: no path -->
+  <NoPath>אין דרך לפריט</NoPath>
+  <!-- EN: burying -->
+  <Burying>TODO</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>TODO</DesignatedFor>
+
+  <!-- EN: forbidden -->
+  <ForbiddenLower>אסור</ForbiddenLower>
+  <!-- EN: outside allowed area -->
+  <ForbiddenOutsideAllowedAreaLower>מחוץ לאזור המורשה</ForbiddenOutsideAllowedAreaLower>
+  <!-- EN: not in home area -->
+  <NotInHomeArea>לא באזור הבית</NotInHomeArea>
+  <!-- EN: burning -->
+  <BurningLower>נשרף</BurningLower>
+  <!-- EN: no empty, accessible spot configured to store it -->
+  <NoEmptyPlaceLower>אין אזור נגיש וריק שמוגדר לאחסן את זה</NoEmptyPlaceLower>
+  <!-- EN: no stack available to merge into -->
+  <NoMergeTarget>אין ערמה פנויה למזג איתה</NoMergeTarget>
+  <!-- EN: already filled enough -->
+  <AlreadyFilledLower>ממולאת מספיק כבר</AlreadyFilledLower>
+  <!-- EN: missing {0} -->
+  <MissingMaterials>צריך חומר</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>TODO</NoMedicineMatchingCategory>
+  <!-- EN: under required skill {0} -->
+  <UnderRequiredSkill>מתחת לכישרון הנדרש {0}</UnderRequiredSkill>
+  <!-- EN: under allowed skill {0} -->
+  <UnderAllowedSkill>מתחת לכשרון הנדרש {0}</UnderAllowedSkill>
+  <!-- EN: above allowed skill {0} -->
+  <AboveAllowedSkill>מעל לכשרון הנדרש {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>TODO</NoReachableOutsideCell>
+  <!-- EN: missing required skill level -->
+  <MissingRequiredSkillLevel>חסר כישרון נדרש</MissingRequiredSkillLevel>
+  <!-- EN: animal interacted too recently -->
+  <AnimalInteractedTooRecently>התעסקו עם החיה כבר לאחרונה</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>TODO</PrisonerInteractedTooRecently>
+  <!-- EN: no usable food -->
+  <NoUsableFood>אין אוכל שניתן לשימוש</NoUsableFood>
+  <!-- EN: not enough food -->
+  <NoFood>אין אוכל</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>TODO</NoFoodMatchingRestrictions>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>TODO</NoIngredient>
+  <!-- EN: below requirements of {0} -->
+  <FoodBelowTitleRequirements>TODO</FoodBelowTitleRequirements>
+  <!-- EN: animals skill too low - need {0} -->
+  <AnimalsSkillTooLow>כישרון החיות נמוך מדי - צריך {0}</AnimalsSkillTooLow>
+  <!-- EN: animal downed -->
+  <CantInteractAnimalDowned>חיה נפולה</CantInteractAnimalDowned>
+  <!-- EN: animal sleeping -->
+  <CantInteractAnimalAsleep>חיה יושנת</CantInteractAnimalAsleep>
+  <!-- EN: animal busy -->
+  <CantInteractAnimalBusy>חיה עסוקה</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>TODO</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>TODO</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>TODO</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>TODO</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>TODO</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>TODO</CantRopeAnimalNoSpace>
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>TODO</CantRopeAnimalMentalState>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>TODO</CantRopeAnimalAlreadyInBestPen>
+  <!-- EN: {0} skill too low -->
+  <SkillTooLowForConstruction>TODO</SkillTooLowForConstruction>
+  <!-- EN: need components -->
+  <NoComponentsToRepair>צריך רכיבים</NoComponentsToRepair>
+  <!-- EN: need {0} -->
+  <NoFuelToRefuel>צריך {0}</NoFuelToRefuel>
+  <!-- EN: need wort -->
+  <NoWort>צריך וורט</NoWort>
+  <!-- EN: available food is in storage of higher priority -->
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>אוכל זמין נמצא באחסון עם עדיפות גבוהה יותר</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <!-- EN: no suitable food -->
+  <NoFoodToFillHopper>אין אוכל מתאים</NoFoodToFillHopper>
+  <!-- EN: self-tend disabled -->
+  <SelfTendDisabled>טיפול עצמי מכובה</SelfTendDisabled>
+  <!-- EN: reserved for prisoners -->
+  <ReservedForPrisoners>שמור עבור אסירים</ReservedForPrisoners>
+  <!-- EN: cannot reach -->
+  <CannotReach>לא יכול להגיע</CannotReach>
+  <!-- EN: not ready for surgery -->
+  <NotSurgeryReady>לא מוכן לניתוח</NotSurgeryReady>
+  <!-- EN: skill incapable -->
+  <SkillDisabled>לא מסוגל לכשרון</SkillDisabled>
+  <!-- EN: too bright -->
+  <CantSowCavePlantBecauseOfLight>יותר מדי בהיר</CantSowCavePlantBecauseOfLight>
+  <!-- EN: unroofed -->
+  <CantSowCavePlantBecauseUnroofed>ללא גג</CantSowCavePlantBecauseUnroofed>
+  <!-- EN: incapable of deconstruction -->
+  <IncapableOfDeconstruction>לא מסוגל לפרק</IncapableOfDeconstruction>
+  <!-- EN: incapable of mining -->
+  <IncapableOfMining>לא מסוגל לחצוב</IncapableOfMining>
+  <!-- EN: tree marked for extraction -->
+  <TreeMarkedForExtraction>TODO</TreeMarkedForExtraction>
+  <!-- EN: angers faction -->
+  <AngersFaction>מעצבן את הפלוגה</AngersFaction>
+  <!-- EN: no body part -->
+  <InstallImplantNoBodyPart>TODO</InstallImplantNoBodyPart>
+  <!-- EN: not a colonist -->
+  <InstallImplantNotAllowedForNonColonists>TODO</InstallImplantNotAllowedForNonColonists>
+  <!-- EN: already installed -->
+  <InstallImplantAlreadyInstalled>TODO</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>TODO</InstallImplantHediffRequired>
+  <!-- EN: max level -->
+  <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>TODO</InstallImplantMinLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
+  <!-- EN: Upgrade {0} to level {1} -->
+  <UpgradeImplant>TODO</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>TODO</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>TODO</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>TODO</AlreadyAssigned>
+  
+  <!-- EN: Consume {1_labelShort} -->
+  <ConsumeThing>{1_labelShort}צרוך את </ConsumeThing>
+  
+  <!-- EN: Cannot go here: No path -->
+  <CannotGoNoPath>לא יכול ללכת לכאן (אין נתיב)</CannotGoNoPath>
+  <!-- EN: Go here -->
+  <GoHere>לך לכאן</GoHere>
+
+  <!-- EN: Clean {0} -->
+  <CleanRoom>TODO</CleanRoom>
+  
+  <!-- EN: Arrest {0} -->
+  <Arrest>עצור את {0}</Arrest>
+  <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
+  <TryToArrest>{1_label}נסה לעצור את </TryToArrest>
+  <!-- EN: Cannot arrest -->
+  <CannotArrest>לא יכול לעצור</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>TODO</ArrestChance>
+
+  <!-- EN: Capture {1_labelShort} -->
+  <Capture>{1_label}לכוד את </Capture>
+  <!-- EN: capture {0_labelShort} -->
+  <CaptureLower>TODO</CaptureLower>
+  <!-- EN: Cannot capture -->
+  <CannotCapture>לא יכול ללכוד</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>TODO</Unrecruitable>
+  <!-- EN: not recruitable -->
+  <UnrecruitableNoFaction>TODO</UnrecruitableNoFaction> 
+  <!-- EN: Transfer {0_label} -->
+  <TransferEntity>TODO</TransferEntity> 
+
+  <!-- EN: Rescue {1_labelShort} -->
+  <Rescue>{1_label}חלץ את </Rescue>
+  <!-- EN: Put {1_labelShort} somewhere safe -->
+  <PutSomewhereSafe>TODO</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>TODO</TakingToBed>
+  <!-- EN: Cannot rescue -->
+  <CannotRescue>לא יכול לחלץ</CannotRescue>
+
+  <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
+  <CarryToCryptosleepCasket>לארון הקריפטושינה {1_label} סחוב את</CarryToCryptosleepCasket>
+  <!-- EN: Cannot carry to cryptosleep casket -->
+  <CannotCarryToCryptosleepCasket>לא ניתן לסחוב לארון הקריפטושינה</CannotCarryToCryptosleepCasket>
+
+  <!-- EN: Carry {0_labelShort} to shuttle -->
+  <CarryToShuttle>TODO</CarryToShuttle>
+
+  <!-- EN: No available cryptosleep casket. -->
+  <NoCryptosleepCasket>אין ארון קריפטושינה פנוי</NoCryptosleepCasket>
+  <!-- EN: Temporary faction members not allowed. -->
+  <CryptosleepCasketGuestsNotAllowed>TODO</CryptosleepCasketGuestsNotAllowed>
+  <!-- EN: Hosted prisoners not allowed. -->
+  <CryptosleepCasketGuestPrisonersNotAllowed>TODO</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>TODO</CryptosleepCasketOccupied>
+  <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
+  <NoPrisonerBed>אין מיטת אסירים נגישה ולא שמורה באזור עם טמפרטורה בטוחה.</NoPrisonerBed>
+  <!-- EN: No prisoner bed available. -->
+  <NoPrisonerBedShort>TODO</NoPrisonerBedShort>
+  <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
+  <NoNonPrisonerBed>.אין מיטת שלא מיועדת לאסירים נגישה ולא שמורה באזור עם טמפרטורה בטוחה</NoNonPrisonerBed>
+  <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
+  <NoAnimalBed>אין מיטת חיות נגישה ולא שמורה באזור עם טמפרטורה בטוחה</NoAnimalBed>
+  <!-- EN: No reachable, unforbidden, un-reserved {0} -->
+  <NoItemReservedOrReachable>TODO</NoItemReservedOrReachable>
+  <!-- EN: No unforbidden, un-reserved {0} -->
+  <NoItemReserved>TODO</NoItemReserved>
+  <!-- EN: Reserved by someone else. -->
+  <Reserved>שמור על ידי מישהו אחר.</Reserved>
+  <!-- EN: Reserved by {1_labelShort} -->
+  <ReservedBy>{1_labelShort}שמור על ידי </ReservedBy>
+  <!-- EN: {0} is reserved by {1}. -->
+  <IsReservedBy>{0} שמור על ידי {1}</IsReservedBy>
+  <!-- EN: Too heavy -->
+  <TooHeavy>כבד מדי</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>TODO</SameFaction>
+
+  <!-- EN: incapable -->
+  <Incapable>לא מסוגל</Incapable>
+  <!-- EN: incapable of {0} -->
+  <IncapableOfCapacity>לא מסוגל {0}</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>TODO</MustHaveHediff>
+
+  <!-- EN: min skill -->
+  <MinSkill>כשרון מינימלי</MinSkill>
+  
+  <!-- EN: Equip {0} -->
+  <Equip>הצטייד ב{0}}</Equip>
+  <!-- EN: (brawler will be unhappy) -->
+  <EquipWarningBrawler>(מתאגרף לא יהיה שמח)</EquipWarningBrawler>
+  <!-- EN: Cannot equip {0} -->
+  <CannotEquip>לא יכול להצטייד ב{0}</CannotEquip>
+  <!-- EN: Cannot man {1_labelShort} -->
+  <CannotManThing>{1_labelShort}לא ניתן לאייש את </CannotManThing>
+  
+  <!-- EN: Force wear {1_labelShort} -->
+  <ForceWear>{1_labelShort}הכרח ללבוש </ForceWear>
+  <!-- EN: Cannot wear {1_label} -->
+  <CannotWear>{1_label}לא יכול ללבוש </CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>TODO</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>TODO</CannotEquipApparel>
+  <!-- EN: missing body parts -->
+  <CannotWearBecauseOfMissingBodyParts>חלקי גוף חסרים</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>TODO</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>TODO</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>TODO</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
+  
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUp>{1_label}לא יכול להרים את </CannotPickUp>
+  <!-- EN: Cannot pick up {1_label} (all) -->
+  <CannotPickUpAll>(הכל) {1_label}לא יכול להרים את </CannotPickUpAll>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>TODO</PickUpOne>
+  <!-- EN: Pick up {1_label} (all) -->
+  <PickUpAll>(הכל) {1_label}הרם )</PickUpAll>
+  <!-- EN: Pick up {1_labelShort}... -->
+  <PickUpSome>...{1_labelShort}הרם </PickUpSome>
+  <!-- EN: Pick up {1_labelShort} x{{0}} -->
+  <PickUpCount>{{0}}X {1_labelShort} הרם</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>TODO</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>TODO</MaxPickUpAllowed>
+  
+  <!-- EN: Cannot load {1_label} onto pack animal -->
+  <CannotGiveToPackAnimal>להעמיס חיה {1_label}לא יכול לתת ל</CannotGiveToPackAnimal>
+  <!-- EN: Cannot load {1_label} (all) onto pack animal -->
+  <CannotGiveToPackAnimalAll>להעמיס חיה (הכל){1_label}לא יכול לתת ל</CannotGiveToPackAnimalAll>
+  <!-- EN: Load {1_label} onto pack animal -->
+  <GiveToPackAnimal>להעמיס חיה {1_label}תן ל</GiveToPackAnimal>
+  <!-- EN: Load {1_label} (all) onto pack animal -->
+  <GiveToPackAnimalAll>להעמיס חיה (הכל){1_label}תן ל</GiveToPackAnimalAll>
+  <!-- EN: Load {1_labelShort} onto pack animal... -->
+  <GiveToPackAnimalSome>להעמיס חיה {1_labelShort}תן ל</GiveToPackAnimalSome>
+  <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
+  <GiveToPackAnimalCount>{{0}}x {1_labelShort} קח</GiveToPackAnimalCount>
+  
+  <!-- EN: Cannot load {1_label} into caravan -->
+  <CannotLoadIntoCaravan>אל תוך הקרוואן {1_label}לא יכול להעמיס </CannotLoadIntoCaravan>
+  <!-- EN: Cannot load {1_label} (all) into caravan -->
+  <CannotLoadIntoCaravanAll>אל תוך הקרוואן (הכל){1_label} לא יכול להעמיס</CannotLoadIntoCaravanAll>
+  <!-- EN: Load {1_label} into caravan -->
+  <LoadIntoCaravan>אל תוך הקרוואן {1_label}העמס </LoadIntoCaravan>
+  <!-- EN: Load {1_label} (all) into caravan -->
+  <LoadIntoCaravanAll>אל תוך הקרוואן (הכל){1_label}העמס </LoadIntoCaravanAll>
+  <!-- EN: Load {1_labelShort} into caravan... -->
+  <LoadIntoCaravanSome>אל תוך הקרוואן {1_labelShort} העמס</LoadIntoCaravanSome>
+  <!-- EN: Load {1_labelShort} x{{0}} -->
+  <LoadIntoCaravanCount>{{0}}x {1_labelShort} העמס</LoadIntoCaravanCount>
+  <!-- EN: overweight -->
+  <OverweightLower>שמן</OverweightLower>
+
+  <!-- EN: Cannot carry {1_labelShort} and leave the area -->
+  <CannotCarryToExit>ולעזוב את האזור {1_label} לא יכול לסחוב את</CannotCarryToExit>
+  <!-- EN: Carry {1_labelShort} and leave the area -->
+  <CarryToExit>ועזוב את האזור {1_label}סחוב את </CarryToExit>
+  <!-- EN: Capture {1_labelShort} and leave the area -->
+  <CarryToExitAndCapture>ועזוב את האזור {1_label} לכוד את</CarryToExitAndCapture>
+  
+  <!-- EN: Strip {1_labelShort} -->
+  <Strip>{1_label}תפשיט את </Strip>
+  <!-- EN: Cannot strip {1_labelShort} -->
+  <CannotStrip>{1_label}לא יכול להפשיט את </CannotStrip>
+  <!-- EN: Cannot drop {1_labelShort} -->
+  <CannotDrop>TODO</CannotDrop>
+  <!-- EN: Carry {0_labelShort} -->
+  <Carry>TODO</Carry>
+  <!-- EN: Cannot carry {0_labelShort} -->
+  <CannotCarry>TODO</CannotCarry>
+  <!-- EN: hostile -->
+  <CarriedPawnHostile>TODO</CarriedPawnHostile>
+  <!-- EN: temporary faction member -->
+  <QuestRelated>TODO</QuestRelated>
+  <!-- EN: Cannot change outfits on temporary faction members -->
+  <QuestRelated_Outfit>TODO</QuestRelated_Outfit>
+  <!-- EN: would replace locked apparel -->
+  <WouldReplaceLockedApparel>TODO</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>TODO</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>TODO</PlaceIn>
+
+  <!-- EN: Self-destruct here -->
+  <SelfDestructHere>השמד עצמית כאן</SelfDestructHere>
+  
+  <!-- EN: Drop {1_labelShort} -->
+  <Drop>{1_label}הפל </Drop>
+
+  <!-- EN: Rest until healed -->
+  <UseMedicalBed>תנוח עד הבראה</UseMedicalBed>
+  <!-- EN: not injured -->
+  <NotInjured>לא פצוע</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>TODO</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>TODO</NotForSlaves>
+  <!-- EN: occupied by {0} -->
+  <SomeoneElseSleeping>{0}תפוס על ידי </SomeoneElseSleeping>
+  
+  <!-- EN: Trade with {0} -->
+  <TradeWith>{0}סחור עם </TradeWith>
+  <!-- EN: Dismiss trader -->
+  <DismissTrader>TODO</DismissTrader>
+  <!-- EN: Cannot trade -->
+  <CannotTrade>לא יכול לסחור</CannotTrade>
+  <!-- EN: Trader dismissed -->
+  <TraderDismissed>TODO</TraderDismissed>
+
+  <!-- EN: Open {0_label} -->
+  <Open>{0_label}פתח את </Open>
+  <!-- EN: Cannot open {0_label} -->
+  <CannotOpen>{0_label}לא יכול לפתוח </CannotOpen>
+  
+  <!-- EN: Enter {0} -->
+  <EnterMap>{0}כנס ל</EnterMap>
+  <!-- EN: Visit {0} -->
+  <VisitSettlement>{0}בקר את </VisitSettlement>
+  <!-- EN: Visit {0} -->
+  <VisitPeaceTalks>{0}בקר את </VisitPeaceTalks>
+  <!-- EN: Visit {0} -->
+  <VisitEscapeShip>{0}בקר את </VisitEscapeShip>
+  <!-- EN: Attack {0} -->
+  <AttackSettlement>{0}תקוף את </AttackSettlement>
+  <!-- EN: Approach {0} -->
+  <ApproachSite>{0}התקדם לעבר </ApproachSite>
+  <!-- EN: Approaching {0} -->
+  <ApproachingSite>{0}מתקדם לעבר </ApproachingSite>
+  <!-- EN: Offer gifts -->
+  <OfferGifts>הצע מתנות</OfferGifts>
+  <!-- EN: Trade with {0} -->
+  <TradeWithSettlement>TODO</TradeWithSettlement>
+  
+  <!-- EN: Enter {0} -->
+  <EnterPortal>TODO</EnterPortal>
+  <!-- EN: Entering {0} -->
+  <EnteringPortal>TODO</EnteringPortal>
+  <!-- EN: Enter {0} -->
+  <CommandEnterPortal>TODO</CommandEnterPortal>
+  <!-- EN: Select people and items to enter the {0}. -->
+  <CommandEnterPortalDesc>TODO</CommandEnterPortalDesc>
+  <!-- EN: Cancel entering -->
+  <CommandCancelEnterPortal>TODO</CommandCancelEnterPortal>
+  <!-- EN: Cancel loading people or items into this. -->
+  <CommandCancelEnterPortalDesc>TODO</CommandCancelEnterPortalDesc>
+
+  <!-- Specific thing interactions -->
+  <!-- EN: Enter cryptosleep casket -->
+  <EnterCryptosleepCasket>הכנס לארון קריפטושינה</EnterCryptosleepCasket>
+  <!-- EN: Open cryptosleep casket -->
+  <OpenCryptosleepCasket>פתח את ארון הקריפטושינה</OpenCryptosleepCasket>
+  <!-- EN: Get in shuttle -->
+  <EnterShuttle>TODO</EnterShuttle>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- EN: Cannot {0} {1} -->
+  <CannotGenericWork>{2_labelShort} {0} לא יכול</CannotGenericWork>
+  <!-- EN: Cannot {0} -->
+  <CannotGenericWorkCustom>{0}לא יכול </CannotGenericWorkCustom>
+
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
+  <CannotMissingHealthActivities>({0}לא מסוגל )לא יכול </CannotMissingHealthActivities>
+
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- EN: Already {0} {2_labelShort} -->
+  <CannotGenericAlreadyAm>{2_labelShort} {0} כבר עושה</CannotGenericAlreadyAm>
+  <!-- EN: Already {0} -->
+  <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
+
+  <!-- EN: Cannot prioritize: Will never do {0} -->
+  <CannotPrioritizeWorkTypeDisabled>({0}לעולם לא יעשה) לא יכול</CannotPrioritizeWorkTypeDisabled>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>TODO</MissingTitleAbility>
+
+  <!-- EN: Cannot prioritize: Will never {0} -->
+  <CannotPrioritizeWorkGiverDisabled>({0}לעולם לא יעשה) לא יכול</CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: will never {0} -->
+  <WillNever>{0}לעולם לא יעשה </WillNever>
+
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
+  <CannotPrioritizeNotAssignedToWorkType>({0}לא מוגדר ל)לא יכול </CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: not assigned -->
+  <NotAssigned>לא מוגדר</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>TODO</NotAssignedToWorkType>
+
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
+  <CannotPrioritizeResearch>(מחקר זה פעולה לטווח ארוך)לא יכול</CannotPrioritizeResearch>
+
+  <!-- EN: Cannot prioritize: {1_label} is forbidden -->
+  <CannotPrioritizeForbidden>(אסור {1_label})לא יכול </CannotPrioritizeForbidden>
+  <!-- EN: Cannot prioritize: Forbidden -->
+  <CannotPrioritizeCellForbidden>(אסור)לא יכול </CannotPrioritizeCellForbidden>
+  <!-- EN: Outside allowed area -->
+  <CannotPrioritizeForbiddenOutsideAllowedArea>מחוץ לאזור המורשה</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- EN: Prioritize {0} {1} -->
+  <PrioritizeGeneric>{1} {0}תעדיף ל</PrioritizeGeneric>
+  
+  <!-- EN: Drop at edge -->
+  <DropAtEdge>הפל בקצה</DropAtEdge>
+  <!-- EN: Drop in center -->
+  <DropInCenter>הפל במרכז</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>TODO</AttackShuttle>
+  <!-- EN: Attack {0}: Drop at edge -->
+  <AttackAndDropAtEdge>תקוף את {0}: הפל בקצה</AttackAndDropAtEdge>
+  <!-- EN: Attack {0}: Drop in center -->
+  <AttackAndDropInCenter>תקוף את {0}: הפל במרכז</AttackAndDropInCenter>
+  
+  <!-- EN: vomiting -->
+  <VomitingLower>מקיא</VomitingLower>
+  <!-- EN: not interruptible -->
+  <NotInterruptibleLower>לא ניתן להפריע</NotInterruptibleLower>
+  
+  <!-- EN: Add a new waypoint here -->
+  <AddWaypoint>הוסף נקודת ציון חדשה כאן</AddWaypoint>
+  <!-- EN: Remove this waypoint -->
+  <RemoveWaypoint>הסר נקודת ציון זאת</RemoveWaypoint>
+
+  <!-- EN: Cancel all designations -->
+  <RemoveAllDesignations>בטל את כל הסימונים</RemoveAllDesignations>
+  <!-- EN: Designate all -->
+  <DesignateAll>סמן הכל</DesignateAll>
+  <!-- EN: {0} affected -->
+  <CountToDesignate>מושפע {0}</CountToDesignate>
+  <!-- EN: Forbid all items -->
+  <ForbidAllItems>אסור את כל הפריטים</ForbidAllItems>
+  <!-- EN: Unforbid all items -->
+  <UnforbidAllItems>בטל אסירה של כל הפריטים</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <!-- EN: Zoom in and choose a landing spot in {0} -->
+  <LandInExistingMap>עשה זום לבפנים ובחר נקודת נחיתה ב{0}</LandInExistingMap>
+  <!-- EN: The contents will be lost -->
+  <TransportPodsContentsWillBeLost>התכולה תלך לאיבוד</TransportPodsContentsWillBeLost>
+  <!-- EN: Form caravan here -->
+  <FormCaravanHere>גבש קרוואן כאן</FormCaravanHere>
+  <!-- EN: Give to {0} -->
+  <GiveToCaravan>{0}תן ל</GiveToCaravan>
+  <!-- EN: Give as a gift to {0} ({1}) -->
+  <GiveGiftViaTransportPods>תן ל{0} את {1} כמתנה </GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>TODO</NotPartOfLaunchGroup>
+
+  <!-- Rescue quest -->
+  <!-- EN: Free prisoner -->
+  <FreePrisoner>שחחר אסיר</FreePrisoner>
+  <!-- EN: Offer help -->
+  <OfferHelp>הצע עזרה</OfferHelp>
+
+  <!-- EN: apply {0} -->
+  <ApplyTechprint>TODO</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>TODO</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>TODO</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>TODO</CannotInvoke>
+  <!-- EN: power -->
+  <Power>TODO</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>TODO</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>TODO</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>TODO</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>TODO</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>TODO</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>TODO</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>TODO</CannotRepair>
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>TODO</CannotEnter>
+  
+  <!-- EN: Cannot enter {0} -->
+  <CannotEnterPortal>TODO</CannotEnterPortal>
+  <!-- EN: closed -->
+  <PortalClosed>TODO</PortalClosed>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>TODO</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>TODO</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>TODO</WarningFoodDisliked>
+  <!-- EN: Unsuitable food -->
+  <FoodNotSuitable>TODO</FoodNotSuitable>
+
+  <!-- EN: Unsuitable drug -->
+  <DrugNotSuitable>TODO</DrugNotSuitable>
+  
+  <!-- Books -->
+  <!-- EN: Assign reading... -->
+  <AssignReading>TODO</AssignReading>
+  <!-- EN: Read {0} -->
+  <AssignReadNow>TODO</AssignReadNow>
+  <!-- EN: Cannot read {0} -->
+  <AssignCannotReadNow>TODO</AssignCannotReadNow>
+
+  <!-- EN: Prioritize extinguishing fires -->
+  <ExtinguishFiresNearby>TODO</ExtinguishFiresNearby>
+
+  <!-- Analysis -->
+  <!-- EN: already analyzed -->
+  <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
+  <!-- EN: no reachable, un-reserved research bench available -->
+  <NoResearchBench>TODO</NoResearchBench>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: do forever -->
+  <Forever.label>עשה לנצח</Forever.label>
+  
+  <!-- EN: do X times -->
+  <RepeatCount.label>פעמים X עשה</RepeatCount.label>
+  
+  <!-- EN: do until you have X -->
+  <TargetCount.label>X עשה עד שיש לך</TargetCount.label>
+  
+</LanguageData>

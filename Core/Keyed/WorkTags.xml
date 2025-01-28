@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>ללא</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>אינטלקטואלי</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>עבודה קלה</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>עבודה כשרונית</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>אלים</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>TODO</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>אכפתיות</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>סוציאלי</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>חיות</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>ארטיסטי</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>יצירה</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>בישול</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>לחימה באש</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>ניקיון</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>סחיבה</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>עבודה בצמחים</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>חפירה</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>TODO</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>TODO</WorkTagAllWork>
+
+</LanguageData>

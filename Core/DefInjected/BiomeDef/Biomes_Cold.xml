@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boreal forest -->
+  <BorealForest.label>יער צפוני</BorealForest.label>
+  <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
+  <BorealForest.description>יערות של עצים מחטניים, למרות החורפים האכזריים, יערים צפוניים תומכים באכלוסיה מגוונת של חיות גדולות וקטנות, וחוות קיצים חמים.</BorealForest.description>
+  
+  <!-- EN: cold bog -->
+  <ColdBog.label>ביצה קרה</ColdBog.label>
+  <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
+  <ColdBog.description>תביצה מלאה בעצים וגפן, רוב האדמה הבוצית לא יכולה לתמוך במבנים כבדים, תנועה מוגבלת עקב צמחיה חונקת, מחלות הם מקומיות במערכת האקולוגית הצפופה והרטובה הזאת.</ColdBog.description>
+  
+  <!-- EN: ice sheet -->
+  <IceSheet.label>כפת קרח</IceSheet.label>
+  <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
+  <IceSheet.description>סדינים של קרח היכולים להיות קילומטרים בעובי, אין אדמה בשביל גידול צמחים. החיות שכאן נודדות למקום אחר, או אבודים קשות</IceSheet.description>
+  
+  <!-- EN: sea ice -->
+  <SeaIce.label>ים קרח</SeaIce.label>
+  <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
+  <SeaIce.description>סדיני קרח תמידים, אין אדמה בשביל גידול צמחים, אין מינרלים לחציבה, וכמעט ללא בעלי חיים.</SeaIce.description>
+  
+  <!-- EN: tundra -->
+  <Tundra.label>טונדרה</Tundra.label>
+  <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
+  <Tundra.description>TODO</Tundra.description>
+  
+</LanguageData>

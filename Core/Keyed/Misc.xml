@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Autosaving -->
+  <Autosaving>שומר אוטומטית</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>שלושתכם מתעוררים בארון קריפטושינה לקולות של סירנות ומתכת נתלשת אתם בקושי מצליחים להגיע לפודי הבריחה לפני שהחללית נקרעת לגזרים. זמן מה לאחר מכן אתם נוחתים על העולם הלא מוכר הזה, בזמן שחתיכות של חללית נופלות מסביבכם אתם מתחילים לעשות תוכניות בנוגע לאיך לשרוד.</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>תושבה</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>אתה יכול לשנות שפה רק ממסך ההגדרות של התפריט הראשי.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>ו</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>מבוטל</DisabledLower>
+
+  <!-- EN: Version {0} -->
+  <VersionIndicator>גרסה {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>TODO</GameVersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>גרסת פיתוח</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>TODO</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>מחובר לסטים כ {0}</LoggedIntoSteamAs>
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>TODO</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>TODO</ToCommaListOr>
+  
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>כן</Yes>
+  <!-- EN: No -->
+  <No>לא</No>
+  <!-- EN: No {0} -->
+  <NoSubject>TODO</NoSubject>
+  <!-- EN: new -->
+  <New>TODO</New>
+  <!-- EN: Gender -->
+  <Gender>TODO</Gender>
+  <!-- EN: Sex -->
+  <Sex>TODO</Sex>
+  <!-- EN: min -->
+  <min>מינימום</min>
+  <!-- EN: max -->
+  <max>מקסימום</max>
+  <!-- EN: chance -->
+  <chance>סיכוי</chance>
+  <!-- EN: context -->
+  <context>הקשר</context>
+  <!-- EN: multiplier -->
+  <multiplier>מכפיל</multiplier>
+  <!-- EN: damage -->
+  <damage>נזק</damage>
+  <!-- EN: radius -->
+  <radius>רדיוס</radius>
+  <!-- EN: expired -->
+  <expired>TODO</expired>
+  <!-- EN: duration (days) -->
+  <durationDays>משך זמן )ימים(</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>פרק זמן )ימים(</intervalDays>
+  <!-- EN: delay (days) -->
+  <delayDays>TODO</delayDays>
+  <!-- EN: repeat -->
+  <repeat>חזור שנית</repeat>
+  <!-- EN: default -->
+  <default>ברירת מחדל</default>
+  <!-- EN: distance -->
+  <distance>מרחק</distance>
+  <!-- EN: YES -->
+  <YesUppercase>כן</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>לא</NoUppercase>
+  <!-- EN: kg -->
+  <kg>קילוגרם</kg>
+  <!-- EN: Day -->
+  <Day>יום</Day>
+  <!-- EN: day -->
+  <day>יום</day>
+  <!-- EN: Default -->
+  <Default>ברירת מחדל</Default>
+  <!-- EN: Average -->
+  <Average>ממוצע</Average>
+  <!-- EN: Cause -->
+  <Cause>TODO</Cause>
+  <!-- EN: etc -->
+  <Etc>TODO</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>TODO</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>TODO</Factors>
+  <!-- EN: Uses -->
+  <Uses>TODO</Uses>
+  <!-- EN: Translation -->
+  <Translation>TODO</Translation>
+  <!-- EN: min(days) -->
+  <minDays>TODO</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>TODO</maxDays>
+  <!-- EN: Processing -->
+  <Processing>TODO</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>TODO</Inspect> 
+
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>בשר {0}</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>.בשר נא מבותר. יכול להתבשל למנות או להאכל נא</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>.בשר נא מבותר. אם צריך, יכול להתבשל למנות או אפילו להאכל נא. ממש לא מגרה תיאבון</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>.בשר נא מבותר. אם צריך, יכול להתבשל למנות או להאכל נא. למרות שרוב האנשים .לא אוהבים את הרעיון הזה</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>TODO</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>TODO</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>TODO</Unlocks>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>גופתו של {0}</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>.גופתו המתה של {0}</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>{0} )מת(</DeadLabel>
+
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>קשוח {0}</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>קשוח, רצפת {0} טבעית.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>{0} קצץ קשוח</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>.רצפה חתוכה טבעית של {0}</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>{0} חלק</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>.רצפת {0} חלקה באופן טבעי</SmoothStoneTerrainDesc>
+
+  <!-- EN:  (blueprint) -->
+  <BlueprintLabelExtra>)שרטוט(</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
+  <FrameLabelExtra>)מבנה(</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>לא מקושר</FactionUnaffiliated>
+
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>TODO</StillWishContinue>
+  
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>TODO</BabyTalk>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>TODO</ThingMadeOfStuffLabel>
+
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{0} של {1}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>ה{2} של {0} ו{1}</CouplesRoom>
+  
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>)מבחר(</VariousLabel>
+
+  <!-- History events -->
+  <!-- EN: Colonist died -->
+  <ColonistDied>תושב מת</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>צפון</North>
+  <!-- EN: South -->
+  <South>דרום</South>
+  <!-- EN: West -->
+  <West>מזרח</West>
+  <!-- EN: East -->
+  <East>מערב</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>TODO</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>TODO</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>TODO</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>TODO</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>TODO</Colonist>
+
+</LanguageData>

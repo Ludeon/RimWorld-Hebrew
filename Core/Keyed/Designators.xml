@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cancel -->
+  <DesignatorCancel>ביטול</DesignatorCancel>
+  <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
+  <DesignatorCancelDesc>ביטול הקצאת בניה, כרייה, הובלה, קציר, וכל שאר ההקצאות.</DesignatorCancelDesc>
+
+  <!-- EN: Cut plants -->
+  <DesignatorCutPlants>חיתוך צמחים</DesignatorCutPlants>
+  <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
+  <DesignatorCutPlantsDesc>סימון צמחים לחיתוך והשמדה. הצמח יוסר לחלוטין, וכל משאב או מזון ייאסף.</DesignatorCutPlantsDesc>
+
+  <!-- EN: Deconstruct -->
+  <DesignatorDeconstruct>פירוק</DesignatorDeconstruct>
+  <!-- EN: Deconstruct this and reclaim part of its resources. -->
+  <DesignatorDeconstructDesc>פרק זאת והשב חלק מהמשאבים.</DesignatorDeconstructDesc>
+
+  <!-- EN: Uninstall -->
+  <DesignatorUninstall>הסר</DesignatorUninstall>
+  <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
+  <DesignatorUninstallDesc>הסר זאת כדי לאפשר הזזה, מחירה, או התקנה במקום אחר.</DesignatorUninstallDesc>
+
+  <!-- EN: Extract tree -->
+  <DesignatorExtractTree>TODO</DesignatorExtractTree>
+  <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
+  <DesignatorExtractTreeDesc>TODO</DesignatorExtractTreeDesc>
+
+  <!-- EN: Harvest -->
+  <DesignatorHarvest>קצור</DesignatorHarvest>
+  <!-- EN: Marks plants to be harvested for their food or other products. -->
+  <DesignatorHarvestDesc>סימון צמחים לקציר למטרת מזון או משאבים אחרים.</DesignatorHarvestDesc>
+
+  <!-- EN: Chop wood -->
+  <DesignatorHarvestWood>חטוב עצים</DesignatorHarvestWood>
+  <!-- EN: Marks trees to be chopped down for wood. -->
+  <DesignatorHarvestWoodDesc>סימון עצים לחטיבה.</DesignatorHarvestWoodDesc>
+
+  <!-- EN: Haul things -->
+  <DesignatorHaulThings>הובל דברים</DesignatorHaulThings>
+  <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
+  <DesignatorHaulThingsDesc>סימון נתחי סלע או דברים אחרים להובלה למזבלה. לא נדרש עבור דברי מזון או גופות, שתמיד ניתנות להובלה.</DesignatorHaulThingsDesc>
+  <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
+  <MustHaulHaulables>ניתן לציין רק חפצים הניתנים להובלה אך לא בהובלה מתמדת (כמו נתחי סלע).</MustHaulHaulables>
+
+  <!-- EN: Hunt -->
+  <DesignatorHunt>צוד</DesignatorHunt>
+  <!-- EN: Mark animals to be hunted by your hunters. -->
+  <DesignatorHuntDesc>סימון בעלי חיים לצייד על ידי הציידים שלך.</DesignatorHuntDesc>
+
+  <!-- EN: Mine -->
+  <DesignatorMine>כרה</DesignatorMine>
+  <!-- EN: Designate areas of rock to be mined out. -->
+  <DesignatorMineDesc>סימון איזורי סלע לכרייה.</DesignatorMineDesc>
+
+  <!-- EN: Mine vein -->
+  <DesignatorMineVein>TODO</DesignatorMineVein>
+  <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
+  <DesignatorMineVeinDesc>TODO</DesignatorMineVeinDesc>
+
+  <!-- EN: Smooth surface -->
+  <DesignatorSmoothSurface>לטש משטח</DesignatorSmoothSurface>
+  <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
+  <DesignatorSmoothSurfaceDesc>סימון פני שטח סלעיים וקירות לליטוש.</DesignatorSmoothSurfaceDesc>
+  <!-- EN: Smooth walls -->
+  <DesignatorSmoothWalls>TODO</DesignatorSmoothWalls>
+  <!-- EN: Designate rough stone walls to be smoothed. -->
+  <DesignatorSmoothWallsDesc>TODO</DesignatorSmoothWallsDesc>
+  <!-- EN: Smooth terrain -->
+  <DesignatorSmoothFloors>TODO</DesignatorSmoothFloors>
+  <!-- EN: Designate rough stone terrain to be smoothed. -->
+  <DesignatorSmoothFloorsDesc>TODO</DesignatorSmoothFloorsDesc>
+
+  <!-- EN: Plan -->
+  <DesignatorPlan>תכנן</DesignatorPlan>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
+  <DesignatorPlanDesc>סמן סממני תכנון. הם לא עושים כלום חוץ מלעזור לך לתכנן הרחבות עתידיות.</DesignatorPlanDesc>
+
+  <!-- EN: Remove plans -->
+  <DesignatorPlanRemove>הסר תוכניות</DesignatorPlanRemove>
+  <!-- EN: Remove planning designations. -->
+  <DesignatorPlanRemoveDesc>הסר סממני תכנון.</DesignatorPlanRemoveDesc>
+
+  <!-- EN: Forbid -->
+  <DesignatorForbid>אסור</DesignatorForbid>
+  <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
+  <DesignatorForbidDesc>סמן חפצים כאסורים. מתישבים לא יוכלו לפעול על החפצים המסומנים.</DesignatorForbidDesc>
+
+  <!-- EN: Allow -->
+  <DesignatorUnforbid>אפשר</DesignatorUnforbid>
+  <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
+  <DesignatorUnforbidDesc>סמן חפצים שלא אסורים. מתישבים יוכלו לפעול על החפצים המסומנים.</DesignatorUnforbidDesc>
+
+  <!-- EN: Expand home area -->
+  <DesignatorAreaHomeExpand>הרחב איזור בית</DesignatorAreaHomeExpand>
+  <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
+  <DesignatorAreaHomeExpandDesc>מתישבים יתקנו מבנים, ינקו רצפות, ויכבו שריפות רק באיזור הבית.</DesignatorAreaHomeExpandDesc>
+  <!-- EN: Clear home area -->
+  <DesignatorAreaHomeClear>הסר איזור בית</DesignatorAreaHomeClear>
+  <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
+  <DesignatorAreaHomeClearDesc>מסיר איזור בית. מתישבים לא ינקו, יתקנו, או יכבו שריפות כאן.</DesignatorAreaHomeClearDesc>
+
+  <!-- EN: Build roof area -->
+  <DesignatorAreaBuildRoofExpand>איזור בניית גג</DesignatorAreaBuildRoofExpand>
+  <!-- EN: Colonists will build roofs in this area. -->
+  <DesignatorAreaBuildRoofExpandDesc>מתישבים יבנו גגות באיזור זה.</DesignatorAreaBuildRoofExpandDesc>
+
+  <!-- EN: Remove roof area -->
+  <DesignatorAreaNoRoofExpand>איזור הסרת גג</DesignatorAreaNoRoofExpand>
+  <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
+  <DesignatorAreaNoRoofExpandDesc>מתישבים יסרו גגות באיזור זה (חוץ מתקרת הר, שלא ניתנת להסרה).</DesignatorAreaNoRoofExpandDesc>
+
+  <!-- EN: Ignore roof area -->
+  <DesignatorAreaIgnoreRoofExpand>איזור התעלמות מגג</DesignatorAreaIgnoreRoofExpand>
+  <!-- EN: Colonists will ignore roofs in this area. -->
+  <DesignatorAreaIgnoreRoofExpandDesc>מתישבים יתעלמו מגגות באיזור זה.</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <!-- EN: Snow removal area -->
+  <DesignatorAreaSnowClearExpand>הרחב איזור ניקוי שלג</DesignatorAreaSnowClearExpand>
+  <!-- EN: Create an area which colonists will try to keep clear of snow. -->
+  <DesignatorAreaSnowClearExpandDesc>צור איזור שמתישבים ינסו להשאירו נקי משלג.</DesignatorAreaSnowClearExpandDesc>
+  <!-- EN: Clear snow removal area -->
+  <DesignatorAreaSnowClearClear>הסר איזור ניקוי שלג</DesignatorAreaSnowClearClear>
+  <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
+  <DesignatorAreaSnowClearClearDesc>מסיר איזור ניקוי שלג. מתישבים לא ינסו יותר להשאירו נקי משלג.</DesignatorAreaSnowClearClearDesc>
+
+  <!-- EN: Expand allowed area -->
+  <DesignatorExpandAreaAllowed>הרחב איזור מותר</DesignatorExpandAreaAllowed>
+  <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorExpandAreaAllowedDesc>הרחב איזור מותר.\n\nאיזורים מותרים הם איזורים מוגדרים שניתן להקצותם למתישבים. מתישבים לא יקבלו עבודה או ימלאו את צרכיהם מחוץ לאיזור המותר שלהם.</DesignatorExpandAreaAllowedDesc>
+  <!-- EN: Clear allowed area -->
+  <DesignatorClearAreaAllowed>הסר איזור מותר</DesignatorClearAreaAllowed>
+  <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
+  <DesignatorClearAreaAllowedDesc>הסר משבצות מאיזור מותר.\n\nאיזורים מותרים הם איזורים מוגדרים שניתן להקצותם למתישבים. מתישבים לא יקבלו עבודה או ימלאו את צרכיהם מחוץ לאיזור המותר שלהם.</DesignatorClearAreaAllowedDesc>
+  <!-- EN: Manage areas... -->
+  <ManageAreas>נהל איזורים...</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
+
+  <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
+  <DesignatorGrowingZoneDesc>צור איזור שבו המתשבים שלך ינסו לגדל סוג מסויים של צמח.</DesignatorGrowingZoneDesc>
+
+  <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageResourcesDesc>צור מחסן שבו המתישבים שלך יאחסנו משאבים.\nכלי זה יכול גם להרחיב כל מחסן קיים.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
+  <DesignatorZoneCreateStorageDumpingDesc>צור מחסן שבו המתישבים יאחסנו זבל.\nכלי זה יכול גם להרחיב כל מחסן קיים.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <!-- EN: Shrink zones -->
+  <DesignatorZoneDelete>הקטן איזורים</DesignatorZoneDelete>
+  <!-- EN: Shrink zone -->
+  <DesignatorZoneDeleteSingular>הקטן איזור</DesignatorZoneDeleteSingular>
+  <!-- EN: Remove zones, like stockpile zones or growing zones. -->
+  <DesignatorZoneDeleteDesc>מחק איזורים, כמו מחסנים או איזורי גידול.</DesignatorZoneDeleteDesc>
+
+  <!-- EN: Expand zone -->
+  <DesignatorZoneExpand>הרחב איזור</DesignatorZoneExpand>
+  
+  <!-- EN: Claim -->
+  <DesignatorClaim>תבע</DesignatorClaim>
+  <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
+  <DesignatorClaimDesc>תביעת מבנה ניטרלי עבור המושבה, כגון חורבות עתיקות או בסיסי מצור נטושים. מבנים תבועים ניתנים לתיקון ותחזוקה על ידי המתישבים שלך.</DesignatorClaimDesc>
+
+  <!-- EN: Remove floor -->
+  <DesignatorRemoveFloor>הסר רצפה</DesignatorRemoveFloor>
+  <!-- EN: Remove floors to reveal the terrain underneath. -->
+  <DesignatorRemoveFloorDesc>הסר רצפות כדי לחשוף את פני הקרקע שמתחת.</DesignatorRemoveFloorDesc>
+
+  <!-- EN: Remove bridge -->
+  <DesignatorRemoveBridge>הסר גשר</DesignatorRemoveBridge>
+  <!-- EN: Remove bridges to reveal the terrain underneath. -->
+  <DesignatorRemoveBridgeDesc>מסיר גשרים כדי לחשוף את פני הקרקע שמתחת.</DesignatorRemoveBridgeDesc>
+
+  <!-- EN: Strip -->
+  <DesignatorStrip>הפשט</DesignatorStrip>
+  <!-- EN: Strip apparel from corpses and the wounded. -->
+  <DesignatorStripDesc>להפשיט לבוש מגופות ופצועים.</DesignatorStripDesc>
+
+  <!-- EN: Open -->
+  <DesignatorOpen>פתח</DesignatorOpen>
+  <!-- EN: Open containers. -->
+  <DesignatorOpenDesc>פתח מכולות.</DesignatorOpenDesc>
+  
+  <!-- EN: Slaughter -->
+  <DesignatorSlaughter>שחוט</DesignatorSlaughter>
+  <!-- EN: Slaughter a tame animal. -->
+  <DesignatorSlaughterDesc>שחיטת חיה מאולפת.</DesignatorSlaughterDesc>
+
+  <!-- EN: Tame -->
+  <DesignatorTame>אלף</DesignatorTame>
+  <!-- EN: Tame a wild animal. -->
+  <DesignatorTameDesc>אילוף חיה פראית.</DesignatorTameDesc>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>TODO</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>TODO</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
+
+  <!-- EN: Paint building... -->
+  <DesignatorPaintBuilding>TODO</DesignatorPaintBuilding>
+  <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
+  <DesignatorPaintBuildingDesc>TODO</DesignatorPaintBuildingDesc>
+  <!-- EN: Paint floor... -->
+  <DesignatorPaintFloor>TODO</DesignatorPaintFloor>
+  <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
+  <DesignatorPaintFloorDesc>TODO</DesignatorPaintFloorDesc>
+
+  <!-- EN: Remove paint -->
+  <DesignatorRemovePaint>TODO</DesignatorRemovePaint>
+  <!-- EN: Remove paint from walls, buildings, and floors. -->
+  <DesignatorRemovePaintDesc>TODO</DesignatorRemovePaintDesc>
+  <!-- EN: Remove floor paint -->
+  <DesignatorRemoveFloorPaint>TODO</DesignatorRemoveFloorPaint> 
+  <!-- EN: Remove paint from floors. -->
+  <DesignatorRemoveFloorPaintDesc>TODO</DesignatorRemoveFloorPaintDesc> 
+  <!-- EN: Paint -->
+  <Paint>TODO</Paint>
+  <!-- EN: Color -->
+  <Color>TODO</Color>
+
+  <!-- EN: Color picker -->
+  <DesignatorEyedropper>TODO</DesignatorEyedropper>
+  <!-- EN: Grab existing color -->
+  <GrabExistingColor>TODO</GrabExistingColor>
+  <!-- EN: Grab a color from an existing building. -->
+  <DesignatorEyeDropperDesc_Paint>TODO</DesignatorEyeDropperDesc_Paint>
+  <!-- EN: Grab a color from an existing carpet. -->
+  <DesignatorEyeDropperDesc_Carpet>TODO</DesignatorEyeDropperDesc_Carpet>
+  <!-- EN: Select a painted building. -->
+  <SelectAPaintedBuilding>TODO</SelectAPaintedBuilding>
+  <!-- EN: Select colored carpet. -->
+  <SelectColoredFloor>TODO</SelectColoredFloor>
+  <!-- EN: Grab -->
+  <Grab>TODO</Grab>
+  <!-- EN: Grabbed color -->
+  <GrabbedColor>TODO</GrabbedColor>
+
+  <!-- Failure messages -->
+  <!-- EN: Unchosen material -->
+  <UnchosenStuff>לא נבחר חומר</UnchosenStuff>
+  <!-- EN: Too close to map edge. -->
+  <TooCloseToMapEdge>קרוב מדי לקצה המפה.</TooCloseToMapEdge>
+  <!-- EN: Out of bounds. -->
+  <OutOfBounds>מחוץ לתחום.</OutOfBounds>
+  <!-- EN: Cannot place in undiscovered areas. -->
+  <CannotPlaceInUndiscovered>לא ניתן לשים באיזורים לא גלויים.</CannotPlaceInUndiscovered>
+  <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
+  <InteractionSpotBlocked>מקום אינטרקציה חסום על ידי {1_labelShort}.</InteractionSpotBlocked>
+  <!-- EN: Interaction spot is out of bounds. -->
+  <InteractionSpotOutOfBounds>מקום אינטרקציה מחוץ לתחום.</InteractionSpotOutOfBounds>
+  <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
+  <InteractionSpotWillBeBlocked>מקום אינטרקציה ייחסם על ידי {1_labelShort}.</InteractionSpotWillBeBlocked>
+  <!-- EN: {0} would block {1}'s interaction spot. -->
+  <WouldBlockInteractionSpot>{0} יחסום את מקום האינטרקציה של {1}.</WouldBlockInteractionSpot>
+  <!-- EN: The terrain here is already {0}. -->
+  <TerrainIsAlready>פני השטח הן כבר {0}.</TerrainIsAlready>
+  <!-- EN: The surface is already marked for smoothing. -->
+  <SurfaceBeingSmoothed>המשטח כבר מסומן לליטוש.</SurfaceBeingSmoothed>
+  <!-- EN: Identical thing already exists here. -->
+  <IdenticalThingExists>עצם זהה כבר קיים כאן.</IdenticalThingExists>
+  <!-- EN: Identical blueprint already exists here. -->
+  <IdenticalBlueprintExists>תוכנית זהה כבר קיימת כאן.</IdenticalBlueprintExists>
+  <!-- EN: {0_label} cannot be built on this terrain. -->
+  <TerrainCannotSupport>פני השטח כאן לא יכולים לתמוך בזה.</TerrainCannotSupport>
+  <!-- EN: {0_label} requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordance>{0_label} דורש פני שטח שיכול לתמוך ב: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>TODO</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <!-- EN: Space already occupied. -->
+  <SpaceAlreadyOccupied>חלל כבר תפוס.</SpaceAlreadyOccupied>
+  <!-- EN: Space being smoothed. -->
+  <SpaceBeingSmoothed>חלל בתהליך ליטוש.</SpaceBeingSmoothed>
+  <!-- EN: Must target a removable floor. -->
+  <TerrainMustBeRemovable>יש לכוון לרצפה הניתנת להסרה.</TerrainMustBeRemovable>
+  <!-- EN: The waterwheel must be on moving water. -->
+  <MustBeOnMovingWater>גלגל המים חייב להיות על מים זורמים.</MustBeOnMovingWater>
+  <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotWillOverlap>TODO</InteractionSpotWillOverlap>
+  <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
+  <InteractionSpotOverlaps>TODO</InteractionSpotOverlaps>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
+  <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
+  <MonumentAdjacentToBuilding>TODO</MonumentAdjacentToBuilding>
+  <!-- EN: Cannot be planted here -->
+  <CannotBePlantedHere>TODO</CannotBePlantedHere>
+  
+  <!-- Mouse attachments -->
+  <!-- EN: Expand {0} or\nCreate new {1} -->
+  <ExpandOrCreateZone>הרחב את {0} או\nצור {1} חדש</ExpandOrCreateZone>
+  <!-- EN: Create new {0} -->
+  <CreateNewZone>צור {0} חדש</CreateNewZone>
+  
+  <!-- Desc helpers -->
+  <!-- EN: Transmits power -->
+  <TransmitsPower>מוליך חשמל</TransmitsPower>
+  <!-- EN: Construction needed -->
+  <ConstructionNeeded>דרושה בנייה</ConstructionNeeded>
+  <!-- EN: None of your {0} have this skill. -->
+  <NoColonistWithSkillTip>TODO</NoColonistWithSkillTip>
+  <!-- EN: {0} needed -->
+  <SkillNeededForConstructing>TODO</SkillNeededForConstructing>
+  <!-- EN: None of your {0} have all skills required. -->
+  <NoColonistWithAllSkillsForConstructing>TODO</NoColonistWithAllSkillsForConstructing>
+  <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
+  <AllColonistsWithSkillHaveDisabledConstructingTip>TODO</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+  <!-- EN: Extract skull -->
+  <DesignatorExtractSkull>TODO</DesignatorExtractSkull>
+  <!-- EN: Extract the skull from a corpse. -->
+  <DesignatorExtractSkullDesc>TODO</DesignatorExtractSkullDesc>
+
+</LanguageData>

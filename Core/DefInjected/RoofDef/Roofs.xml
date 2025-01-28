@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: constructed roof -->
+  <RoofConstructed.label>גג מלאכותי</RoofConstructed.label>
+  
+  <!-- EN: overhead mountain -->
+  <RoofRockThick.label>גג הר</RoofRockThick.label>
+  
+  <!-- EN: rock roof (thin) -->
+  <RoofRockThin.label>גג אבן (דק)</RoofRockThin.label>
+  
+</LanguageData>

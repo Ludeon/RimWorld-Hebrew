@@ -1,0 +1,2036 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Various -->
+  <!-- EN: hit points -->
+  <HitPointsBasic>נקודות חיים</HitPointsBasic>
+  <!-- EN: Work left -->
+  <WorkLeft>עבודה שנשארה</WorkLeft>
+  <!-- EN: Contents -->
+  <Contents>תכולה</Contents>
+  <!-- EN: Contained resources -->
+  <ContainedResources>משאבים בתוך</ContainedResources>
+  <!-- EN: For prisoner use -->
+  <ForPrisonerUse>בשביל שימוש של אסירים</ForPrisonerUse>
+  <!-- EN: In prison cell: For prisoner use -->
+  <InPrisonCell>בתא מאסר: עבור שימוש של אסיר</InPrisonCell>
+  <!-- EN: For colonist use -->
+  <ForColonistUse>בשביל שימוש של תושב</ForColonistUse>
+  <!-- EN: Medical -->
+  <MedicalBed>רפואי</MedicalBed>
+  <!-- EN: Owner -->
+  <Owner>בעלים</Owner>
+  <!-- EN: Owners -->
+  <Owners>בעלים</Owners>
+  <!-- EN: Assigned colonist -->
+  <AssignedColonist>תושב מוגדר</AssignedColonist>
+  <!-- EN: Uncomfortable room temperature -->
+  <BedUncomfortableTemperature>TODO</BedUncomfortableTemperature>
+  <!-- EN: Unsafe room temperature -->
+  <BedUnsafeTemperature>TODO</BedUnsafeTemperature>
+  <!-- EN: Died on the {0} -->
+  <DiedOn>מת {0}ב</DiedOn>
+  <!-- EN: Nobody -->
+  <Nobody>אף אחד</Nobody>
+  <!-- EN: Unowned -->
+  <Unowned>ללא בעלים</Unowned>
+  <!-- EN: Dead for {0} -->
+  <DeadTime>{0} מת כבר</DeadTime>
+  <!-- EN: walk speed {0} -->
+  <WalkSpeed>מהירות הליכה {0}</WalkSpeed>
+  <!-- EN: fert. -->
+  <FertShort>פוריות</FertShort>
+  <!-- EN: dying -->
+  <DyingLower>גוסס</DyingLower>
+  <!-- EN: Filth on feet: -->
+  <FilthOnFeet>:לכלוך על הרגליים</FilthOnFeet>
+  <!-- EN: not enough stored -->
+  <NotEnoughStoredLower>לא מאוכסן מספיק</NotEnoughStoredLower>
+  <!-- EN: nothing -->
+  <NothingLower>כלום</NothingLower>
+  <!-- EN: Nothing -->
+  <Nothing>TODO</Nothing>
+  <!-- EN: Adapted -->
+  <Adapted>מותאם</Adapted>
+  <!-- EN: fresh -->
+  <FreshMissingBodyPart>טרי</FreshMissingBodyPart>
+  <!-- EN: developed immunity -->
+  <DevelopedImmunityLower>פיתח חסינות</DevelopedImmunityLower>
+  <!-- EN: Needs tending now -->
+  <NeedsTendingNow>צריך טיפול עכשיו</NeedsTendingNow>
+  <!-- EN: Can tend now -->
+  <CanTendNow>זמין לטיפול עכשיו</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
+  <TreatmentExpiresIn>הטיפול מתפוגג ב {0}</TreatmentExpiresIn>
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>זמין לטיפול בעוד {0}</NextTendIn>
+  <!-- EN: Tend quality -->
+  <TendQuality>איכות הטיפול</TendQuality>
+  <!-- EN: Total tend quality -->
+  <DisappearsAtTotalTendQuality>TODO</DisappearsAtTotalTendQuality>
+  <!-- EN: no {0} -->
+  <MissingMedicalBillIngredient>אין {0}</MissingMedicalBillIngredient>
+  <!-- EN: Immunity -->
+  <Immunity>חסינות</Immunity>
+  <!-- EN: {0} days to recover -->
+  <DaysToRecover>TODO</DaysToRecover>
+  <!-- EN: Ineffective -->
+  <Ineffective>TODO</Ineffective>
+  <!-- EN: illegal -->
+  <Illegal>TODO</Illegal>
+  <!-- EN: detection chance -->
+  <DetectionChance>TODO</DetectionChance>
+  <!-- EN: Race -->
+  <Race>גזע</Race>
+  <!-- EN: Description -->
+  <Description>תיאור</Description>
+  <!-- EN: Equipment -->
+  <Equipment>ציוד</Equipment>
+  <!-- EN: Apparel -->
+  <Apparel>מראה</Apparel>
+  <!-- EN: Inventory -->
+  <Inventory>מלאי</Inventory>
+  <!-- EN: Information -->
+  <ThingInfo>מידע</ThingInfo>
+  <!-- EN: Drop -->
+  <DropThing>הפל</DropThing>
+  <!-- EN: Temporary faction members will not drop their items. -->
+  <DropThingLodger>TODO</DropThingLodger>
+  <!-- EN: This person refuses to drop this. -->
+  <DropThingLocked>TODO</DropThingLocked>
+  <!-- EN: Rename -->
+  <Rename>שנה שם</Rename>
+  <!-- EN: Rename animal -->
+  <RenameAnimal>שנה שם לחיה</RenameAnimal>
+  <!-- EN: Rename colonist -->
+  <RenameColonist>שנה שם לתושב</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>TODO</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>TODO</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>TODO</ExecuteColonist>
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>TODO</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>TODO</RenounceTitleDescription>
+  <!-- EN: {PAWN_pronoun} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>TODO</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>TODO</RenounceTitleWillKeepPsylinkLevels>
+  <!-- EN: unknown -->
+  <UnknownLower>לא ידוע</UnknownLower>
+  <!-- EN: On -->
+  <On>דלוק</On>
+  <!-- EN: Off -->
+  <Off>מכובה</Off>
+  <!-- EN: {0} {1} -->
+  <SourceToolLabel>TODO</SourceToolLabel>
+  <!-- EN: Power -->
+  <PowerSwitch_Power>כוח</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
+  <JoyTolerances>סבילות לסוגים של שעשועים</JoyTolerances>
+  <!-- EN: Milk fullness -->
+  <MilkFullness>כמות חלב</MilkFullness>
+  <!-- EN: Wool growth -->
+  <WoolGrowth>צמיחת צמר</WoolGrowth>
+  <!-- EN: Egg progress -->
+  <EggProgress>התקדמות הביצה</EggProgress>
+  <!-- EN: Fertilized -->
+  <Fertilized>מופרה</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
+  <ProgressStoppedUntilFertilized>התקדמות עצרה עד הפריה</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>TODO</HatchesIn>
+  <!-- EN: need {0} level {2}, have {1} -->
+  <SkillTooLow>צריך {0} רמת כשרון ,{2} יש {1}</SkillTooLow>
+  <!-- EN: Freezing -->
+  <Freezing>קופא</Freezing>
+  <!-- EN: Overheating -->
+  <Overheating>מתחמם ברמה מסוכנת</Overheating>
+  <!-- EN: Ruined by temperature. -->
+  <RuinedByTemperature>נהרס על ידי הטמפרטורה.</RuinedByTemperature>
+  <!-- EN: Missing body parts -->
+  <CorpsePercentMissing>חסר חלקים בגוף</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
+  <HiveReproducesIn>מתרבים בעוד</HiveReproducesIn>
+  <!-- EN: Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>.רדום: לא מתרבה</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
+  <NextSpawnedItemIn>{0} הבא בעוד</NextSpawnedItemIn>
+  <!-- EN: Next resource in -->
+  <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
+  <!-- EN: Broken down -->
+  <BrokenDown>שבור</BrokenDown>
+  <!-- EN: (bond) -->
+  <BondBrackets>)קשור(</BondBrackets>
+  <!-- EN: Fuel -->
+  <Fuel>דלק</Fuel>
+  <!-- EN: Fuel -->
+  <FuelLevelGizmoLabel>דלק</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
+  <SetTargetFuelLevel>קבע רמת דלק נדרשת ל{0}</SetTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
+  <SetPodLauncherTargetFuelLevel>מרחק מירבי {1} אריחיםn\{0}קבע רמת דלק נדרשת ל</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
+  <ConfiguredTargetFuelLevel>{0} :כמות רמת הדלק הנדרשת</ConfiguredTargetFuelLevel>
+  <!-- EN: enemies -->
+  <Enemies>אויבים</Enemies>
+  <!-- EN: people -->
+  <People>TODO</People>
+  <!-- EN: time passed -->
+  <TimePassed>זמן עבר</TimePassed>
+  <!-- EN: current radius -->
+  <CurrentRadius>רדיוס נוכחי</CurrentRadius>
+  <!-- EN: radius expands in -->
+  <RadiusExpandsIn>רדיוס מתרחב בעוד</RadiusExpandsIn>
+  <!-- EN: permanent -->
+  <Permanent>תמידי</Permanent>
+  <!-- EN: Resting -->
+  <CaravanResting>נח</CaravanResting>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>משתמש בשק שינה 1</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>משתמשים {0}ב שקי שינה</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
+  <CaravanEstimatedTimeToDestination>זמן מוארך להגעה ליעד: {0} ימים</CaravanEstimatedTimeToDestination>
+  <!-- EN: Route travel time: {0} days -->
+  <CaravanEstimatedDaysToDestination>זמן מוארך להגעה: {0}</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
+  <CaravanImmobilizedByMass>מקובע: יותר מדי משקל.</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
+  <CaravanOutOfFood>.ללא מזון</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
+  <CaravanDaysOfFood>ימים של אוכל: {0}</CaravanDaysOfFood>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
+  <CaravanDaysOfFoodRot>ימים של אוכל: {0} (נרקב בעוד {1} ימים)</CaravanDaysOfFoodRot>
+  <!-- EN: Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>נעצר בגלל: כולם נפולים.</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone is in a mental break. -->
+  <AllCaravanMembersMentalBreak>נעצר בגלל: כולם חווים התמוטטות עצבים.</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
+  <CaravanAnimal>חיה 1</CaravanAnimal>
+  <!-- EN: {0} animals -->
+  <CaravanAnimalsCount>{0} חיות</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
+  <CaravanPrisoner>אסיר 1</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
+  <CaravanPrisonersCount>{0} אסירים</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
+  <CaravanPawnsInMentalState>{0} בהתמוטטות עצבים</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
+  <CaravanPawnsDowned>{0} נפולים</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
+  <CaravanTraveling>.נעים</CaravanTraveling>
+  <!-- EN: Waiting. -->
+  <CaravanWaiting>.מחכים</CaravanWaiting>
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>נסחב בגלל מחלה</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>משתמש בשק שינה בגלל מחלה</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
+  <CurrentTileMovementTime>זמן תזוזה נוכחי בין אריחים</CurrentTileMovementTime>
+  <!-- EN: Visibility -->
+  <Visibility>נראות</Visibility>
+  <!-- EN: Temperature -->
+  <Temperature>טמפרטורה</Temperature>
+  <!-- EN: bad temperature -->
+  <BadTemperature>טמפרטורה רעה</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
+  <IdealFermentingTemperature>טמפרטורה אידיאלית להתססה</IdealFermentingTemperature>
+  <!-- EN: {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>{0} מכפיל אפקטים: {1}</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
+  <CaravanVisiting>{0} מבקר.</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
+  <CaravanEntering>{0} נכנס.</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
+  <CaravanAttacking>{0} תוקף.</CaravanAttacking>
+  <!-- EN: Offering gifts to {0}. -->
+  <CaravanOfferingGifts>{0} מציע מתנות ל.</CaravanOfferingGifts>
+  <!-- EN: Trading with {0}. -->
+  <CaravanTrading>TODO</CaravanTrading>
+  <!-- EN: Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>.מוכתם מכח שנלבש על ידי גופה</WasWornByCorpse>
+  <!-- EN: T -->
+  <WornByCorpseChar>מ</WornByCorpseChar>
+  <!-- EN: unroofed -->
+  <DeterioratingUnroofed>לא מכוסה על ידי גג</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
+  <DeterioratingOutdoors>בחוץ</DeterioratingOutdoors>
+  <!-- EN: raining -->
+  <DeterioratingRaining>TODO</DeterioratingRaining> 
+  <!-- EN: protected -->
+  <Protected>TODO</Protected>
+  <!-- EN: Deteriorating -->
+  <DeterioratingBecauseOf>מתקלה בגלל</DeterioratingBecauseOf>
+  <!-- EN: Will deteriorate in {0}. -->
+  <DeteriorateInDuration>TODO</DeteriorateInDuration>
+  <!-- EN: Map -->
+  <Map>Map</Map>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
+  <!-- EN: Room -->
+  <Room>חדר</Room>
+  <!-- EN: Beauty here -->
+  <BeautyHere>יופי כאן</BeautyHere>
+  <!-- EN: no power -->
+  <NoPower>אין כוח</NoPower>
+  <!-- EN: Work speed -->
+  <WorkSpeedPenalty>הגבלת מהירות עבודה</WorkSpeedPenalty>
+  <!-- EN: Disabled -->
+  <DisabledCommand>מבוטל</DisabledCommand>
+  <!-- EN: Ready for launch. -->
+  <ReadyForLaunch>.מוכן להמראה.</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
+  <NotReadyForLaunch>לא מוכן להמראה.</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
+  <NotAllInGroupConnectedToFuelingPort>אין נקודת תדלוק</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>ללא דלק</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
+  <TransportPodInGroupHasSomethingLeftToLoad>הטענה בעיצומה</TransportPodInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
+  <TransportPodDestinationBeyondMaximumRange>מעבר לטווח המקסימלי</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: Not enough fuel -->
+  <TransportPodNotEnoughFuel>אין מספיק דלק</TransportPodNotEnoughFuel>
+  <!-- EN: {0} of {1} -->
+  <SettlementTrader>{0} מתוך {1}</SettlementTrader>
+  <!-- EN: Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>מכפיל סיכוי הצלחת הניתוח מהחדר</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>מכפיל סיכוי הזיהום מהחדר</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
+  <VentClosed>סגור</VentClosed>
+  <!-- EN: worn by {1_labelShort} -->
+  <WornBy>נלבש על ידי {0}</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
+  <EquippedBy>מצויד על ידי {0}</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>{1}: רוצה את זה הרוס n\ פרס: {1}.</QuestTargetDestroyInspectString>
+  <!-- EN: {0} wants this destroyed. -->
+  <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
+  <!-- EN: Departing on shuttle in {0} -->
+  <ShuttleDelayInspectString>TODO</ShuttleDelayInspectString>
+  <!-- EN: Departing in {0} -->
+  <ShuttleLeaveDelayInspectString>TODO</ShuttleLeaveDelayInspectString>
+  <!-- EN: Should depart on shuttle -->
+  <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
+  <!-- EN: Time left: {0} -->
+  <WorldObjectTimeout>זמן שנשאר: {0}</WorldObjectTimeout>
+  <!-- EN: Click to sort by this column. -->
+  <ClickToSortByThisColumn>לחץ כדי לסדר לפי שורה זאת.</ClickToSortByThisColumn>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>שיפט + קליק: הגבר עדיפות \nשיפט + קליק ימני: הורד בעדיפות</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
+  <WorkPriorityShiftClickEnableDisableTip>שיפט + קליק: אפשר הכל \nשיפט + קליק ימני: בטל הכל</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
+  <AllowedAreaShiftClickTip>שיפט + קליק: הגדר הכל לבית\nשיפט + קליק ימני: הגדר הכל ללא תחום מוגבל</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
+  <CheckboxShiftClickTip>שיפט + קליק: בחר הכל\nשיפט + קליק ימני: בטל סימון של הכל</CheckboxShiftClickTip>
+  <!-- EN: {0} {1} -->
+  <KnownSiteThreatEnemyCountAppend>TODO</KnownSiteThreatEnemyCountAppend>
+  <!-- EN: Skill Requirements -->
+  <SkillRequirements>דרישות מומחיות</SkillRequirements>
+  <!-- EN: Products -->
+  <Products>מוצרים</Products>
+  <!-- EN: Requires -->
+  <Requires>TODO</Requires>
+  <!-- EN: {0}x any of -->
+  <NumAnyOf>TODO</NumAnyOf>
+  <!-- EN: {0} of {1} -->
+  <Relationship>{0} מתוך {1}</Relationship>
+  <!-- EN: Prisoner -->
+  <Prisoner>אסיר</Prisoner>
+  <!-- EN: Refugee -->
+  <Refugee>פליט</Refugee>
+  <!-- EN: Terrain movement difficulty -->
+  <TileMovementDifficulty>קושי הליכה על השטח</TileMovementDifficulty>
+  <!-- EN: Impassable -->
+  <Impassable>בלתי חדיר</Impassable>
+  <!-- EN: Caravan movement speed -->
+  <CaravanMovementSpeedFull>מהירות תזוזה של קרוואן</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
+  <DownedLower>נפול</DownedLower>
+  <!-- EN: resting -->
+  <Carried>נסחב</Carried>
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>TODO</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
+  <!-- EN: Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>מכפיל עבור משקל שנסחב: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>TODO</RideableAnimalTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>TODO</EncumberedCaravanTilesPerDayTip>
+  <!-- EN: Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>מהירות תזוזה של חברי הקרוואן</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
+  <FinalCaravanMovementSpeed>מהירות סופית</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
+  <Winter>חורף</Winter>
+  <!-- EN: {0} in winter -->
+  <MovementDifficultyOffsetInWinter>חורף בעוד {0}</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
+  <RangeTo>ל</RangeTo>
+  <!-- EN: Caused by -->
+  <CausedBy>TODO</CausedBy>
+  <!-- EN: No letter -->
+  <NoDietCategoryLetter>אין מכתב</NoDietCategoryLetter>
+  <!-- EN: expires in -->
+  <ExpiresIn>פג תוקף בעוד</ExpiresIn>
+  <!-- EN: {1_labelShort}'s caravan -->
+  <CaravanLeaderCaravanName>הקרוואן של {0}</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
+  <Reason>סיבה</Reason>
+  <!-- EN: Relations with {0} -->
+  <RelationsWith>יחסים עם {0}</RelationsWith>
+  <!-- EN: captured by {0} -->
+  <capturedBy>נלכד על ידי {0}</capturedBy>
+  <!-- EN: your caravan -->
+  <yourCaravan>הקרוואן שלך</yourCaravan>
+  <!-- EN: {0} wildness -->
+  <CreatureWildness>{0} פראיות</CreatureWildness>
+  <!-- EN: {0} trainability -->
+  <CreatureTrainability>רמת אילוף {0}</CreatureTrainability>
+  <!-- EN: Follow master while drafted -->
+  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
+  <!-- EN: Follow master while doing field work -->
+  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
+  <!-- EN: {0} with {1} -->
+  <ProximitySingleGoodwillChange>{0} עם {1}</ProximitySingleGoodwillChange>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <EnterCooldown>אתה לא יכול להכנס לפחות עוד {0} ימים.</EnterCooldown>
+  <!-- EN: Caravan -->
+  <Caravan>קרוואן</Caravan>
+  <!-- EN: there may be danger there. -->
+  <HiddenOrNoSitePartDescription>יכול להיות סכנה שם</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>גוש של {0}</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
+  <!-- EN: Current project -->
+  <CurrentProject>TODO</CurrentProject>
+  <!-- EN: Research progress -->
+  <ResearchProgress>TODO</ResearchProgress>
+  <!-- EN: already has {0} -->
+  <AlreadyHasHediff>TODO</AlreadyHasHediff>
+  <!-- EN: turret -->
+  <Turret>TODO</Turret>
+  <!-- EN: turrets -->
+  <Turrets>TODO</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>TODO</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>TODO</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>TODO</Enemy>
+  <!-- EN: location -->
+  <Location>TODO</Location>
+  <!-- EN: animals -->
+  <AnimalsLower>TODO</AnimalsLower>
+  <!-- EN: items -->
+  <ItemsLower>TODO</ItemsLower>
+  <!-- EN: {0} x{1} -->
+  <FilthLabel>TODO</FilthLabel>
+  <!-- EN: {0} of {1} x{2} -->
+  <FilthLabelWithSource>TODO</FilthLabelWithSource>
+  <!-- EN: Required -->
+  <Required>TODO</Required>
+  <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
+  <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
+  <!-- EN: prisoner -->
+  <PrisonerLower>TODO</PrisonerLower>
+  <!-- EN: prisoners -->
+  <PrisonersLower>TODO</PrisonersLower>
+  <!-- EN: Click to view this quest in quests tab -->
+  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
+  <!-- EN: Mood -->
+  <Mood>TODO</Mood>
+  <!-- EN: Quest -->
+  <Quest>TODO</Quest>
+  <!-- EN: Brings raids every {0} -->
+  <BringsRaidsEvery>TODO</BringsRaidsEvery>
+  <!-- EN: Generates {0} every {1} -->
+  <GeneratesResourcesEvery>TODO</GeneratesResourcesEvery>
+  <!-- EN: Foliage kill radius -->
+  <FoliageKillRadius>TODO</FoliageKillRadius>
+  <!-- EN: View: {0} -->
+  <ViewHyperlink>TODO</ViewHyperlink>
+  <!-- EN: Detonates in {0} days -->
+  <DetonationCountdown>TODO</DetonationCountdown>
+  <!-- EN: Large fire explosion if damaged. -->
+  <ExplosionOnDamageWarning>TODO</ExplosionOnDamageWarning>
+  <!-- EN: Mech cluster -->
+  <MechCluster>TODO</MechCluster>
+  <!-- EN: Spawning in {0} -->
+  <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
+  <!-- EN: {0} assembly completes in {1}. -->
+  <MechAssemblyCompleteIn>TODO</MechAssemblyCompleteIn>
+  <!-- EN: Will assemble -->
+  <MechAssemblyNextType>TODO</MechAssemblyNextType>
+  <!-- EN: produced -->
+  <ThingsProduced>TODO</ThingsProduced>
+  <!-- EN: harvested -->
+  <PlantsHarvested>TODO</PlantsHarvested>
+  <!-- EN: {0} killed -->
+  <PawnsKilled>TODO</PawnsKilled>
+  <!-- EN: Sent {0}, will return in {1} -->
+  <PawnsLent>TODO</PawnsLent>
+  <!-- EN: Dormant -->
+  <DormantCompInactive>TODO</DormantCompInactive>
+  <!-- EN: Sealed -->
+  <DormantCompSealed>TODO</DormantCompSealed>
+  <!-- EN: Ready to drop mechanoids -->
+  <DormantCompBeacon>TODO</DormantCompBeacon>
+  <!-- EN: Expired -->
+  <DormantCompExpired>TODO</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>TODO</InitiatesIn>
+  <!-- EN: Activates in {0} -->
+  <SendSignalOnCountdownCompTime>TODO</SendSignalOnCountdownCompTime>
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>TODO</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>TODO</PsychicEntropyShort>
+  <!-- EN: {0} pain boost -->
+  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
+  <!-- EN: radius {0} -->
+  <ConditionCauserRadius>TODO</ConditionCauserRadius>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>TODO</LowPsyfocus>
+  <!-- EN: {0} left -->
+  <DurationLeft>TODO</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>TODO</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>TODO</TraitRequired>
+  <!-- EN: Goodwill -->
+  <Goodwill>TODO</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>TODO</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
+  <!-- EN: reducing resistance of {0_nameIndef} -->
+  <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>TODO</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>TODO</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>TODO</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>TODO</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>TODO</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>TODO</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>TODO</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>TODO</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>TODO</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>TODO</RemoveByAttackingTooltip>
+  <!-- EN: Food -->
+  <ThoughtFoodEatenFood>TODO</ThoughtFoodEatenFood>
+  <!-- EN: Ingredients -->
+  <ThoughtFoodEatenIngredients>TODO</ThoughtFoodEatenIngredients>
+  <!-- EN: Shield pack -->
+  <ShieldInbuilt>TODO</ShieldInbuilt>
+  <!-- EN: Punctured - will explode soon. -->
+  <PuncturedWillExplode>TODO</PuncturedWillExplode>
+  <!-- EN: Click to open research window -->
+  <ClickToOpenResearchTab>TODO</ClickToOpenResearchTab>
+  <!-- EN: Target belongs to another faction. -->
+  <TargetBelongsToNPCFaction>TODO</TargetBelongsToNPCFaction>
+  <!-- EN: more -->
+  <MoreLower>TODO</MoreLower>
+  <!-- EN: Requires -->
+  <RequiredTechprintTip>TODO</RequiredTechprintTip>
+  <!-- EN: size -->
+  <Size>TODO</Size>
+  <!-- EN: cost -->
+  <Cost>TODO</Cost>
+  <!-- EN: Stunned by EMP -->
+  <StunnedByEMP>TODO</StunnedByEMP>
+  <!-- EN: Title -->
+  <BackstoryTitle>TODO</BackstoryTitle>
+  <!-- EN: person -->
+  <Person>TODO</Person>
+  <!-- EN: activated. -->
+  <Activated>TODO</Activated> 
+  <!-- EN: Contains -->
+  <Contains>TODO</Contains>
+  <!-- EN: Hostiles -->
+  <Hostiles>TODO</Hostiles>
+  <!-- EN: Investigate -->
+  <Investigate>TODO</Investigate> 
+  <!-- EN: Activate -->
+  <Activate>TODO</Activate> 
+  <!-- EN: Activation -->
+  <Activation>TODO</Activation> 
+  <!-- EN: complete -->
+  <Complete>TODO</Complete>
+  <!-- EN: Must be imprisoned. -->
+  <RequiresImprisonment>TODO</RequiresImprisonment> 
+  <!-- EN: Prioritize hauling contents -->
+  <HaulFromSource>TODO</HaulFromSource>
+  <!-- EN: Use -->
+  <UseGizmo>TODO</UseGizmo>
+  <!-- EN: Order someone to use the {0}. -->
+  <UseGizmoTooltip>TODO</UseGizmoTooltip>
+  <!-- EN: Choose who should use this -->
+  <UseGizmoMouse>TODO</UseGizmoMouse>
+  <!-- EN: Select target -->
+  <TargetGizmoMouse>TODO</TargetGizmoMouse>
+  <!-- EN: Cannot use this -->
+  <CannotUseGizmoMouse>TODO</CannotUseGizmoMouse>
+  <!-- EN: Buildings -->
+  <Buildings>TODO</Buildings>
+  <!-- EN: not yet discovered -->
+  <NotYetDiscovered>TODO</NotYetDiscovered>
+  <!-- EN: Crawling to safety. -->
+  <ReportStringCrawlingToSafety>TODO</ReportStringCrawlingToSafety>
+  <!-- EN: Crawling to bed. -->
+  <ReportStringCrawlingToBed>TODO</ReportStringCrawlingToBed>
+  
+  <!-- Scanning -->
+  <!-- EN: User scanning speed -->
+  <UserScanAbility>TODO</UserScanAbility>
+  <!-- EN: Random find interval -->
+  <ScanAverageInterval>TODO</ScanAverageInterval>
+  <!-- EN: Progress to guaranteed find -->
+  <ScanningProgressToGuaranteedFind>TODO</ScanningProgressToGuaranteedFind>
+  
+  <!-- Meditation -->
+  <!-- EN: meditating at -->
+  <MeditatingAt>TODO</MeditatingAt>
+
+  <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
+  <ContainsWort>מכיל {0} / {1} וורט.</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
+  <ContainsBeer>מכיל {0} / {1} בירה.</ContainsBeer>
+  <!-- EN: Fermented -->
+  <Fermented>מותסס</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
+  <FermentationProgress>התקדמות: {0} ){1}( נשאר</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
+  <FermentationBarrelOutOfIdealTemperature>טמפרטורה לא אידיאלית. זמן התססה: {0}</FermentationBarrelOutOfIdealTemperature>
+
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
+  <Headshot>פגיעת ראש</Headshot>
+  <!-- EN: Treatment success!\n{0} chance -->
+  <TextMote_TreatSuccess>הטיפול הצליח!\n {0} אחוזים</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
+  <TextMote_TreatFailed>הטיפול נכשל\n {0} אחוזים</TextMote_TreatFailed>
+  <!-- EN: Harvest\nbotched -->
+  <TextMote_HarvestFailed>הקצירה\n נכשלה</TextMote_HarvestFailed>
+  <!-- EN: Yield\nwasted -->
+  <TextMote_YieldWasted>הקטיף/n נהרס</TextMote_YieldWasted>
+  <!-- EN: Product\nwasted -->
+  <TextMote_ProductWasted>המוצר\n נהרס</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
+  <TextMote_RecruitFail>הגיוס נכשל!\n {0} אחוזים</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>TODO</TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
+  <TextMote_TameFail>האילוף נכשל\n {0} אחוזים</TextMote_TameFail>
+  <!-- EN: Tamed! -->
+  <TextMote_TameSuccess>אולף!\n {0} אחוזים</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
+  <TextMote_TrainFail>האימון נכשל: {0}n\ {1} אחוזים</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
+  <TextMote_TrainSuccess>זוחא {1}n\ אולף: {0}</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
+  <TextMote_FixBrokenDownBuildingFail>נכשל n\ תיקון</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
+  <TextMote_ConstructionFail>הלשכנ n\בנייה</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
+  <TextMote_Dodge>התחמקות</TextMote_Dodge>
+  <!-- EN: Immune -->
+  <TextMote_Immune>TODO</TextMote_Immune>
+  <!-- EN: {0} tended -->
+  <TextMote_Tended>{0} טופל</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>TODO</TextMote_SkillUp>
+  <!-- EN: low mood -->
+  <lowMood>TODO</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>TODO</lowOpinion>
+
+  <!-- Areas -->
+  <!-- EN: Home -->
+  <Home>בית</Home>
+  <!-- EN: Build roof -->
+  <BuildRoof>בנה גג</BuildRoof>
+  <!-- EN: No roof -->
+  <NoRoof>אין גג</NoRoof>
+  <!-- EN: Snow clear -->
+  <SnowClear>שלג מנוקה</SnowClear>
+  <!-- EN: Area {0} -->
+  <AreaDefaultLabel>אזור {0}</AreaDefaultLabel>
+  <!-- EN: Unrestricted -->
+  <NoAreaAllowed>ללא הגבלת אזור</NoAreaAllowed>
+  <!-- EN: New area -->
+  <NewArea>אזור חדש</NewArea>
+  <!-- EN: Invert -->
+  <InvertArea>הפוך</InvertArea>
+  <!-- EN: Expand -->
+  <ExpandArea>TODO</ExpandArea>
+  <!-- EN: Shrink -->
+  <ShrinkArea>TODO</ShrinkArea>
+  <!-- EN: Maximum {0} areas allowed. -->
+  <MaxAreasReached>TODO</MaxAreasReached>
+
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>TODO</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>TODO</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>TODO</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>TODO</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>TODO</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>TODO</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>TODO</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>TODO</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>TODO</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>TODO</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>TODO</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>TODO</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>TODO</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>TODO</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>TODO</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>TODO</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>TODO</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>TODO</PenExampleAnimals>
+  <!-- EN: No exterior access - Animals cannot be moved in or out. -->
+  <NoExteriorAccess>TODO</NoExteriorAccess>
+  
+  <!-- EN: Must be connected to walls on both sides to function. -->
+  <DoorMustBeEnclosedByWalls>TODO</DoorMustBeEnclosedByWalls>
+
+  <!-- Cell Inspector -->
+  <!-- EN: Beauty -->
+  <Beauty_Label>TODO</Beauty_Label>
+  <!-- EN: Zone -->
+  <Zone_Label>TODO</Zone_Label>
+  <!-- EN: Roof -->
+  <Roof_Label>TODO</Roof_Label>
+  <!-- EN: Terrain -->
+  <Terrain_Label>TODO</Terrain_Label>
+  <!-- EN: Snow -->
+  <Snow_Label>TODO</Snow_Label>
+  <!-- EN: Walk speed -->
+  <WalkSpeed_Label>TODO</WalkSpeed_Label>
+  <!-- EN: Fertility -->
+  <Fertility_Label>TODO</Fertility_Label>
+  <!-- EN: Temperature -->
+  <Temperature_Label>TODO</Temperature_Label>
+  <!-- EN: Light level -->
+  <LightLevel_Label>TODO</LightLevel_Label>
+  <!-- EN: Biome -->
+  <Biome_Label>TODO</Biome_Label>
+  <!-- EN: Hilliness -->
+  <Hilliness_Label>TODO</Hilliness_Label>
+  <!-- EN: Road -->
+  <Road_Label>TODO</Road_Label>
+  <!-- EN: River -->
+  <River_Label>TODO</River_Label> 
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty_Label>TODO</MovementDifficulty_Label>
+  <!-- EN: Pollution -->
+  <Pollution_Label>TODO</Pollution_Label>
+  <!-- EN: Filth -->
+  <Filth_Label>TODO</Filth_Label>
+  
+  <!-- EN: Faction -->
+  <Faction_Label>TODO</Faction_Label>
+  <!-- EN: Relationship -->
+  <Relationship_Label>TODO</Relationship_Label>
+  <!-- EN: Colonists -->
+  <CaravanColonists_Label>TODO</CaravanColonists_Label>
+  <!-- EN: Status -->
+  <CaravanStatus_Label>TODO</CaravanStatus_Label>
+  <!-- EN: Time to destination -->
+  <CaravanTTD_Label>TODO</CaravanTTD_Label>
+  
+
+  <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
+  <CannotOrderNonControlled>.לא יכול לפקד על דמויות שלא בשליטך</CannotOrderNonControlled>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
+  <IsIncapableOfViolence>.{0} לא מסוגל להיות אלים</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
+  <IsIncapableOfViolenceShort>.לא מסוגל להיות אלים</IsIncapableOfViolenceShort>
+  <!-- EN: {1_labelShort} is not drafted. -->
+  <IsNotDrafted>{0} לא מורם לקרב.</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
+  <!-- EN: Cannot use in {0} -->
+  <CannotUseReason_PocketMap>TODO</CannotUseReason_PocketMap>
+
+  <!-- Snow -->
+  <!-- EN: Snow -->
+  <Snow>TODO</Snow>
+  <!-- EN: No snow -->
+  <SnowNone>אין שלג</SnowNone>
+  <!-- EN: dusting -->
+  <SnowDusting>שלג )בקטנה(</SnowDusting>
+  <!-- EN: thin -->
+  <SnowThin>שלג )דק(</SnowThin>
+  <!-- EN: medium -->
+  <SnowMedium>שלג )בינוני(</SnowMedium>
+  <!-- EN: thick -->
+  <SnowThick>שלג )עבה(</SnowThick>
+
+  <!-- Turrets -->
+  <!-- EN: Installed -->
+  <GunInstalled>מותקן</GunInstalled>
+  <!-- EN: Minimum range -->
+  <MinimumRange>טווח מינימאלי</MinimumRange>
+  <!-- EN: Can fire in -->
+  <CanFireIn>יכול לירות בעוד</CanFireIn>
+  <!-- EN: Cannot fire -->
+  <CannotFire>לא יכול לירות</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>עם קורת גג</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>תרמילים טעונים: {0}</ShellLoaded>
+  <!-- EN: Not loaded -->
+  <ShellNotLoaded>לא טעון</ShellNotLoaded>
+  <!-- EN: Already active -->
+  <AlreadyActive>TODO</AlreadyActive>
+  <!-- EN: Order activation -->
+  <OrderActivation>TODO</OrderActivation>
+  <!-- EN: Order a colonist to activate {THING_definite}. -->
+  <OrderActivationDesc>TODO</OrderActivationDesc>
+  <!-- EN: Send a colonist to activate this. -->
+  <MustBeActivatedByColonist>TODO</MustBeActivatedByColonist>
+  <!-- EN: No nearby fire -->
+  <NoNearbyFire>TODO</NoNearbyFire>
+  <!-- EN: No nearby fire. No fuel was used. -->
+  <NoNearbyFireNoFuelUsed>TODO</NoNearbyFireNoFuelUsed>
+  <!-- EN: Choose who should activate this. -->
+  <ChooseWhoShouldActivate>TODO</ChooseWhoShouldActivate>
+  <!-- EN: No fuel -->
+  <NoFuel>TODO</NoFuel>
+
+  <!-- Job reports -->
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
+  <ReportHaulingTo>.סוחב {0} ל{1}</ReportHaulingTo>
+  <!-- EN: burying {THING_label} in {DESTINATION}. -->
+  <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
+  <!-- EN: hauling {1_label}. -->
+  <ReportHauling>סוחב {0}.</ReportHauling>
+  <!-- EN: hauling. -->
+  <ReportHaulingUnknown>סוחב.</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
+  <ReportSleeping>יושן.</ReportSleeping>
+  <!-- EN: resting. -->
+  <ReportResting>נח.</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>TODO</ReportLayingDown>
+  <!-- EN: watching the sunrise. -->
+  <WatchingSunrise>צופה בזריחה.</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
+  <CloudWatching>צופה בעננים.</CloudWatching>
+  <!-- EN: watching the sunset. -->
+  <WatchingSunset>צופה בשקיעה.</WatchingSunset>
+  <!-- EN: stargazing. -->
+  <Stargazing>מסתכל על הכוכבים.</Stargazing>
+  <!-- EN: watching the eclipse. -->
+  <WatchingEclipse>צופה בליקוי חמה.</WatchingEclipse>
+  <!-- EN: watching the aurora. -->
+  <WatchingAurora>צופה בזוהר הקוטבי.</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
+  <UsingVerb>משתמש ב{0} על {1}.</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
+  <!-- EN: area -->
+  <AreaLower>אזור</AreaLower>
+  <!-- EN: cowering. -->
+  <ReportCowering>.מתחבא מפחד</ReportCowering>
+  <!-- EN: standing. -->
+  <ReportStanding>עומד.</ReportStanding>
+  <!-- EN: extinguishing fire. -->
+  <ReportExtinguishingFire>מכבה אש.</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
+  <ReportExtinguishingFireOn>.מכבה אש ב{0}</ReportExtinguishingFireOn>
+  <!-- EN: digging up corpse. -->
+  <ReportDiggingUpCorpse>חופר לבחוץ גופה.</ReportDiggingUpCorpse>
+  <!-- EN: being carried by {0_labelShort}. -->
+  <CarriedBy>TODO</CarriedBy> 
+  <!-- EN: inside {0_labelShort}. -->
+  <InContainer>TODO</InContainer> 
+  <!-- EN: downed, cannot crawl. -->
+  <DownedCannotCrawl>TODO</DownedCannotCrawl> 
+  <!-- EN: downed, unconscious. -->
+  <DownedUnconscious>TODO</DownedUnconscious> 
+
+  <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
+  <LordReportAttendingMarriageCeremony>משתתף בטקס החתונה</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
+  <LordReportAttendingParty>משתתף במסיבה</LordReportAttendingParty>
+  <!-- EN: Attending concert -->
+  <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
+  <!-- EN: Holding a concert -->
+  <LordReportHoldingConcert>TODO</LordReportHoldingConcert>
+  <!-- EN: Giving a speech -->
+  <LordReportGivingSpeech>TODO</LordReportGivingSpeech>
+  <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
+  <LordReportListeningSpeech>TODO</LordReportListeningSpeech>
+  <!-- EN: Forming caravan -->
+  <LordReportFormingCaravan>יוצר קרוואן</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
+  <WeaponMissRadius>רדיוס ההחטאה של הנשק</WeaponMissRadius>
+  <!-- EN: Shooter -->
+  <ShootReportShooterAbility>יורה</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
+  <ShootReportWeapon>נשק</ShootReportWeapon>
+  <!-- EN: Darkness -->
+  <Darkness>חשכה</Darkness>
+  <!-- EN: Target lying down -->
+  <TargetProne>המטרה שוכבת על הרצפה</TargetProne>
+  <!-- EN: Target size -->
+  <TargetSize>גודל המטרה</TargetSize>
+  <!-- EN: Weather -->
+  <Weather>מזג האוויר</Weather>
+  <!-- EN: Cover -->
+  <ShootingCover>מכסה</ShootingCover>
+  <!-- EN: {COVER_label} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{0} עוצר {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
+  <NoCoverLower>אין מכסה</NoCoverLower>
+  <!-- EN: Execution -->
+  <Execution>הוצאה להורג</Execution>
+
+  <!-- Generated recipes -->
+  <!-- EN: make {0} -->
+  <RecipeMake>.הכן {0}</RecipeMake>
+  <!-- EN: Make {0}. -->
+  <RecipeMakeDescription>TODO</RecipeMakeDescription>
+  <!-- EN: Making {0}. -->
+  <RecipeMakeJobString>מכין {0}</RecipeMakeJobString>
+  <!-- EN: administer {0} -->
+  <RecipeAdminister>תן/הזרק {0}</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
+  <RecipeAdministerJobString>.נותן {0}</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
+  <TeetotalerUnhappy>מתנזר מסמים לא יהיה שמח</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
+  <ProsthophobeUnhappy>טהרן גוף יהיה לא שמח</ProsthophobeUnhappy>
+
+  <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
+  <ThoughtExpiresIn>מתפוגג בעוד: {0}</ThoughtExpiresIn>
+  <!-- EN: thought disabled by -->
+  <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
+  <!-- EN: Starts expiring in: {0} -->
+  <ThoughtStartsExpiringIn>מתחיל להתפוגג בעוד: {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
+  <ThoughtFinishesExpiringIn>מסיים להתפוגג בעוד:{0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
+  <MentalBreakThresholdExtreme>קצה גבול של התמוטטות עצבית אקסטרימית</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
+  <MentalBreakThresholdMajor>קצה גבול של התמוטטות עצבים רצינית</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
+  <MentalBreakThresholdMinor>קצה גבול של התמוטטות עצבים קטנה</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <!-- EN: {PAWN_gender} {1} -->
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
+  <PawnMainDescFactionedWrap>{0} מתוך {1}</PawnMainDescFactionedWrap>
+  <!-- EN: {0} in {1} -->
+  <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
+  <!-- EN: {0} under {1} -->
+  <PawnMainDescUnderFactionedWrap>TODO</PawnMainDescUnderFactionedWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
+  <PawnMainDescLifestageWrap>{0} {1}</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
+  <Faction>פלוגה</Faction>
+  <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
+  <FactionDesc>TODO</FactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
+  <ExtraFactionDesc>TODO</ExtraFactionDesc>
+  <!-- EN: Equipped -->
+  <Equipped>מצוייד</Equipped>
+  <!-- EN: nothing -->
+  <EquippedNothing>כלום</EquippedNothing>
+  <!-- EN: Dead -->
+  <Dead>מת</Dead>
+  <!-- EN: Unconscious -->
+  <Unconscious>חסר הכרה</Unconscious>
+  <!-- EN: In shock due to pain -->
+  <PainShock>בהלם בגלל הכאב</PainShock>
+  <!-- EN: Pain shock -->
+  <PainShockShort>הלם מכאב</PainShockShort>
+  <!-- EN: Incapacitated -->
+  <Incapacitated>חסר כוחות</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
+  <InRestraints>מרוסן )מואט(</InRestraints>
+  <!-- EN: Carrying -->
+  <Carrying>סוחב</Carrying>
+  <!-- EN: Affected by: -->
+  <AffectedBy>מושפע על ידי:</AffectedBy>
+  <!-- EN: Queued -->
+  <Queued>בתור</Queued>
+  <!-- EN: State -->
+  <State>מצב</State>
+  <!-- EN: stun -->
+  <StunLower>המם</StunLower>
+  <!-- EN: Slowed by damage -->
+  <SlowedByDamage>TODO</SlowedByDamage>
+
+  <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>תלחץ על הדבר הבא באותו הריבוע.n\n\ מקש קיצור הדרך: {0}n\n\ אתה יכול גם לעשות זאת על ידי לחיצה באיטיות על אותו מרובע שוב.</SelectNextInSquareTip>
+  <!-- EN: View information. -->
+  <DefInfoTip>צפה במידע בנוגע לאובייקט זה.</DefInfoTip>
+  <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTipController>TODO</SelectNextInSquareTipController>
+
+  <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
+  <HostilityReponseTip>.שנה איך הבן אדם הזה יתנהג שהוא קרוב לאויבים שהוא לא מורם לקרב</HostilityReponseTip>
+  <!-- EN: Current mode -->
+  <HostilityResponseCurrentMode>מצב נוכחי</HostilityResponseCurrentMode>
+
+  <!-- like 'Blood of John' -->
+  <!-- EN: of -->
+  <OfLower>של</OfLower>
+
+  <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
+  <PowerNotConnected>לא מחובר לחשמל.</PowerNotConnected>
+  <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
+  <PowerConnectedRateStored>מחובר קצב/שמור: {0} וואט / {1} וואט</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
+  <PowerNeeded>חשמל נדרש</PowerNeeded>
+  <!-- EN: Power output -->
+  <PowerOutput>תפוקת חשמל</PowerOutput>
+  <!-- EN: {0} W when active -->
+  <PowerActiveNeeded>TODO</PowerActiveNeeded>
+  <!-- EN: Stored -->
+  <PowerBatteryStored>שמור</PowerBatteryStored>
+  <!-- EN: Efficiency -->
+  <PowerBatteryEfficiency>יעילות</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
+  <SelfDischarging>פורק חשמל עצמאית</SelfDischarging>
+
+  <!-- Temperature control -->
+  <!-- EN: Target temperature -->
+  <TargetTemperature>טמפרטורה שנקבעה</TargetTemperature>
+  <!-- EN: Current power use -->
+  <PowerConsumptionMode>שימוש בחשמל נוכחי</PowerConsumptionMode>
+  <!-- EN: high -->
+  <PowerConsumptionHigh>גבוה</PowerConsumptionHigh>
+  <!-- EN: low -->
+  <PowerConsumptionLow>נמוך</PowerConsumptionLow>
+
+  <!-- Temperature readout -->
+  <!-- EN: Indoors -->
+  <Indoors>בפנים</Indoors>
+  <!-- EN: Unroofed -->
+  <IndoorsUnroofed>ללא גג</IndoorsUnroofed>
+  <!-- EN: outdoors -->
+  <Outdoors>בחוץ</Outdoors>
+
+  <!-- Rotting -->
+  <!-- EN: Fresh -->
+  <RotStateFresh>טרי</RotStateFresh>
+  <!-- EN: Rotting -->
+  <RotStateRotting>מתרקב</RotStateRotting>
+  <!-- EN: Dessicated -->
+  <RotStateDessicated>דלש</RotStateDessicated>
+  <!-- EN: Frozen -->
+  <CurrentlyFrozen>קפוא )לא יתקלקל(</CurrentlyFrozen> 
+  <!-- EN: Refrigerated, spoils in {0} -->
+  <CurrentlyRefrigerated>מקורר )מתקלקל בעוד {0}(</CurrentlyRefrigerated> 
+  <!-- EN: Unrefrigerated, spoils in {0} -->
+  <NotRefrigerated>לא מקורר )מתקלקל בעוד {0}(</NotRefrigerated> 
+  <!-- EN: over a decade -->
+  <OverADecade>מעל לעשור</OverADecade>
+  <!-- EN: less than a day -->
+  <LessThanADay>פחות מימים</LessThanADay>
+
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>נורה על ידי {0}</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>לא יכול לפגוע במטרה.</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>סיכוי להפוך לצייד אדם לכל פגיעה</ManhunterPerHit>
+
+  <!-- Meal -->
+  <!-- EN: Ingredients -->
+  <Ingredients>מרכיבים</Ingredients>
+  <!-- EN: The ingredients used to make this meal. -->
+  <IngredientsDesc>TODO</IngredientsDesc>
+  <!-- EN: Dietary type -->
+  <DietaryType>TODO</DietaryType>
+  <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
+  <DietaryTypeDesc>TODO</DietaryTypeDesc>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
+
+  <!-- Plants -->
+  <!-- EN: {0} grown -->
+  <PercentGrowth>{0} צמח</PercentGrowth>
+  <!-- EN: Growth rate -->
+  <GrowthRate>מהירות צמיחה</GrowthRate>
+  <!-- EN: Fully grown in {0} of growth. -->
+  <FullyGrownIn>. צומח לגמרי בעוד {0} של צמיחה</FullyGrownIn>
+  <!-- EN: Needs light level -->
+  <PlantNeedsLightLevel>צריך רמת אור</PlantNeedsLightLevel>
+  <!-- EN: Resting -->
+  <PlantResting>נח</PlantResting>
+  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
+  <OutOfIdealTemperatureRange>טמפרטורה לא אידיאלית. מכפיל טמפרטורת צמיחה: {0}%</OutOfIdealTemperatureRange>
+  <!-- EN: Non-ideal temperature. Not growing. -->
+  <OutOfIdealTemperatureRangeNotGrowing>טמפרטורה לא אידיאלית. לא צומח</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
+  <ReadyToHarvest>מוכן לקצירה.</ReadyToHarvest>
+  <!-- EN: Mature. -->
+  <Mature>.בשל</Mature>
+  <!-- EN: Average plant age -->
+  <AveragePlantAge>TODO</AveragePlantAge>
+  <!-- EN: Oldest plant age -->
+  <OldestPlantAge>TODO</OldestPlantAge>
+  <!-- EN: Growing period -->
+  <OutdoorGrowingPeriod>תקופת גדילה</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
+  <NoGrowingPeriod>לעולם לא</NoGrowingPeriod>
+  <!-- EN: Year-round -->
+  <GrowYearRound>כל השנה</GrowYearRound>
+  <!-- EN: Growing season here now. -->
+  <GrowSeasonHereNow>.עונת הגדילה החלה</GrowSeasonHereNow>
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
+  <CannotGrowBadSeasonTemperature>.לא יכול לצמוח )טמפרטורה עונתית רעה(</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
+  <Blighted>שבועב עוגנ</Blighted>
+  <!-- EN: Dying because exposed to light -->
+  <DyingBecauseExposedToLight>גוסס בגלל שהוא חשוף לאור</DyingBecauseExposedToLight>
+  <!-- EN: Cut now -->
+  <AutoCutNow>TODO</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>TODO</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>TODO</CutGerund>
+  <!-- EN: Cut all blight -->
+  <CutAllBlight>TODO</CutAllBlight>
+  <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
+  <CutAllBlightDesc>TODO</CutAllBlightDesc>
+
+  <!-- Zones -->
+  <!-- EN: Zone -->
+  <Zone>אזור</Zone>
+  <!-- EN: Growing zone -->
+  <GrowingZone>אזור גידול</GrowingZone>
+  <!-- EN: Stockpile zone -->
+  <Stockpile>אזור מצבור</Stockpile>
+  <!-- EN: Dumping stockpile zone -->
+  <DumpingStockpile>אזור מצבור זבל</DumpingStockpile>
+  <!-- EN: Corpse stockpile zone -->
+  <CorpseStockpile>TODO</CorpseStockpile>
+  <!-- EN: Priority -->
+  <Priority>עדיפות</Priority>
+  <!-- EN: Clear all -->
+  <ClearAll>נקה הכל</ClearAll>
+  <!-- EN: Allow all -->
+  <AllowAll>אפשר הכל</AllowAll>
+  
+  <!-- Storage Groups -->
+  <!-- EN: Group -->
+  <StorageGroup>TODO</StorageGroup>
+  <!-- EN: Name -->
+  <StorageLabel>TODO</StorageLabel>
+  <!-- EN: Storage group -->
+  <StorageGroupLabel>TODO</StorageGroupLabel>
+
+  <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
+  <HitPoints>{0} נקודות חיים</HitPoints>
+  <!-- EN: any quality -->
+  <AnyQuality>כל איכות</AnyQuality>
+  <!-- EN: {0} only -->
+  <OnlyQuality>רק {0}</OnlyQuality>
+
+  <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
+  <Undiscovered>לא התגלה</Undiscovered>
+  
+  <!-- Animal management -->
+  <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSterilizeConfirm>TODO</AnimalSterilizeConfirm>
+  <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalSlaughterConfirm>TODO</AnimalSlaughterConfirm>
+  <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
+  <AnimalReleaseConfirm>TODO</AnimalReleaseConfirm>
+
+  <!-- Buttons -->
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
+  <ShowLearningHelperWhenEmptyToggleButton>ריק שהוא משחק העוזר של השקיפות את ללימודn\n\.בחר שנבחר קונספט יש אם חשוף יהיה תמיד המשחק פעילn\n\.עוזר קונספט אין כאשר להיעלם לעוזר גורם הזה הכפתור</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visiblity of zones. -->
+  <ZoneVisibilityToggleButton>.בחר אם להראות את האזורים</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
+  <ShowBeautyToggleButton>היה נתפש על ידי דמות שעומדת איפה שהעכבר מצביע\n מראה את היופי של העולם כאילו הוא\ n. בחר אם להראות את מצג היופי</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
+  <ShowRoomStatsToggleButton>.מראה את הנתונים של החדר איפה שהעכבר מצביעn\n\.בחר אם להראות את הנתונים הסטטיסטיים של החדר</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>.אתה יכול לסדר מחדש את צג התושבים על ידי החזקת קליק ימני וגרירת האייקונים שלהםn\n\מראה את כל האייקונים והסטטוס הבסיסי של כל התושבים לעורך החלק העליון של המסך.n\n\.בחר אם להראות את צג התושבים</ShowColonistBarToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
+  <ShowColonistBarToggleButtonController>TODO</ShowColonistBarToggleButtonController>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
+  <AutoHomeAreaToggleButton>.בחר אם אוטומטית להרחיב את אזור הבית על מקומות בנייה חדשים</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>בחר אם באופן אוטומטי לבנות מחדש מבנים הרוסים.</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
+  <CategorizedResourceReadoutToggleButton>.בחר אם להפעיל מצב קטגוריזציה על רשימת המשאבים</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
+  <ShowAnimalNamesToggleButton>בחר אם להראות שמות של חיות מאולפות.</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of roofs. -->
+  <ShowRoofOverlayToggleButton>בחר אם להראות את הגגות.</ShowRoofOverlayToggleButton>
+  <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
+  <ShowFertilityOverlayToggleButton>TODO</ShowFertilityOverlayToggleButton>
+  <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
+  <ShowTerrainAffordanceOverlayToggleButton>TODO</ShowTerrainAffordanceOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
+  <LockNorthUpToggleButton>.נעל את סיבוב המצלמה כך שהקוטב הצפוני תמיד יהיה למעלה</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting on the planet view. -->
+  <UsePlanetDayNightSystemToggleButton>.בחר אם להראות את האורות של הבוקר/לילה</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
+  <ShowExpandingIconsToggleButton>.בחר אם להראות אייקונים מתרחבים במקום אייקונים רגילים לאובייקטים מרוחקים</ShowExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
+  <ShowWorldFeaturesToggleButton>.בחר אם להראות שמות של תווי הקרקע</ShowWorldFeaturesToggleButton>
+  <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
+  <ShowTemperatureOverlayToggleButton>TODO</ShowTemperatureOverlayToggleButton>
+
+  <!-- Hotkeys -->
+  <!-- EN: Hotkey -->
+  <HotKeyTip>TODO</HotKeyTip>
+  
+  <!-- Fire -->
+  <!-- EN: fire on {1_label} -->
+  <FireOn>אש על {0}</FireOn>
+  <!-- EN: Burning -->
+  <Burning>עולה באש</Burning>
+  <!-- EN: fire size {0} -->
+  <FireSizeLower>גודל אש {0}</FireSizeLower>
+
+  <!-- Game conditions -->
+  <!-- EN: Special conditions affecting the area right now. -->
+  <GameConditionsTip>תנאים מיוחדים משפיעים על האזור כרגע.</GameConditionsTip>
+  <!-- EN: time left -->
+  <TimeLeft>זמן שנותר</TimeLeft>
+  <!-- EN: impact date -->
+  <ImpactDate>תאריך פגיעה</ImpactDate>
+  <!-- EN: Source unknown. -->
+  <SourceUnknown>TODO</SourceUnknown>
+  <!-- EN: Click to jump to the source. -->
+  <ClickToJumpToSource>TODO</ClickToJumpToSource>
+  <!-- EN: Click to jump to the flashstorm. -->
+  <ClickToJumpToFlashstorm>TODO</ClickToJumpToFlashstorm>
+  <!-- EN: Caused by quest: {0} -->
+  <CausedByQuest>TODO</CausedByQuest>
+
+  <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
+  <NoStuffsToBuildWith>אין לך משאבים בשביל לבנות את זה.</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
+  <WillGetWorkSpeedPenalty>ל{0} יהיה מהירות עבודה מוגבלת</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
+  <MustPlaceUnroofed>.לא יכול להיבנות מתחת לגג</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
+  <!-- EN: Must be placed against a wall. -->
+  <MustPlaceOnWall>TODO</MustPlaceOnWall>
+  <!-- EN: Something is already placed on this wall. -->
+  <SomethingPlacedOnThisWall>TODO</SomethingPlacedOnThisWall>
+  <!-- EN: This building can not support attachments. -->
+  <CannotSupportAttachment>TODO</CannotSupportAttachment>
+  <!-- EN: Must place with head attached to ship structural beam. -->
+  <MustPlaceHeadOnShipBeam>.חייב להיות מונח עם הראש מחובר לקורה של החללית</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
+  <MustPlaceNextToHopperAccepter>.חייב להיות מונח ליד משהו שצריך משפך</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
+  <MustPlaceOnSteamGeyser>.חייב להיות מונח ישירות מעל לגייזר אדים</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
+  <MustPlaceCoolerWithFreeSpaces>/שתי הצדדים של החום והקור של המזגן חייבים להיות חשופים</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
+  <MustPlaceVentWithFreeSpaces>.שתי הצדדים חייבים להיות חשופים בשביל שהאוויר יוכל לזרום דרך</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
+  <MustPlaceAdjacentStandable>.חייב להיות מונח עם רווחים פנויים בכל הצדדים</MustPlaceAdjacentStandable>
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
+  <MustPlaceNearFuelingPort>.חייב להיות מונח ליד מיכלית הדלק של משגר הפודים</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>.חייב להיות מונח על משאב שאפשר לחפור</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>לא יכול להיות מונח ליד מלכודות.</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>TODO</CannotPlaceAdjacentSameDef>
+
+  <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
+  <WindTurbine_WindPathIsBlockedBy>נחסם על ידי</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
+  <WindTurbine_WindPathIsBlockedByRoof>חסום בגלל הגג</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>.זרם מוחלש: זרימה עירבולית מתחנת מים אחרת</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
+  <CasketContains>מכיל</CasketContains>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>זהירות!]feDeman_NWAP[n\n\ הוא התושב האחרון שיכול לבצע פעולות! אם תתן ל]evitcejbo_NWAP[ להכנס לתוך הארון, יש מצב שלא תוכל להמשיך לשחק. האם אתה בטוח שאתה רוצה להמשיך?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
+  <ShipReportCannotLaunch>.לא ניתן לשגר</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
+  <ShipReportCanLaunch>.מוכן לשיגור</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
+  <ShipReportMissingPart>חסר רכיב קריטי</ShipReportMissingPart>
+  <!-- EN: requires -->
+  <ShipReportMissingPartRequires>דורש</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
+  <ShipReportNoFullPods>אין ארוני קריפטושינה מלאים</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
+  <ShipReportHibernating>רכיב היברנציה</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
+  <ShipReportNotReady>רכיב לא מוכן עדיין</ShipReportNotReady>
+  <!-- EN: No settlement to return to. Form a settlement first. -->
+  <ShipNoSettlementToReturnTo>TODO</ShipNoSettlementToReturnTo> 
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>צ'רלון וייטסטון מוכן להתחיל את תהליך שיקום ההיברנציה של הכור, הוא מזהיר אותך שהתהליך יקח 15 ימים, ושהחותם אנרגיה יהיה מזוהה ממרחקים עצומים.n\n\ סוג חותם אנרגיה כזה מעיד על טיסה בין כוכבים וימשוך כנופיות של שודדים נואשים ואנדרואידים קטלנייםn\n\ אתה תתקף בעוצמה שבחיים לא ראית. וודא שההגנות שלך מוכנות קודם.</HibernateWarning>
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>הכור מוכן להדלק, התהליך יקח 15 ימים, והחותם אנרגיה יהיה מזוהה ממרחקים עצומים.n\n\ סוג חותם אנרגיה כזה מעיד על טיסה בין כוכבים וימשוך כנופיות של שודדים נואשים ואנדרואידים קטלנייםn\n\ אתה תתקף בעוצמה שבחיים לא ראית. וודא שההגנות שלך מוכנות קודם.</HibernateWarningStandalone>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>.צ'רלון וייטסטון מוכן להתחיל את תהליך שיקום ההיברנציה של הכור, הוא מזהיר אותך שהתהליך יקח 15 ימים.</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>.הכור מוכן להדלק, התהליך יקח 15 יומים</HibernateWarningStandalonePacifist>
+
+  <!-- Neurotrainer -->
+  <!-- EN: skilltrainer ({0}) -->
+  <SkillNeurotrainerLabel>TODO</SkillNeurotrainerLabel>
+  <!-- EN: Use skilltrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>TODO</SkillNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <SkillNeurotrainerUsed>TODO</SkillNeurotrainerUsed>
+
+  <!-- Minification -->
+  <!-- EN: Installed -->
+  <Installed>מותקן</Installed>
+  <!-- EN: Not installed -->
+  <NotInstalled>לא מותקן</NotInstalled>
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>TODO</MinifiedTreeWillDieIn>
+
+  <!-- Art -->
+  <!-- EN: Title -->
+  <Title>כותרת</Title>
+  <!-- EN: Untitled -->
+  <Untitled>ללא כותרת</Untitled>
+
+  <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
+  <UnfinishedItem>{0} לא גמור</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
+  <UnfinishedItemWithStuff>{1} {0} לא גמור</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <!-- EN: Quality -->
+  <Quality>איכות</Quality>
+  <!-- EN: quality -->
+  <quality>TODO</quality>
+  <!-- EN: An item's quality is how well-made it is. -->
+  <QualityDescription>איכות הדבר זה כמה טוב שהוא מוכן.</QualityDescription>
+  <!-- EN: Quality: {0} -->
+  <QualityIs>{0} :איכות</QualityIs>
+
+  <!-- Mood descriptions -->
+  <!-- EN: mental state -->
+  <Mood_MentalState>מצב מנטלי</Mood_MentalState>
+  <!-- EN: about to break -->
+  <Mood_AboutToBreak>עומד להשבר</Mood_AboutToBreak>
+  <!-- EN: on edge -->
+  <Mood_OnEdge>על הקצה</Mood_OnEdge>
+  <!-- EN: stressed -->
+  <Mood_Stressed>לחוץ</Mood_Stressed>
+  <!-- EN: neutral -->
+  <Mood_Neutral>ניטרלי</Mood_Neutral>
+  <!-- EN: content -->
+  <Mood_Content>מסופק</Mood_Content>
+  <!-- EN: happy -->
+  <Mood_Happy>שמח</Mood_Happy>
+
+  <!-- Game over -->
+  <!-- EN: Game Over -->
+  <GameOver>TODO</GameOver>
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
+  <GameOverEveryoneDead>כולם מתים או הלכו, הסיפור נגמר.n\n\ אולי מישהו אחר ימצא שימוש להריסות של המקום הזה.</GameOverEveryoneDead>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
+  <GameOverPlanetkillerImpact>במהירות קרובה למהירות האור, הנשק מחסל הכוכבים התנגש לתוך האדמה עם כוח של טריליון פצצות מימן. כמו בלון מים שנורה עם רובה, העולם נהפך לנוזלי מעוצמת הפגיעה והמעיים המותך רוסס לאורך הקוסמוס.n\n\ חלק מ{0} הוא עכשיו רצועת אסטרואידים קטנה. השאר הוא נוזל מותך ורדיואקטיבי.n\n\ אתה לא שרדת.</GameOverPlanetkillerImpact>
+  <!-- EN: You've launched the ship! -->
+  <GameOverShipLaunchedIntro>TODO</GameOverShipLaunchedIntro>
+  <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunchedEnding>TODO</GameOverShipLaunchedEnding>
+  <!-- EN: These colonists escaped:\n\n{0} -->
+  <GameOverColonistsEscaped>TODO</GameOverColonistsEscaped>
+  <!-- EN: These colonists were left behind:\n\n{0} -->
+  <GameOverColonistsLeft>TODO</GameOverColonistsLeft>
+  <!-- EN: In memory of:\n -->
+  <GameOverInMemoryOf>TODO</GameOverInMemoryOf>
+  <!-- EN: Keep watching -->
+  <GameOverKeepWatching>TODO</GameOverKeepWatching>
+  <!-- EN: Keep watching for now -->
+  <GameOverKeepWatchingForNow>TODO</GameOverKeepWatchingForNow>
+  <!-- EN: Create new wanderers -->
+  <GameOverCreateNewWanderers>TODO</GameOverCreateNewWanderers>
+  <!-- EN: Create new wanderers (must wait {0}h) -->
+  <GameOverCreateNewWanderersWait>TODO</GameOverCreateNewWanderersWait>
+  <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
+  <GameOverCreateNewWanderersText>TODO</GameOverCreateNewWanderersText>
+  <!-- EN: Main menu -->
+  <GameOverMainMenu>תפריט ראשי</GameOverMainMenu>
+  <!-- EN: No colony -->
+  <NoColony>TODO</NoColony>
+
+  <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
+  <LifespanExpiry>מתפוגג בעוד:</LifespanExpiry>
+
+  <!-- Facilities -->
+  <!-- EN: inactive -->
+  <InactiveFacility>לא פעיל</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
+  <!-- EN: Max connected per building -->
+  <FacilityMaxSimultaneousConnections>TODO</FacilityMaxSimultaneousConnections>
+  <!-- EN: Front of building is blocked. -->
+  <FacilityFrontBlocked>TODO</FacilityFrontBlocked>
+
+  <!-- Hediffs growth modes -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>.ה{0} של {1} עכשיו צומח</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>.ה{0} של {1} עכשיו יציב</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>.ה{0} של {1} עכשיו בנסיגה</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
+  <MarriageSpotUsable>.שמיש עכשיו</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
+  <MarriageSpotNotUsable>לא שמיש: {0}</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
+  <MarriageSpotNotStandable>חסום</MarriageSpotNotStandable>
+  <!-- EN: too dangerous for {1_labelShort} -->
+  <MarriageSpotDangerous>יותר מדי מסוכן בשביל {0}</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
+  <MarriageSpotForbidden>אסור עבור {0}</MarriageSpotForbidden>
+  <!-- EN: reserved -->
+  <MarriageSpotReserved>שמור</MarriageSpotReserved>
+  <!-- EN: unreachable for {1_labelShort} -->
+  <MarriageSpotUnreachable>}לא ניתן להשגה עבור {0}</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
+  <MarriageSpotInPrisonCell>בתא מאסר</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
+  <NotEnjoyableOutsideTemperature>טמפרטורה לא נוחה</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
+  <ActivityIconMedicalRest>מנוחה רפואית</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
+  <ActivityIconSleeping>יושן</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
+  <ActivityIconFleeing>בורח</ActivityIconFleeing>
+  <!-- EN: Fighting -->
+  <ActivityIconAttacking>נלחם</ActivityIconAttacking>
+  <!-- EN: Idle -->
+  <ActivityIconIdle>לא עושה כלום</ActivityIconIdle>
+  <!-- EN: Burning -->
+  <ActivityIconBurning>בוער</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
+  <ActivityIconFormingCaravan>יוצר קרוואן</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
+  <DueForMaintenance>.בגלל תחזוקה</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
+  <DeterioratingDueToLackOfMaintenance>.מתקלה בגלל חוסר תחזוקה</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
+  <ProgressToNextLump>התקדם לגוש הבא</ProgressToNextLump>
+  <!-- EN: Resource below -->
+  <ResourceBelow>משאב מתחת</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>התקדמות לחלק הבא</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
+  <DeepDrillNoResources>.אין משאבים מתחת</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>מקדחת משאבים עמוקה מותשת, המקדחה נאסרה אוטומטית. בטל את האסירה כדי להמשיך בחפירה של {0}</DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>.מקדחת משאבים עמוקה מותשת</DeepDrillExhaustedNoFallback>
+
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>TODO</ChargesRemaining>
+  
+  <!-- Learning helper -->
+  <!-- EN: Learning helper -->
+  <LearningHelper>עוזר משחק</LearningHelper>
+  <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
+  <LearningHelperTooltip>TODO</LearningHelperTooltip>
+  <!-- EN: Mark as learned -->
+  <MarkLearned>סמן כנלמד</MarkLearned>
+  <!-- EN: Already learned -->
+  <AlreadyLearned>כבר נלמד</AlreadyLearned>
+  <!-- EN: Filter -->
+  <Filter>סינון</Filter>
+
+  <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
+  <CompassTip>.מראה את הכיוון של הצפון. לחץ כדי לסובב את המצלמה ככה שהקוטב הצפוני למעלה</CompassTip>
+
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
+  <RoutePlannerButtonTip>לחץ כדי להכנס למצב תכנון שבו תוכל לתכנן את המסע שלך ולחשב את המרחק בין נקודות הציון.</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
+  <RoutePlannerAddTwoOrMoreWaypoints>.הוסף 2 או יותר נקודות ציון</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
+  <RoutePlannerAddOneOrMoreWaypoints>.הוסף 1 או יותר נקודות ציון</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
+  <RoutePlannerEstTimeToFinalDest>זמן מסע מוערך: {0}</RoutePlannerEstTimeToFinalDest>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
+  <RoutePlannerUsingAverageTicksPerMoveWarning>מצב תכנון משתמש במהירות ברירת מחדל של הקרוואן. המהירות שלך עלולה להיות שונה.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
+  <RoutePlannerUsingTicksPerMoveOfCaravan>מחשב עבור: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>.קליק ימני בעכבר: הוסף/הסר נקודות ציון</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: Left trigger button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>TODO</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <!-- EN: ESC: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExit>ESC: יציאה ממצב התכנון.</RoutePlannerPressEscapeToExit>
+  <!-- EN: {Key:Cancel}: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExitController>TODO</RoutePlannerPressEscapeToExitController>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: חזור לדיאלוג תכנון הקרוואן.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>זמן מסע מוערך: {0}</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>זמן מסע מוערך )מנקודת ציון קודמת(: {0}</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToTile>זמן מסע מוערך: {0}</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
+  <ForagedFoodAmount>כמות מזון שנלקט</ForagedFoodAmount>
+
+  <!-- Outfits -->
+  <!-- EN: Anything -->
+  <OutfitAnything>הכל</OutfitAnything>
+  <!-- EN: Worker -->
+  <OutfitWorker>עובד</OutfitWorker>
+  <!-- EN: Soldier -->
+  <OutfitSoldier>חייל</OutfitSoldier>
+  <!-- EN: Nudist -->
+  <OutfitNudist>נודיסט</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
+  <HibernatableHibernating>בהיברנציה</HibernatableHibernating>
+  <!-- EN: Starting up -->
+  <HibernatableStartingUp>נדלק</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>{0}: תראה פקודות זמינות...</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>תראה פקודות זמינות...</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <!-- EN: {0} ({1})\n{2}\n{3} -->
+  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
+  <!-- EN: {0} ({1})\n{2} -->
+  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
+  <!-- EN: {0}\n{1}\n{2} -->
+  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
+  <!-- EN: {0}\n{1} -->
+  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Psyfocus: {0} -->
+  <PawnTooltipPsyfocus>TODO</PawnTooltipPsyfocus>
+  
+  <!-- Pawn tooltip description -->
+  <!-- EN: {0} {1} -->
+  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
+  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):
+\n{0} -->
+  <Reward_Items>TODO</Reward_Items>
+  <!-- EN: you will receive (total value {1}):
+\n{0} -->
+  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
+  <!-- EN: your faction relations with {0_name} will improve by {1} -->
+  <Reward_Goodwill>TODO</Reward_Goodwill>
+  <!-- EN: you will be taken to the stars -->
+  <Reward_PassageOffworld>TODO</Reward_PassageOffworld>
+  <!-- EN: Passage offworld -->
+  <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>TODO</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
+  <!-- EN: It is unclear what will happen if you accept this quest -->
+  <Reward_Unknown>TODO</Reward_Unknown> 
+  <!-- EN: Unknown -->
+  <Reward_Unknown_Label>TODO</Reward_Unknown_Label> 
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>TODO</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>TODO</Reward_Title>
+  <!-- EN: value {0} -->
+  <TotalValue>TODO</TotalValue>
+  
+  <!-- Bladelink -->
+  <!-- EN: Bonded to: {0} -->
+  <BondedWith>TODO</BondedWith>
+  <!-- EN: Not yet bonded -->
+  <NotBonded>TODO</NotBonded>
+  <!-- EN: bonded to someone else -->
+  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
+
+  <!-- Biocoded weapons -->
+  <!-- EN: biocoded {0} -->
+  <Biocoded>TODO</Biocoded>
+  <!-- EN: Biocoding: {0} -->
+  <CodedFor>TODO</CodedFor>
+  <!-- EN: biocoded -->
+  <BiocodedCodedForSomeoneElse>TODO</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <!-- EN: Intercepts {0} every {1} -->
+  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
+  <!-- EN: Intercepts {0} -->
+  <InterceptsProjectiles>TODO</InterceptsProjectiles>
+  <!-- EN: ground projectiles -->
+  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
+  <!-- EN: aerial projectiles -->
+  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <!-- EN: Affected gender -->
+  <AffectedGender>TODO</AffectedGender>
+
+  <!-- Hediff misc -->
+  <!-- EN: Caused by: {0} -->
+  <CausedByHediff>TODO</CausedByHediff>
+  
+  <!-- EN: {DAMAGE_label} weakness -->
+  <DamageFactorWeakness>TODO</DamageFactorWeakness>
+  <!-- EN: {DAMAGE_label} resistance -->
+  <DamageFactorResistance>TODO</DamageFactorResistance>
+  <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
+  <DamageFactor>TODO</DamageFactor>
+  
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was healed. -->
+  <HealingHealHediff>TODO</HealingHealHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>TODO</HealingRestoreBodyPart>
+
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>TODO</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>TODO</ChooseLandingSite>
+
+  <!-- LordJobs -->
+  <!-- EN: Outcome chances at {0} quality -->
+  <LordJobOutcomeChances>TODO</LordJobOutcomeChances>
+  <!-- EN: Expected duration -->
+  <ExpectedLordJobDuration>TODO</ExpectedLordJobDuration>
+
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>TODO</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
+  <!-- EN: Attending {0} -->
+  <LordReportAttending>TODO</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>TODO</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>TODO</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>TODO</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>TODO</RitualEndsIn>
+  <!-- EN: Can start any time -->
+  <RitualStartAnyTime>TODO</RitualStartAnyTime>
+  <!-- EN: Can start after event -->
+  <RitualStartEvent>TODO</RitualStartEvent>
+  <!-- EN: Focus objects -->
+  <RitualFocusObjects>TODO</RitualFocusObjects>
+  <!-- EN: Participating roles -->
+  <RitualParticipatingRoles>TODO</RitualParticipatingRoles>
+  <!-- EN: Organizers -->
+  <Organizers>TODO</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>TODO</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>TODO</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>TODO</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>TODO</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>TODO</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>TODO</DragPawnsToRolesInfo>
+  <!-- EN: Drag and drop or click to move people. -->
+  <DragPawnsToRolesInfoController>TODO</DragPawnsToRolesInfoController>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>TODO</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
+  <RitualBeginSleepingWarning>TODO</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>TODO</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>TODO</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>TODO</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>TODO</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>TODO</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>TODO</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>TODO</AbilityDisabledNoCapacity>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
+  <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
+  <RitualOutcomeNoQuality>TODO</RitualOutcomeNoQuality>
+
+  <!-- EN: Begin -->
+  <Begin>TODO</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>TODO</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>TODO</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>TODO</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>TODO</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>TODO</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>TODO</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedLordJobQuality>TODO</ExpectedLordJobQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>TODO</StartingQuality>
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: Participants -->
+  <RitualPredictedOutcomeDescParticipantCount>TODO</RitualPredictedOutcomeDescParticipantCount>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+  <!-- EN: Loved one present -->
+  <RitualOutcomeLovedOnePresentLabel>TODO</RitualOutcomeLovedOnePresentLabel>
+  <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
+  <RitualOutcomeLovedOnePresentTip>TODO</RitualOutcomeLovedOnePresentTip>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>TODO</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>TODO</Present>
+  <!-- EN: {0} used -->
+  <Used>TODO</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>TODO</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>TODO</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>TODO</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>TODO</MaxValue>
+
+  <!-- EN: {0} of -->
+  <ThingOf>TODO</ThingOf>
+  <!-- EN: {0} of {1} -->
+  <ThingOfSource>TODO</ThingOfSource>
+  <!-- EN: {0} of {1} and {2} -->
+  <ThingOfTwoSources>TODO</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <!-- EN: blind smoke -->
+  <BlindSmoke>TODO</BlindSmoke>
+  <!-- EN: tox gas -->
+  <ToxGas>TODO</ToxGas>
+  <!-- EN: rot stink -->
+  <RotStink>TODO</RotStink>
+  <!-- EN: deadlife dust -->
+  <DeadlifeDust>TODO</DeadlifeDust> 
+
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>TODO</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>TODO</AbilityOnCooldown>
+  <!-- EN: ability out of charges. -->
+  <AbilityNoCharges>TODO</AbilityNoCharges>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>TODO</AbilityAlreadyQueued>
+  <!-- EN: Ability ready for {PAWN_nameDef}: {0} -->
+  <AbilityReadyLabel>TODO</AbilityReadyLabel>
+  <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
+  <AbilitiesReadyLabel>TODO</AbilitiesReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>TODO</AbilityReadyText>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <AbilityDisabledInRitual>TODO</AbilityDisabledInRitual>
+  <!-- EN: Charges -->
+  <Charges>TODO</Charges>
+
+  <!-- EN: {0_nameDef} is in a mental state. -->
+  <PawnIsInMentalState>TODO</PawnIsInMentalState>
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInAggroMentalState>TODO</PawnIsInAggroMentalState>
+
+  <!-- EN: Disabled work -->
+  <DisabledWorkLabel>TODO</DisabledWorkLabel>
+  <!-- EN: Disabled needs -->
+  <DisabledNeedsLabel>TODO</DisabledNeedsLabel>
+
+  <!-- Glowers -->
+  <!-- EN: change color -->
+  <GlowerChangeColor>TODO</GlowerChangeColor>
+  <!-- EN: Change the color of the light. -->
+  <GlowerChangeColorDescription>TODO</GlowerChangeColorDescription>
+  <!-- EN: You must research {0} to change light color. -->
+  <GlowerChangeColorNeedsResearch>TODO</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
+  <ShieldPersonalTip>TODO</ShieldPersonalTip>
+
+  <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
+  <UnrecruitableDesc>TODO</UnrecruitableDesc>
+
+  <!-- EN: Random -->
+  <Random>TODO</Random>
+
+  <!-- EN: Plant {0_label} -->
+  <PlantThing>TODO</PlantThing>
+  <!-- EN: Plant a {0_label} in a chosen area. -->
+  <PlantThingDesc>TODO</PlantThingDesc>
+  <!-- EN: Cancel planting {0_label} -->
+  <CancelPlantThing>TODO</CancelPlantThing>
+  <!-- EN: Cancel planting the {0_label}. -->
+  <CancelPlantThingDesc>TODO</CancelPlantThingDesc>
+
+  <!-- EN: another gathering is in progress. -->
+  <AbilitySpeechDisabledAnotherGatheringInProgress>TODO</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <!-- EN: Next speech ready in -->
+  <AbilitySpeechCooldown>TODO</AbilitySpeechCooldown>
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>TODO</AbilitySpeechTargetsLabel>
+  
+  <!-- Books -->
+
+  <!-- EN: Benefits -->
+  <Benefits>TODO</Benefits>
+  <!-- EN: Dangers -->
+  <Dangers>TODO</Dangers>
+  <!-- EN: already unlocked -->
+  <AlreadyUnlocked>TODO</AlreadyUnlocked>
+  <!-- EN: when discovered -->
+  <WhenDiscovered>TODO</WhenDiscovered>
+  
+  <!-- EN: Was driven into a mental break after reading {0}. -->
+  <BookMentalBreakMessage>TODO</BookMentalBreakMessage>
+  <!-- EN: {0} done (complete in {1} hours) -->
+  <BookReadProgress>TODO</BookReadProgress>
+  
+  <!-- EN: learning speed -->
+  <BookLearningModifier>TODO</BookLearningModifier>
+  <!-- EN: Mental break chance -->
+  <BookMentalBreak>TODO</BookMentalBreak>
+  
+  <!-- EN: {BOOK_labelShort} is not readable -->
+  <BookNotReadable>TODO</BookNotReadable>
+  <!-- EN: {PAWN_nameDef} can't read -->
+  <BookCantRead>TODO</BookCantRead>
+  <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
+  <BookCantBeStage>TODO</BookCantBeStage>
+  <!-- EN: {PAWN_nameDef} is blind -->
+  <BookBlind>TODO</BookBlind>
+  
+  <!-- EN: max level {0} -->
+  <BookMaxLevel>TODO</BookMaxLevel>
+  
+  <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
+  <ReadingReportHeader>TODO</ReadingReportHeader>
+  
+  <!-- EN: Assign reading -->
+  <ReadingDialogTitle>TODO</ReadingDialogTitle>
+  <!-- EN: Assign to {0} -->
+  <ReadingAssignTo>TODO</ReadingAssignTo>
+  <!-- EN: Assign -->
+  <ReadingAssign>TODO</ReadingAssign>
+
+  <!-- EN: The books currently on this bookshelf. -->
+  <ContainedBooksDesc>TODO</ContainedBooksDesc>
+  
+  <!-- EN: Books stored -->
+  <BookshelfStoredInspect>TODO</BookshelfStoredInspect>
+  <!-- EN: Reading bonus in room -->
+  <BookshelfReadingBonusInspect>TODO</BookshelfReadingBonusInspect>
+
+  <!-- EN: Remove this book from the bookshelf. -->
+  <EjectBookTooltip>TODO</EjectBookTooltip>
+  
+  <!-- Pushing -->
+  <!-- EN: Push to... -->
+  <CommandPushTo>TODO</CommandPushTo>
+  <!-- EN: requires {0} -->
+  <RequiredCapacity>TODO</RequiredCapacity>
+  
+  <!-- EN: Unable to enter {0}, destination is blocked -->
+  <UnableToEnterPortal>TODO</UnableToEnterPortal>
+
+  <!-- EN: This category of research has not been discovered. -->
+  <ResearchNotDiscovered>TODO</ResearchNotDiscovered>
+
+  <!-- EN: Emergence -->
+  <Emergence>TODO</Emergence>
+  
+  <!-- EN: remove {0} -->
+  <RemovePart>TODO</RemovePart>
+
+  <!-- EN: {GERUND} {TARGETLABEL} at -->
+  <DoWorkAtThing>TODO</DoWorkAtThing>
+  <!-- EN: can be studied in {0} -->
+  <CanBeStudiedInDuration>TODO</CanBeStudiedInDuration>
+  
+  <!-- EN: About to explode -->
+  <AboutToExplode>TODO</AboutToExplode>
+  
+  <!-- EN: New Anomaly expansion available now! -->
+  <MainScreen_AnomalyAvailableNow>TODO</MainScreen_AnomalyAvailableNow>
+
+  <!-- EN: Disabled by scenario -->
+  <DisabledByScenario>TODO</DisabledByScenario>
+
+  <!-- EN: blocked by roof -->
+  <BlockedByRoof>TODO</BlockedByRoof>
+  
+</LanguageData>

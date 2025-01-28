@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
+  <FactionGreetingHostile>זורק כמה מילות גנאי אל תוך המיקרופון ומנתק {0}</FactionGreetingHostile>
+  <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
+  <FactionGreetingHostileAppreciative>{0} דורש מחווה לשיפור המוניטין, כגון הבאת מתנות לאחד מהמושבות הללו: {0_possessive}, או שחרור האסירים הבאים שלהם ללא פגע: {0_possessive}. עד אז, {0_pronoun} לא מעוניינים לדבר.\n\n{0_pronoun} מתנתק תוך כדי מלמול קללה.</FactionGreetingHostileAppreciative>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
+  <FactionGreetingWary>{0} מברך את {NEGOTIATOR_labelShort} בזהירות ושואל על מה תדונו.</FactionGreetingWary>
+  <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
+  <FactionGreetingWarm>{0} מברך את {NEGOTIATOR_labelShort} בחום ושואל מה {LEADER_pronoun} יכול לעשות כדי לעזור לך.</FactionGreetingWarm>
+
+  <!-- EN: won't do {0} -->
+  <WorkTypeDisablesOption>TODO</WorkTypeDisablesOption>
+  <!-- EN: Disconnect -->
+  <Disconnect>מנתק</Disconnect>
+
+  <!-- Gift offer -->
+  <!-- EN: Offer gift -->
+  <OfferGift>הצע מתנה</OfferGift>
+  <!-- EN: must be ally -->
+  <MustBeAlly>חייב להיות בין ברית</MustBeAlly>
+  <!-- EN: need {0} goodwill -->
+  <NeedGoodwill>צריך {0} מוניטין</NeedGoodwill>
+  <!-- EN: need {0} silver near trade beacons -->
+  <NeedSilverLaunchable>צריך {0} כסף ליד משואות המסחר</NeedSilverLaunchable>
+  <!-- EN: not enough silver -->
+  <NotEnoughSilver>אין מספיק כסף</NotEnoughSilver>
+  <!-- EN: {0} silver for {1} goodwill -->
+  <SilverForGoodwill>{0} כסף עבור {1} מוניטין</SilverForGoodwill>
+  <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
+  <SilverGiftSent>{0} מודה לך.\n\n(מוניטין השתפר ב- {1})</SilverGiftSent>
+
+  <!-- Trade caravan request -->
+  <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
+  <RequestTrader>בקש קרוואן מסחר (עלות: {0} מוניטין)</RequestTrader>
+  <!-- EN: {0} asks what kind of trade caravan you want. -->
+  <ChooseTraderKind>{0} שואל איזה סוג של קרוואן מסחר תרצה.</ChooseTraderKind>
+  <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
+  <TraderSent>{0} מסכים לשלוח אלך קרוואן מסחר. הוא יגיע אליך תוך מספר ימים.</TraderSent>
+  <!-- EN: wait {0} -->
+  <WaitTime>המתן {0}</WaitTime>
+  
+  <!-- AI core request -->
+  <!-- EN: Request the location of a {0} (cost: {1} silver) -->
+  <RequestAICoreInformation>בקש לדעת מיקום של {0} (עלות: {1} כסף)</RequestAICoreInformation>
+  <!-- EN: {0} sends the requested information and wishes you good luck. -->
+  <RequestAICoreInformationResult>{0} שולח את המידע שהתבקש ומאחל לך הצלחה.</RequestAICoreInformationResult>
+  <!-- EN: no more locations known -->
+  <NoKnownAICore>לא ידועים עוד מיקומים</NoKnownAICore>  
+  
+  <!-- Military aid request -->
+  <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
+  <RequestMilitaryAid>בקשת עזרה צבאית מיידית (עלות: {0} מוניטין)</RequestMilitaryAid>
+  <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
+  <MilitaryAidConfirmMutualEnemy>{0} לא יעזרו לך להלחם בקבוצות שהן לא אויביות להם. זה כולל אלו שמאיימים עלך, {1}. עדיין לשלוח את הבקשה לעזרה?</MilitaryAidConfirmMutualEnemy>
+  <!-- EN: Yes, call them anyway. -->
+  <CallConfirm>כן, צור איתם קשר בכל זאת.</CallConfirm>
+  <!-- EN: No, never mind. -->
+  <CallCancel>עזוב, לא משנה.</CallCancel>
+  <!-- EN: {0} agrees to send fighters to help you. -->
+  <MilitaryAidSent>{0} מסכימים לשלוח לוחמים לעזרתך.</MilitaryAidSent>
+  <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
+  <CantSendMilitaryAidInTime>{0} מצטערים ואומרים שלא יצליחו להגיע בזמן.\n\n(רמת הטכנולוגיה של הקבוצה הזאת נמוכה מדי בשביל תרמילי תחבורה)</CantSendMilitaryAidInTime>
+  <!-- EN: hostile visitors present -->
+  <HostileVisitorsPresent>מבקרים עוינים נמצאים</HostileVisitorsPresent>
+
+</LanguageData>
